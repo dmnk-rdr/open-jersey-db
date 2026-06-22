@@ -4,6 +4,20 @@
     "fc heidenheim",
     "heidenheim"
   ],
+  "1. FC Köln": [
+    "1. fc cologne",
+    "1. fußball-club köln 01/07",
+    "1. fußball-club köln 01/07 e. v.",
+    "effzeh",
+    "f.c. koln",
+    "f.c. köln",
+    "fc koln",
+    "fc köln",
+    "fckoln",
+    "köln",
+    "kölner bc 01",
+    "spvgg sülz"
+  ],
   "1. FC Union Berlin": [
     "1 fc union berlin",
     "fc union berlin",
@@ -15,16 +29,159 @@
     "mainz",
     "mainz 05"
   ],
+  "AC Florenz": [
+    "a.c. fiorentina",
+    "a.c.f.",
+    "a.c.f.fiorentina",
+    "ac fiorentina",
+    "acf",
+    "acf fiorentina",
+    "associazione calcio fiorentina",
+    "fiorentina",
+    "florentia viola",
+    "florenz"
+  ],
+  "AC Milan": [
+    "a.c.m.",
+    "a.c.milan",
+    "ac mailand",
+    "acm",
+    "acmilan",
+    "association football milan",
+    "associazione calcio milan",
+    "milan"
+  ],
+  "AC Monza": [
+    "a.c. monza",
+    "a.c. monza brianza",
+    "a.c. monza brianza 1912",
+    "a.c.m.",
+    "ac monza brianza 1912",
+    "acm",
+    "acmonza",
+    "associazione calcio monza",
+    "associazione calcio monza brianza 1912",
+    "biancorossi",
+    "calcio monza",
+    "monza",
+    "monza calcio",
+    "s.s. monza",
+    "s.s. monza 1912 srl",
+    "società sportiva monza 1912",
+    "società sportiva monza 1912 srl"
+  ],
+  "AFC Bournemouth": [
+    "a.f.c. bournemouth",
+    "afcb",
+    "boscombe",
+    "boscombe f.c.",
+    "boscombe fc",
+    "boscombe football club",
+    "bournemouth",
+    "bournemouth and boscombe athletic",
+    "bournemouth and boscombe athletic f.c.",
+    "bournemouth and boscombe athletic fc",
+    "bournemouth and boscombe athletic football club",
+    "the cherries"
+  ],
+  "AJ Auxerre": [
+    "aja",
+    "association de la jeunesse auxerroise",
+    "auxerre",
+    "les icaunais"
+  ],
+  "AS Monaco": [
+    "a.s. monaco",
+    "a.s. monaco f.c.",
+    "a.s.m.f.c.",
+    "as monaco f.c.",
+    "as monaco football club",
+    "asmfc",
+    "asmonaco",
+    "association sportive de monaco football club",
+    "monaco"
+  ],
+  "AS Rom": [
+    "a.s.r",
+    "a.s.r 1927",
+    "a.s.roma",
+    "a.s.rome",
+    "as roma",
+    "asr",
+    "asr 1927",
+    "asroma",
+    "associazione sportiva roma",
+    "la roma",
+    "rome sport association",
+    "the wolfs"
+  ],
   "Argentinien": [
     "albiceleste",
     "argentina",
     "argentinien"
+  ],
+  "Aston Villa": [
+    "aston",
+    "aston villa fc",
+    "aston villa football club",
+    "avfc",
+    "the villa",
+    "the villans",
+    "villa"
+  ],
+  "Atalanta Bergamo": [
+    "atalanta",
+    "atalanta b.c.",
+    "atalanta bergamasca calcio",
+    "atalantab.c.",
+    "atalantabc",
+    "bergamo"
+  ],
+  "Athletic Bilbao": [
+    "athletic",
+    "athletic club",
+    "athletic club de bilbao",
+    "bilbao",
+    "vizcaya de bilbao"
+  ],
+  "Atlético Madrid": [
+    "atl. de madrid",
+    "atleti de madrid",
+    "atletico",
+    "atletico de madrid",
+    "atletico madrid",
+    "atletico of madrid",
+    "atlético",
+    "atlético de madrid",
+    "atléticodemadrid",
+    "atm",
+    "atm football club",
+    "club atletico de madrid s.a.d.",
+    "club atlético de madrid",
+    "club atlético de madrid s.a.d.",
+    "club atlético de madrid, sad",
+    "el atleti",
+    "madrid",
+    "the atletico"
   ],
   "Bayer 04 Leverkusen": [
     "bayer 04",
     "bayer 04 leverkusen",
     "bayer leverkusen",
     "leverkusen"
+  ],
+  "Betis Sevilla": [
+    "balompédicos",
+    "beticos, verdiblancos",
+    "betis",
+    "real betis",
+    "real betis balompie",
+    "real betis balompié",
+    "real betis balompié s.a.d.",
+    "real betis football",
+    "real betis sevilla",
+    "real betis soccer",
+    "sevilla"
   ],
   "Borussia Dortmund": [
     "borussia dortmund 09",
@@ -45,6 +202,63 @@
     "brazil",
     "selecao"
   ],
+  "Brighton & Hove Albion": [
+    "albion",
+    "bha",
+    "bhafc",
+    "brighton",
+    "brighton & hove",
+    "brighton & hove albion fc",
+    "brighton & hove albion football club",
+    "brighton and hove",
+    "brighton and hove albion",
+    "brighton and hove albion f.c.",
+    "brighton and hove albion fc",
+    "brighton and hove albion football club",
+    "brighton f.c.",
+    "brighton fc",
+    "hove",
+    "the seagulls"
+  ],
+  "CA Osasuna": [
+    "ca osasuna pamplona",
+    "club atlético osasuna",
+    "osasuna",
+    "osasuna pamplona"
+  ],
+  "Celta Vigo": [
+    "celta",
+    "celta de vigo",
+    "fortuna de vigo",
+    "r.c. celta de vigo",
+    "rc celta",
+    "rc celta de vigo",
+    "rccv",
+    "real club celta",
+    "real club celta de vigo",
+    "real club celta s.a.d.",
+    "real club fortuna de vigo",
+    "vigo"
+  ],
+  "Crystal Palace": [
+    "cpfc",
+    "crystal",
+    "crystal palace f.c.",
+    "crystal palace fc",
+    "crystal palace football club",
+    "palace",
+    "the eagles",
+    "the glaziers"
+  ],
+  "Deportivo Alavés": [
+    "alaves",
+    "alaves football",
+    "alaves soccer",
+    "alavés",
+    "deportivo",
+    "deportivo alaves",
+    "deportivo alaves soccer"
+  ],
   "Deutschland": [
     "deutschland",
     "dfb",
@@ -61,6 +275,30 @@
     "england",
     "three lions"
   ],
+  "Espanyol Barcelona": [
+    "barcelona",
+    "espanyol",
+    "espanyol of barcelona",
+    "r.c.d. espanyol",
+    "r.c.d. espanyol de barcelona",
+    "r.c.d. espanyol of barcelona",
+    "rcd espanyol",
+    "rcd espanyol de barcelona",
+    "rcd espanyol of barcelona",
+    "rcde",
+    "reial club deportiu espanyol de barcelona"
+  ],
+  "FC Arsenal": [
+    "a.f.c.",
+    "afc",
+    "arsenal",
+    "arsenal football club",
+    "arsenal london",
+    "the ars",
+    "the arsenal",
+    "the arsenal f.c.",
+    "the arsenal fc"
+  ],
   "FC Augsburg": [
     "augsburg",
     "fc augsburg"
@@ -73,19 +311,254 @@
     "fc bayern munchen",
     "fcb"
   ],
+  "FC Bologna": [
+    "bfc1909",
+    "bologna",
+    "bologna f.c. 1909",
+    "bologna fc 1909",
+    "bologna football club",
+    "bologna football club 1909",
+    "bolognafc1909"
+  ],
+  "FC Brentford": [
+    "bfc",
+    "brentford",
+    "brentford fc",
+    "brentford football club",
+    "the bees"
+  ],
+  "FC Chelsea": [
+    "cfc",
+    "chelsea",
+    "chelsea f.c.",
+    "chelsea fc",
+    "chelsea football club",
+    "chelsea london",
+    "the blues",
+    "the pensioners"
+  ],
+  "FC Elche": [
+    "elche",
+    "elche club de futbol",
+    "elche club de fútbol, s.a.d."
+  ],
+  "FC Empoli": [
+    "e.f.c.",
+    "efc",
+    "empoli",
+    "empoli f.c.",
+    "empoli football club",
+    "empolifc"
+  ],
+  "FC Everton": [
+    "efc",
+    "everton",
+    "everton fc",
+    "everton football club",
+    "the blues",
+    "the toffees"
+  ],
+  "FC Fulham": [
+    "ffc",
+    "fulham",
+    "fulham fc",
+    "fulham football club",
+    "the cottagers"
+  ],
+  "FC Getafe": [
+    "getafe",
+    "getafe c.f.",
+    "getafe club de futbol",
+    "getafe club de fútbol",
+    "getafe club de fútbol team",
+    "getafe club of football",
+    "getafe football club"
+  ],
+  "FC Girona": [
+    "girona",
+    "girona fc club",
+    "girona futbol club",
+    "girona futbol club, s.a.d.",
+    "girona soccer team"
+  ],
+  "FC Liverpool": [
+    "f.c. liverpool",
+    "l.f.c.",
+    "liverpool",
+    "liverpoolf.c.",
+    "liverpoolfc",
+    "the reds"
+  ],
+  "FC Lorient": [
+    "fc lorient bretagne-sud",
+    "football club lorient-bretagne sud",
+    "lorient"
+  ],
+  "FC Metz": [
+    "f.c. metz",
+    "fcm",
+    "fcmetz",
+    "football club de metz",
+    "football club of metz",
+    "fv metz",
+    "metz",
+    "metz football club"
+  ],
+  "FC Nantes": [
+    "f.c.nantes",
+    "fc nantes atlantique",
+    "fcnantes",
+    "football club of nantes",
+    "nantes"
+  ],
+  "FC Sevilla": [
+    "s.f.c.",
+    "sevilla",
+    "sevilla f.c.",
+    "sevilla fc",
+    "sevilla football club",
+    "sevilla futbol club",
+    "sevilla fútbol club",
+    "sevillaf.c.",
+    "sevillafc",
+    "sfc"
+  ],
+  "FC Southampton": [
+    "s.f.c.",
+    "sfc",
+    "southampton",
+    "southampton fc",
+    "southampton football club",
+    "southamptonfc"
+  ],
   "FC St. Pauli": [
     "fc st pauli",
     "sankt pauli",
     "st pauli"
+  ],
+  "FC Toulouse": [
+    "tfc",
+    "toulouse",
+    "toulouse f.c.",
+    "toulouse fc",
+    "toulouse football club"
+  ],
+  "FC Turin": [
+    "a.c. torino",
+    "torino",
+    "torino calcio",
+    "torino f.c.",
+    "torino fc",
+    "torino football club",
+    "torino football club 1906 s.p.a.",
+    "torinof.c.",
+    "torinofc",
+    "turin",
+    "turin f.c.",
+    "turin fc",
+    "turin football club"
+  ],
+  "FC Valencia": [
+    "v.c.f.",
+    "valencia",
+    "valencia c.f.",
+    "valencia cf",
+    "valencia club de futbol",
+    "valencia club de fútbol",
+    "valencia club de fútbol team",
+    "valencia club of football",
+    "valencia football club",
+    "valenciac.f.",
+    "valenciacf",
+    "vcf"
+  ],
+  "FC Villarreal": [
+    "vcf",
+    "villarreal",
+    "villarreal 1923",
+    "villarreal c.f.",
+    "villarreal cf",
+    "villarreal cf 1923",
+    "villarreal club de futbol",
+    "villarreal club de fútbol 1923",
+    "villarreal club de fútbol, s.a.d.",
+    "villarreal club football",
+    "villarreal club of football"
   ],
   "Frankreich": [
     "france",
     "frankreich",
     "les bleus"
   ],
+  "Futbol Club Barcelona": [
+    "barcelona",
+    "barça",
+    "futbol"
+  ],
+  "Hamburger SV": [
+    "h.s.v.",
+    "hamburg",
+    "hamburg sport club",
+    "hamburg sv",
+    "hamburger",
+    "hamburger s.v.",
+    "hamburger sport-verein",
+    "hamburger sport-verein e. v.",
+    "hamburgersv",
+    "hsv"
+  ],
+  "Hellas Verona": [
+    "h.v.f.c.",
+    "hellas",
+    "hellas verona f.c.",
+    "hellas verona football club",
+    "hellasverona",
+    "hvfc",
+    "verona"
+  ],
   "Holstein Kiel": [
     "holstein kiel",
     "kiel"
+  ],
+  "Inter Mailand": [
+    "f.c. inter",
+    "f.c. inter milan",
+    "f.c.i.m.",
+    "fc inter",
+    "fc internazionale",
+    "fc internazionale mailand",
+    "fc internazionale milano",
+    "fcim",
+    "fcinter",
+    "football club inter",
+    "football club inter milan",
+    "football club internazionale milano",
+    "fußball-club inter",
+    "fußball-club inter mailand",
+    "fußball-club internazionale mailand",
+    "i m",
+    "im",
+    "inter",
+    "inter club",
+    "inter fc",
+    "inter football club",
+    "inter milano",
+    "inter of milan",
+    "inter soccer club",
+    "internazionale",
+    "internazionale mailand",
+    "internazionale milano",
+    "mailand",
+    "the inter"
+  ],
+  "Ipswich Town": [
+    "ipswich",
+    "ipswich town fc",
+    "ipswich town football club",
+    "itfc",
+    "the blues",
+    "the tractor boys",
+    "town"
   ],
   "Italien": [
     "azzurri",
@@ -93,11 +566,149 @@
     "italien",
     "italy"
   ],
+  "Juventus Turin": [
+    "j.f.c.",
+    "juventus",
+    "juventus f.c.",
+    "juventus of turin",
+    "juventusf.c.",
+    "juventusfc",
+    "juventusfootballclub",
+    "turin"
+  ],
+  "Le Havre AC": [
+    "ac le havre",
+    "hac",
+    "havre",
+    "le havre",
+    "le havre athletic club",
+    "les ciel et marine"
+  ],
+  "Leicester City": [
+    "city",
+    "l.c.f.c.",
+    "lcfc",
+    "leicester",
+    "leicester city fc",
+    "leicester city football club",
+    "leicester fosse",
+    "leicester fosse fc",
+    "leicester fosse football club",
+    "the foxes"
+  ],
+  "Levante UD": [
+    "fc levante",
+    "levante",
+    "levante fc",
+    "levante football club",
+    "levante sports union",
+    "levante u.d.",
+    "levante ud football",
+    "levante union deportiva",
+    "levante unión deportiva",
+    "ud levante"
+  ],
+  "Manchester City": [
+    "citizens",
+    "city",
+    "man city",
+    "manchester",
+    "manchester city f.c. soccer",
+    "manchester city fc",
+    "manchester city football club",
+    "mcfc",
+    "sky blues",
+    "the blues",
+    "the citizens",
+    "the sky blues"
+  ],
+  "Manchester United": [
+    "man u",
+    "man united",
+    "man utd",
+    "manchester",
+    "manchester united f.c.",
+    "manchester united fc",
+    "manchester united football club",
+    "manchester utd.",
+    "manu",
+    "manutd",
+    "mufc",
+    "newton heath f.c.",
+    "newton heath fc",
+    "red devils",
+    "united"
+  ],
+  "Newcastle United": [
+    "newcastle",
+    "newcastle united fc",
+    "newcastle united football club",
+    "nufc",
+    "the magpies"
+  ],
   "Niederlande": [
     "holland",
     "netherlands",
     "niederlande",
     "oranje"
+  ],
+  "Nottingham Forest": [
+    "forest",
+    "nffc",
+    "nottingham",
+    "nottingham forest fc",
+    "nottingham forest football club",
+    "nottm forest",
+    "the reds",
+    "tricky trees"
+  ],
+  "OGC Nizza": [
+    "nizza",
+    "ogc nice",
+    "ogc nice côte d'azur",
+    "olympique gymnaste club de nice côte d'azur",
+    "olympique gymnaste club nice côte d'azur"
+  ],
+  "OSC Lille": [
+    "lille",
+    "lille olympique sporting club",
+    "lille osc",
+    "losc",
+    "olympique lille",
+    "olympique lillois"
+  ],
+  "Olympique Lyon": [
+    "lyon",
+    "o. lyon",
+    "o. lyonnais",
+    "o.l.",
+    "ol",
+    "olympique",
+    "olympique lyonnais"
+  ],
+  "Olympique Marseille": [
+    "marseille",
+    "o marseille",
+    "olympic marseille",
+    "olympic of marseille",
+    "olympique",
+    "olympique de marseille",
+    "olympique marsilien",
+    "om"
+  ],
+  "Paris FC": [
+    "paris",
+    "paris f.c.",
+    "paris football club",
+    "pfc"
+  ],
+  "Paris Saint-Germain": [
+    "fc paris st. germain",
+    "germain",
+    "paris",
+    "paris st.-germain",
+    "psgfc",
+    "saint"
   ],
   "Portugal": [
     "portugal"
@@ -107,24 +718,195 @@
     "rasenballsport leipzig",
     "rb leipzig"
   ],
+  "RC Lens": [
+    "lens",
+    "racing club de lens",
+    "racing lens"
+  ],
+  "RCD Mallorca": [
+    "mallorca",
+    "r.c.d. mallorca",
+    "real club deportivo mallorca",
+    "real mallorca",
+    "reial club deportiu mallorca"
+  ],
+  "Racing Straßburg": [
+    "racing",
+    "racing club de strasbourg",
+    "racing club de strasbourg alsace",
+    "racing club strassburg",
+    "racing strasbourg",
+    "racing strassburg",
+    "rc strasbourg",
+    "rcsa",
+    "strasbourg",
+    "straßburg"
+  ],
+  "Rayo Vallecano": [
+    "rayo",
+    "rayo football",
+    "rayo vallecano de madrid",
+    "rayo vellecano football",
+    "rayo vellecano soccer club",
+    "vallecano"
+  ],
+  "Real Madrid": [
+    "madrid",
+    "madrid fc",
+    "madrid football club",
+    "real",
+    "real fc",
+    "real football club",
+    "real madrid c.f.",
+    "real madrid cf",
+    "real madrid club de fútbol",
+    "real madrid club of football",
+    "real madrid football club",
+    "rmcf",
+    "royal madrid",
+    "royal madrid football club"
+  ],
+  "Real Oviedo": [
+    "oviedo",
+    "real oviedo s.a.d."
+  ],
+  "Real Sociedad": [
+    "donostia football club",
+    "real sociedad de futbol",
+    "real sociedad de fútbol",
+    "real sociedad de fútbol, s.a.d.",
+    "real sociedad san sebastian",
+    "real sociedad san sebastián",
+    "san sebastian foot-ball club",
+    "san sebastián foot-ball club",
+    "sociedad"
+  ],
   "SC Freiburg": [
     "freiburg",
     "sc freiburg"
+  ],
+  "SCO Angers": [
+    "angers",
+    "angers sco",
+    "angers sporting club de l'ouest",
+    "sco",
+    "sco of angers"
+  ],
+  "SS Lazio (multisports club)": [
+    "(multisports",
+    "club)",
+    "lazio",
+    "polisportiva s.s. lazio",
+    "polisportiva ss lazio",
+    "s.s. lazio",
+    "s.s. lazio multisports club",
+    "ss lazio"
+  ],
+  "SSC Neapel": [
+    "napoli",
+    "neapel",
+    "s.s.c. napoli",
+    "s.s.c.n.",
+    "societa sportiva calcio napoli",
+    "società sportiva calcio napoli",
+    "ssc naples",
+    "ssc napoli",
+    "sscn"
   ],
   "SV Werder Bremen": [
     "sv werder bremen",
     "werder",
     "werder bremen"
   ],
+  "Sampdoria Genua": [
+    "genua",
+    "samp",
+    "sampdoria",
+    "sampdoria football union",
+    "sampdoria of genoa",
+    "sampdoria uc",
+    "sampdoria unione calcio",
+    "u.c. sampdoria",
+    "uc sampdoria",
+    "uc sampdoria genua",
+    "ucs",
+    "ucs 1946"
+  ],
   "Spanien": [
     "espana",
     "spain",
     "spanien"
   ],
+  "Spezia Calcio": [
+    "a.c. spezia",
+    "ac spezia",
+    "foot-ball club spezia",
+    "spezia",
+    "spezia calcio 1906"
+  ],
+  "Stade Brest": [
+    "brest",
+    "stade",
+    "stade brestois",
+    "stade brestois 29"
+  ],
+  "Stade Rennes": [
+    "rennais",
+    "rennes",
+    "srfc",
+    "stade",
+    "stade rennais",
+    "stade rennais fc",
+    "stade rennais football club",
+    "stade rennais uc"
+  ],
   "TSG 1899 Hoffenheim": [
     "hoffenheim",
     "tsg 1899 hoffenheim",
     "tsg hoffenheim"
+  ],
+  "Tottenham Hotspur": [
+    "hotspur",
+    "spurs",
+    "the lilywhites",
+    "thfc",
+    "tottenham",
+    "tottenham hotspur fc",
+    "tottenham hotspur football club"
+  ],
+  "U.S. Lecce": [
+    "lecce",
+    "lecce sports union",
+    "u.s.l.",
+    "unione sportiva lecce",
+    "us lecce",
+    "uslecce"
+  ],
+  "U.S. Salernitana 1919": [
+    "salernitana",
+    "salernitana fc",
+    "salernitana football club",
+    "salernitana sport",
+    "salernitana sports union 1919",
+    "unione sportiva salernitana 1919 s.r.l.",
+    "uss1919"
+  ],
+  "US Cremonese": [
+    "cremonese",
+    "unione sportiva cremonese"
+  ],
+  "US Sassuolo Calcio": [
+    "sassuolo",
+    "sassuolo calcio",
+    "u.s. sassuolo calcio",
+    "unione sportiva sassuolo calcio"
+  ],
+  "Udinese Calcio": [
+    "first bianconeri of italy",
+    "udinese",
+    "udinese fc",
+    "udinese football",
+    "udinese football club"
   ],
   "VfB Stuttgart": [
     "stuttgart",
@@ -138,5 +920,28 @@
   "VfL Wolfsburg": [
     "vfl wolfsburg",
     "wolfsburg"
+  ],
+  "West Ham United": [
+    "the hammers",
+    "the irons",
+    "united",
+    "west",
+    "west ham",
+    "west ham united f.c.",
+    "west ham united fc",
+    "west ham united football club",
+    "whu",
+    "whufc"
+  ],
+  "Wolverhampton Wanderers": [
+    "wanderers",
+    "wolverhampton",
+    "wolverhampton fc wolves",
+    "wolverhampton wanderers fc",
+    "wolverhampton wanderers football club",
+    "wolverhampton wolves",
+    "wolverhampton wolves fc",
+    "wolves",
+    "wwfc"
   ]
 }

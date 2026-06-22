@@ -10,7 +10,33 @@
       "heidenheim",
       "fc heidenheim",
       "1 fc heidenheim"
-    ]
+    ],
+    "founded": 2007,
+    "wikidata": "Q162251"
+  },
+  {
+    "slug": "1-fc-koeln",
+    "name": "1. FC Köln",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "1. fc cologne",
+      "1. fußball-club köln 01/07",
+      "1. fußball-club köln 01/07 e. v.",
+      "effzeh",
+      "f.c. koln",
+      "f.c. köln",
+      "fc koln",
+      "fc köln",
+      "fckoln",
+      "köln",
+      "kölner bc 01",
+      "spvgg sülz"
+    ],
+    "founded": 1948,
+    "wikidata": "Q104770"
   },
   {
     "slug": "1-fc-union-berlin",
@@ -23,7 +49,8 @@
       "union berlin",
       "1 fc union berlin",
       "fc union berlin"
-    ]
+    ],
+    "wikidata": "Q97927360"
   },
   {
     "slug": "1-fsv-mainz-05",
@@ -37,7 +64,8 @@
       "mainz 05",
       "fsv mainz 05",
       "1 fsv mainz 05"
-    ]
+    ],
+    "wikidata": "Q97905884"
   },
   {
     "slug": "bayer-04-leverkusen",
@@ -51,7 +79,9 @@
       "bayer leverkusen",
       "bayer 04",
       "bayer 04 leverkusen"
-    ]
+    ],
+    "founded": 1904,
+    "wikidata": "Q104761"
   },
   {
     "slug": "borussia-dortmund",
@@ -65,7 +95,9 @@
       "bvb",
       "bvb 09",
       "borussia dortmund 09"
-    ]
+    ],
+    "founded": 1909,
+    "wikidata": "Q41420"
   },
   {
     "slug": "borussia-moenchengladbach",
@@ -80,7 +112,9 @@
       "moenchengladbach",
       "borussia monchengladbach",
       "bmg"
-    ]
+    ],
+    "founded": 1900,
+    "wikidata": "Q101959"
   },
   {
     "slug": "eintracht-frankfurt",
@@ -93,7 +127,9 @@
       "frankfurt",
       "eintracht frankfurt",
       "sge"
-    ]
+    ],
+    "founded": 1899,
+    "wikidata": "Q38245"
   },
   {
     "slug": "fc-augsburg",
@@ -105,7 +141,8 @@
     "aliases": [
       "augsburg",
       "fc augsburg"
-    ]
+    ],
+    "wikidata": "Q97905916"
   },
   {
     "slug": "fc-bayern-muenchen",
@@ -121,7 +158,9 @@
       "fc bayern",
       "fcb",
       "fc bayern munchen"
-    ]
+    ],
+    "founded": 1900,
+    "wikidata": "Q15789"
   },
   {
     "slug": "fc-st-pauli",
@@ -134,7 +173,31 @@
       "st pauli",
       "fc st pauli",
       "sankt pauli"
-    ]
+    ],
+    "founded": 1910,
+    "wikidata": "Q6463"
+  },
+  {
+    "slug": "hamburger-sv",
+    "name": "Hamburger SV",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "h.s.v.",
+      "hamburg",
+      "hamburg sport club",
+      "hamburg sv",
+      "hamburger",
+      "hamburger s.v.",
+      "hamburger sport-verein",
+      "hamburger sport-verein e. v.",
+      "hamburgersv",
+      "hsv"
+    ],
+    "founded": 1887,
+    "wikidata": "Q51974"
   },
   {
     "slug": "holstein-kiel",
@@ -159,7 +222,9 @@
       "leipzig",
       "rb leipzig",
       "rasenballsport leipzig"
-    ]
+    ],
+    "founded": 2009,
+    "wikidata": "Q702455"
   },
   {
     "slug": "sc-freiburg",
@@ -171,7 +236,9 @@
     "aliases": [
       "freiburg",
       "sc freiburg"
-    ]
+    ],
+    "founded": 1904,
+    "wikidata": "Q106394"
   },
   {
     "slug": "sv-werder-bremen",
@@ -184,7 +251,9 @@
       "werder",
       "werder bremen",
       "sv werder bremen"
-    ]
+    ],
+    "founded": 1899,
+    "wikidata": "Q51976"
   },
   {
     "slug": "tsg-1899-hoffenheim",
@@ -197,7 +266,9 @@
       "hoffenheim",
       "tsg hoffenheim",
       "tsg 1899 hoffenheim"
-    ]
+    ],
+    "founded": 1899,
+    "wikidata": "Q22707"
   },
   {
     "slug": "vfb-stuttgart",
@@ -210,7 +281,9 @@
       "stuttgart",
       "vfb",
       "vfb stuttgart"
-    ]
+    ],
+    "founded": 1893,
+    "wikidata": "Q4512"
   },
   {
     "slug": "vfl-bochum",
@@ -234,7 +307,1568 @@
     "aliases": [
       "wolfsburg",
       "vfl wolfsburg"
-    ]
+    ],
+    "founded": 1945,
+    "wikidata": "Q101859"
+  },
+  {
+    "slug": "athletic-bilbao",
+    "name": "Athletic Bilbao",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "athletic",
+      "athletic club",
+      "athletic club de bilbao",
+      "bilbao",
+      "vizcaya de bilbao"
+    ],
+    "founded": 1898,
+    "wikidata": "Q8687"
+  },
+  {
+    "slug": "atl-tico-madrid",
+    "name": "Atlético Madrid",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "atl. de madrid",
+      "atleti de madrid",
+      "atletico",
+      "atletico de madrid",
+      "atletico madrid",
+      "atletico of madrid",
+      "atlético",
+      "atlético de madrid",
+      "atléticodemadrid",
+      "atm",
+      "atm football club",
+      "club atletico de madrid s.a.d.",
+      "club atlético de madrid",
+      "club atlético de madrid s.a.d.",
+      "club atlético de madrid, sad",
+      "el atleti",
+      "madrid",
+      "the atletico"
+    ],
+    "founded": 1903,
+    "wikidata": "Q8701"
+  },
+  {
+    "slug": "betis-sevilla",
+    "name": "Betis Sevilla",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "balompédicos",
+      "beticos, verdiblancos",
+      "betis",
+      "real betis",
+      "real betis balompie",
+      "real betis balompié",
+      "real betis balompié s.a.d.",
+      "real betis football",
+      "real betis sevilla",
+      "real betis soccer",
+      "sevilla"
+    ],
+    "founded": 1907,
+    "wikidata": "Q8723"
+  },
+  {
+    "slug": "ca-osasuna",
+    "name": "CA Osasuna",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "ca osasuna pamplona",
+      "club atlético osasuna",
+      "osasuna",
+      "osasuna pamplona"
+    ],
+    "founded": 1920,
+    "wikidata": "Q10286"
+  },
+  {
+    "slug": "celta-vigo",
+    "name": "Celta Vigo",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "celta",
+      "celta de vigo",
+      "fortuna de vigo",
+      "r.c. celta de vigo",
+      "rc celta",
+      "rc celta de vigo",
+      "rccv",
+      "real club celta",
+      "real club celta de vigo",
+      "real club celta s.a.d.",
+      "real club fortuna de vigo",
+      "vigo"
+    ],
+    "founded": 1923,
+    "wikidata": "Q8749"
+  },
+  {
+    "slug": "deportivo-alav-s",
+    "name": "Deportivo Alavés",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "alaves",
+      "alaves football",
+      "alaves soccer",
+      "alavés",
+      "deportivo",
+      "deportivo alaves",
+      "deportivo alaves soccer"
+    ],
+    "founded": 1921,
+    "wikidata": "Q223620"
+  },
+  {
+    "slug": "espanyol-barcelona",
+    "name": "Espanyol Barcelona",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "barcelona",
+      "espanyol",
+      "espanyol of barcelona",
+      "r.c.d. espanyol",
+      "r.c.d. espanyol de barcelona",
+      "r.c.d. espanyol of barcelona",
+      "rcd espanyol",
+      "rcd espanyol de barcelona",
+      "rcd espanyol of barcelona",
+      "rcde",
+      "reial club deportiu espanyol de barcelona"
+    ],
+    "founded": 1900,
+    "wikidata": "Q8780"
+  },
+  {
+    "slug": "fc-elche",
+    "name": "FC Elche",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "elche",
+      "elche club de futbol",
+      "elche club de fútbol, s.a.d."
+    ],
+    "founded": 1923,
+    "wikidata": "Q10512"
+  },
+  {
+    "slug": "fc-getafe",
+    "name": "FC Getafe",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "getafe",
+      "getafe c.f.",
+      "getafe club de futbol",
+      "getafe club de fútbol",
+      "getafe club de fútbol team",
+      "getafe club of football",
+      "getafe football club"
+    ],
+    "founded": 1983,
+    "wikidata": "Q8806"
+  },
+  {
+    "slug": "fc-girona",
+    "name": "FC Girona",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "girona",
+      "girona fc club",
+      "girona futbol club",
+      "girona futbol club, s.a.d.",
+      "girona soccer team"
+    ],
+    "founded": 1930,
+    "wikidata": "Q11945"
+  },
+  {
+    "slug": "fc-sevilla",
+    "name": "FC Sevilla",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "s.f.c.",
+      "sevilla",
+      "sevilla f.c.",
+      "sevilla fc",
+      "sevilla football club",
+      "sevilla futbol club",
+      "sevilla fútbol club",
+      "sevillaf.c.",
+      "sevillafc",
+      "sfc"
+    ],
+    "founded": 1905,
+    "wikidata": "Q10329"
+  },
+  {
+    "slug": "fc-valencia",
+    "name": "FC Valencia",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "v.c.f.",
+      "valencia",
+      "valencia c.f.",
+      "valencia cf",
+      "valencia club de futbol",
+      "valencia club de fútbol",
+      "valencia club de fútbol team",
+      "valencia club of football",
+      "valencia football club",
+      "valenciac.f.",
+      "valenciacf",
+      "vcf"
+    ],
+    "founded": 1919,
+    "wikidata": "Q10333"
+  },
+  {
+    "slug": "fc-villarreal",
+    "name": "FC Villarreal",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "vcf",
+      "villarreal",
+      "villarreal 1923",
+      "villarreal c.f.",
+      "villarreal cf",
+      "villarreal cf 1923",
+      "villarreal club de futbol",
+      "villarreal club de fútbol 1923",
+      "villarreal club de fútbol, s.a.d.",
+      "villarreal club football",
+      "villarreal club of football"
+    ],
+    "founded": 1923,
+    "wikidata": "Q12297"
+  },
+  {
+    "slug": "futbol-club-barcelona",
+    "name": "Futbol Club Barcelona",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "barcelona",
+      "barça",
+      "futbol"
+    ],
+    "founded": 1899,
+    "wikidata": "Q3091261"
+  },
+  {
+    "slug": "levante-ud",
+    "name": "Levante UD",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "fc levante",
+      "levante",
+      "levante fc",
+      "levante football club",
+      "levante sports union",
+      "levante u.d.",
+      "levante ud football",
+      "levante union deportiva",
+      "levante unión deportiva",
+      "ud levante"
+    ],
+    "founded": 1909,
+    "wikidata": "Q8823"
+  },
+  {
+    "slug": "rayo-vallecano",
+    "name": "Rayo Vallecano",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "rayo",
+      "rayo football",
+      "rayo vallecano de madrid",
+      "rayo vellecano football",
+      "rayo vellecano soccer club",
+      "vallecano"
+    ],
+    "founded": 1924,
+    "wikidata": "Q10300"
+  },
+  {
+    "slug": "rcd-mallorca",
+    "name": "RCD Mallorca",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "mallorca",
+      "r.c.d. mallorca",
+      "real club deportivo mallorca",
+      "real mallorca",
+      "reial club deportiu mallorca"
+    ],
+    "founded": 1916,
+    "wikidata": "Q8835"
+  },
+  {
+    "slug": "real-madrid",
+    "name": "Real Madrid",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "madrid",
+      "madrid fc",
+      "madrid football club",
+      "real",
+      "real fc",
+      "real football club",
+      "real madrid c.f.",
+      "real madrid cf",
+      "real madrid club de fútbol",
+      "real madrid club of football",
+      "real madrid football club",
+      "rmcf",
+      "royal madrid",
+      "royal madrid football club"
+    ],
+    "founded": 1902,
+    "wikidata": "Q8682"
+  },
+  {
+    "slug": "real-oviedo",
+    "name": "Real Oviedo",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "oviedo",
+      "real oviedo s.a.d."
+    ],
+    "founded": 1926,
+    "wikidata": "Q271574"
+  },
+  {
+    "slug": "real-sociedad",
+    "name": "Real Sociedad",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "donostia football club",
+      "real sociedad de futbol",
+      "real sociedad de fútbol",
+      "real sociedad de fútbol, s.a.d.",
+      "real sociedad san sebastian",
+      "real sociedad san sebastián",
+      "san sebastian foot-ball club",
+      "san sebastián foot-ball club",
+      "sociedad"
+    ],
+    "founded": 1909,
+    "wikidata": "Q10315"
+  },
+  {
+    "slug": "aj-auxerre",
+    "name": "AJ Auxerre",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "aja",
+      "association de la jeunesse auxerroise",
+      "auxerre",
+      "les icaunais"
+    ],
+    "founded": 1905,
+    "wikidata": "Q182876"
+  },
+  {
+    "slug": "as-monaco",
+    "name": "AS Monaco",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "MC",
+    "aliases": [
+      "a.s. monaco",
+      "a.s. monaco f.c.",
+      "a.s.m.f.c.",
+      "as monaco f.c.",
+      "as monaco football club",
+      "asmfc",
+      "asmonaco",
+      "association sportive de monaco football club",
+      "monaco"
+    ],
+    "founded": 1924,
+    "wikidata": "Q180305"
+  },
+  {
+    "slug": "fc-lorient",
+    "name": "FC Lorient",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "fc lorient bretagne-sud",
+      "football club lorient-bretagne sud",
+      "lorient"
+    ],
+    "founded": 1926,
+    "wikidata": "Q48911"
+  },
+  {
+    "slug": "fc-metz",
+    "name": "FC Metz",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "f.c. metz",
+      "fcm",
+      "fcmetz",
+      "football club de metz",
+      "football club of metz",
+      "fv metz",
+      "metz",
+      "metz football club"
+    ],
+    "founded": 1932,
+    "wikidata": "Q221525"
+  },
+  {
+    "slug": "fc-nantes",
+    "name": "FC Nantes",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "f.c.nantes",
+      "fc nantes atlantique",
+      "fcnantes",
+      "football club of nantes",
+      "nantes"
+    ],
+    "founded": 1943,
+    "wikidata": "Q192071"
+  },
+  {
+    "slug": "fc-toulouse",
+    "name": "FC Toulouse",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "tfc",
+      "toulouse",
+      "toulouse f.c.",
+      "toulouse fc",
+      "toulouse football club"
+    ],
+    "founded": 1970,
+    "wikidata": "Q19518"
+  },
+  {
+    "slug": "le-havre-ac",
+    "name": "Le Havre AC",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "ac le havre",
+      "hac",
+      "havre",
+      "le havre",
+      "le havre athletic club",
+      "les ciel et marine"
+    ],
+    "founded": 1884,
+    "wikidata": "Q328658"
+  },
+  {
+    "slug": "ogc-nizza",
+    "name": "OGC Nizza",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "nizza",
+      "ogc nice",
+      "ogc nice côte d'azur",
+      "olympique gymnaste club de nice côte d'azur",
+      "olympique gymnaste club nice côte d'azur"
+    ],
+    "founded": 1904,
+    "wikidata": "Q185163"
+  },
+  {
+    "slug": "olympique-lyon",
+    "name": "Olympique Lyon",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "lyon",
+      "o. lyon",
+      "o. lyonnais",
+      "o.l.",
+      "ol",
+      "olympique",
+      "olympique lyonnais"
+    ],
+    "founded": 1950,
+    "wikidata": "Q704"
+  },
+  {
+    "slug": "olympique-marseille",
+    "name": "Olympique Marseille",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "marseille",
+      "o marseille",
+      "olympic marseille",
+      "olympic of marseille",
+      "olympique",
+      "olympique de marseille",
+      "olympique marsilien",
+      "om"
+    ],
+    "founded": 1899,
+    "wikidata": "Q132885"
+  },
+  {
+    "slug": "osc-lille",
+    "name": "OSC Lille",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "lille",
+      "lille olympique sporting club",
+      "lille osc",
+      "losc",
+      "olympique lille",
+      "olympique lillois"
+    ],
+    "founded": 1944,
+    "wikidata": "Q19516"
+  },
+  {
+    "slug": "paris-fc",
+    "name": "Paris FC",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "paris",
+      "paris f.c.",
+      "paris football club",
+      "pfc"
+    ],
+    "founded": 1969,
+    "wikidata": "Q1051013"
+  },
+  {
+    "slug": "paris-saint-germain",
+    "name": "Paris Saint-Germain",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "fc paris st. germain",
+      "germain",
+      "paris",
+      "paris st.-germain",
+      "psgfc",
+      "saint"
+    ],
+    "founded": 1970,
+    "wikidata": "Q483020"
+  },
+  {
+    "slug": "racing-strassburg",
+    "name": "Racing Straßburg",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "racing",
+      "racing club de strasbourg",
+      "racing club de strasbourg alsace",
+      "racing club strassburg",
+      "racing strasbourg",
+      "racing strassburg",
+      "rc strasbourg",
+      "rcsa",
+      "strasbourg",
+      "straßburg"
+    ],
+    "founded": 1906,
+    "wikidata": "Q126334"
+  },
+  {
+    "slug": "rc-lens",
+    "name": "RC Lens",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "lens",
+      "racing club de lens",
+      "racing lens"
+    ],
+    "founded": 1906,
+    "wikidata": "Q191843"
+  },
+  {
+    "slug": "sco-angers",
+    "name": "SCO Angers",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "angers",
+      "angers sco",
+      "angers sporting club de l'ouest",
+      "sco",
+      "sco of angers"
+    ],
+    "founded": 1919,
+    "wikidata": "Q845137"
+  },
+  {
+    "slug": "stade-brest",
+    "name": "Stade Brest",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "brest",
+      "stade",
+      "stade brestois",
+      "stade brestois 29"
+    ],
+    "founded": 1950,
+    "wikidata": "Q218372"
+  },
+  {
+    "slug": "stade-rennes",
+    "name": "Stade Rennes",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "rennais",
+      "rennes",
+      "srfc",
+      "stade",
+      "stade rennais",
+      "stade rennais fc",
+      "stade rennais football club",
+      "stade rennais uc"
+    ],
+    "founded": 1901,
+    "wikidata": "Q19509"
+  },
+  {
+    "slug": "afc-bournemouth",
+    "name": "AFC Bournemouth",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "a.f.c. bournemouth",
+      "afcb",
+      "boscombe",
+      "boscombe f.c.",
+      "boscombe fc",
+      "boscombe football club",
+      "bournemouth",
+      "bournemouth and boscombe athletic",
+      "bournemouth and boscombe athletic f.c.",
+      "bournemouth and boscombe athletic fc",
+      "bournemouth and boscombe athletic football club",
+      "the cherries"
+    ],
+    "founded": 1899,
+    "wikidata": "Q19568"
+  },
+  {
+    "slug": "aston-villa",
+    "name": "Aston Villa",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "aston",
+      "aston villa fc",
+      "aston villa football club",
+      "avfc",
+      "the villa",
+      "the villans",
+      "villa"
+    ],
+    "founded": 1874,
+    "wikidata": "Q18711"
+  },
+  {
+    "slug": "brighton-hove-albion",
+    "name": "Brighton & Hove Albion",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "albion",
+      "bha",
+      "bhafc",
+      "brighton",
+      "brighton & hove",
+      "brighton & hove albion fc",
+      "brighton & hove albion football club",
+      "brighton and hove",
+      "brighton and hove albion",
+      "brighton and hove albion f.c.",
+      "brighton and hove albion fc",
+      "brighton and hove albion football club",
+      "brighton f.c.",
+      "brighton fc",
+      "hove",
+      "the seagulls"
+    ],
+    "founded": 1901,
+    "wikidata": "Q19453"
+  },
+  {
+    "slug": "crystal-palace",
+    "name": "Crystal Palace",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "cpfc",
+      "crystal",
+      "crystal palace f.c.",
+      "crystal palace fc",
+      "crystal palace football club",
+      "palace",
+      "the eagles",
+      "the glaziers"
+    ],
+    "founded": 1905,
+    "wikidata": "Q19467"
+  },
+  {
+    "slug": "fc-arsenal",
+    "name": "FC Arsenal",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "a.f.c.",
+      "afc",
+      "arsenal",
+      "arsenal football club",
+      "arsenal london",
+      "the ars",
+      "the arsenal",
+      "the arsenal f.c.",
+      "the arsenal fc"
+    ],
+    "founded": 1886,
+    "wikidata": "Q9617"
+  },
+  {
+    "slug": "fc-brentford",
+    "name": "FC Brentford",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "bfc",
+      "brentford",
+      "brentford fc",
+      "brentford football club",
+      "the bees"
+    ],
+    "founded": 1889,
+    "wikidata": "Q19571"
+  },
+  {
+    "slug": "fc-chelsea",
+    "name": "FC Chelsea",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "cfc",
+      "chelsea",
+      "chelsea f.c.",
+      "chelsea fc",
+      "chelsea football club",
+      "chelsea london",
+      "the blues",
+      "the pensioners"
+    ],
+    "founded": 1905,
+    "wikidata": "Q9616"
+  },
+  {
+    "slug": "fc-everton",
+    "name": "FC Everton",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "efc",
+      "everton",
+      "everton fc",
+      "everton football club",
+      "the blues",
+      "the toffees"
+    ],
+    "founded": 1878,
+    "wikidata": "Q5794"
+  },
+  {
+    "slug": "fc-fulham",
+    "name": "FC Fulham",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "ffc",
+      "fulham",
+      "fulham fc",
+      "fulham football club",
+      "the cottagers"
+    ],
+    "founded": 1879,
+    "wikidata": "Q18708"
+  },
+  {
+    "slug": "fc-liverpool",
+    "name": "FC Liverpool",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "f.c. liverpool",
+      "l.f.c.",
+      "liverpool",
+      "liverpoolf.c.",
+      "liverpoolfc",
+      "the reds"
+    ],
+    "founded": 1892,
+    "wikidata": "Q1130849"
+  },
+  {
+    "slug": "fc-southampton",
+    "name": "FC Southampton",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "s.f.c.",
+      "sfc",
+      "southampton",
+      "southampton fc",
+      "southampton football club",
+      "southamptonfc"
+    ],
+    "founded": 1885,
+    "wikidata": "Q18732"
+  },
+  {
+    "slug": "ipswich-town",
+    "name": "Ipswich Town",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "ipswich",
+      "ipswich town fc",
+      "ipswich town football club",
+      "itfc",
+      "the blues",
+      "the tractor boys",
+      "town"
+    ],
+    "founded": 1878,
+    "wikidata": "Q9653"
+  },
+  {
+    "slug": "leicester-city",
+    "name": "Leicester City",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "city",
+      "l.c.f.c.",
+      "lcfc",
+      "leicester",
+      "leicester city fc",
+      "leicester city football club",
+      "leicester fosse",
+      "leicester fosse fc",
+      "leicester fosse football club",
+      "the foxes"
+    ],
+    "founded": 1884,
+    "wikidata": "Q19481"
+  },
+  {
+    "slug": "manchester-city",
+    "name": "Manchester City",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "citizens",
+      "city",
+      "man city",
+      "manchester",
+      "manchester city f.c. soccer",
+      "manchester city fc",
+      "manchester city football club",
+      "mcfc",
+      "sky blues",
+      "the blues",
+      "the citizens",
+      "the sky blues"
+    ],
+    "founded": 1894,
+    "wikidata": "Q50602"
+  },
+  {
+    "slug": "manchester-united",
+    "name": "Manchester United",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "man u",
+      "man united",
+      "man utd",
+      "manchester",
+      "manchester united f.c.",
+      "manchester united fc",
+      "manchester united football club",
+      "manchester utd.",
+      "manu",
+      "manutd",
+      "mufc",
+      "newton heath f.c.",
+      "newton heath fc",
+      "red devils",
+      "united"
+    ],
+    "founded": 1878,
+    "wikidata": "Q18656"
+  },
+  {
+    "slug": "newcastle-united",
+    "name": "Newcastle United",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "newcastle",
+      "newcastle united fc",
+      "newcastle united football club",
+      "nufc",
+      "the magpies"
+    ],
+    "founded": 1892,
+    "wikidata": "Q18716"
+  },
+  {
+    "slug": "nottingham-forest",
+    "name": "Nottingham Forest",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "forest",
+      "nffc",
+      "nottingham",
+      "nottingham forest fc",
+      "nottingham forest football club",
+      "nottm forest",
+      "the reds",
+      "tricky trees"
+    ],
+    "founded": 1865,
+    "wikidata": "Q19490"
+  },
+  {
+    "slug": "tottenham-hotspur",
+    "name": "Tottenham Hotspur",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "hotspur",
+      "spurs",
+      "the lilywhites",
+      "thfc",
+      "tottenham",
+      "tottenham hotspur fc",
+      "tottenham hotspur football club"
+    ],
+    "founded": 1882,
+    "wikidata": "Q18741"
+  },
+  {
+    "slug": "west-ham-united",
+    "name": "West Ham United",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "the hammers",
+      "the irons",
+      "united",
+      "west",
+      "west ham",
+      "west ham united f.c.",
+      "west ham united fc",
+      "west ham united football club",
+      "whu",
+      "whufc"
+    ],
+    "founded": 1895,
+    "wikidata": "Q18747"
+  },
+  {
+    "slug": "wolverhampton-wanderers",
+    "name": "Wolverhampton Wanderers",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "wanderers",
+      "wolverhampton",
+      "wolverhampton fc wolves",
+      "wolverhampton wanderers fc",
+      "wolverhampton wanderers football club",
+      "wolverhampton wolves",
+      "wolverhampton wolves fc",
+      "wolves",
+      "wwfc"
+    ],
+    "founded": 1877,
+    "wikidata": "Q19500"
+  },
+  {
+    "slug": "ac-florenz",
+    "name": "AC Florenz",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "a.c. fiorentina",
+      "a.c.f.",
+      "a.c.f.fiorentina",
+      "ac fiorentina",
+      "acf",
+      "acf fiorentina",
+      "associazione calcio fiorentina",
+      "fiorentina",
+      "florentia viola",
+      "florenz"
+    ],
+    "founded": 1926,
+    "wikidata": "Q2052"
+  },
+  {
+    "slug": "ac-milan",
+    "name": "AC Milan",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "a.c.m.",
+      "a.c.milan",
+      "ac mailand",
+      "acm",
+      "acmilan",
+      "association football milan",
+      "associazione calcio milan",
+      "milan"
+    ],
+    "founded": 1899,
+    "wikidata": "Q1543"
+  },
+  {
+    "slug": "ac-monza",
+    "name": "AC Monza",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "a.c. monza",
+      "a.c. monza brianza",
+      "a.c. monza brianza 1912",
+      "a.c.m.",
+      "ac monza brianza 1912",
+      "acm",
+      "acmonza",
+      "associazione calcio monza",
+      "associazione calcio monza brianza 1912",
+      "biancorossi",
+      "calcio monza",
+      "monza",
+      "monza calcio",
+      "s.s. monza",
+      "s.s. monza 1912 srl",
+      "società sportiva monza 1912",
+      "società sportiva monza 1912 srl"
+    ],
+    "founded": 1912,
+    "wikidata": "Q289482"
+  },
+  {
+    "slug": "as-rom",
+    "name": "AS Rom",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "a.s.r",
+      "a.s.r 1927",
+      "a.s.roma",
+      "a.s.rome",
+      "as roma",
+      "asr",
+      "asr 1927",
+      "asroma",
+      "associazione sportiva roma",
+      "la roma",
+      "rome sport association",
+      "the wolfs"
+    ],
+    "founded": 1927,
+    "wikidata": "Q2739"
+  },
+  {
+    "slug": "atalanta-bergamo",
+    "name": "Atalanta Bergamo",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "atalanta",
+      "atalanta b.c.",
+      "atalanta bergamasca calcio",
+      "atalantab.c.",
+      "atalantabc",
+      "bergamo"
+    ],
+    "founded": 1907,
+    "wikidata": "Q1886"
+  },
+  {
+    "slug": "fc-bologna",
+    "name": "FC Bologna",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "bfc1909",
+      "bologna",
+      "bologna f.c. 1909",
+      "bologna fc 1909",
+      "bologna football club",
+      "bologna football club 1909",
+      "bolognafc1909"
+    ],
+    "founded": 1909,
+    "wikidata": "Q1893"
+  },
+  {
+    "slug": "fc-empoli",
+    "name": "FC Empoli",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "e.f.c.",
+      "efc",
+      "empoli",
+      "empoli f.c.",
+      "empoli football club",
+      "empolifc"
+    ],
+    "founded": 1920,
+    "wikidata": "Q6703"
+  },
+  {
+    "slug": "fc-turin",
+    "name": "FC Turin",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "a.c. torino",
+      "torino",
+      "torino calcio",
+      "torino f.c.",
+      "torino fc",
+      "torino football club",
+      "torino football club 1906 s.p.a.",
+      "torinof.c.",
+      "torinofc",
+      "turin",
+      "turin f.c.",
+      "turin fc",
+      "turin football club"
+    ],
+    "founded": 2005,
+    "wikidata": "Q2768"
+  },
+  {
+    "slug": "hellas-verona",
+    "name": "Hellas Verona",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "h.v.f.c.",
+      "hellas",
+      "hellas verona f.c.",
+      "hellas verona football club",
+      "hellasverona",
+      "hvfc",
+      "verona"
+    ],
+    "founded": 1903,
+    "wikidata": "Q8639"
+  },
+  {
+    "slug": "inter-mailand",
+    "name": "Inter Mailand",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "f.c. inter",
+      "f.c. inter milan",
+      "f.c.i.m.",
+      "fc inter",
+      "fc internazionale",
+      "fc internazionale mailand",
+      "fc internazionale milano",
+      "fcim",
+      "fcinter",
+      "football club inter",
+      "football club inter milan",
+      "football club internazionale milano",
+      "fußball-club inter",
+      "fußball-club inter mailand",
+      "fußball-club internazionale mailand",
+      "i m",
+      "im",
+      "inter",
+      "inter club",
+      "inter fc",
+      "inter football club",
+      "inter milano",
+      "inter of milan",
+      "inter soccer club",
+      "internazionale",
+      "internazionale mailand",
+      "internazionale milano",
+      "mailand",
+      "the inter"
+    ],
+    "founded": 1908,
+    "wikidata": "Q631"
+  },
+  {
+    "slug": "juventus-turin",
+    "name": "Juventus Turin",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "j.f.c.",
+      "juventus",
+      "juventus f.c.",
+      "juventus of turin",
+      "juventusf.c.",
+      "juventusfc",
+      "juventusfootballclub",
+      "turin"
+    ],
+    "founded": 1897,
+    "wikidata": "Q1422"
+  },
+  {
+    "slug": "sampdoria-genua",
+    "name": "Sampdoria Genua",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "genua",
+      "samp",
+      "sampdoria",
+      "sampdoria football union",
+      "sampdoria of genoa",
+      "sampdoria uc",
+      "sampdoria unione calcio",
+      "u.c. sampdoria",
+      "uc sampdoria",
+      "uc sampdoria genua",
+      "ucs",
+      "ucs 1946"
+    ],
+    "founded": 1946,
+    "wikidata": "Q1457"
+  },
+  {
+    "slug": "spezia-calcio",
+    "name": "Spezia Calcio",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "a.c. spezia",
+      "ac spezia",
+      "foot-ball club spezia",
+      "spezia",
+      "spezia calcio 1906"
+    ],
+    "founded": 1906,
+    "wikidata": "Q8615"
+  },
+  {
+    "slug": "ss-lazio-multisports-club",
+    "name": "SS Lazio (multisports club)",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "(multisports",
+      "club)",
+      "lazio",
+      "polisportiva s.s. lazio",
+      "polisportiva ss lazio",
+      "s.s. lazio",
+      "s.s. lazio multisports club",
+      "ss lazio"
+    ],
+    "founded": 1900,
+    "wikidata": "Q3907390"
+  },
+  {
+    "slug": "ssc-neapel",
+    "name": "SSC Neapel",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "napoli",
+      "neapel",
+      "s.s.c. napoli",
+      "s.s.c.n.",
+      "societa sportiva calcio napoli",
+      "società sportiva calcio napoli",
+      "ssc naples",
+      "ssc napoli",
+      "sscn"
+    ],
+    "founded": 1926,
+    "wikidata": "Q2641"
+  },
+  {
+    "slug": "u-s-lecce",
+    "name": "U.S. Lecce",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "lecce",
+      "lecce sports union",
+      "u.s.l.",
+      "unione sportiva lecce",
+      "us lecce",
+      "uslecce"
+    ],
+    "founded": 1908,
+    "wikidata": "Q13391"
+  },
+  {
+    "slug": "u-s-salernitana-1919",
+    "name": "U.S. Salernitana 1919",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "salernitana",
+      "salernitana fc",
+      "salernitana football club",
+      "salernitana sport",
+      "salernitana sports union 1919",
+      "unione sportiva salernitana 1919 s.r.l.",
+      "uss1919"
+    ],
+    "founded": 1919,
+    "wikidata": "Q847587"
+  },
+  {
+    "slug": "udinese-calcio",
+    "name": "Udinese Calcio",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "first bianconeri of italy",
+      "udinese",
+      "udinese fc",
+      "udinese football",
+      "udinese football club"
+    ],
+    "founded": 1896,
+    "wikidata": "Q2798"
+  },
+  {
+    "slug": "us-cremonese",
+    "name": "US Cremonese",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "cremonese",
+      "unione sportiva cremonese"
+    ],
+    "founded": 1903,
+    "wikidata": "Q759482"
+  },
+  {
+    "slug": "us-sassuolo-calcio",
+    "name": "US Sassuolo Calcio",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "sassuolo",
+      "sassuolo calcio",
+      "u.s. sassuolo calcio",
+      "unione sportiva sassuolo calcio"
+    ],
+    "founded": 1920,
+    "wikidata": "Q8603"
   },
   {
     "slug": "argentinien",

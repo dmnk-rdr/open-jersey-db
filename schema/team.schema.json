@@ -40,6 +40,11 @@
       "description": "Spelling variants used by shops/feeds. Drives the consumer's name normalization."
     },
     "founded": { "type": ["integer", "null"] },
+    "wikidata": {
+      "type": ["string", "null"],
+      "pattern": "^Q[0-9]+$",
+      "description": "Wikidata item id (e.g. 'Q15789'), enables idempotent re-imports."
+    },
     "logo_url": {
       "type": ["string", "null"],
       "description": "Reference URL only — this database stores no image binaries."
