@@ -1884,6 +1884,33 @@
     ]
   },
   {
+    "slug": "australien",
+    "name": "Australien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "AU",
+    "aliases": [
+      "australien",
+      "australia",
+      "socceroos"
+    ]
+  },
+  {
+    "slug": "belgien",
+    "name": "Belgien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "BE",
+    "aliases": [
+      "belgien",
+      "belgium",
+      "red devils",
+      "rote teufel"
+    ]
+  },
+  {
     "slug": "brasilien",
     "name": "Brasilien",
     "sport": "football",
@@ -1895,6 +1922,19 @@
       "brazil",
       "brasil",
       "selecao"
+    ]
+  },
+  {
+    "slug": "daenemark",
+    "name": "Dänemark",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "DK",
+    "aliases": [
+      "daenemark",
+      "danemark",
+      "denmark"
     ]
   },
   {
@@ -1910,6 +1950,18 @@
       "dfb",
       "dfb team",
       "nationalmannschaft deutschland"
+    ]
+  },
+  {
+    "slug": "ecuador",
+    "name": "Ecuador",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "EC",
+    "aliases": [
+      "ecuador",
+      "la tri"
     ]
   },
   {
@@ -1938,6 +1990,18 @@
     ]
   },
   {
+    "slug": "ghana",
+    "name": "Ghana",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "GH",
+    "aliases": [
+      "ghana",
+      "black stars"
+    ]
+  },
+  {
     "slug": "italien",
     "name": "Italien",
     "sport": "football",
@@ -1949,6 +2013,96 @@
       "italy",
       "italia",
       "azzurri"
+    ]
+  },
+  {
+    "slug": "japan",
+    "name": "Japan",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "JP",
+    "aliases": [
+      "japan",
+      "samurai blue"
+    ]
+  },
+  {
+    "slug": "kamerun",
+    "name": "Kamerun",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CM",
+    "aliases": [
+      "kamerun",
+      "cameroon",
+      "indomitable lions"
+    ]
+  },
+  {
+    "slug": "kanada",
+    "name": "Kanada",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CA",
+    "aliases": [
+      "kanada",
+      "canada"
+    ]
+  },
+  {
+    "slug": "kolumbien",
+    "name": "Kolumbien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CO",
+    "aliases": [
+      "kolumbien",
+      "colombia",
+      "los cafeteros"
+    ]
+  },
+  {
+    "slug": "kroatien",
+    "name": "Kroatien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "HR",
+    "aliases": [
+      "kroatien",
+      "croatia",
+      "vatreni"
+    ]
+  },
+  {
+    "slug": "marokko",
+    "name": "Marokko",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "MA",
+    "aliases": [
+      "marokko",
+      "morocco",
+      "atlas lions",
+      "atlasloewen"
+    ]
+  },
+  {
+    "slug": "mexiko",
+    "name": "Mexiko",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "MX",
+    "aliases": [
+      "mexiko",
+      "mexico",
+      "el tri"
     ]
   },
   {
@@ -1966,6 +2120,56 @@
     ]
   },
   {
+    "slug": "nigeria",
+    "name": "Nigeria",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "NG",
+    "aliases": [
+      "nigeria",
+      "super eagles"
+    ]
+  },
+  {
+    "slug": "norwegen",
+    "name": "Norwegen",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "NO",
+    "aliases": [
+      "norwegen",
+      "norway"
+    ]
+  },
+  {
+    "slug": "oesterreich",
+    "name": "Österreich",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "AT",
+    "aliases": [
+      "oesterreich",
+      "osterreich",
+      "austria"
+    ]
+  },
+  {
+    "slug": "polen",
+    "name": "Polen",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "PL",
+    "aliases": [
+      "polen",
+      "poland",
+      "polska"
+    ]
+  },
+  {
     "slug": "portugal",
     "name": "Portugal",
     "sport": "football",
@@ -1974,6 +2178,81 @@
     "country": "PT",
     "aliases": [
       "portugal"
+    ]
+  },
+  {
+    "slug": "saudi-arabien",
+    "name": "Saudi-Arabien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "SA",
+    "aliases": [
+      "saudi-arabien",
+      "saudi arabien",
+      "saudi arabia"
+    ]
+  },
+  {
+    "slug": "schottland",
+    "name": "Schottland",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "GB-SCT",
+    "aliases": [
+      "schottland",
+      "scotland"
+    ]
+  },
+  {
+    "slug": "schweden",
+    "name": "Schweden",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "SE",
+    "aliases": [
+      "schweden",
+      "sweden"
+    ]
+  },
+  {
+    "slug": "schweiz",
+    "name": "Schweiz",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CH",
+    "aliases": [
+      "schweiz",
+      "switzerland",
+      "suisse",
+      "nati"
+    ]
+  },
+  {
+    "slug": "senegal",
+    "name": "Senegal",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "SN",
+    "aliases": [
+      "senegal",
+      "lions of teranga"
+    ]
+  },
+  {
+    "slug": "serbien",
+    "name": "Serbien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "RS",
+    "aliases": [
+      "serbien",
+      "serbia"
     ]
   },
   {
@@ -1987,6 +2266,62 @@
       "spanien",
       "spain",
       "espana"
+    ]
+  },
+  {
+    "slug": "suedkorea",
+    "name": "Südkorea",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "KR",
+    "aliases": [
+      "suedkorea",
+      "sudkorea",
+      "south korea",
+      "korea republic",
+      "korea"
+    ]
+  },
+  {
+    "slug": "tuerkei",
+    "name": "Türkei",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "TR",
+    "aliases": [
+      "tuerkei",
+      "turkei",
+      "turkey",
+      "turkiye"
+    ]
+  },
+  {
+    "slug": "uruguay",
+    "name": "Uruguay",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "UY",
+    "aliases": [
+      "uruguay",
+      "la celeste"
+    ]
+  },
+  {
+    "slug": "usa",
+    "name": "USA",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "US",
+    "aliases": [
+      "usa",
+      "vereinigte staaten",
+      "united states",
+      "usmnt",
+      "stars and stripes"
     ]
   }
 ]

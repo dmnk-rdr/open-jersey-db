@@ -40,17 +40,49 @@ CLUBS = [
     ("VfL Bochum", "bundesliga", "DE", ["bochum", "vfl bochum"]),
 ]
 
-# (canonical name, country, [aliases]) — football national teams
+# (canonical name, country, [aliases]) — football national teams.
+# Erweitert für die WM 2026 (Gastgeber USA/Kanada/Mexiko + große Trikot-Nationen).
 NATIONS = [
     ("Deutschland", "DE", ["deutschland", "germany", "dfb", "dfb team", "nationalmannschaft deutschland"]),
     ("Frankreich", "FR", ["frankreich", "france", "les bleus"]),
     ("Brasilien", "BR", ["brasilien", "brazil", "brasil", "selecao"]),
-    ("Spanien", "ES", ["spanien", "spain", "espana"]),
+    ("Spanien", "ES", ["spanien", "spain", "espana", "la roja"]),
     ("England", "GB-ENG", ["england", "three lions"]),
     ("Italien", "IT", ["italien", "italy", "italia", "azzurri"]),
     ("Niederlande", "NL", ["niederlande", "netherlands", "holland", "oranje"]),
     ("Portugal", "PT", ["portugal"]),
     ("Argentinien", "AR", ["argentinien", "argentina", "albiceleste"]),
+    # WM-2026-Gastgeber
+    ("USA", "US", ["usa", "vereinigte staaten", "united states", "usmnt", "stars and stripes"]),
+    ("Kanada", "CA", ["kanada", "canada"]),
+    ("Mexiko", "MX", ["mexiko", "mexico", "el tri"]),
+    # Europa
+    ("Belgien", "BE", ["belgien", "belgium", "red devils", "rote teufel"]),
+    ("Kroatien", "HR", ["kroatien", "croatia", "vatreni"]),
+    ("Schweiz", "CH", ["schweiz", "switzerland", "suisse", "nati"]),
+    ("Österreich", "AT", ["oesterreich", "osterreich", "austria"]),
+    ("Dänemark", "DK", ["daenemark", "danemark", "denmark"]),
+    ("Polen", "PL", ["polen", "poland", "polska"]),
+    ("Serbien", "RS", ["serbien", "serbia"]),
+    ("Türkei", "TR", ["tuerkei", "turkei", "turkey", "turkiye"]),
+    ("Schottland", "GB-SCT", ["schottland", "scotland"]),
+    ("Norwegen", "NO", ["norwegen", "norway"]),
+    ("Schweden", "SE", ["schweden", "sweden"]),
+    # Südamerika
+    ("Uruguay", "UY", ["uruguay", "la celeste"]),
+    ("Kolumbien", "CO", ["kolumbien", "colombia", "los cafeteros"]),
+    ("Ecuador", "EC", ["ecuador", "la tri"]),
+    # Afrika
+    ("Marokko", "MA", ["marokko", "morocco", "atlas lions", "atlasloewen"]),
+    ("Senegal", "SN", ["senegal", "lions of teranga"]),
+    ("Ghana", "GH", ["ghana", "black stars"]),
+    ("Nigeria", "NG", ["nigeria", "super eagles"]),
+    ("Kamerun", "CM", ["kamerun", "cameroon", "indomitable lions"]),
+    # Asien / Ozeanien
+    ("Japan", "JP", ["japan", "samurai blue"]),
+    ("Südkorea", "KR", ["suedkorea", "sudkorea", "south korea", "korea republic", "korea"]),
+    ("Australien", "AU", ["australien", "australia", "socceroos"]),
+    ("Saudi-Arabien", "SA", ["saudi-arabien", "saudi arabien", "saudi arabia"]),
 ]
 
 # Example kits to exercise the schema (no fabricated GTINs — those arrive via
@@ -85,7 +117,10 @@ def main() -> None:
 
     for name, league, country, aliases in CLUBS:
         slug = slugify(name)
-        dump(DATA / "teams" / "football" / league / f"{slug}.yaml", {
+        path = DATA / "teams" / "football" / league / f"{slug}.yaml"
+        if path.exists():  # keep enriched/curated files (e.g. Wikidata ids/founded)
+            continue
+        dump(path, {
             "slug": slug, "name": name, "sport": "football", "type": "club",
             "league": league, "country": country, "aliases": aliases,
         })
@@ -93,7 +128,10 @@ def main() -> None:
 
     for name, country, aliases in NATIONS:
         slug = slugify(name)
-        dump(DATA / "teams" / "football" / "national" / f"{slug}.yaml", {
+        path = DATA / "teams" / "football" / "national" / f"{slug}.yaml"
+        if path.exists():
+            continue
+        dump(path, {
             "slug": slug, "name": name, "sport": "football", "type": "national",
             "league": None, "country": country, "aliases": aliases,
         })
@@ -103,6 +141,8 @@ def main() -> None:
         group = kit["league"] or "national"
         season_slug = kit["season"].replace("/", "-")
         path = DATA / "kits" / "football" / group / kit["team"] / f"{season_slug}-{kit['kit_type']}.yaml"
+        if path.exists():
+            continue
         dump(path, {
             "team": kit["team"], "sport": "football", "league": kit["league"],
             "season": kit["season"], "kit_type": kit["kit_type"],

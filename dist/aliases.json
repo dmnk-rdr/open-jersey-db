@@ -164,11 +164,22 @@
     "madrid",
     "the atletico"
   ],
+  "Australien": [
+    "australia",
+    "australien",
+    "socceroos"
+  ],
   "Bayer 04 Leverkusen": [
     "bayer 04",
     "bayer 04 leverkusen",
     "bayer leverkusen",
     "leverkusen"
+  ],
+  "Belgien": [
+    "belgien",
+    "belgium",
+    "red devils",
+    "rote teufel"
   ],
   "Betis Sevilla": [
     "balompédicos",
@@ -265,6 +276,15 @@
     "dfb team",
     "germany",
     "nationalmannschaft deutschland"
+  ],
+  "Dänemark": [
+    "daenemark",
+    "danemark",
+    "denmark"
+  ],
+  "Ecuador": [
+    "ecuador",
+    "la tri"
   ],
   "Eintracht Frankfurt": [
     "eintracht frankfurt",
@@ -495,6 +515,10 @@
     "barça",
     "futbol"
   ],
+  "Ghana": [
+    "black stars",
+    "ghana"
+  ],
   "Hamburger SV": [
     "h.s.v.",
     "hamburg",
@@ -566,6 +590,10 @@
     "italien",
     "italy"
   ],
+  "Japan": [
+    "japan",
+    "samurai blue"
+  ],
   "Juventus Turin": [
     "j.f.c.",
     "juventus",
@@ -575,6 +603,25 @@
     "juventusfc",
     "juventusfootballclub",
     "turin"
+  ],
+  "Kamerun": [
+    "cameroon",
+    "indomitable lions",
+    "kamerun"
+  ],
+  "Kanada": [
+    "canada",
+    "kanada"
+  ],
+  "Kolumbien": [
+    "colombia",
+    "kolumbien",
+    "los cafeteros"
+  ],
+  "Kroatien": [
+    "croatia",
+    "kroatien",
+    "vatreni"
   ],
   "Le Havre AC": [
     "ac le havre",
@@ -639,6 +686,17 @@
     "red devils",
     "united"
   ],
+  "Marokko": [
+    "atlas lions",
+    "atlasloewen",
+    "marokko",
+    "morocco"
+  ],
+  "Mexiko": [
+    "el tri",
+    "mexico",
+    "mexiko"
+  ],
   "Newcastle United": [
     "newcastle",
     "newcastle united fc",
@@ -651,6 +709,14 @@
     "netherlands",
     "niederlande",
     "oranje"
+  ],
+  "Nigeria": [
+    "nigeria",
+    "super eagles"
+  ],
+  "Norwegen": [
+    "norway",
+    "norwegen"
   ],
   "Nottingham Forest": [
     "forest",
@@ -709,6 +775,11 @@
     "paris st.-germain",
     "psgfc",
     "saint"
+  ],
+  "Polen": [
+    "poland",
+    "polen",
+    "polska"
   ],
   "Portugal": [
     "portugal"
@@ -832,6 +903,33 @@
     "ucs",
     "ucs 1946"
   ],
+  "Saudi-Arabien": [
+    "saudi arabia",
+    "saudi arabien",
+    "saudi-arabien"
+  ],
+  "Schottland": [
+    "schottland",
+    "scotland"
+  ],
+  "Schweden": [
+    "schweden",
+    "sweden"
+  ],
+  "Schweiz": [
+    "nati",
+    "schweiz",
+    "suisse",
+    "switzerland"
+  ],
+  "Senegal": [
+    "lions of teranga",
+    "senegal"
+  ],
+  "Serbien": [
+    "serbia",
+    "serbien"
+  ],
   "Spanien": [
     "espana",
     "spain",
@@ -860,6 +958,13 @@
     "stade rennais football club",
     "stade rennais uc"
   ],
+  "Südkorea": [
+    "korea",
+    "korea republic",
+    "south korea",
+    "sudkorea",
+    "suedkorea"
+  ],
   "TSG 1899 Hoffenheim": [
     "hoffenheim",
     "tsg 1899 hoffenheim",
@@ -873,6 +978,12 @@
     "tottenham",
     "tottenham hotspur fc",
     "tottenham hotspur football club"
+  ],
+  "Türkei": [
+    "tuerkei",
+    "turkei",
+    "turkey",
+    "turkiye"
   ],
   "U.S. Lecce": [
     "lecce",
@@ -901,12 +1012,23 @@
     "u.s. sassuolo calcio",
     "unione sportiva sassuolo calcio"
   ],
+  "USA": [
+    "stars and stripes",
+    "united states",
+    "usa",
+    "usmnt",
+    "vereinigte staaten"
+  ],
   "Udinese Calcio": [
     "first bianconeri of italy",
     "udinese",
     "udinese fc",
     "udinese football",
     "udinese football club"
+  ],
+  "Uruguay": [
+    "la celeste",
+    "uruguay"
   ],
   "VfB Stuttgart": [
     "stuttgart",
@@ -943,5 +1065,10 @@
     "wolverhampton wolves fc",
     "wolves",
     "wwfc"
+  ],
+  "Österreich": [
+    "austria",
+    "oesterreich",
+    "osterreich"
   ]
 }
