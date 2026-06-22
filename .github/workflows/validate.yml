@@ -1,0 +1,27 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install tooling
+        run: pip install pyyaml jsonschema
+      - name: Validate data (schema + integrity)
+        run: python scripts/validate.py
+      - name: Rebuild dist artifacts
+        run: python scripts/build.py
+      - name: dist/ must be committed and up to date
+        run: |
+          if ! git diff --exit-code -- dist/; then
+            echo "::error::dist/ is stale — run 'python scripts/build.py' and commit the result."
+            exit 1
+          fi

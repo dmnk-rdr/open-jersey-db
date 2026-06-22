@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/dmnk-rdr/open-jersey-db/schema/kit.schema.json",
+  "title": "Kit",
+  "description": "One jersey design = team + season + kit_type (+ optional player edition). One file per kit under data/kits/<sport>/<league|national>/<team-slug>/<season>-<kit_type>.yaml",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["team", "sport", "season", "kit_type", "source"],
+  "properties": {
+    "team": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Slug of the owning team (must exist under data/teams/)."
+    },
+    "sport": {
+      "enum": ["football", "basketball", "american-football", "ice-hockey", "baseball", "handball", "rugby"]
+    },
+    "league": {
+      "type": ["string", "null"],
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "season": {
+      "type": "string",
+      "pattern": "^(\\d{4}/\\d{2}|\\d{4})$",
+      "description": "Split season 'YYYY/YY' (e.g. '2024/25') or single year 'YYYY' for tournaments (e.g. '2024')."
+    },
+    "kit_type": {
+      "enum": ["home", "away", "third", "fourth", "gk", "training", "special"]
+    },
+    "player_name": {
+      "type": ["string", "null"],
+      "description": "Only for player-name editions; otherwise null."
+    },
+    "manufacturer": {
+      "type": ["string", "null"],
+      "description": "Brand that makes the jersey, e.g. 'adidas', 'Nike', 'Puma'."
+    },
+    "main_sponsor": { "type": ["string", "null"] },
+    "colorway": { "type": ["string", "null"] },
+    "gtins": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^(\\d{8}|\\d{12,14})$" },
+      "default": [],
+      "description": "Known GTIN-8/12/13/14 barcodes for this kit (any size/variant). The golden key for matching offers across shops."
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "source": {
+      "enum": ["manufacturer", "feed", "community"],
+      "description": "Provenance: 'manufacturer' = submitted/verified by the brand, 'feed' = harvested from a product feed, 'community' = contributed manually."
+    },
+    "verified_by": {
+      "type": ["string", "null"],
+      "description": "Set when source=manufacturer, e.g. 'adidas'."
+    },
+    "notes": { "type": ["string", "null"] }
+  }
+}

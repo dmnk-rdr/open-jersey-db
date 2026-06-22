@@ -1,0 +1,358 @@
+[
+  {
+    "slug": "1-fc-heidenheim",
+    "name": "1. FC Heidenheim",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "heidenheim",
+      "fc heidenheim",
+      "1 fc heidenheim"
+    ]
+  },
+  {
+    "slug": "1-fc-union-berlin",
+    "name": "1. FC Union Berlin",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "union berlin",
+      "1 fc union berlin",
+      "fc union berlin"
+    ]
+  },
+  {
+    "slug": "1-fsv-mainz-05",
+    "name": "1. FSV Mainz 05",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "mainz",
+      "mainz 05",
+      "fsv mainz 05",
+      "1 fsv mainz 05"
+    ]
+  },
+  {
+    "slug": "bayer-04-leverkusen",
+    "name": "Bayer 04 Leverkusen",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "leverkusen",
+      "bayer leverkusen",
+      "bayer 04",
+      "bayer 04 leverkusen"
+    ]
+  },
+  {
+    "slug": "borussia-dortmund",
+    "name": "Borussia Dortmund",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "dortmund",
+      "bvb",
+      "bvb 09",
+      "borussia dortmund 09"
+    ]
+  },
+  {
+    "slug": "borussia-moenchengladbach",
+    "name": "Borussia Mönchengladbach",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "gladbach",
+      "monchengladbach",
+      "moenchengladbach",
+      "borussia monchengladbach",
+      "bmg"
+    ]
+  },
+  {
+    "slug": "eintracht-frankfurt",
+    "name": "Eintracht Frankfurt",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "frankfurt",
+      "eintracht frankfurt",
+      "sge"
+    ]
+  },
+  {
+    "slug": "fc-augsburg",
+    "name": "FC Augsburg",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "augsburg",
+      "fc augsburg"
+    ]
+  },
+  {
+    "slug": "fc-bayern-muenchen",
+    "name": "FC Bayern München",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "bayern",
+      "bayern munich",
+      "bayern muenchen",
+      "fc bayern",
+      "fcb",
+      "fc bayern munchen"
+    ]
+  },
+  {
+    "slug": "fc-st-pauli",
+    "name": "FC St. Pauli",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "st pauli",
+      "fc st pauli",
+      "sankt pauli"
+    ]
+  },
+  {
+    "slug": "holstein-kiel",
+    "name": "Holstein Kiel",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "kiel",
+      "holstein kiel"
+    ]
+  },
+  {
+    "slug": "rb-leipzig",
+    "name": "RB Leipzig",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "leipzig",
+      "rb leipzig",
+      "rasenballsport leipzig"
+    ]
+  },
+  {
+    "slug": "sc-freiburg",
+    "name": "SC Freiburg",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "freiburg",
+      "sc freiburg"
+    ]
+  },
+  {
+    "slug": "sv-werder-bremen",
+    "name": "SV Werder Bremen",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "werder",
+      "werder bremen",
+      "sv werder bremen"
+    ]
+  },
+  {
+    "slug": "tsg-1899-hoffenheim",
+    "name": "TSG 1899 Hoffenheim",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hoffenheim",
+      "tsg hoffenheim",
+      "tsg 1899 hoffenheim"
+    ]
+  },
+  {
+    "slug": "vfb-stuttgart",
+    "name": "VfB Stuttgart",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "stuttgart",
+      "vfb",
+      "vfb stuttgart"
+    ]
+  },
+  {
+    "slug": "vfl-bochum",
+    "name": "VfL Bochum",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "bochum",
+      "vfl bochum"
+    ]
+  },
+  {
+    "slug": "vfl-wolfsburg",
+    "name": "VfL Wolfsburg",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "wolfsburg",
+      "vfl wolfsburg"
+    ]
+  },
+  {
+    "slug": "argentinien",
+    "name": "Argentinien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "AR",
+    "aliases": [
+      "argentinien",
+      "argentina",
+      "albiceleste"
+    ]
+  },
+  {
+    "slug": "brasilien",
+    "name": "Brasilien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "BR",
+    "aliases": [
+      "brasilien",
+      "brazil",
+      "brasil",
+      "selecao"
+    ]
+  },
+  {
+    "slug": "deutschland",
+    "name": "Deutschland",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "deutschland",
+      "germany",
+      "dfb",
+      "dfb team",
+      "nationalmannschaft deutschland"
+    ]
+  },
+  {
+    "slug": "england",
+    "name": "England",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "GB-ENG",
+    "aliases": [
+      "england",
+      "three lions"
+    ]
+  },
+  {
+    "slug": "frankreich",
+    "name": "Frankreich",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "FR",
+    "aliases": [
+      "frankreich",
+      "france",
+      "les bleus"
+    ]
+  },
+  {
+    "slug": "italien",
+    "name": "Italien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "IT",
+    "aliases": [
+      "italien",
+      "italy",
+      "italia",
+      "azzurri"
+    ]
+  },
+  {
+    "slug": "niederlande",
+    "name": "Niederlande",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "NL",
+    "aliases": [
+      "niederlande",
+      "netherlands",
+      "holland",
+      "oranje"
+    ]
+  },
+  {
+    "slug": "portugal",
+    "name": "Portugal",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "PT",
+    "aliases": [
+      "portugal"
+    ]
+  },
+  {
+    "slug": "spanien",
+    "name": "Spanien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "ES",
+    "aliases": [
+      "spanien",
+      "spain",
+      "espana"
+    ]
+  }
+]

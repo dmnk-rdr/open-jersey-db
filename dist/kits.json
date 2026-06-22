@@ -1,0 +1,38 @@
+[
+  {
+    "team": "borussia-dortmund",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2024/25",
+    "kit_type": "home",
+    "manufacturer": "Puma",
+    "main_sponsor": "1&1",
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "deutschland",
+    "sport": "football",
+    "league": null,
+    "season": "2024",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "fc-bayern-muenchen",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2024/25",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": "Deutsche Telekom",
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  }
+]
