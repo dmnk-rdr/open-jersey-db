@@ -1,20 +1,5 @@
 [
   {
-    "slug": "1-fc-heidenheim",
-    "name": "1. FC Heidenheim",
-    "sport": "football",
-    "type": "club",
-    "league": "bundesliga",
-    "country": "DE",
-    "aliases": [
-      "heidenheim",
-      "fc heidenheim",
-      "1 fc heidenheim"
-    ],
-    "founded": 2007,
-    "wikidata": "Q162251"
-  },
-  {
     "slug": "1-fc-koeln",
     "name": "1. FC Köln",
     "sport": "football",
@@ -163,19 +148,21 @@
     "wikidata": "Q15789"
   },
   {
-    "slug": "fc-st-pauli",
-    "name": "FC St. Pauli",
+    "slug": "fc-schalke-04",
+    "name": "FC Schalke 04",
     "sport": "football",
     "type": "club",
     "league": "bundesliga",
     "country": "DE",
     "aliases": [
-      "st pauli",
-      "fc st pauli",
-      "sankt pauli"
+      "schalke",
+      "schalke 04",
+      "s04",
+      "fc schalke",
+      "koenigsblau"
     ],
-    "founded": 1910,
-    "wikidata": "Q6463"
+    "founded": 1904,
+    "wikidata": "Q32494"
   },
   {
     "slug": "hamburger-sv",
@@ -229,6 +216,37 @@
     "wikidata": "Q106394"
   },
   {
+    "slug": "sc-paderborn-07",
+    "name": "SC Paderborn 07",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "paderborn",
+      "sc paderborn",
+      "scp"
+    ],
+    "founded": 1907,
+    "wikidata": "Q160532"
+  },
+  {
+    "slug": "sv-elversberg",
+    "name": "SV Elversberg",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "elversberg",
+      "sv elversberg",
+      "sve",
+      "sv 07 elversberg"
+    ],
+    "founded": 1907,
+    "wikidata": "Q692691"
+  },
+  {
     "slug": "sv-werder-bremen",
     "name": "SV Werder Bremen",
     "sport": "football",
@@ -272,20 +290,6 @@
     ],
     "founded": 1893,
     "wikidata": "Q4512"
-  },
-  {
-    "slug": "vfl-wolfsburg",
-    "name": "VfL Wolfsburg",
-    "sport": "football",
-    "type": "club",
-    "league": "bundesliga",
-    "country": "DE",
-    "aliases": [
-      "wolfsburg",
-      "vfl wolfsburg"
-    ],
-    "founded": 1945,
-    "wikidata": "Q101859"
   },
   {
     "slug": "athletic-bilbao",

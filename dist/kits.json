@@ -1,29 +1,5 @@
 [
   {
-    "team": "1-fc-heidenheim",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "1-fc-heidenheim",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
     "team": "1-fc-koeln",
     "sport": "football",
     "league": "bundesliga",
@@ -1224,6 +1200,30 @@
     "source": "community"
   },
   {
+    "team": "fc-schalke-04",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "fc-schalke-04",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
     "team": "fc-sevilla",
     "sport": "football",
     "league": "la-liga",
@@ -1263,30 +1263,6 @@
     "team": "fc-southampton",
     "sport": "football",
     "league": "premier-league",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "fc-st-pauli",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "fc-st-pauli",
-    "sport": "football",
-    "league": "bundesliga",
     "season": "2025/26",
     "kit_type": "home",
     "manufacturer": null,
@@ -2496,6 +2472,30 @@
     "source": "community"
   },
   {
+    "team": "sc-paderborn-07",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "sc-paderborn-07",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
     "team": "schottland",
     "sport": "football",
     "league": null,
@@ -2808,6 +2808,30 @@
     "source": "community"
   },
   {
+    "team": "sv-elversberg",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "sv-elversberg",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
     "team": "sv-werder-bremen",
     "sport": "football",
     "league": "bundesliga",
@@ -3085,30 +3109,6 @@
   },
   {
     "team": "vfb-stuttgart",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "vfl-wolfsburg",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "vfl-wolfsburg",
     "sport": "football",
     "league": "bundesliga",
     "season": "2025/26",

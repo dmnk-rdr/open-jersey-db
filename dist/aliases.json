@@ -1,9 +1,4 @@
 {
-  "1. FC Heidenheim": [
-    "1 fc heidenheim",
-    "fc heidenheim",
-    "heidenheim"
-  ],
   "1. FC Köln": [
     "1. fc cologne",
     "1. fußball-club köln 01/07",
@@ -431,6 +426,13 @@
     "football club of nantes",
     "nantes"
   ],
+  "FC Schalke 04": [
+    "fc schalke",
+    "koenigsblau",
+    "s04",
+    "schalke",
+    "schalke 04"
+  ],
   "FC Sevilla": [
     "s.f.c.",
     "sevilla",
@@ -450,11 +452,6 @@
     "southampton fc",
     "southampton football club",
     "southamptonfc"
-  ],
-  "FC St. Pauli": [
-    "fc st pauli",
-    "sankt pauli",
-    "st pauli"
   ],
   "FC Toulouse": [
     "tfc",
@@ -852,6 +849,11 @@
     "freiburg",
     "sc freiburg"
   ],
+  "SC Paderborn 07": [
+    "paderborn",
+    "sc paderborn",
+    "scp"
+  ],
   "SCO Angers": [
     "angers",
     "angers sco",
@@ -879,6 +881,12 @@
     "ssc naples",
     "ssc napoli",
     "sscn"
+  ],
+  "SV Elversberg": [
+    "elversberg",
+    "sv 07 elversberg",
+    "sv elversberg",
+    "sve"
   ],
   "SV Werder Bremen": [
     "sv werder bremen",
@@ -1030,10 +1038,6 @@
     "stuttgart",
     "vfb",
     "vfb stuttgart"
-  ],
-  "VfL Wolfsburg": [
-    "vfl wolfsburg",
-    "wolfsburg"
   ],
   "West Ham United": [
     "the hammers",
