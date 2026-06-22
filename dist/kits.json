@@ -1512,30 +1512,6 @@
     "source": "community"
   },
   {
-    "team": "holstein-kiel",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "holstein-kiel",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
     "team": "inter-mailand",
     "sport": "football",
     "league": "serie-a",
@@ -3109,30 +3085,6 @@
   },
   {
     "team": "vfb-stuttgart",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "vfl-bochum",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "vfl-bochum",
     "sport": "football",
     "league": "bundesliga",
     "season": "2025/26",

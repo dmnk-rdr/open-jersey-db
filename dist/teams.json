@@ -200,18 +200,6 @@
     "wikidata": "Q51974"
   },
   {
-    "slug": "holstein-kiel",
-    "name": "Holstein Kiel",
-    "sport": "football",
-    "type": "club",
-    "league": "bundesliga",
-    "country": "DE",
-    "aliases": [
-      "kiel",
-      "holstein kiel"
-    ]
-  },
-  {
     "slug": "rb-leipzig",
     "name": "RB Leipzig",
     "sport": "football",
@@ -284,18 +272,6 @@
     ],
     "founded": 1893,
     "wikidata": "Q4512"
-  },
-  {
-    "slug": "vfl-bochum",
-    "name": "VfL Bochum",
-    "sport": "football",
-    "type": "club",
-    "league": "bundesliga",
-    "country": "DE",
-    "aliases": [
-      "bochum",
-      "vfl bochum"
-    ]
   },
   {
     "slug": "vfl-wolfsburg",
