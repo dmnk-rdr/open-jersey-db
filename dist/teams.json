@@ -1,5 +1,36 @@
 [
   {
+    "slug": "spvgg-unterhaching",
+    "name": "SpVgg Unterhaching",
+    "sport": "football",
+    "type": "club",
+    "league": "3-liga",
+    "country": "DE",
+    "aliases": [
+      "haching",
+      "spielvereinigung unterhaching",
+      "spvgg unterhaching",
+      "unterhaching"
+    ],
+    "founded": 1925
+  },
+  {
+    "slug": "ssv-ulm-1846",
+    "name": "SSV Ulm 1846",
+    "sport": "football",
+    "type": "club",
+    "league": "3-liga",
+    "country": "DE",
+    "aliases": [
+      "spatzen",
+      "ssv ulm",
+      "ssv ulm 1846",
+      "ssv ulm 1846 fussball",
+      "ulm"
+    ],
+    "founded": 1846
+  },
+  {
     "slug": "1-fc-koeln",
     "name": "1. FC Köln",
     "sport": "football",
