@@ -516,6 +516,12 @@
     "black stars",
     "ghana"
   ],
+  "HBW Balingen-Weilstetten": [
+    "balingen",
+    "hbw",
+    "hbw balingen",
+    "hbw balingen weilstetten"
+  ],
   "Hamburger SV": [
     "h.s.v.",
     "hamburg",
@@ -577,11 +583,14 @@
     "the tractor boys",
     "town"
   ],
+  "Island": [
+    "iceland",
+    "island"
+  ],
   "Italien": [
-    "azzurri",
-    "italia",
-    "italien",
-    "italy"
+    "figh",
+    "figh player",
+    "italien handball"
   ],
   "Japan": [
     "japan",
@@ -775,7 +784,7 @@
     "polska"
   ],
   "Portugal": [
-    "portugal"
+    "portugal handball"
   ],
   "RB Leipzig": [
     "leipzig",
@@ -844,6 +853,11 @@
     "san sebastian foot-ball club",
     "san sebastián foot-ball club",
     "sociedad"
+  ],
+  "Rumänien": [
+    "romania",
+    "rumaenien",
+    "rumänien"
   ],
   "SC Freiburg": [
     "freiburg",
@@ -988,6 +1002,10 @@
     "tsg 1899 hoffenheim",
     "tsg hoffenheim"
   ],
+  "ThSV Eisenach": [
+    "eisenach",
+    "thsv eisenach"
+  ],
   "Tottenham Hotspur": [
     "hotspur",
     "spurs",
@@ -1053,6 +1071,9 @@
     "vfb",
     "vfb stuttgart"
   ],
+  "VfL Potsdam": [
+    "vfl potsdam"
+  ],
   "West Ham United": [
     "the hammers",
     "the irons",
@@ -1078,7 +1099,8 @@
   ],
   "Österreich": [
     "austria",
-    "oesterreich",
-    "osterreich"
+    "oehb",
+    "öhb",
+    "österreich handball"
   ]
 }
