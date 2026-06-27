@@ -246,6 +246,11 @@
     "real club fortuna de vigo",
     "vigo"
   ],
+  "Clermont Foot": [
+    "clermont",
+    "clermont foot",
+    "clermont foot 63"
+  ],
   "Crystal Palace": [
     "cpfc",
     "crystal",
@@ -909,9 +914,15 @@
     "sv elversberg",
     "sve"
   ],
+  "SV Waldhof Mannheim": [
+    "sv waldhof",
+    "sv waldhof mannheim",
+    "svw",
+    "waldhof",
+    "waldhof mannheim"
+  ],
   "SV Werder Bremen": [
     "sv werder bremen",
-    "svw",
     "werder",
     "werder bremen"
   ],
@@ -990,6 +1001,11 @@
     "stade rennais football club",
     "stade rennais uc"
   ],
+  "Stuttgarter Kickers": [
+    "kickers",
+    "stuttgarter kickers",
+    "sv stuttgarter kickers"
+  ],
   "Südkorea": [
     "korea",
     "korea republic",
@@ -1001,6 +1017,10 @@
     "hoffenheim",
     "tsg 1899 hoffenheim",
     "tsg hoffenheim"
+  ],
+  "TSG Balingen": [
+    "balingen",
+    "tsg balingen"
   ],
   "ThSV Eisenach": [
     "eisenach",

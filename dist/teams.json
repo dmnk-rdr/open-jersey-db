@@ -31,6 +31,22 @@
     "founded": 1846
   },
   {
+    "slug": "sv-waldhof-mannheim",
+    "name": "SV Waldhof Mannheim",
+    "sport": "football",
+    "type": "club",
+    "league": "3-liga",
+    "country": "DE",
+    "aliases": [
+      "sv waldhof",
+      "sv waldhof mannheim",
+      "svw",
+      "waldhof",
+      "waldhof mannheim"
+    ],
+    "founded": 1907
+  },
+  {
     "slug": "1-fc-koeln",
     "name": "1. FC Köln",
     "sport": "football",
@@ -285,7 +301,6 @@
     "league": "bundesliga",
     "country": "DE",
     "aliases": [
-      "svw",
       "werder",
       "werder bremen",
       "sv werder bremen"
@@ -1051,6 +1066,20 @@
     "wikidata": "Q19509"
   },
   {
+    "slug": "clermont-foot",
+    "name": "Clermont Foot",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-2",
+    "country": "FR",
+    "aliases": [
+      "clermont",
+      "clermont foot",
+      "clermont foot 63"
+    ],
+    "founded": 1990
+  },
+  {
     "slug": "afc-bournemouth",
     "name": "AFC Bournemouth",
     "sport": "football",
@@ -1460,6 +1489,33 @@
     ],
     "founded": 1877,
     "wikidata": "Q19500"
+  },
+  {
+    "slug": "stuttgarter-kickers",
+    "name": "Stuttgarter Kickers",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "kickers",
+      "stuttgarter kickers",
+      "sv stuttgarter kickers"
+    ],
+    "founded": 1899
+  },
+  {
+    "slug": "tsg-balingen",
+    "name": "TSG Balingen",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "balingen",
+      "tsg balingen"
+    ],
+    "founded": 1848
   },
   {
     "slug": "ac-florenz",
