@@ -7,6 +7,7 @@ country: DE
 aliases:
 - deutschland
 - germany
-- dfb
+# 'dfb' bewusst NICHT: matcht sonst "DFB-Pokal" (Vereins-Wettbewerb) -> Vereins-
+# Sondertrikots würden fälschlich der Nationalelf zugeordnet. 'dfb team' ist eindeutig.
 - dfb team
 - nationalmannschaft deutschland
