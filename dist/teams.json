@@ -1,20 +1,5 @@
 [
   {
-    "slug": "spvgg-unterhaching",
-    "name": "SpVgg Unterhaching",
-    "sport": "football",
-    "type": "club",
-    "league": "3-liga",
-    "country": "DE",
-    "aliases": [
-      "haching",
-      "spielvereinigung unterhaching",
-      "spvgg unterhaching",
-      "unterhaching"
-    ],
-    "founded": 1925
-  },
-  {
     "slug": "ssv-ulm-1846",
     "name": "SSV Ulm 1846",
     "sport": "football",
@@ -1489,6 +1474,21 @@
     ],
     "founded": 1877,
     "wikidata": "Q19500"
+  },
+  {
+    "slug": "spvgg-unterhaching",
+    "name": "SpVgg Unterhaching",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "haching",
+      "spielvereinigung unterhaching",
+      "spvgg unterhaching",
+      "unterhaching"
+    ],
+    "founded": 1925
   },
   {
     "slug": "stuttgarter-kickers",
