@@ -110,6 +110,12 @@
     "rome sport association",
     "the wolfs"
   ],
+  "Algerien": [
+    "algeria",
+    "algerie",
+    "algerien",
+    "algérie"
+  ],
   "Anaheim Ducks": [
     "anaheim ducks"
   ],
@@ -228,6 +234,13 @@
     "gladbach",
     "moenchengladbach",
     "monchengladbach"
+  ],
+  "Bosnien und Herzegowina": [
+    "bosna i hercegovina",
+    "bosnia",
+    "bosnia and herzegovina",
+    "bosnien",
+    "bosnien und herzegowina"
   ],
   "Boston Bruins": [
     "boston bruins"
@@ -357,6 +370,17 @@
     "the eagles",
     "the glaziers"
   ],
+  "Curaçao": [
+    "curacao",
+    "curaçao"
+  ],
+  "DR Kongo": [
+    "congo dr",
+    "demokratische republik kongo",
+    "dr congo",
+    "dr kongo",
+    "rd congo"
+  ],
   "Dallas Cowboys": [
     "dallas cowboys"
   ],
@@ -415,6 +439,13 @@
     "eintracht frankfurt",
     "frankfurt",
     "sge"
+  ],
+  "Elfenbeinküste": [
+    "cote d'ivoire",
+    "côte d'ivoire",
+    "elfenbeinkueste",
+    "elfenbeinküste",
+    "ivory coast"
   ],
   "England": [
     "england",
@@ -661,6 +692,10 @@
     "hbw balingen",
     "hbw balingen weilstetten"
   ],
+  "Haiti": [
+    "haiti",
+    "haïti"
+  ],
   "Hamburger SV": [
     "h.s.v.",
     "hamburg",
@@ -737,6 +772,14 @@
     "the tractor boys",
     "town"
   ],
+  "Irak": [
+    "irak",
+    "iraq"
+  ],
+  "Iran": [
+    "iran",
+    "islamische republik iran"
+  ],
   "Island": [
     "iceland",
     "island"
@@ -752,6 +795,10 @@
   "Japan": [
     "japan",
     "samurai blue"
+  ],
+  "Jordanien": [
+    "jordan",
+    "jordanien"
   ],
   "Juventus Turin": [
     "j.f.c.",
@@ -777,6 +824,15 @@
   ],
   "Kansas City Royals": [
     "kansas city royals"
+  ],
+  "Kap Verde": [
+    "cabo verde",
+    "cape verde",
+    "kap verde"
+  ],
+  "Katar": [
+    "katar",
+    "qatar"
   ],
   "Kolumbien": [
     "colombia",
@@ -922,6 +978,10 @@
   "Nashville Predators": [
     "nashville predators"
   ],
+  "Neuseeland": [
+    "neuseeland",
+    "new zealand"
+  ],
   "New England Patriots": [
     "new england patriots"
   ],
@@ -1028,6 +1088,12 @@
   ],
   "Ottawa Senators": [
     "ottawa senators"
+  ],
+  "Panama": [
+    "panama"
+  ],
+  "Paraguay": [
+    "paraguay"
   ],
   "Paris FC": [
     "paris",
@@ -1328,6 +1394,11 @@
     "stuttgarter kickers",
     "sv stuttgarter kickers"
   ],
+  "Südafrika": [
+    "south africa",
+    "suedafrika",
+    "südafrika"
+  ],
   "Südkorea": [
     "korea",
     "korea republic",
@@ -1381,6 +1452,17 @@
     "tottenham hotspur fc",
     "tottenham hotspur football club"
   ],
+  "Tschechien": [
+    "czech republic",
+    "czechia",
+    "tschechien",
+    "tschechische republik"
+  ],
+  "Tunesien": [
+    "tunesien",
+    "tunisia",
+    "tunisie"
+  ],
   "Türkei": [
     "tuerkei",
     "turkei",
@@ -1431,6 +1513,10 @@
   "Uruguay": [
     "la celeste",
     "uruguay"
+  ],
+  "Usbekistan": [
+    "usbekistan",
+    "uzbekistan"
   ],
   "Utah Hockey Club": [
     "utah hockey club"
@@ -1489,6 +1575,11 @@
     "wolverhampton wolves fc",
     "wolves",
     "wwfc"
+  ],
+  "Ägypten": [
+    "aegypten",
+    "egypt",
+    "ägypten"
   ],
   "Österreich": [
     "austria",

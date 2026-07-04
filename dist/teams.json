@@ -3451,6 +3451,33 @@
     "wikidata": "Q8603"
   },
   {
+    "slug": "aegypten",
+    "name": "Ägypten",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "EG",
+    "aliases": [
+      "ägypten",
+      "aegypten",
+      "egypt"
+    ]
+  },
+  {
+    "slug": "algerien",
+    "name": "Algerien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "DZ",
+    "aliases": [
+      "algerien",
+      "algeria",
+      "algérie",
+      "algerie"
+    ]
+  },
+  {
     "slug": "argentinien",
     "name": "Argentinien",
     "sport": "football",
@@ -3491,6 +3518,21 @@
     ]
   },
   {
+    "slug": "bosnien-und-herzegowina",
+    "name": "Bosnien und Herzegowina",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "BA",
+    "aliases": [
+      "bosnien und herzegowina",
+      "bosnien",
+      "bosnia",
+      "bosnia and herzegovina",
+      "bosna i hercegovina"
+    ]
+  },
+  {
     "slug": "brasilien",
     "name": "Brasilien",
     "sport": "football",
@@ -3502,6 +3544,18 @@
       "brazil",
       "brasil",
       "selecao"
+    ]
+  },
+  {
+    "slug": "curacao",
+    "name": "Curaçao",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CW",
+    "aliases": [
+      "curaçao",
+      "curacao"
     ]
   },
   {
@@ -3532,6 +3586,21 @@
     ]
   },
   {
+    "slug": "dr-kongo",
+    "name": "DR Kongo",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CD",
+    "aliases": [
+      "dr kongo",
+      "demokratische republik kongo",
+      "dr congo",
+      "congo dr",
+      "rd congo"
+    ]
+  },
+  {
     "slug": "ecuador",
     "name": "Ecuador",
     "sport": "football",
@@ -3541,6 +3610,21 @@
     "aliases": [
       "ecuador",
       "la tri"
+    ]
+  },
+  {
+    "slug": "elfenbeinkueste",
+    "name": "Elfenbeinküste",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CI",
+    "aliases": [
+      "elfenbeinküste",
+      "elfenbeinkueste",
+      "ivory coast",
+      "cote d'ivoire",
+      "côte d'ivoire"
     ]
   },
   {
@@ -3581,6 +3665,42 @@
     ]
   },
   {
+    "slug": "haiti",
+    "name": "Haiti",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "HT",
+    "aliases": [
+      "haiti",
+      "haïti"
+    ]
+  },
+  {
+    "slug": "irak",
+    "name": "Irak",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "IQ",
+    "aliases": [
+      "irak",
+      "iraq"
+    ]
+  },
+  {
+    "slug": "iran",
+    "name": "Iran",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "IR",
+    "aliases": [
+      "iran",
+      "islamische republik iran"
+    ]
+  },
+  {
     "slug": "italien",
     "name": "Italien",
     "sport": "football",
@@ -3607,6 +3727,18 @@
     ]
   },
   {
+    "slug": "jordanien",
+    "name": "Jordanien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "JO",
+    "aliases": [
+      "jordanien",
+      "jordan"
+    ]
+  },
+  {
     "slug": "kamerun",
     "name": "Kamerun",
     "sport": "football",
@@ -3629,6 +3761,31 @@
     "aliases": [
       "kanada",
       "canada"
+    ]
+  },
+  {
+    "slug": "kap-verde",
+    "name": "Kap Verde",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CV",
+    "aliases": [
+      "kap verde",
+      "cape verde",
+      "cabo verde"
+    ]
+  },
+  {
+    "slug": "katar",
+    "name": "Katar",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "QA",
+    "aliases": [
+      "katar",
+      "qatar"
     ]
   },
   {
@@ -3685,6 +3842,18 @@
     ]
   },
   {
+    "slug": "neuseeland",
+    "name": "Neuseeland",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "NZ",
+    "aliases": [
+      "neuseeland",
+      "new zealand"
+    ]
+  },
+  {
     "slug": "niederlande",
     "name": "Niederlande",
     "sport": "football",
@@ -3733,6 +3902,28 @@
       "oesterreich",
       "osterreich",
       "austria"
+    ]
+  },
+  {
+    "slug": "panama",
+    "name": "Panama",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "PA",
+    "aliases": [
+      "panama"
+    ]
+  },
+  {
+    "slug": "paraguay",
+    "name": "Paraguay",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "PY",
+    "aliases": [
+      "paraguay"
     ]
   },
   {
@@ -3848,6 +4039,19 @@
     ]
   },
   {
+    "slug": "suedafrika",
+    "name": "Südafrika",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "ZA",
+    "aliases": [
+      "südafrika",
+      "suedafrika",
+      "south africa"
+    ]
+  },
+  {
     "slug": "suedkorea",
     "name": "Südkorea",
     "sport": "football",
@@ -3863,6 +4067,20 @@
     ]
   },
   {
+    "slug": "tschechien",
+    "name": "Tschechien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CZ",
+    "aliases": [
+      "tschechien",
+      "czech republic",
+      "czechia",
+      "tschechische republik"
+    ]
+  },
+  {
     "slug": "tuerkei",
     "name": "Türkei",
     "sport": "football",
@@ -3874,6 +4092,19 @@
       "turkei",
       "turkey",
       "turkiye"
+    ]
+  },
+  {
+    "slug": "tunesien",
+    "name": "Tunesien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "TN",
+    "aliases": [
+      "tunesien",
+      "tunisia",
+      "tunisie"
     ]
   },
   {
@@ -3901,6 +4132,18 @@
       "united states",
       "usmnt",
       "stars and stripes"
+    ]
+  },
+  {
+    "slug": "usbekistan",
+    "name": "Usbekistan",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "UZ",
+    "aliases": [
+      "usbekistan",
+      "uzbekistan"
     ]
   },
   {
