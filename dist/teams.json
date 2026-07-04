@@ -8,7 +8,9 @@
     "country": "US",
     "aliases": [
       "arizona cardinals"
-    ]
+    ],
+    "founded": 1920,
+    "wikidata": "Q224164"
   },
   {
     "slug": "atlanta-falcons",
@@ -19,7 +21,10 @@
     "country": "US",
     "aliases": [
       "atlanta falcons"
-    ]
+    ],
+    "founded": 1966,
+    "city": "Atlanta",
+    "wikidata": "Q272059"
   },
   {
     "slug": "baltimore-ravens",
@@ -30,7 +35,10 @@
     "country": "US",
     "aliases": [
       "baltimore ravens"
-    ]
+    ],
+    "founded": 1996,
+    "city": "Baltimore",
+    "wikidata": "Q276539"
   },
   {
     "slug": "buffalo-bills",
@@ -41,7 +49,9 @@
     "country": "US",
     "aliases": [
       "buffalo bills"
-    ]
+    ],
+    "founded": 1960,
+    "wikidata": "Q221626"
   },
   {
     "slug": "carolina-panthers",
@@ -52,7 +62,10 @@
     "country": "US",
     "aliases": [
       "carolina panthers"
-    ]
+    ],
+    "founded": 1993,
+    "stadium": "Bank of America Stadium",
+    "wikidata": "Q330120"
   },
   {
     "slug": "chicago-bears",
@@ -63,7 +76,9 @@
     "country": "US",
     "aliases": [
       "chicago bears"
-    ]
+    ],
+    "founded": 1919,
+    "wikidata": "Q205033"
   },
   {
     "slug": "cincinnati-bengals",
@@ -74,7 +89,11 @@
     "country": "US",
     "aliases": [
       "cincinnati bengals"
-    ]
+    ],
+    "founded": 1968,
+    "city": "Cincinnati",
+    "stadium": "Paycor Stadium",
+    "wikidata": "Q223511"
   },
   {
     "slug": "cleveland-browns",
@@ -85,7 +104,10 @@
     "country": "US",
     "aliases": [
       "cleveland browns"
-    ]
+    ],
+    "founded": 1946,
+    "city": "Cleveland",
+    "wikidata": "Q223527"
   },
   {
     "slug": "dallas-cowboys",
@@ -96,7 +118,11 @@
     "country": "US",
     "aliases": [
       "dallas cowboys"
-    ]
+    ],
+    "founded": 1960,
+    "city": "Arlington",
+    "stadium": "AT&T Stadium",
+    "wikidata": "Q204862"
   },
   {
     "slug": "denver-broncos",
@@ -107,7 +133,11 @@
     "country": "US",
     "aliases": [
       "denver broncos"
-    ]
+    ],
+    "founded": 1960,
+    "city": "Denver",
+    "stadium": "Empower Field at Mile High",
+    "wikidata": "Q223507"
   },
   {
     "slug": "detroit-lions",
@@ -118,7 +148,10 @@
     "country": "US",
     "aliases": [
       "detroit lions"
-    ]
+    ],
+    "founded": 1929,
+    "stadium": "Ford Field",
+    "wikidata": "Q271880"
   },
   {
     "slug": "green-bay-packers",
@@ -129,7 +162,10 @@
     "country": "US",
     "aliases": [
       "green bay packers"
-    ]
+    ],
+    "founded": 1919,
+    "stadium": "Lambeau Field",
+    "wikidata": "Q213837"
   },
   {
     "slug": "houston-texans",
@@ -140,7 +176,10 @@
     "country": "US",
     "aliases": [
       "houston texans"
-    ]
+    ],
+    "founded": 2002,
+    "city": "Houston",
+    "wikidata": "Q223514"
   },
   {
     "slug": "indianapolis-colts",
@@ -151,7 +190,10 @@
     "country": "US",
     "aliases": [
       "indianapolis colts"
-    ]
+    ],
+    "founded": 1953,
+    "city": "Indianapolis",
+    "wikidata": "Q193753"
   },
   {
     "slug": "jacksonville-jaguars",
@@ -162,7 +204,11 @@
     "country": "US",
     "aliases": [
       "jacksonville jaguars"
-    ]
+    ],
+    "founded": 1995,
+    "city": "Jacksonville",
+    "stadium": "TIAA Bank Field",
+    "wikidata": "Q272223"
   },
   {
     "slug": "kansas-city-chiefs",
@@ -173,7 +219,10 @@
     "country": "US",
     "aliases": [
       "kansas city chiefs"
-    ]
+    ],
+    "founded": 1960,
+    "city": "Kansas City",
+    "wikidata": "Q223522"
   },
   {
     "slug": "las-vegas-raiders",
@@ -184,7 +233,10 @@
     "country": "US",
     "aliases": [
       "las vegas raiders"
-    ]
+    ],
+    "founded": 1960,
+    "city": "Las Vegas",
+    "wikidata": "Q324523"
   },
   {
     "slug": "los-angeles-chargers",
@@ -195,7 +247,10 @@
     "country": "US",
     "aliases": [
       "los angeles chargers"
-    ]
+    ],
+    "founded": 1960,
+    "city": "Los Angeles",
+    "wikidata": "Q272220"
   },
   {
     "slug": "los-angeles-rams",
@@ -206,7 +261,9 @@
     "country": "US",
     "aliases": [
       "los angeles rams"
-    ]
+    ],
+    "founded": 1936,
+    "wikidata": "Q337377"
   },
   {
     "slug": "miami-dolphins",
@@ -217,7 +274,11 @@
     "country": "US",
     "aliases": [
       "miami dolphins"
-    ]
+    ],
+    "founded": 1966,
+    "city": "Miami",
+    "stadium": "Hard Rock Stadium",
+    "wikidata": "Q223243"
   },
   {
     "slug": "minnesota-vikings",
@@ -228,7 +289,9 @@
     "country": "US",
     "aliases": [
       "minnesota vikings"
-    ]
+    ],
+    "founded": 1961,
+    "wikidata": "Q221150"
   },
   {
     "slug": "new-england-patriots",
@@ -239,7 +302,10 @@
     "country": "US",
     "aliases": [
       "new england patriots"
-    ]
+    ],
+    "founded": 1959,
+    "stadium": "Gillette Stadium",
+    "wikidata": "Q193390"
   },
   {
     "slug": "new-orleans-saints",
@@ -250,7 +316,10 @@
     "country": "US",
     "aliases": [
       "new orleans saints"
-    ]
+    ],
+    "founded": 1967,
+    "stadium": "Caesars Superdome",
+    "wikidata": "Q172435"
   },
   {
     "slug": "new-york-giants",
@@ -261,7 +330,10 @@
     "country": "US",
     "aliases": [
       "new york giants"
-    ]
+    ],
+    "founded": 1925,
+    "stadium": "MetLife Stadium",
+    "wikidata": "Q190618"
   },
   {
     "slug": "new-york-jets",
@@ -272,7 +344,11 @@
     "country": "US",
     "aliases": [
       "new york jets"
-    ]
+    ],
+    "founded": 1960,
+    "city": "New York City",
+    "stadium": "MetLife Stadium",
+    "wikidata": "Q219602"
   },
   {
     "slug": "philadelphia-eagles",
@@ -283,7 +359,10 @@
     "country": "US",
     "aliases": [
       "philadelphia eagles"
-    ]
+    ],
+    "founded": 1933,
+    "stadium": "Lincoln Financial Field",
+    "wikidata": "Q219714"
   },
   {
     "slug": "pittsburgh-steelers",
@@ -294,7 +373,10 @@
     "country": "US",
     "aliases": [
       "pittsburgh steelers"
-    ]
+    ],
+    "founded": 1933,
+    "city": "Pittsburgh",
+    "wikidata": "Q191477"
   },
   {
     "slug": "san-francisco-49ers",
@@ -305,7 +387,10 @@
     "country": "US",
     "aliases": [
       "san francisco 49ers"
-    ]
+    ],
+    "founded": 1946,
+    "stadium": "Levi’s Stadium",
+    "wikidata": "Q337758"
   },
   {
     "slug": "seattle-seahawks",
@@ -316,7 +401,9 @@
     "country": "US",
     "aliases": [
       "seattle seahawks"
-    ]
+    ],
+    "founded": 1976,
+    "wikidata": "Q221878"
   },
   {
     "slug": "tampa-bay-buccaneers",
@@ -327,7 +414,10 @@
     "country": "US",
     "aliases": [
       "tampa bay buccaneers"
-    ]
+    ],
+    "founded": 1974,
+    "stadium": "Raymond James Stadium",
+    "wikidata": "Q320476"
   },
   {
     "slug": "tennessee-titans",
@@ -338,7 +428,11 @@
     "country": "US",
     "aliases": [
       "tennessee titans"
-    ]
+    ],
+    "founded": 1960,
+    "city": "Nashville",
+    "stadium": "Nissan Stadium",
+    "wikidata": "Q320484"
   },
   {
     "slug": "washington-commanders",
@@ -349,7 +443,9 @@
     "country": "US",
     "aliases": [
       "washington commanders"
-    ]
+    ],
+    "founded": 1932,
+    "wikidata": "Q212654"
   },
   {
     "slug": "arizona-diamondbacks",
@@ -360,7 +456,11 @@
     "country": "US",
     "aliases": [
       "arizona diamondbacks"
-    ]
+    ],
+    "founded": 1998,
+    "city": "Phoenix",
+    "stadium": "Chase Field",
+    "wikidata": "Q670376"
   },
   {
     "slug": "athletics",
@@ -371,7 +471,10 @@
     "country": "US",
     "aliases": [
       "athletics"
-    ]
+    ],
+    "founded": 1901,
+    "stadium": "Oakland-Alameda County Coliseum",
+    "wikidata": "Q504339"
   },
   {
     "slug": "atlanta-braves",
@@ -382,7 +485,9 @@
     "country": "US",
     "aliases": [
       "atlanta braves"
-    ]
+    ],
+    "founded": 1871,
+    "wikidata": "Q461595"
   },
   {
     "slug": "baltimore-orioles",
@@ -393,7 +498,9 @@
     "country": "US",
     "aliases": [
       "baltimore orioles"
-    ]
+    ],
+    "founded": 1894,
+    "wikidata": "Q650816"
   },
   {
     "slug": "boston-red-sox",
@@ -404,7 +511,10 @@
     "country": "US",
     "aliases": [
       "boston red sox"
-    ]
+    ],
+    "founded": 1901,
+    "city": "Boston",
+    "wikidata": "Q213959"
   },
   {
     "slug": "chicago-cubs",
@@ -415,7 +525,11 @@
     "country": "US",
     "aliases": [
       "chicago cubs"
-    ]
+    ],
+    "founded": 1870,
+    "city": "Chicago",
+    "stadium": "Wrigley Field",
+    "wikidata": "Q246782"
   },
   {
     "slug": "chicago-white-sox",
@@ -426,7 +540,10 @@
     "country": "US",
     "aliases": [
       "chicago white sox"
-    ]
+    ],
+    "founded": 1894,
+    "stadium": "Guaranteed Rate Field",
+    "wikidata": "Q335169"
   },
   {
     "slug": "cincinnati-reds",
@@ -437,7 +554,10 @@
     "country": "US",
     "aliases": [
       "cincinnati reds"
-    ]
+    ],
+    "founded": 1881,
+    "city": "Cincinnati",
+    "wikidata": "Q826751"
   },
   {
     "slug": "cleveland-guardians",
@@ -448,7 +568,10 @@
     "country": "US",
     "aliases": [
       "cleveland guardians"
-    ]
+    ],
+    "founded": 1894,
+    "stadium": "Progressive Field",
+    "wikidata": "Q642553"
   },
   {
     "slug": "colorado-rockies",
@@ -459,7 +582,10 @@
     "country": "US",
     "aliases": [
       "colorado rockies"
-    ]
+    ],
+    "founded": 1993,
+    "stadium": "Coors Field",
+    "wikidata": "Q388858"
   },
   {
     "slug": "detroit-tigers",
@@ -470,7 +596,10 @@
     "country": "US",
     "aliases": [
       "detroit tigers"
-    ]
+    ],
+    "founded": 1894,
+    "stadium": "Comerica Park",
+    "wikidata": "Q650855"
   },
   {
     "slug": "houston-astros",
@@ -481,7 +610,11 @@
     "country": "US",
     "aliases": [
       "houston astros"
-    ]
+    ],
+    "founded": 1962,
+    "city": "Houston",
+    "stadium": "Daikin Park",
+    "wikidata": "Q848117"
   },
   {
     "slug": "kansas-city-royals",
@@ -492,7 +625,10 @@
     "country": "US",
     "aliases": [
       "kansas city royals"
-    ]
+    ],
+    "founded": 1969,
+    "stadium": "Kauffman Stadium",
+    "wikidata": "Q744530"
   },
   {
     "slug": "los-angeles-angels",
@@ -503,7 +639,10 @@
     "country": "US",
     "aliases": [
       "los angeles angels"
-    ]
+    ],
+    "founded": 1960,
+    "stadium": "Angel Stadium of Anaheim",
+    "wikidata": "Q743309"
   },
   {
     "slug": "los-angeles-dodgers",
@@ -514,7 +653,11 @@
     "country": "US",
     "aliases": [
       "los angeles dodgers"
-    ]
+    ],
+    "founded": 1884,
+    "city": "Los Angeles",
+    "stadium": "Dodger Stadium",
+    "wikidata": "Q334634"
   },
   {
     "slug": "miami-marlins",
@@ -525,7 +668,9 @@
     "country": "US",
     "aliases": [
       "miami marlins"
-    ]
+    ],
+    "founded": 1993,
+    "wikidata": "Q652879"
   },
   {
     "slug": "milwaukee-brewers",
@@ -536,7 +681,11 @@
     "country": "US",
     "aliases": [
       "milwaukee brewers"
-    ]
+    ],
+    "founded": 1969,
+    "city": "Milwaukee",
+    "stadium": "American Family Field",
+    "wikidata": "Q848103"
   },
   {
     "slug": "minnesota-twins",
@@ -547,7 +696,9 @@
     "country": "US",
     "aliases": [
       "minnesota twins"
-    ]
+    ],
+    "founded": 1901,
+    "wikidata": "Q604879"
   },
   {
     "slug": "new-york-mets",
@@ -558,7 +709,10 @@
     "country": "US",
     "aliases": [
       "new york mets"
-    ]
+    ],
+    "founded": 1962,
+    "stadium": "Citi Field",
+    "wikidata": "Q692417"
   },
   {
     "slug": "new-york-yankees",
@@ -569,7 +723,9 @@
     "country": "US",
     "aliases": [
       "new york yankees"
-    ]
+    ],
+    "founded": 1901,
+    "wikidata": "Q213417"
   },
   {
     "slug": "philadelphia-phillies",
@@ -580,7 +736,10 @@
     "country": "US",
     "aliases": [
       "philadelphia phillies"
-    ]
+    ],
+    "founded": 1883,
+    "stadium": "Citizens Bank Park",
+    "wikidata": "Q650840"
   },
   {
     "slug": "pittsburgh-pirates",
@@ -591,7 +750,10 @@
     "country": "US",
     "aliases": [
       "pittsburgh pirates"
-    ]
+    ],
+    "founded": 1882,
+    "city": "Pittsburgh",
+    "wikidata": "Q653772"
   },
   {
     "slug": "san-diego-padres",
@@ -602,7 +764,11 @@
     "country": "US",
     "aliases": [
       "san diego padres"
-    ]
+    ],
+    "founded": 1969,
+    "city": "San Diego",
+    "stadium": "PETCO Park",
+    "wikidata": "Q721134"
   },
   {
     "slug": "san-francisco-giants",
@@ -613,7 +779,11 @@
     "country": "US",
     "aliases": [
       "san francisco giants"
-    ]
+    ],
+    "founded": 1883,
+    "city": "San Francisco",
+    "stadium": "Oracle Park",
+    "wikidata": "Q308966"
   },
   {
     "slug": "seattle-mariners",
@@ -624,7 +794,9 @@
     "country": "US",
     "aliases": [
       "seattle mariners"
-    ]
+    ],
+    "founded": 1977,
+    "wikidata": "Q466586"
   },
   {
     "slug": "st-louis-cardinals",
@@ -636,7 +808,10 @@
     "aliases": [
       "st louis cardinals",
       "st. louis cardinals"
-    ]
+    ],
+    "founded": 1882,
+    "stadium": "Busch Stadium",
+    "wikidata": "Q504309"
   },
   {
     "slug": "tampa-bay-rays",
@@ -647,7 +822,10 @@
     "country": "US",
     "aliases": [
       "tampa bay rays"
-    ]
+    ],
+    "founded": 1998,
+    "stadium": "Tropicana Field",
+    "wikidata": "Q650865"
   },
   {
     "slug": "texas-rangers",
@@ -658,7 +836,10 @@
     "country": "US",
     "aliases": [
       "texas rangers"
-    ]
+    ],
+    "founded": 1961,
+    "stadium": "Rangers Ballpark in Arlington",
+    "wikidata": "Q329816"
   },
   {
     "slug": "toronto-blue-jays",
@@ -669,7 +850,11 @@
     "country": "CA",
     "aliases": [
       "toronto blue jays"
-    ]
+    ],
+    "founded": 1977,
+    "city": "Toronto",
+    "stadium": "Rogers Centre",
+    "wikidata": "Q650829"
   },
   {
     "slug": "washington-nationals",
@@ -680,7 +865,9 @@
     "country": "US",
     "aliases": [
       "washington nationals"
-    ]
+    ],
+    "founded": 1969,
+    "wikidata": "Q825838"
   },
   {
     "slug": "atlanta-hawks",
@@ -691,7 +878,10 @@
     "country": "US",
     "aliases": [
       "atlanta hawks"
-    ]
+    ],
+    "founded": 1946,
+    "city": "Atlanta",
+    "wikidata": "Q159893"
   },
   {
     "slug": "boston-celtics",
@@ -702,7 +892,10 @@
     "country": "US",
     "aliases": [
       "boston celtics"
-    ]
+    ],
+    "founded": 1946,
+    "city": "Boston",
+    "wikidata": "Q131371"
   },
   {
     "slug": "brooklyn-nets",
@@ -713,7 +906,10 @@
     "country": "US",
     "aliases": [
       "brooklyn nets"
-    ]
+    ],
+    "founded": 1967,
+    "city": "Brooklyn",
+    "wikidata": "Q572134"
   },
   {
     "slug": "charlotte-hornets",
@@ -724,7 +920,10 @@
     "country": "US",
     "aliases": [
       "charlotte hornets"
-    ]
+    ],
+    "founded": 1988,
+    "city": "Charlotte",
+    "wikidata": "Q163480"
   },
   {
     "slug": "chicago-bulls",
@@ -735,7 +934,10 @@
     "country": "US",
     "aliases": [
       "chicago bulls"
-    ]
+    ],
+    "founded": 1966,
+    "city": "Chicago",
+    "wikidata": "Q128109"
   },
   {
     "slug": "cleveland-cavaliers",
@@ -746,7 +948,10 @@
     "country": "US",
     "aliases": [
       "cleveland cavaliers"
-    ]
+    ],
+    "founded": 1970,
+    "city": "Cleveland",
+    "wikidata": "Q162990"
   },
   {
     "slug": "dallas-mavericks",
@@ -757,7 +962,10 @@
     "country": "US",
     "aliases": [
       "dallas mavericks"
-    ]
+    ],
+    "founded": 1980,
+    "city": "Dallas",
+    "wikidata": "Q132893"
   },
   {
     "slug": "denver-nuggets",
@@ -768,7 +976,10 @@
     "country": "US",
     "aliases": [
       "denver nuggets"
-    ]
+    ],
+    "founded": 1967,
+    "city": "Denver",
+    "wikidata": "Q162954"
   },
   {
     "slug": "detroit-pistons",
@@ -779,7 +990,10 @@
     "country": "US",
     "aliases": [
       "detroit pistons"
-    ]
+    ],
+    "founded": 1937,
+    "city": "Detroit",
+    "wikidata": "Q169661"
   },
   {
     "slug": "golden-state-warriors",
@@ -790,7 +1004,10 @@
     "country": "US",
     "aliases": [
       "golden state warriors"
-    ]
+    ],
+    "founded": 1946,
+    "city": "San Francisco",
+    "wikidata": "Q157376"
   },
   {
     "slug": "houston-rockets",
@@ -801,7 +1018,10 @@
     "country": "US",
     "aliases": [
       "houston rockets"
-    ]
+    ],
+    "founded": 1967,
+    "city": "Houston",
+    "wikidata": "Q161345"
   },
   {
     "slug": "indiana-pacers",
@@ -812,7 +1032,10 @@
     "country": "US",
     "aliases": [
       "indiana pacers"
-    ]
+    ],
+    "founded": 1967,
+    "city": "Indianapolis",
+    "wikidata": "Q170329"
   },
   {
     "slug": "la-clippers",
@@ -823,7 +1046,10 @@
     "country": "US",
     "aliases": [
       "la clippers"
-    ]
+    ],
+    "founded": 1970,
+    "city": "Los Angeles",
+    "wikidata": "Q976396"
   },
   {
     "slug": "los-angeles-lakers",
@@ -834,7 +1060,10 @@
     "country": "US",
     "aliases": [
       "los angeles lakers"
-    ]
+    ],
+    "founded": 1946,
+    "city": "Los Angeles",
+    "wikidata": "Q121783"
   },
   {
     "slug": "memphis-grizzlies",
@@ -845,7 +1074,10 @@
     "country": "US",
     "aliases": [
       "memphis grizzlies"
-    ]
+    ],
+    "founded": 1995,
+    "city": "Memphis",
+    "wikidata": "Q165529"
   },
   {
     "slug": "miami-heat",
@@ -856,7 +1088,10 @@
     "country": "US",
     "aliases": [
       "miami heat"
-    ]
+    ],
+    "founded": 1988,
+    "city": "Miami",
+    "wikidata": "Q169138"
   },
   {
     "slug": "milwaukee-bucks",
@@ -867,7 +1102,10 @@
     "country": "US",
     "aliases": [
       "milwaukee bucks"
-    ]
+    ],
+    "founded": 1968,
+    "city": "Milwaukee",
+    "wikidata": "Q169637"
   },
   {
     "slug": "minnesota-timberwolves",
@@ -878,7 +1116,10 @@
     "country": "US",
     "aliases": [
       "minnesota timberwolves"
-    ]
+    ],
+    "founded": 1989,
+    "city": "Minneapolis",
+    "wikidata": "Q170558"
   },
   {
     "slug": "new-orleans-pelicans",
@@ -889,7 +1130,10 @@
     "country": "US",
     "aliases": [
       "new orleans pelicans"
-    ]
+    ],
+    "founded": 2002,
+    "city": "New Orleans",
+    "wikidata": "Q172339"
   },
   {
     "slug": "new-york-knicks",
@@ -900,7 +1144,10 @@
     "country": "US",
     "aliases": [
       "new york knicks"
-    ]
+    ],
+    "founded": 1946,
+    "city": "New York City",
+    "wikidata": "Q131364"
   },
   {
     "slug": "oklahoma-city-thunder",
@@ -911,7 +1158,10 @@
     "country": "US",
     "aliases": [
       "oklahoma city thunder"
-    ]
+    ],
+    "founded": 1967,
+    "city": "Oklahoma City",
+    "wikidata": "Q180950"
   },
   {
     "slug": "orlando-magic",
@@ -922,7 +1172,10 @@
     "country": "US",
     "aliases": [
       "orlando magic"
-    ]
+    ],
+    "founded": 1989,
+    "city": "Orlando",
+    "wikidata": "Q161337"
   },
   {
     "slug": "philadelphia-76ers",
@@ -933,7 +1186,9 @@
     "country": "US",
     "aliases": [
       "philadelphia 76ers"
-    ]
+    ],
+    "founded": 1946,
+    "wikidata": "Q138089"
   },
   {
     "slug": "phoenix-suns",
@@ -944,7 +1199,10 @@
     "country": "US",
     "aliases": [
       "phoenix suns"
-    ]
+    ],
+    "founded": 1968,
+    "city": "Phoenix",
+    "wikidata": "Q164177"
   },
   {
     "slug": "portland-trail-blazers",
@@ -955,7 +1213,10 @@
     "country": "US",
     "aliases": [
       "portland trail blazers"
-    ]
+    ],
+    "founded": 1970,
+    "city": "Portland",
+    "wikidata": "Q167253"
   },
   {
     "slug": "sacramento-kings",
@@ -966,7 +1227,10 @@
     "country": "US",
     "aliases": [
       "sacramento kings"
-    ]
+    ],
+    "founded": 1945,
+    "city": "Sacramento",
+    "wikidata": "Q166105"
   },
   {
     "slug": "san-antonio-spurs",
@@ -977,7 +1241,10 @@
     "country": "US",
     "aliases": [
       "san antonio spurs"
-    ]
+    ],
+    "founded": 1967,
+    "city": "San Antonio",
+    "wikidata": "Q159729"
   },
   {
     "slug": "toronto-raptors",
@@ -988,7 +1255,10 @@
     "country": "CA",
     "aliases": [
       "toronto raptors"
-    ]
+    ],
+    "founded": 1995,
+    "city": "Toronto",
+    "wikidata": "Q132880"
   },
   {
     "slug": "utah-jazz",
@@ -999,7 +1269,10 @@
     "country": "US",
     "aliases": [
       "utah jazz"
-    ]
+    ],
+    "founded": 1974,
+    "city": "Salt Lake City",
+    "wikidata": "Q170649"
   },
   {
     "slug": "washington-wizards",
@@ -1010,7 +1283,10 @@
     "country": "US",
     "aliases": [
       "washington wizards"
-    ]
+    ],
+    "founded": 1961,
+    "city": "Washington, D.C.",
+    "wikidata": "Q169165"
   },
   {
     "slug": "ssv-ulm-1846",
@@ -3692,7 +3968,10 @@
     "country": "US",
     "aliases": [
       "anaheim ducks"
-    ]
+    ],
+    "founded": 1993,
+    "stadium": "Honda Center",
+    "wikidata": "Q192751"
   },
   {
     "slug": "boston-bruins",
@@ -3703,7 +3982,9 @@
     "country": "US",
     "aliases": [
       "boston bruins"
-    ]
+    ],
+    "founded": 1924,
+    "wikidata": "Q194121"
   },
   {
     "slug": "buffalo-sabres",
@@ -3714,7 +3995,9 @@
     "country": "US",
     "aliases": [
       "buffalo sabres"
-    ]
+    ],
+    "founded": 1970,
+    "wikidata": "Q131206"
   },
   {
     "slug": "calgary-flames",
@@ -3725,7 +4008,9 @@
     "country": "CA",
     "aliases": [
       "calgary flames"
-    ]
+    ],
+    "founded": 1972,
+    "wikidata": "Q194126"
   },
   {
     "slug": "carolina-hurricanes",
@@ -3736,7 +4021,9 @@
     "country": "US",
     "aliases": [
       "carolina hurricanes"
-    ]
+    ],
+    "founded": 1972,
+    "wikidata": "Q201857"
   },
   {
     "slug": "chicago-blackhawks",
@@ -3747,7 +4034,9 @@
     "country": "US",
     "aliases": [
       "chicago blackhawks"
-    ]
+    ],
+    "founded": 1926,
+    "wikidata": "Q209636"
   },
   {
     "slug": "colorado-avalanche",
@@ -3758,7 +4047,9 @@
     "country": "US",
     "aliases": [
       "colorado avalanche"
-    ]
+    ],
+    "founded": 1972,
+    "wikidata": "Q206297"
   },
   {
     "slug": "columbus-blue-jackets",
@@ -3769,7 +4060,10 @@
     "country": "US",
     "aliases": [
       "columbus blue jackets"
-    ]
+    ],
+    "founded": 2000,
+    "stadium": "Nationwide Arena",
+    "wikidata": "Q207507"
   },
   {
     "slug": "dallas-stars",
@@ -3780,7 +4074,10 @@
     "country": "US",
     "aliases": [
       "dallas stars"
-    ]
+    ],
+    "founded": 1967,
+    "city": "Dallas",
+    "wikidata": "Q208652"
   },
   {
     "slug": "detroit-red-wings",
@@ -3791,7 +4088,9 @@
     "country": "US",
     "aliases": [
       "detroit red wings"
-    ]
+    ],
+    "founded": 1926,
+    "wikidata": "Q194116"
   },
   {
     "slug": "edmonton-oilers",
@@ -3802,7 +4101,9 @@
     "country": "CA",
     "aliases": [
       "edmonton oilers"
-    ]
+    ],
+    "founded": 1972,
+    "wikidata": "Q205973"
   },
   {
     "slug": "florida-panthers",
@@ -3813,7 +4114,10 @@
     "country": "US",
     "aliases": [
       "florida panthers"
-    ]
+    ],
+    "founded": 1993,
+    "city": "Sunrise",
+    "wikidata": "Q204623"
   },
   {
     "slug": "los-angeles-kings",
@@ -3824,7 +4128,10 @@
     "country": "US",
     "aliases": [
       "los angeles kings"
-    ]
+    ],
+    "founded": 1967,
+    "city": "Los Angeles",
+    "wikidata": "Q203008"
   },
   {
     "slug": "minnesota-wild",
@@ -3835,7 +4142,11 @@
     "country": "US",
     "aliases": [
       "minnesota wild"
-    ]
+    ],
+    "founded": 2000,
+    "city": "Saint Paul",
+    "stadium": "Grand Casino Arena",
+    "wikidata": "Q206357"
   },
   {
     "slug": "montreal-canadiens",
@@ -3846,7 +4157,9 @@
     "country": "CA",
     "aliases": [
       "montreal canadiens"
-    ]
+    ],
+    "founded": 1909,
+    "wikidata": "Q188143"
   },
   {
     "slug": "nashville-predators",
@@ -3857,7 +4170,10 @@
     "country": "US",
     "aliases": [
       "nashville predators"
-    ]
+    ],
+    "founded": 1998,
+    "stadium": "Bridgestone Arena",
+    "wikidata": "Q207980"
   },
   {
     "slug": "new-jersey-devils",
@@ -3868,7 +4184,9 @@
     "country": "US",
     "aliases": [
       "new jersey devils"
-    ]
+    ],
+    "founded": 1974,
+    "wikidata": "Q192081"
   },
   {
     "slug": "new-york-islanders",
@@ -3879,7 +4197,9 @@
     "country": "US",
     "aliases": [
       "new york islanders"
-    ]
+    ],
+    "founded": 1972,
+    "wikidata": "Q194369"
   },
   {
     "slug": "new-york-rangers",
@@ -3890,7 +4210,10 @@
     "country": "US",
     "aliases": [
       "new york rangers"
-    ]
+    ],
+    "founded": 1926,
+    "stadium": "Madison Square Garden",
+    "wikidata": "Q188984"
   },
   {
     "slug": "ottawa-senators",
@@ -3901,7 +4224,10 @@
     "country": "CA",
     "aliases": [
       "ottawa senators"
-    ]
+    ],
+    "founded": 1992,
+    "city": "Ottawa",
+    "wikidata": "Q203013"
   },
   {
     "slug": "philadelphia-flyers",
@@ -3912,7 +4238,10 @@
     "country": "US",
     "aliases": [
       "philadelphia flyers"
-    ]
+    ],
+    "founded": 1967,
+    "stadium": "Philadelphia Spectrum",
+    "wikidata": "Q192083"
   },
   {
     "slug": "pittsburgh-penguins",
@@ -3923,7 +4252,9 @@
     "country": "US",
     "aliases": [
       "pittsburgh penguins"
-    ]
+    ],
+    "founded": 1967,
+    "wikidata": "Q193643"
   },
   {
     "slug": "san-jose-sharks",
@@ -3934,7 +4265,9 @@
     "country": "US",
     "aliases": [
       "san jose sharks"
-    ]
+    ],
+    "founded": 1991,
+    "wikidata": "Q206381"
   },
   {
     "slug": "seattle-kraken",
@@ -3945,7 +4278,10 @@
     "country": "US",
     "aliases": [
       "seattle kraken"
-    ]
+    ],
+    "founded": 2021,
+    "stadium": "Climate Pledge Arena",
+    "wikidata": "Q59422166"
   },
   {
     "slug": "st-louis-blues",
@@ -3957,7 +4293,10 @@
     "aliases": [
       "st louis blues",
       "st. louis blues"
-    ]
+    ],
+    "founded": 1967,
+    "stadium": "Enterprise Center",
+    "wikidata": "Q207735"
   },
   {
     "slug": "tampa-bay-lightning",
@@ -3968,7 +4307,9 @@
     "country": "US",
     "aliases": [
       "tampa bay lightning"
-    ]
+    ],
+    "founded": 1992,
+    "wikidata": "Q201864"
   },
   {
     "slug": "toronto-maple-leafs",
@@ -3979,7 +4320,9 @@
     "country": "CA",
     "aliases": [
       "toronto maple leafs"
-    ]
+    ],
+    "founded": 1917,
+    "wikidata": "Q203384"
   },
   {
     "slug": "utah-hockey-club",
@@ -3990,7 +4333,10 @@
     "country": "US",
     "aliases": [
       "utah hockey club"
-    ]
+    ],
+    "founded": 2024,
+    "stadium": "Delta Center",
+    "wikidata": "Q125520712"
   },
   {
     "slug": "vancouver-canucks",
@@ -4001,7 +4347,9 @@
     "country": "CA",
     "aliases": [
       "vancouver canucks"
-    ]
+    ],
+    "founded": 1970,
+    "wikidata": "Q192890"
   },
   {
     "slug": "vegas-golden-knights",
@@ -4012,7 +4360,10 @@
     "country": "US",
     "aliases": [
       "vegas golden knights"
-    ]
+    ],
+    "founded": 2017,
+    "stadium": "T-Mobile Arena",
+    "wikidata": "Q24725640"
   },
   {
     "slug": "washington-capitals",
@@ -4023,7 +4374,9 @@
     "country": "US",
     "aliases": [
       "washington capitals"
-    ]
+    ],
+    "founded": 1974,
+    "wikidata": "Q204627"
   },
   {
     "slug": "winnipeg-jets",
@@ -4034,6 +4387,9 @@
     "country": "CA",
     "aliases": [
       "winnipeg jets"
-    ]
+    ],
+    "founded": 1972,
+    "stadium": "Winnipeg Arena",
+    "wikidata": "Q576406"
   }
 ]
