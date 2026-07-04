@@ -1070,6 +1070,8 @@
       "spvgg sülz"
     ],
     "founded": 1948,
+    "city": "Köln",
+    "stadium": "RheinEnergieStadion",
     "wikidata": "Q104770"
   },
   {
@@ -1084,6 +1086,7 @@
       "1 fc union berlin",
       "fc union berlin"
     ],
+    "city": "Berlin",
     "wikidata": "Q97927360"
   },
   {
@@ -1115,6 +1118,8 @@
       "bayer 04 leverkusen"
     ],
     "founded": 1904,
+    "city": "Leverkusen",
+    "stadium": "BayArena",
     "wikidata": "Q104761"
   },
   {
@@ -1131,6 +1136,8 @@
       "borussia dortmund 09"
     ],
     "founded": 1909,
+    "city": "Dortmund",
+    "stadium": "Signal Iduna Park",
     "wikidata": "Q41420"
   },
   {
@@ -1148,6 +1155,8 @@
       "bmg"
     ],
     "founded": 1900,
+    "city": "Mönchengladbach",
+    "stadium": "ista-Borussia-Park",
     "wikidata": "Q101959"
   },
   {
@@ -1163,6 +1172,8 @@
       "sge"
     ],
     "founded": 1899,
+    "city": "Frankfurt am Main",
+    "stadium": "Deutsche Bank Park",
     "wikidata": "Q38245"
   },
   {
@@ -1176,6 +1187,7 @@
       "augsburg",
       "fc augsburg"
     ],
+    "stadium": "WWK ARENA",
     "wikidata": "Q97905916"
   },
   {
@@ -1194,6 +1206,7 @@
       "fc bayern munchen"
     ],
     "founded": 1900,
+    "city": "München",
     "wikidata": "Q15789"
   },
   {
@@ -1211,6 +1224,8 @@
       "koenigsblau"
     ],
     "founded": 1904,
+    "city": "Gelsenkirchen",
+    "stadium": "Veltins-Arena",
     "wikidata": "Q32494"
   },
   {
@@ -1233,6 +1248,8 @@
       "hsv"
     ],
     "founded": 1887,
+    "city": "Hamburg",
+    "stadium": "Volksparkstadion",
     "wikidata": "Q51974"
   },
   {
@@ -1248,6 +1265,8 @@
       "rasenballsport leipzig"
     ],
     "founded": 2009,
+    "city": "Leipzig",
+    "stadium": "Red Bull Arena",
     "wikidata": "Q702455"
   },
   {
@@ -1262,6 +1281,7 @@
       "sc freiburg"
     ],
     "founded": 1904,
+    "city": "Freiburg im Breisgau",
     "wikidata": "Q106394"
   },
   {
@@ -1277,6 +1297,8 @@
       "scp"
     ],
     "founded": 1907,
+    "city": "Paderborn",
+    "stadium": "Home-Deluxe-Arena",
     "wikidata": "Q160532"
   },
   {
@@ -1293,6 +1315,7 @@
       "sv 07 elversberg"
     ],
     "founded": 1907,
+    "stadium": "Waldstadion Kaiserlinde",
     "wikidata": "Q692691"
   },
   {
@@ -1308,6 +1331,8 @@
       "sv werder bremen"
     ],
     "founded": 1899,
+    "city": "Bremen",
+    "stadium": "Weserstadion",
     "wikidata": "Q51976"
   },
   {
@@ -1323,6 +1348,8 @@
       "tsg 1899 hoffenheim"
     ],
     "founded": 1899,
+    "city": "Sinsheim",
+    "stadium": "SNP Arena",
     "wikidata": "Q22707"
   },
   {
@@ -1338,6 +1365,8 @@
       "vfb stuttgart"
     ],
     "founded": 1893,
+    "city": "Stuttgart",
+    "stadium": "MHPArena",
     "wikidata": "Q4512"
   },
   {
@@ -1385,6 +1414,7 @@
       "the atletico"
     ],
     "founded": 1903,
+    "city": "Madrid",
     "wikidata": "Q8701"
   },
   {
@@ -1408,6 +1438,8 @@
       "sevilla"
     ],
     "founded": 1907,
+    "city": "Sevilla",
+    "stadium": "Estadio Benito Villamarín",
     "wikidata": "Q8723"
   },
   {
@@ -1424,6 +1456,8 @@
       "osasuna pamplona"
     ],
     "founded": 1920,
+    "city": "Pamplona",
+    "stadium": "Estadio El Sadar",
     "wikidata": "Q10286"
   },
   {
@@ -1448,6 +1482,7 @@
       "vigo"
     ],
     "founded": 1923,
+    "stadium": "Estadio Balaídos",
     "wikidata": "Q8749"
   },
   {
@@ -1467,6 +1502,8 @@
       "deportivo alaves soccer"
     ],
     "founded": 1921,
+    "city": "Vitoria-Gasteiz",
+    "stadium": "Estadio Mendizorrotza",
     "wikidata": "Q223620"
   },
   {
@@ -1505,6 +1542,8 @@
       "elche club de fútbol, s.a.d."
     ],
     "founded": 1923,
+    "city": "Elche",
+    "stadium": "Estadio Manuel Martínez Valero",
     "wikidata": "Q10512"
   },
   {
@@ -1524,6 +1563,8 @@
       "getafe football club"
     ],
     "founded": 1983,
+    "city": "Getafe",
+    "stadium": "Coliseum Alfonso Pérez",
     "wikidata": "Q8806"
   },
   {
@@ -1541,6 +1582,7 @@
       "girona soccer team"
     ],
     "founded": 1930,
+    "stadium": "Estadi Municipal de Montilivi",
     "wikidata": "Q11945"
   },
   {
@@ -1563,6 +1605,8 @@
       "sfc"
     ],
     "founded": 1905,
+    "city": "Sevilla",
+    "stadium": "Estadio Ramón Sánchez Pizjuán",
     "wikidata": "Q10329"
   },
   {
@@ -1587,6 +1631,8 @@
       "vcf"
     ],
     "founded": 1919,
+    "city": "Valencia",
+    "stadium": "Estadio Mestalla",
     "wikidata": "Q10333"
   },
   {
@@ -1610,6 +1656,8 @@
       "villarreal club of football"
     ],
     "founded": 1923,
+    "city": "Vila-real",
+    "stadium": "Estadio de la Cerámica",
     "wikidata": "Q12297"
   },
   {
@@ -1625,6 +1673,7 @@
       "futbol"
     ],
     "founded": 1899,
+    "city": "Barcelona",
     "wikidata": "Q3091261"
   },
   {
@@ -1647,6 +1696,8 @@
       "ud levante"
     ],
     "founded": 1909,
+    "city": "Valencia",
+    "stadium": "Estadio Ciudad de Valencia",
     "wikidata": "Q8823"
   },
   {
@@ -1665,6 +1716,8 @@
       "vallecano"
     ],
     "founded": 1924,
+    "city": "Madrid",
+    "stadium": "Campo de Fútbol de Vallecas",
     "wikidata": "Q10300"
   },
   {
@@ -1682,6 +1735,7 @@
       "reial club deportiu mallorca"
     ],
     "founded": 1916,
+    "city": "Palma",
     "wikidata": "Q8835"
   },
   {
@@ -1708,6 +1762,8 @@
       "royal madrid football club"
     ],
     "founded": 1902,
+    "city": "Madrid",
+    "stadium": "Bernabéu",
     "wikidata": "Q8682"
   },
   {
@@ -1722,6 +1778,7 @@
       "real oviedo s.a.d."
     ],
     "founded": 1926,
+    "stadium": "Estadio Nuevo Carlos Tartiere",
     "wikidata": "Q271574"
   },
   {
@@ -1743,6 +1800,8 @@
       "sociedad"
     ],
     "founded": 1909,
+    "city": "Donostia-San Sebastián",
+    "stadium": "Estadio Anoeta",
     "wikidata": "Q10315"
   },
   {
@@ -1759,6 +1818,8 @@
       "les icaunais"
     ],
     "founded": 1905,
+    "city": "Auxerre",
+    "stadium": "Stade de l’Abbé-Deschamps",
     "wikidata": "Q182876"
   },
   {
@@ -1780,6 +1841,7 @@
       "monaco"
     ],
     "founded": 1924,
+    "stadium": "Stade Louis II",
     "wikidata": "Q180305"
   },
   {
@@ -1795,6 +1857,8 @@
       "lorient"
     ],
     "founded": 1926,
+    "city": "Lorient",
+    "stadium": "Stade du Moustoir",
     "wikidata": "Q48911"
   },
   {
@@ -1815,6 +1879,8 @@
       "metz football club"
     ],
     "founded": 1932,
+    "city": "Metz",
+    "stadium": "Stade Saint-Symphorien",
     "wikidata": "Q221525"
   },
   {
@@ -1832,6 +1898,8 @@
       "nantes"
     ],
     "founded": 1943,
+    "city": "Nantes",
+    "stadium": "Stade Louis-Fonteneau",
     "wikidata": "Q192071"
   },
   {
@@ -1849,6 +1917,8 @@
       "toulouse football club"
     ],
     "founded": 1970,
+    "city": "Toulouse",
+    "stadium": "Stadium Municipal",
     "wikidata": "Q19518"
   },
   {
@@ -1867,6 +1937,8 @@
       "les ciel et marine"
     ],
     "founded": 1884,
+    "city": "Le Havre",
+    "stadium": "Stade Océane",
     "wikidata": "Q328658"
   },
   {
@@ -1884,6 +1956,8 @@
       "olympique gymnaste club nice côte d'azur"
     ],
     "founded": 1904,
+    "city": "Nizza",
+    "stadium": "Stade de Nice",
     "wikidata": "Q185163"
   },
   {
@@ -1903,6 +1977,7 @@
       "olympique lyonnais"
     ],
     "founded": 1950,
+    "city": "Lyon",
     "wikidata": "Q704"
   },
   {
@@ -1923,6 +1998,7 @@
       "om"
     ],
     "founded": 1899,
+    "stadium": "Stade Vélodrome",
     "wikidata": "Q132885"
   },
   {
@@ -1941,6 +2017,8 @@
       "olympique lillois"
     ],
     "founded": 1944,
+    "city": "Lille",
+    "stadium": "Stade Pierre-Mauroy",
     "wikidata": "Q19516"
   },
   {
@@ -1957,6 +2035,8 @@
       "pfc"
     ],
     "founded": 1969,
+    "city": "Paris",
+    "stadium": "Stade Charléty",
     "wikidata": "Q1051013"
   },
   {
@@ -1975,6 +2055,8 @@
       "saint"
     ],
     "founded": 1970,
+    "city": "Paris",
+    "stadium": "Parc des Princes",
     "wikidata": "Q483020"
   },
   {
@@ -1997,6 +2079,8 @@
       "straßburg"
     ],
     "founded": 1906,
+    "city": "Straßburg",
+    "stadium": "Meinau-Stadion",
     "wikidata": "Q126334"
   },
   {
@@ -2012,6 +2096,8 @@
       "racing lens"
     ],
     "founded": 1906,
+    "city": "Lens",
+    "stadium": "Stade Bollaert-Delelis",
     "wikidata": "Q191843"
   },
   {
@@ -2029,6 +2115,8 @@
       "sco of angers"
     ],
     "founded": 1919,
+    "city": "Angers",
+    "stadium": "Stade Raymond-Kopa",
     "wikidata": "Q845137"
   },
   {
@@ -2045,6 +2133,8 @@
       "stade brestois 29"
     ],
     "founded": 1950,
+    "city": "Brest",
+    "stadium": "Stade Francis-Le Blé",
     "wikidata": "Q218372"
   },
   {
@@ -2065,6 +2155,8 @@
       "stade rennais uc"
     ],
     "founded": 1901,
+    "city": "Rennes",
+    "stadium": "Roazhon Park",
     "wikidata": "Q19509"
   },
   {
@@ -2105,6 +2197,8 @@
       "the cherries"
     ],
     "founded": 1899,
+    "city": "Bournemouth",
+    "stadium": "Dean Court",
     "wikidata": "Q19568"
   },
   {
@@ -2124,6 +2218,8 @@
       "villa"
     ],
     "founded": 1874,
+    "city": "Aston",
+    "stadium": "Villa Park",
     "wikidata": "Q18711"
   },
   {
@@ -2152,6 +2248,8 @@
       "the seagulls"
     ],
     "founded": 1901,
+    "city": "Brighton and Hove",
+    "stadium": "Brighton Community Stadium",
     "wikidata": "Q19453"
   },
   {
@@ -2172,6 +2270,8 @@
       "the glaziers"
     ],
     "founded": 1905,
+    "city": "London",
+    "stadium": "Selhurst Park",
     "wikidata": "Q19467"
   },
   {
@@ -2193,6 +2293,7 @@
       "the arsenal fc"
     ],
     "founded": 1886,
+    "city": "London",
     "wikidata": "Q9617"
   },
   {
@@ -2210,6 +2311,8 @@
       "the bees"
     ],
     "founded": 1889,
+    "city": "London",
+    "stadium": "Griffin Park",
     "wikidata": "Q19571"
   },
   {
@@ -2230,6 +2333,8 @@
       "the pensioners"
     ],
     "founded": 1905,
+    "city": "London",
+    "stadium": "Stamford Bridge",
     "wikidata": "Q9616"
   },
   {
@@ -2248,6 +2353,8 @@
       "the toffees"
     ],
     "founded": 1878,
+    "city": "Liverpool",
+    "stadium": "Everton Stadium",
     "wikidata": "Q5794"
   },
   {
@@ -2265,6 +2372,8 @@
       "the cottagers"
     ],
     "founded": 1879,
+    "city": "London",
+    "stadium": "Craven Cottage",
     "wikidata": "Q18708"
   },
   {
@@ -2283,6 +2392,8 @@
       "the reds"
     ],
     "founded": 1892,
+    "city": "Liverpool",
+    "stadium": "Anfield",
     "wikidata": "Q1130849"
   },
   {
@@ -2301,6 +2412,8 @@
       "southamptonfc"
     ],
     "founded": 1885,
+    "city": "Southampton",
+    "stadium": "St. Mary’s Stadium",
     "wikidata": "Q18732"
   },
   {
@@ -2320,6 +2433,7 @@
       "town"
     ],
     "founded": 1878,
+    "stadium": "Portman Road",
     "wikidata": "Q9653"
   },
   {
@@ -2342,6 +2456,8 @@
       "the foxes"
     ],
     "founded": 1884,
+    "city": "Leicester",
+    "stadium": "Leicester City Stadium",
     "wikidata": "Q19481"
   },
   {
@@ -2366,6 +2482,8 @@
       "the sky blues"
     ],
     "founded": 1894,
+    "city": "Manchester",
+    "stadium": "City of Manchester Stadium",
     "wikidata": "Q50602"
   },
   {
@@ -2393,6 +2511,8 @@
       "united"
     ],
     "founded": 1878,
+    "city": "Manchester",
+    "stadium": "Old Trafford",
     "wikidata": "Q18656"
   },
   {
@@ -2410,6 +2530,8 @@
       "the magpies"
     ],
     "founded": 1892,
+    "city": "Newcastle upon Tyne",
+    "stadium": "St James' Park",
     "wikidata": "Q18716"
   },
   {
@@ -2430,6 +2552,8 @@
       "tricky trees"
     ],
     "founded": 1865,
+    "city": "Nottingham",
+    "stadium": "City Ground",
     "wikidata": "Q19490"
   },
   {
@@ -2471,6 +2595,7 @@
       "whufc"
     ],
     "founded": 1895,
+    "stadium": "Londoner Stadion",
     "wikidata": "Q18747"
   },
   {
@@ -2492,6 +2617,8 @@
       "wwfc"
     ],
     "founded": 1877,
+    "city": "Wolverhampton",
+    "stadium": "Molineux Stadium",
     "wikidata": "Q19500"
   },
   {
@@ -2560,6 +2687,8 @@
       "florenz"
     ],
     "founded": 1926,
+    "city": "Florenz",
+    "stadium": "Stadio Artemio Franchi",
     "wikidata": "Q2052"
   },
   {
@@ -2580,6 +2709,8 @@
       "milan"
     ],
     "founded": 1899,
+    "city": "Mailand",
+    "stadium": "Stadio Giuseppe Meazza",
     "wikidata": "Q1543"
   },
   {
@@ -2609,6 +2740,8 @@
       "società sportiva monza 1912 srl"
     ],
     "founded": 1912,
+    "city": "Monza",
+    "stadium": "Stadio Brianteo",
     "wikidata": "Q289482"
   },
   {
@@ -2633,6 +2766,8 @@
       "the wolfs"
     ],
     "founded": 1927,
+    "city": "Rom",
+    "stadium": "Olympiastadion Rom",
     "wikidata": "Q2739"
   },
   {
@@ -2651,6 +2786,8 @@
       "bergamo"
     ],
     "founded": 1907,
+    "city": "Bergamo",
+    "stadium": "Stadio Atleti Azzurri d’Italia",
     "wikidata": "Q1886"
   },
   {
@@ -2670,6 +2807,8 @@
       "bolognafc1909"
     ],
     "founded": 1909,
+    "city": "Bologna",
+    "stadium": "Stadio Renato Dall’Ara",
     "wikidata": "Q1893"
   },
   {
@@ -2688,6 +2827,8 @@
       "empolifc"
     ],
     "founded": 1920,
+    "city": "Empoli",
+    "stadium": "Stadio Carlo Castellani",
     "wikidata": "Q6703"
   },
   {
@@ -2713,6 +2854,8 @@
       "turin football club"
     ],
     "founded": 2005,
+    "city": "Turin",
+    "stadium": "Olympiastadion Turin",
     "wikidata": "Q2768"
   },
   {
@@ -2732,6 +2875,8 @@
       "verona"
     ],
     "founded": 1903,
+    "city": "Verona",
+    "stadium": "Stadio Marcantonio Bentegodi",
     "wikidata": "Q8639"
   },
   {
@@ -2773,6 +2918,8 @@
       "the inter"
     ],
     "founded": 1908,
+    "city": "Mailand",
+    "stadium": "Stadio Giuseppe Meazza",
     "wikidata": "Q631"
   },
   {
@@ -2793,6 +2940,7 @@
       "turin"
     ],
     "founded": 1897,
+    "city": "Turin",
     "wikidata": "Q1422"
   },
   {
@@ -2817,6 +2965,8 @@
       "ucs 1946"
     ],
     "founded": 1946,
+    "city": "Genua",
+    "stadium": "Stadio Luigi Ferraris",
     "wikidata": "Q1457"
   },
   {
@@ -2834,6 +2984,8 @@
       "spezia calcio 1906"
     ],
     "founded": 1906,
+    "city": "La Spezia",
+    "stadium": "Stadio Alberto Picco",
     "wikidata": "Q8615"
   },
   {
@@ -2854,6 +3006,7 @@
       "ss lazio"
     ],
     "founded": 1900,
+    "city": "Rom",
     "wikidata": "Q3907390"
   },
   {
@@ -2875,6 +3028,8 @@
       "sscn"
     ],
     "founded": 1926,
+    "city": "Neapel",
+    "stadium": "Stadio Diego Armando Maradona",
     "wikidata": "Q2641"
   },
   {
@@ -2893,6 +3048,8 @@
       "uslecce"
     ],
     "founded": 1908,
+    "city": "Lecce",
+    "stadium": "Stadio Via del Mare",
     "wikidata": "Q13391"
   },
   {
@@ -2912,6 +3069,8 @@
       "uss1919"
     ],
     "founded": 1919,
+    "city": "Salerno",
+    "stadium": "Stadio Arechi",
     "wikidata": "Q847587"
   },
   {
@@ -2929,6 +3088,8 @@
       "udinese football club"
     ],
     "founded": 1896,
+    "city": "Udine",
+    "stadium": "Stadio Friuli",
     "wikidata": "Q2798"
   },
   {
@@ -2943,6 +3104,8 @@
       "unione sportiva cremonese"
     ],
     "founded": 1903,
+    "city": "Cremona",
+    "stadium": "Stadio Giovanni Zini",
     "wikidata": "Q759482"
   },
   {
@@ -2959,6 +3122,8 @@
       "unione sportiva sassuolo calcio"
     ],
     "founded": 1920,
+    "city": "Sassuolo",
+    "stadium": "Mapei Stadium – Città del Tricolore",
     "wikidata": "Q8603"
   },
   {
