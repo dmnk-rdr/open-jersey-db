@@ -1,5 +1,1018 @@
 [
   {
+    "slug": "arizona-cardinals",
+    "name": "Arizona Cardinals",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "arizona cardinals"
+    ]
+  },
+  {
+    "slug": "atlanta-falcons",
+    "name": "Atlanta Falcons",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "atlanta falcons"
+    ]
+  },
+  {
+    "slug": "baltimore-ravens",
+    "name": "Baltimore Ravens",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "baltimore ravens"
+    ]
+  },
+  {
+    "slug": "buffalo-bills",
+    "name": "Buffalo Bills",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "buffalo bills"
+    ]
+  },
+  {
+    "slug": "carolina-panthers",
+    "name": "Carolina Panthers",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "carolina panthers"
+    ]
+  },
+  {
+    "slug": "chicago-bears",
+    "name": "Chicago Bears",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "chicago bears"
+    ]
+  },
+  {
+    "slug": "cincinnati-bengals",
+    "name": "Cincinnati Bengals",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "cincinnati bengals"
+    ]
+  },
+  {
+    "slug": "cleveland-browns",
+    "name": "Cleveland Browns",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "cleveland browns"
+    ]
+  },
+  {
+    "slug": "dallas-cowboys",
+    "name": "Dallas Cowboys",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "dallas cowboys"
+    ]
+  },
+  {
+    "slug": "denver-broncos",
+    "name": "Denver Broncos",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "denver broncos"
+    ]
+  },
+  {
+    "slug": "detroit-lions",
+    "name": "Detroit Lions",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "detroit lions"
+    ]
+  },
+  {
+    "slug": "green-bay-packers",
+    "name": "Green Bay Packers",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "green bay packers"
+    ]
+  },
+  {
+    "slug": "houston-texans",
+    "name": "Houston Texans",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "houston texans"
+    ]
+  },
+  {
+    "slug": "indianapolis-colts",
+    "name": "Indianapolis Colts",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "indianapolis colts"
+    ]
+  },
+  {
+    "slug": "jacksonville-jaguars",
+    "name": "Jacksonville Jaguars",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "jacksonville jaguars"
+    ]
+  },
+  {
+    "slug": "kansas-city-chiefs",
+    "name": "Kansas City Chiefs",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "kansas city chiefs"
+    ]
+  },
+  {
+    "slug": "las-vegas-raiders",
+    "name": "Las Vegas Raiders",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "las vegas raiders"
+    ]
+  },
+  {
+    "slug": "los-angeles-chargers",
+    "name": "Los Angeles Chargers",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "los angeles chargers"
+    ]
+  },
+  {
+    "slug": "los-angeles-rams",
+    "name": "Los Angeles Rams",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "los angeles rams"
+    ]
+  },
+  {
+    "slug": "miami-dolphins",
+    "name": "Miami Dolphins",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "miami dolphins"
+    ]
+  },
+  {
+    "slug": "minnesota-vikings",
+    "name": "Minnesota Vikings",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "minnesota vikings"
+    ]
+  },
+  {
+    "slug": "new-england-patriots",
+    "name": "New England Patriots",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "new england patriots"
+    ]
+  },
+  {
+    "slug": "new-orleans-saints",
+    "name": "New Orleans Saints",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "new orleans saints"
+    ]
+  },
+  {
+    "slug": "new-york-giants",
+    "name": "New York Giants",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "new york giants"
+    ]
+  },
+  {
+    "slug": "new-york-jets",
+    "name": "New York Jets",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "new york jets"
+    ]
+  },
+  {
+    "slug": "philadelphia-eagles",
+    "name": "Philadelphia Eagles",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "philadelphia eagles"
+    ]
+  },
+  {
+    "slug": "pittsburgh-steelers",
+    "name": "Pittsburgh Steelers",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "pittsburgh steelers"
+    ]
+  },
+  {
+    "slug": "san-francisco-49ers",
+    "name": "San Francisco 49ers",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "san francisco 49ers"
+    ]
+  },
+  {
+    "slug": "seattle-seahawks",
+    "name": "Seattle Seahawks",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "seattle seahawks"
+    ]
+  },
+  {
+    "slug": "tampa-bay-buccaneers",
+    "name": "Tampa Bay Buccaneers",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "tampa bay buccaneers"
+    ]
+  },
+  {
+    "slug": "tennessee-titans",
+    "name": "Tennessee Titans",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "tennessee titans"
+    ]
+  },
+  {
+    "slug": "washington-commanders",
+    "name": "Washington Commanders",
+    "sport": "american-football",
+    "type": "club",
+    "league": "nfl",
+    "country": "US",
+    "aliases": [
+      "washington commanders"
+    ]
+  },
+  {
+    "slug": "arizona-diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "arizona diamondbacks"
+    ]
+  },
+  {
+    "slug": "athletics",
+    "name": "Athletics",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "athletics"
+    ]
+  },
+  {
+    "slug": "atlanta-braves",
+    "name": "Atlanta Braves",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "atlanta braves"
+    ]
+  },
+  {
+    "slug": "baltimore-orioles",
+    "name": "Baltimore Orioles",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "baltimore orioles"
+    ]
+  },
+  {
+    "slug": "boston-red-sox",
+    "name": "Boston Red Sox",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "boston red sox"
+    ]
+  },
+  {
+    "slug": "chicago-cubs",
+    "name": "Chicago Cubs",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "chicago cubs"
+    ]
+  },
+  {
+    "slug": "chicago-white-sox",
+    "name": "Chicago White Sox",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "chicago white sox"
+    ]
+  },
+  {
+    "slug": "cincinnati-reds",
+    "name": "Cincinnati Reds",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "cincinnati reds"
+    ]
+  },
+  {
+    "slug": "cleveland-guardians",
+    "name": "Cleveland Guardians",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "cleveland guardians"
+    ]
+  },
+  {
+    "slug": "colorado-rockies",
+    "name": "Colorado Rockies",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "colorado rockies"
+    ]
+  },
+  {
+    "slug": "detroit-tigers",
+    "name": "Detroit Tigers",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "detroit tigers"
+    ]
+  },
+  {
+    "slug": "houston-astros",
+    "name": "Houston Astros",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "houston astros"
+    ]
+  },
+  {
+    "slug": "kansas-city-royals",
+    "name": "Kansas City Royals",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "kansas city royals"
+    ]
+  },
+  {
+    "slug": "los-angeles-angels",
+    "name": "Los Angeles Angels",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "los angeles angels"
+    ]
+  },
+  {
+    "slug": "los-angeles-dodgers",
+    "name": "Los Angeles Dodgers",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "los angeles dodgers"
+    ]
+  },
+  {
+    "slug": "miami-marlins",
+    "name": "Miami Marlins",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "miami marlins"
+    ]
+  },
+  {
+    "slug": "milwaukee-brewers",
+    "name": "Milwaukee Brewers",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "milwaukee brewers"
+    ]
+  },
+  {
+    "slug": "minnesota-twins",
+    "name": "Minnesota Twins",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "minnesota twins"
+    ]
+  },
+  {
+    "slug": "new-york-mets",
+    "name": "New York Mets",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "new york mets"
+    ]
+  },
+  {
+    "slug": "new-york-yankees",
+    "name": "New York Yankees",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "new york yankees"
+    ]
+  },
+  {
+    "slug": "philadelphia-phillies",
+    "name": "Philadelphia Phillies",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "philadelphia phillies"
+    ]
+  },
+  {
+    "slug": "pittsburgh-pirates",
+    "name": "Pittsburgh Pirates",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "pittsburgh pirates"
+    ]
+  },
+  {
+    "slug": "san-diego-padres",
+    "name": "San Diego Padres",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "san diego padres"
+    ]
+  },
+  {
+    "slug": "san-francisco-giants",
+    "name": "San Francisco Giants",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "san francisco giants"
+    ]
+  },
+  {
+    "slug": "seattle-mariners",
+    "name": "Seattle Mariners",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "seattle mariners"
+    ]
+  },
+  {
+    "slug": "st-louis-cardinals",
+    "name": "St. Louis Cardinals",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "st louis cardinals",
+      "st. louis cardinals"
+    ]
+  },
+  {
+    "slug": "tampa-bay-rays",
+    "name": "Tampa Bay Rays",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "tampa bay rays"
+    ]
+  },
+  {
+    "slug": "texas-rangers",
+    "name": "Texas Rangers",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "texas rangers"
+    ]
+  },
+  {
+    "slug": "toronto-blue-jays",
+    "name": "Toronto Blue Jays",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "CA",
+    "aliases": [
+      "toronto blue jays"
+    ]
+  },
+  {
+    "slug": "washington-nationals",
+    "name": "Washington Nationals",
+    "sport": "baseball",
+    "type": "club",
+    "league": "mlb",
+    "country": "US",
+    "aliases": [
+      "washington nationals"
+    ]
+  },
+  {
+    "slug": "atlanta-hawks",
+    "name": "Atlanta Hawks",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "atlanta hawks"
+    ]
+  },
+  {
+    "slug": "boston-celtics",
+    "name": "Boston Celtics",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "boston celtics"
+    ]
+  },
+  {
+    "slug": "brooklyn-nets",
+    "name": "Brooklyn Nets",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "brooklyn nets"
+    ]
+  },
+  {
+    "slug": "charlotte-hornets",
+    "name": "Charlotte Hornets",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "charlotte hornets"
+    ]
+  },
+  {
+    "slug": "chicago-bulls",
+    "name": "Chicago Bulls",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "chicago bulls"
+    ]
+  },
+  {
+    "slug": "cleveland-cavaliers",
+    "name": "Cleveland Cavaliers",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "cleveland cavaliers"
+    ]
+  },
+  {
+    "slug": "dallas-mavericks",
+    "name": "Dallas Mavericks",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "dallas mavericks"
+    ]
+  },
+  {
+    "slug": "denver-nuggets",
+    "name": "Denver Nuggets",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "denver nuggets"
+    ]
+  },
+  {
+    "slug": "detroit-pistons",
+    "name": "Detroit Pistons",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "detroit pistons"
+    ]
+  },
+  {
+    "slug": "golden-state-warriors",
+    "name": "Golden State Warriors",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "golden state warriors"
+    ]
+  },
+  {
+    "slug": "houston-rockets",
+    "name": "Houston Rockets",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "houston rockets"
+    ]
+  },
+  {
+    "slug": "indiana-pacers",
+    "name": "Indiana Pacers",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "indiana pacers"
+    ]
+  },
+  {
+    "slug": "la-clippers",
+    "name": "LA Clippers",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "la clippers"
+    ]
+  },
+  {
+    "slug": "los-angeles-lakers",
+    "name": "Los Angeles Lakers",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "los angeles lakers"
+    ]
+  },
+  {
+    "slug": "memphis-grizzlies",
+    "name": "Memphis Grizzlies",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "memphis grizzlies"
+    ]
+  },
+  {
+    "slug": "miami-heat",
+    "name": "Miami Heat",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "miami heat"
+    ]
+  },
+  {
+    "slug": "milwaukee-bucks",
+    "name": "Milwaukee Bucks",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "milwaukee bucks"
+    ]
+  },
+  {
+    "slug": "minnesota-timberwolves",
+    "name": "Minnesota Timberwolves",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "minnesota timberwolves"
+    ]
+  },
+  {
+    "slug": "new-orleans-pelicans",
+    "name": "New Orleans Pelicans",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "new orleans pelicans"
+    ]
+  },
+  {
+    "slug": "new-york-knicks",
+    "name": "New York Knicks",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "new york knicks"
+    ]
+  },
+  {
+    "slug": "oklahoma-city-thunder",
+    "name": "Oklahoma City Thunder",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "oklahoma city thunder"
+    ]
+  },
+  {
+    "slug": "orlando-magic",
+    "name": "Orlando Magic",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "orlando magic"
+    ]
+  },
+  {
+    "slug": "philadelphia-76ers",
+    "name": "Philadelphia 76ers",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "philadelphia 76ers"
+    ]
+  },
+  {
+    "slug": "phoenix-suns",
+    "name": "Phoenix Suns",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "phoenix suns"
+    ]
+  },
+  {
+    "slug": "portland-trail-blazers",
+    "name": "Portland Trail Blazers",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "portland trail blazers"
+    ]
+  },
+  {
+    "slug": "sacramento-kings",
+    "name": "Sacramento Kings",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "sacramento kings"
+    ]
+  },
+  {
+    "slug": "san-antonio-spurs",
+    "name": "San Antonio Spurs",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "san antonio spurs"
+    ]
+  },
+  {
+    "slug": "toronto-raptors",
+    "name": "Toronto Raptors",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "CA",
+    "aliases": [
+      "toronto raptors"
+    ]
+  },
+  {
+    "slug": "utah-jazz",
+    "name": "Utah Jazz",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "utah jazz"
+    ]
+  },
+  {
+    "slug": "washington-wizards",
+    "name": "Washington Wizards",
+    "sport": "basketball",
+    "type": "club",
+    "league": "nba",
+    "country": "US",
+    "aliases": [
+      "washington wizards"
+    ]
+  },
+  {
     "slug": "ssv-ulm-1846",
     "name": "SSV Ulm 1846",
     "sport": "football",
@@ -2503,6 +3516,359 @@
       "romania",
       "rumaenien",
       "rumänien"
+    ]
+  },
+  {
+    "slug": "anaheim-ducks",
+    "name": "Anaheim Ducks",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "anaheim ducks"
+    ]
+  },
+  {
+    "slug": "boston-bruins",
+    "name": "Boston Bruins",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "boston bruins"
+    ]
+  },
+  {
+    "slug": "buffalo-sabres",
+    "name": "Buffalo Sabres",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "buffalo sabres"
+    ]
+  },
+  {
+    "slug": "calgary-flames",
+    "name": "Calgary Flames",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "CA",
+    "aliases": [
+      "calgary flames"
+    ]
+  },
+  {
+    "slug": "carolina-hurricanes",
+    "name": "Carolina Hurricanes",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "carolina hurricanes"
+    ]
+  },
+  {
+    "slug": "chicago-blackhawks",
+    "name": "Chicago Blackhawks",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "chicago blackhawks"
+    ]
+  },
+  {
+    "slug": "colorado-avalanche",
+    "name": "Colorado Avalanche",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "colorado avalanche"
+    ]
+  },
+  {
+    "slug": "columbus-blue-jackets",
+    "name": "Columbus Blue Jackets",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "columbus blue jackets"
+    ]
+  },
+  {
+    "slug": "dallas-stars",
+    "name": "Dallas Stars",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "dallas stars"
+    ]
+  },
+  {
+    "slug": "detroit-red-wings",
+    "name": "Detroit Red Wings",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "detroit red wings"
+    ]
+  },
+  {
+    "slug": "edmonton-oilers",
+    "name": "Edmonton Oilers",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "CA",
+    "aliases": [
+      "edmonton oilers"
+    ]
+  },
+  {
+    "slug": "florida-panthers",
+    "name": "Florida Panthers",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "florida panthers"
+    ]
+  },
+  {
+    "slug": "los-angeles-kings",
+    "name": "Los Angeles Kings",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "los angeles kings"
+    ]
+  },
+  {
+    "slug": "minnesota-wild",
+    "name": "Minnesota Wild",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "minnesota wild"
+    ]
+  },
+  {
+    "slug": "montreal-canadiens",
+    "name": "Montreal Canadiens",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "CA",
+    "aliases": [
+      "montreal canadiens"
+    ]
+  },
+  {
+    "slug": "nashville-predators",
+    "name": "Nashville Predators",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "nashville predators"
+    ]
+  },
+  {
+    "slug": "new-jersey-devils",
+    "name": "New Jersey Devils",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "new jersey devils"
+    ]
+  },
+  {
+    "slug": "new-york-islanders",
+    "name": "New York Islanders",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "new york islanders"
+    ]
+  },
+  {
+    "slug": "new-york-rangers",
+    "name": "New York Rangers",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "new york rangers"
+    ]
+  },
+  {
+    "slug": "ottawa-senators",
+    "name": "Ottawa Senators",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "CA",
+    "aliases": [
+      "ottawa senators"
+    ]
+  },
+  {
+    "slug": "philadelphia-flyers",
+    "name": "Philadelphia Flyers",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "philadelphia flyers"
+    ]
+  },
+  {
+    "slug": "pittsburgh-penguins",
+    "name": "Pittsburgh Penguins",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "pittsburgh penguins"
+    ]
+  },
+  {
+    "slug": "san-jose-sharks",
+    "name": "San Jose Sharks",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "san jose sharks"
+    ]
+  },
+  {
+    "slug": "seattle-kraken",
+    "name": "Seattle Kraken",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "seattle kraken"
+    ]
+  },
+  {
+    "slug": "st-louis-blues",
+    "name": "St. Louis Blues",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "st louis blues",
+      "st. louis blues"
+    ]
+  },
+  {
+    "slug": "tampa-bay-lightning",
+    "name": "Tampa Bay Lightning",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "tampa bay lightning"
+    ]
+  },
+  {
+    "slug": "toronto-maple-leafs",
+    "name": "Toronto Maple Leafs",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "CA",
+    "aliases": [
+      "toronto maple leafs"
+    ]
+  },
+  {
+    "slug": "utah-hockey-club",
+    "name": "Utah Hockey Club",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "utah hockey club"
+    ]
+  },
+  {
+    "slug": "vancouver-canucks",
+    "name": "Vancouver Canucks",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "CA",
+    "aliases": [
+      "vancouver canucks"
+    ]
+  },
+  {
+    "slug": "vegas-golden-knights",
+    "name": "Vegas Golden Knights",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "vegas golden knights"
+    ]
+  },
+  {
+    "slug": "washington-capitals",
+    "name": "Washington Capitals",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "US",
+    "aliases": [
+      "washington capitals"
+    ]
+  },
+  {
+    "slug": "winnipeg-jets",
+    "name": "Winnipeg Jets",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "nhl",
+    "country": "CA",
+    "aliases": [
+      "winnipeg jets"
     ]
   }
 ]
