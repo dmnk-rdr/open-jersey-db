@@ -10,6 +10,7 @@
       "arizona cardinals"
     ],
     "founded": 1920,
+    "city": "Phoenix",
     "wikidata": "Q224164"
   },
   {
@@ -51,6 +52,7 @@
       "buffalo bills"
     ],
     "founded": 1960,
+    "city": "Buffalo",
     "wikidata": "Q221626"
   },
   {
@@ -64,6 +66,7 @@
       "carolina panthers"
     ],
     "founded": 1993,
+    "city": "Charlotte",
     "stadium": "Bank of America Stadium",
     "wikidata": "Q330120"
   },
@@ -78,6 +81,7 @@
       "chicago bears"
     ],
     "founded": 1919,
+    "city": "Chicago",
     "wikidata": "Q205033"
   },
   {
@@ -150,6 +154,7 @@
       "detroit lions"
     ],
     "founded": 1929,
+    "city": "Detroit",
     "stadium": "Ford Field",
     "wikidata": "Q271880"
   },
@@ -164,6 +169,7 @@
       "green bay packers"
     ],
     "founded": 1919,
+    "city": "Green Bay",
     "stadium": "Lambeau Field",
     "wikidata": "Q213837"
   },
@@ -263,6 +269,7 @@
       "los angeles rams"
     ],
     "founded": 1936,
+    "city": "Los Angeles",
     "wikidata": "Q337377"
   },
   {
@@ -291,6 +298,7 @@
       "minnesota vikings"
     ],
     "founded": 1961,
+    "city": "Minneapolis",
     "wikidata": "Q221150"
   },
   {
@@ -304,6 +312,7 @@
       "new england patriots"
     ],
     "founded": 1959,
+    "city": "Boston",
     "stadium": "Gillette Stadium",
     "wikidata": "Q193390"
   },
@@ -318,6 +327,7 @@
       "new orleans saints"
     ],
     "founded": 1967,
+    "city": "New Orleans",
     "stadium": "Caesars Superdome",
     "wikidata": "Q172435"
   },
@@ -332,6 +342,7 @@
       "new york giants"
     ],
     "founded": 1925,
+    "city": "New York",
     "stadium": "MetLife Stadium",
     "wikidata": "Q190618"
   },
@@ -361,6 +372,7 @@
       "philadelphia eagles"
     ],
     "founded": 1933,
+    "city": "Philadelphia",
     "stadium": "Lincoln Financial Field",
     "wikidata": "Q219714"
   },
@@ -389,6 +401,7 @@
       "san francisco 49ers"
     ],
     "founded": 1946,
+    "city": "San Francisco",
     "stadium": "Levi’s Stadium",
     "wikidata": "Q337758"
   },
@@ -403,6 +416,7 @@
       "seattle seahawks"
     ],
     "founded": 1976,
+    "city": "Seattle",
     "wikidata": "Q221878"
   },
   {
@@ -416,6 +430,7 @@
       "tampa bay buccaneers"
     ],
     "founded": 1974,
+    "city": "Tampa",
     "stadium": "Raymond James Stadium",
     "wikidata": "Q320476"
   },
@@ -445,6 +460,7 @@
       "washington commanders"
     ],
     "founded": 1932,
+    "city": "Washington, D.C.",
     "wikidata": "Q212654"
   },
   {
@@ -487,6 +503,7 @@
       "atlanta braves"
     ],
     "founded": 1871,
+    "city": "Atlanta",
     "wikidata": "Q461595"
   },
   {
@@ -500,6 +517,7 @@
       "baltimore orioles"
     ],
     "founded": 1894,
+    "city": "Baltimore",
     "wikidata": "Q650816"
   },
   {
@@ -542,6 +560,7 @@
       "chicago white sox"
     ],
     "founded": 1894,
+    "city": "Chicago",
     "stadium": "Guaranteed Rate Field",
     "wikidata": "Q335169"
   },
@@ -570,6 +589,7 @@
       "cleveland guardians"
     ],
     "founded": 1894,
+    "city": "Cleveland",
     "stadium": "Progressive Field",
     "wikidata": "Q642553"
   },
@@ -584,6 +604,7 @@
       "colorado rockies"
     ],
     "founded": 1993,
+    "city": "Denver",
     "stadium": "Coors Field",
     "wikidata": "Q388858"
   },
@@ -598,6 +619,7 @@
       "detroit tigers"
     ],
     "founded": 1894,
+    "city": "Detroit",
     "stadium": "Comerica Park",
     "wikidata": "Q650855"
   },
@@ -627,6 +649,7 @@
       "kansas city royals"
     ],
     "founded": 1969,
+    "city": "Kansas City",
     "stadium": "Kauffman Stadium",
     "wikidata": "Q744530"
   },
@@ -641,6 +664,7 @@
       "los angeles angels"
     ],
     "founded": 1960,
+    "city": "Anaheim",
     "stadium": "Angel Stadium of Anaheim",
     "wikidata": "Q743309"
   },
@@ -670,6 +694,7 @@
       "miami marlins"
     ],
     "founded": 1993,
+    "city": "Miami",
     "wikidata": "Q652879"
   },
   {
@@ -698,6 +723,7 @@
       "minnesota twins"
     ],
     "founded": 1901,
+    "city": "Minneapolis",
     "wikidata": "Q604879"
   },
   {
@@ -711,6 +737,7 @@
       "new york mets"
     ],
     "founded": 1962,
+    "city": "New York",
     "stadium": "Citi Field",
     "wikidata": "Q692417"
   },
@@ -725,6 +752,7 @@
       "new york yankees"
     ],
     "founded": 1901,
+    "city": "New York",
     "wikidata": "Q213417"
   },
   {
@@ -738,6 +766,7 @@
       "philadelphia phillies"
     ],
     "founded": 1883,
+    "city": "Philadelphia",
     "stadium": "Citizens Bank Park",
     "wikidata": "Q650840"
   },
@@ -796,6 +825,7 @@
       "seattle mariners"
     ],
     "founded": 1977,
+    "city": "Seattle",
     "wikidata": "Q466586"
   },
   {
@@ -810,6 +840,7 @@
       "st. louis cardinals"
     ],
     "founded": 1882,
+    "city": "St. Louis",
     "stadium": "Busch Stadium",
     "wikidata": "Q504309"
   },
@@ -824,6 +855,7 @@
       "tampa bay rays"
     ],
     "founded": 1998,
+    "city": "Tampa",
     "stadium": "Tropicana Field",
     "wikidata": "Q650865"
   },
@@ -838,6 +870,7 @@
       "texas rangers"
     ],
     "founded": 1961,
+    "city": "Arlington",
     "stadium": "Rangers Ballpark in Arlington",
     "wikidata": "Q329816"
   },
@@ -867,6 +900,7 @@
       "washington nationals"
     ],
     "founded": 1969,
+    "city": "Washington, D.C.",
     "wikidata": "Q825838"
   },
   {
@@ -1188,6 +1222,7 @@
       "philadelphia 76ers"
     ],
     "founded": 1946,
+    "city": "Philadelphia",
     "wikidata": "Q138089"
   },
   {
@@ -1378,6 +1413,7 @@
       "fsv mainz 05",
       "1 fsv mainz 05"
     ],
+    "city": "Mainz",
     "wikidata": "Q97905884"
   },
   {
@@ -1463,6 +1499,7 @@
       "augsburg",
       "fc augsburg"
     ],
+    "city": "Augsburg",
     "stadium": "WWK ARENA",
     "wikidata": "Q97905916"
   },
@@ -1591,6 +1628,7 @@
       "sv 07 elversberg"
     ],
     "founded": 1907,
+    "city": "Elversberg",
     "stadium": "Waldstadion Kaiserlinde",
     "wikidata": "Q692691"
   },
@@ -1660,6 +1698,7 @@
       "vizcaya de bilbao"
     ],
     "founded": 1898,
+    "city": "Bilbao",
     "wikidata": "Q8687"
   },
   {
@@ -1758,6 +1797,7 @@
       "vigo"
     ],
     "founded": 1923,
+    "city": "Vigo",
     "stadium": "Estadio Balaídos",
     "wikidata": "Q8749"
   },
@@ -1803,6 +1843,7 @@
       "reial club deportiu espanyol de barcelona"
     ],
     "founded": 1900,
+    "city": "Barcelona",
     "wikidata": "Q8780"
   },
   {
@@ -1858,6 +1899,7 @@
       "girona soccer team"
     ],
     "founded": 1930,
+    "city": "Girona",
     "stadium": "Estadi Municipal de Montilivi",
     "wikidata": "Q11945"
   },
@@ -2054,6 +2096,7 @@
       "real oviedo s.a.d."
     ],
     "founded": 1926,
+    "city": "Oviedo",
     "stadium": "Estadio Nuevo Carlos Tartiere",
     "wikidata": "Q271574"
   },
@@ -2117,6 +2160,7 @@
       "monaco"
     ],
     "founded": 1924,
+    "city": "Monaco",
     "stadium": "Stade Louis II",
     "wikidata": "Q180305"
   },
@@ -2274,6 +2318,7 @@
       "om"
     ],
     "founded": 1899,
+    "city": "Marseille",
     "stadium": "Stade Vélodrome",
     "wikidata": "Q132885"
   },
@@ -2709,6 +2754,7 @@
       "town"
     ],
     "founded": 1878,
+    "city": "Ipswich",
     "stadium": "Portman Road",
     "wikidata": "Q9653"
   },
@@ -2849,6 +2895,7 @@
       "tottenham hotspur football club"
     ],
     "founded": 1882,
+    "city": "London",
     "wikidata": "Q18741"
   },
   {
@@ -2871,6 +2918,7 @@
       "whufc"
     ],
     "founded": 1895,
+    "city": "London",
     "stadium": "Londoner Stadion",
     "wikidata": "Q18747"
   },
@@ -3970,6 +4018,7 @@
       "anaheim ducks"
     ],
     "founded": 1993,
+    "city": "Anaheim",
     "stadium": "Honda Center",
     "wikidata": "Q192751"
   },
@@ -3984,6 +4033,7 @@
       "boston bruins"
     ],
     "founded": 1924,
+    "city": "Boston",
     "wikidata": "Q194121"
   },
   {
@@ -3997,6 +4047,7 @@
       "buffalo sabres"
     ],
     "founded": 1970,
+    "city": "Buffalo",
     "wikidata": "Q131206"
   },
   {
@@ -4010,6 +4061,7 @@
       "calgary flames"
     ],
     "founded": 1972,
+    "city": "Calgary",
     "wikidata": "Q194126"
   },
   {
@@ -4023,6 +4075,7 @@
       "carolina hurricanes"
     ],
     "founded": 1972,
+    "city": "Raleigh",
     "wikidata": "Q201857"
   },
   {
@@ -4036,6 +4089,7 @@
       "chicago blackhawks"
     ],
     "founded": 1926,
+    "city": "Chicago",
     "wikidata": "Q209636"
   },
   {
@@ -4049,6 +4103,7 @@
       "colorado avalanche"
     ],
     "founded": 1972,
+    "city": "Denver",
     "wikidata": "Q206297"
   },
   {
@@ -4062,6 +4117,7 @@
       "columbus blue jackets"
     ],
     "founded": 2000,
+    "city": "Columbus",
     "stadium": "Nationwide Arena",
     "wikidata": "Q207507"
   },
@@ -4090,6 +4146,7 @@
       "detroit red wings"
     ],
     "founded": 1926,
+    "city": "Detroit",
     "wikidata": "Q194116"
   },
   {
@@ -4103,6 +4160,7 @@
       "edmonton oilers"
     ],
     "founded": 1972,
+    "city": "Edmonton",
     "wikidata": "Q205973"
   },
   {
@@ -4159,6 +4217,7 @@
       "montreal canadiens"
     ],
     "founded": 1909,
+    "city": "Montreal",
     "wikidata": "Q188143"
   },
   {
@@ -4172,6 +4231,7 @@
       "nashville predators"
     ],
     "founded": 1998,
+    "city": "Nashville",
     "stadium": "Bridgestone Arena",
     "wikidata": "Q207980"
   },
@@ -4186,6 +4246,7 @@
       "new jersey devils"
     ],
     "founded": 1974,
+    "city": "Newark",
     "wikidata": "Q192081"
   },
   {
@@ -4199,6 +4260,7 @@
       "new york islanders"
     ],
     "founded": 1972,
+    "city": "New York",
     "wikidata": "Q194369"
   },
   {
@@ -4212,6 +4274,7 @@
       "new york rangers"
     ],
     "founded": 1926,
+    "city": "New York",
     "stadium": "Madison Square Garden",
     "wikidata": "Q188984"
   },
@@ -4240,6 +4303,7 @@
       "philadelphia flyers"
     ],
     "founded": 1967,
+    "city": "Philadelphia",
     "stadium": "Philadelphia Spectrum",
     "wikidata": "Q192083"
   },
@@ -4254,6 +4318,7 @@
       "pittsburgh penguins"
     ],
     "founded": 1967,
+    "city": "Pittsburgh",
     "wikidata": "Q193643"
   },
   {
@@ -4267,6 +4332,7 @@
       "san jose sharks"
     ],
     "founded": 1991,
+    "city": "San Jose",
     "wikidata": "Q206381"
   },
   {
@@ -4280,6 +4346,7 @@
       "seattle kraken"
     ],
     "founded": 2021,
+    "city": "Seattle",
     "stadium": "Climate Pledge Arena",
     "wikidata": "Q59422166"
   },
@@ -4295,6 +4362,7 @@
       "st. louis blues"
     ],
     "founded": 1967,
+    "city": "St. Louis",
     "stadium": "Enterprise Center",
     "wikidata": "Q207735"
   },
@@ -4309,6 +4377,7 @@
       "tampa bay lightning"
     ],
     "founded": 1992,
+    "city": "Tampa",
     "wikidata": "Q201864"
   },
   {
@@ -4322,6 +4391,7 @@
       "toronto maple leafs"
     ],
     "founded": 1917,
+    "city": "Toronto",
     "wikidata": "Q203384"
   },
   {
@@ -4335,6 +4405,7 @@
       "utah hockey club"
     ],
     "founded": 2024,
+    "city": "Salt Lake City",
     "stadium": "Delta Center",
     "wikidata": "Q125520712"
   },
@@ -4349,6 +4420,7 @@
       "vancouver canucks"
     ],
     "founded": 1970,
+    "city": "Vancouver",
     "wikidata": "Q192890"
   },
   {
@@ -4362,6 +4434,7 @@
       "vegas golden knights"
     ],
     "founded": 2017,
+    "city": "Las Vegas",
     "stadium": "T-Mobile Arena",
     "wikidata": "Q24725640"
   },
@@ -4376,6 +4449,7 @@
       "washington capitals"
     ],
     "founded": 1974,
+    "city": "Washington, D.C.",
     "wikidata": "Q204627"
   },
   {
@@ -4389,6 +4463,7 @@
       "winnipeg jets"
     ],
     "founded": 1972,
+    "city": "Winnipeg",
     "stadium": "Winnipeg Arena",
     "wikidata": "Q576406"
   }
