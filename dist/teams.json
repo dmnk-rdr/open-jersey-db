@@ -13,7 +13,9 @@
       "ssv ulm 1846 fussball",
       "ulm"
     ],
-    "founded": 1846
+    "founded": 1846,
+    "city": "Ulm",
+    "stadium": "Donaustadion"
   },
   {
     "slug": "sv-waldhof-mannheim",
@@ -29,7 +31,9 @@
       "waldhof",
       "waldhof mannheim"
     ],
-    "founded": 1907
+    "founded": 1907,
+    "city": "Mannheim",
+    "stadium": "Carl-Benz-Stadion"
   },
   {
     "slug": "1-fc-koeln",
@@ -1062,7 +1066,9 @@
       "clermont foot",
       "clermont foot 63"
     ],
-    "founded": 1990
+    "founded": 1911,
+    "city": "Clermont-Ferrand",
+    "stadium": "Stade Gabriel Montpied"
   },
   {
     "slug": "afc-bournemouth",
@@ -1502,7 +1508,9 @@
       "stuttgarter kickers",
       "sv stuttgarter kickers"
     ],
-    "founded": 1899
+    "founded": 1899,
+    "city": "Stuttgart",
+    "stadium": "Gazi-Stadion auf der Waldau"
   },
   {
     "slug": "tsg-balingen",
@@ -1515,7 +1523,9 @@
       "balingen",
       "tsg balingen"
     ],
-    "founded": 1848
+    "founded": 1848,
+    "city": "Balingen",
+    "stadium": "Bizerba-Arena"
   },
   {
     "slug": "ac-florenz",
@@ -2403,7 +2413,10 @@
       "hbw",
       "hbw balingen",
       "hbw balingen weilstetten"
-    ]
+    ],
+    "founded": 2002,
+    "city": "Balingen",
+    "stadium": "Mey-Generalbau-Arena"
   },
   {
     "slug": "thsv-eisenach",
@@ -2415,7 +2428,10 @@
     "aliases": [
       "eisenach",
       "thsv eisenach"
-    ]
+    ],
+    "founded": 1990,
+    "city": "Eisenach",
+    "stadium": "Werner-Aßmann-Halle"
   },
   {
     "slug": "vfl-potsdam",
@@ -2426,7 +2442,10 @@
     "country": "DE",
     "aliases": [
       "vfl potsdam"
-    ]
+    ],
+    "founded": 1990,
+    "city": "Potsdam",
+    "stadium": "MBS Arena Potsdam"
   },
   {
     "slug": "island-handball",

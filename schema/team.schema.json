@@ -40,6 +40,14 @@
       "description": "Spelling variants used by shops/feeds. Drives the consumer's name normalization."
     },
     "founded": { "type": ["integer", "null"] },
+    "city": {
+      "type": ["string", "null"],
+      "description": "Home city, e.g. 'Mannheim'. For clubs only; null/omitted for national teams."
+    },
+    "stadium": {
+      "type": ["string", "null"],
+      "description": "Home ground / arena, e.g. 'Carl-Benz-Stadion'. For clubs only."
+    },
     "wikidata": {
       "type": ["string", "null"],
       "pattern": "^Q[0-9]+$",
