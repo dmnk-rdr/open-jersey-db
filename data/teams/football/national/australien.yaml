@@ -8,3 +8,9 @@ aliases:
 - australien
 - australia
 - socceroos
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Australia men's national soccer team".
+kit_suppliers:
+- { manufacturer: Nike, from: 2004 }
+- { manufacturer: adidas, from: 1993, to: 2002 }
+- { manufacturer: adidas, from: 1982, to: 1988 }
+- { manufacturer: Umbro, from: 1972, to: 1982 }

@@ -7,3 +7,7 @@ country: GH
 aliases:
 - ghana
 - black stars
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Ghana national football team".
+kit_suppliers:
+- { manufacturer: Puma, from: 2005 }
+- { manufacturer: adidas, from: 1992, to: 1998 }

@@ -7,3 +7,9 @@ country: CL
 aliases:
 - chile
 - chile national team
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Chile national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2021 }
+- { manufacturer: Nike, from: 2015, to: 2021 }
+- { manufacturer: Puma, from: 2011, to: 2015 }
+- { manufacturer: Brooks, from: 2004, to: 2010 }

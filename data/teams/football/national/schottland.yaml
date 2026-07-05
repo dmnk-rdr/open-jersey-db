@@ -7,3 +7,8 @@ country: GB-SCT
 aliases:
 - schottland
 - scotland
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Scotland national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2010 }
+- { manufacturer: Diadora, from: 2003, to: 2010 }
+- { manufacturer: Umbro, from: 1972, to: 2000 }

@@ -7,3 +7,8 @@ country: EC
 aliases:
 - ecuador
 - la tri
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Ecuador national football team".
+kit_suppliers:
+- { manufacturer: Marathon, from: 2009 }
+- { manufacturer: Umbro, from: 2004, to: 2008 }
+- { manufacturer: Marathon, from: 1996, to: 2003 }

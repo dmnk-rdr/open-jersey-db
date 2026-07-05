@@ -7,3 +7,8 @@ country: SN
 aliases:
 - senegal
 - lions of teranga
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Senegal national football team".
+kit_suppliers:
+- { manufacturer: Puma, from: 2018 }
+- { manufacturer: Puma, from: 2005, to: 2016 }
+- { manufacturer: Le Coq Sportif, from: 2002, to: 2004 }
