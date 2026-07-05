@@ -7,3 +7,11 @@ country: GB
 aliases:
 - wales
 - wales national team
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Wales national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2014 }
+- { manufacturer: Umbro, from: 2010, to: 2012 }
+- { manufacturer: Kappa, from: 2000, to: 2007 }
+- { manufacturer: Lotto, from: 1996, to: 1998 }
+- { manufacturer: Umbro, from: 1990, to: 1994 }
+- { manufacturer: adidas, from: 1980, to: 1984 }

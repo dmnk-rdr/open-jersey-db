@@ -8,3 +8,7 @@ aliases:
 - saudi-arabien
 - saudi arabien
 - saudi arabia
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Saudi Arabia national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2023 }
+- { manufacturer: Nike, from: 2011, to: 2022 }
