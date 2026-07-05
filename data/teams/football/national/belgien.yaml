@@ -9,3 +9,13 @@ aliases:
 - belgium
 - red devils
 - rote teufel
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Belgium national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2014 }
+- { manufacturer: Burrda, from: 2010, to: 2014 }
+- { manufacturer: Nike, from: 1999, to: 2009 }
+- { manufacturer: Diadora, from: 1992, to: 1998 }
+- { manufacturer: adidas, from: 1983, to: 1991 }
+- { manufacturer: Admiral, from: 1981, to: 1982 }
+- { manufacturer: adidas, from: 1974, to: 1980 }
+- { manufacturer: Umbro, from: 1970, to: 1973 }

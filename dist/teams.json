@@ -3541,6 +3541,47 @@
       "belgium",
       "red devils",
       "rote teufel"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2014
+      },
+      {
+        "manufacturer": "Burrda",
+        "from": 2010,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 1999,
+        "to": 2009
+      },
+      {
+        "manufacturer": "Diadora",
+        "from": 1992,
+        "to": 1998
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1983,
+        "to": 1991
+      },
+      {
+        "manufacturer": "Admiral",
+        "from": 1981,
+        "to": 1982
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 1980
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1970,
+        "to": 1973
+      }
     ]
   },
   {
@@ -4112,6 +4153,17 @@
       "kroatien",
       "croatia",
       "vatreni"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2000
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1992,
+        "to": 1999
+      }
     ]
   },
   {
@@ -4139,6 +4191,42 @@
       "mexiko",
       "mexico",
       "el tri"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2007
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2003,
+        "to": 2006
+      },
+      {
+        "manufacturer": "Atlética",
+        "from": 2000,
+        "to": 2002
+      },
+      {
+        "manufacturer": "Garcis",
+        "from": 1999,
+        "to": 1999
+      },
+      {
+        "manufacturer": "ABA Sport",
+        "from": 1995,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1991,
+        "to": 1994
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1982,
+        "to": 1990
+      }
     ]
   },
   {
@@ -4548,6 +4636,17 @@
       "united states",
       "usmnt",
       "stars and stripes"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 1995
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1984,
+        "to": 1994
+      }
     ]
   },
   {

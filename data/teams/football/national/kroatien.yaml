@@ -8,3 +8,7 @@ aliases:
 - kroatien
 - croatia
 - vatreni
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Croatia national football team".
+kit_suppliers:
+- { manufacturer: Nike, from: 2000 }
+- { manufacturer: Lotto, from: 1992, to: 1999 }

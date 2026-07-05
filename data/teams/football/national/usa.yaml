@@ -10,3 +10,7 @@ aliases:
 - united states
 - usmnt
 - stars and stripes
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „United States men's national soccer team".
+kit_suppliers:
+- { manufacturer: Nike, from: 1995 }
+- { manufacturer: adidas, from: 1984, to: 1994 }
