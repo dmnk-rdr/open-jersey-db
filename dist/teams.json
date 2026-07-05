@@ -3547,6 +3547,43 @@
     ]
   },
   {
+    "slug": "chile",
+    "name": "Chile",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CL",
+    "aliases": [
+      "chile",
+      "chile national team"
+    ]
+  },
+  {
+    "slug": "china",
+    "name": "China",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CN",
+    "aliases": [
+      "china",
+      "china pr",
+      "china national team"
+    ]
+  },
+  {
+    "slug": "costa-rica",
+    "name": "Costa Rica",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "CR",
+    "aliases": [
+      "costa rica",
+      "costa rica national team"
+    ]
+  },
+  {
     "slug": "curacao",
     "name": "Curaçao",
     "sport": "football",
@@ -3613,6 +3650,18 @@
     ]
   },
   {
+    "slug": "el-salvador",
+    "name": "El Salvador",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "SV",
+    "aliases": [
+      "el salvador",
+      "el salvador national team"
+    ]
+  },
+  {
     "slug": "elfenbeinkueste",
     "name": "Elfenbeinküste",
     "sport": "football",
@@ -3640,6 +3689,19 @@
     ]
   },
   {
+    "slug": "finnland",
+    "name": "Finnland",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "FI",
+    "aliases": [
+      "finland",
+      "finnland",
+      "finland national team"
+    ]
+  },
+  {
     "slug": "frankreich",
     "name": "Frankreich",
     "sport": "football",
@@ -3662,6 +3724,44 @@
     "aliases": [
       "ghana",
       "black stars"
+    ]
+  },
+  {
+    "slug": "griechenland",
+    "name": "Griechenland",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "GR",
+    "aliases": [
+      "greece",
+      "griechenland",
+      "greece national team"
+    ]
+  },
+  {
+    "slug": "groenland",
+    "name": "Grönland",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "GL",
+    "aliases": [
+      "greenland",
+      "grönland",
+      "greenland national team"
+    ]
+  },
+  {
+    "slug": "guatemala",
+    "name": "Guatemala",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "GT",
+    "aliases": [
+      "guatemala",
+      "guatemala national team"
     ]
   },
   {
@@ -3701,6 +3801,19 @@
     ]
   },
   {
+    "slug": "island",
+    "name": "Island",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "IS",
+    "aliases": [
+      "iceland",
+      "island",
+      "iceland national team"
+    ]
+  },
+  {
     "slug": "italien",
     "name": "Italien",
     "sport": "football",
@@ -3712,6 +3825,19 @@
       "italy",
       "italia",
       "azzurri"
+    ]
+  },
+  {
+    "slug": "jamaika",
+    "name": "Jamaika",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "JM",
+    "aliases": [
+      "jamaica",
+      "jamaika",
+      "jamaica national team"
     ]
   },
   {
@@ -3880,6 +4006,19 @@
     ]
   },
   {
+    "slug": "nordirland",
+    "name": "Nordirland",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "GB",
+    "aliases": [
+      "northern ireland",
+      "nordirland",
+      "northern ireland national team"
+    ]
+  },
+  {
     "slug": "norwegen",
     "name": "Norwegen",
     "sport": "football",
@@ -3924,6 +4063,18 @@
     "country": "PY",
     "aliases": [
       "paraguay"
+    ]
+  },
+  {
+    "slug": "peru",
+    "name": "Peru",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "PE",
+    "aliases": [
+      "peru",
+      "peru national team"
     ]
   },
   {
@@ -4026,6 +4177,19 @@
     ]
   },
   {
+    "slug": "slowenien",
+    "name": "Slowenien",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "SI",
+    "aliases": [
+      "slovenia",
+      "slowenien",
+      "slovenia national team"
+    ]
+  },
+  {
     "slug": "spanien",
     "name": "Spanien",
     "sport": "football",
@@ -4108,6 +4272,18 @@
     ]
   },
   {
+    "slug": "ukraine",
+    "name": "Ukraine",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "UA",
+    "aliases": [
+      "ukraine",
+      "ukraine national team"
+    ]
+  },
+  {
     "slug": "uruguay",
     "name": "Uruguay",
     "sport": "football",
@@ -4144,6 +4320,18 @@
     "aliases": [
       "usbekistan",
       "uzbekistan"
+    ]
+  },
+  {
+    "slug": "wales",
+    "name": "Wales",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "GB",
+    "aliases": [
+      "wales",
+      "wales national team"
     ]
   },
   {
