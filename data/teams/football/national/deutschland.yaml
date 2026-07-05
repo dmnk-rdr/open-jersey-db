@@ -11,3 +11,13 @@ aliases:
 # Sondertrikots würden fälschlich der Nationalelf zugeordnet. 'dfb team' ist eindeutig.
 - dfb team
 - nationalmannschaft deutschland
+# Ausrüster-/Hersteller-Historie (jüngste zuerst). Quelle: Wikipedia „Deutsche
+# Fußballnationalmannschaft" (CC BY-SA). from/to = Jahre; nur from = „seit", nur to = „bis".
+kit_suppliers:
+- { manufacturer: adidas, from: 1980 }
+- { manufacturer: Erima / adidas, from: 1979, to: 1979 }
+- { manufacturer: Erima, from: 1974, to: 1978 }
+- { manufacturer: Erima / adidas, from: 1972, to: 1972 }
+- { manufacturer: Umbro, from: 1964, to: 1971 }
+- { manufacturer: Leuze, from: 1950, to: 1962 }
+- { manufacturer: In-House, to: 1938 }
