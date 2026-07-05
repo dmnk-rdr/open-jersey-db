@@ -166,6 +166,10 @@
   "Atlanta Hawks": [
     "atlanta hawks"
   ],
+  "Atlanta United FC": [
+    "atlanta united",
+    "atlanta united fc"
+  ],
   "Atlético Madrid": [
     "atl. de madrid",
     "atleti de madrid",
@@ -185,6 +189,9 @@
     "el atleti",
     "madrid",
     "the atletico"
+  ],
+  "Austin FC": [
+    "austin fc"
   ],
   "Australien": [
     "australia",
@@ -290,6 +297,11 @@
     "osasuna",
     "osasuna pamplona"
   ],
+  "CF Montréal": [
+    "cf montreal",
+    "cf montréal",
+    "montreal impact"
+  ],
   "Calgary Flames": [
     "calgary flames"
   ],
@@ -313,6 +325,9 @@
     "real club fortuna de vigo",
     "vigo"
   ],
+  "Charlotte FC": [
+    "charlotte fc"
+  ],
   "Charlotte Hornets": [
     "charlotte hornets"
   ],
@@ -327,6 +342,10 @@
   ],
   "Chicago Cubs": [
     "chicago cubs"
+  ],
+  "Chicago Fire FC": [
+    "chicago fire",
+    "chicago fire fc"
   ],
   "Chicago White Sox": [
     "chicago white sox"
@@ -363,11 +382,17 @@
   "Colorado Avalanche": [
     "colorado avalanche"
   ],
+  "Colorado Rapids": [
+    "colorado rapids"
+  ],
   "Colorado Rockies": [
     "colorado rockies"
   ],
   "Columbus Blue Jackets": [
     "columbus blue jackets"
+  ],
+  "Columbus Crew": [
+    "columbus crew"
   ],
   "Costa Rica": [
     "costa rica",
@@ -386,6 +411,10 @@
   "Curaçao": [
     "curacao",
     "curaçao"
+  ],
+  "D.C. United": [
+    "d.c. united",
+    "dc united"
   ],
   "DR Kongo": [
     "congo dr",
@@ -529,6 +558,13 @@
     "chelsea london",
     "the blues",
     "the pensioners"
+  ],
+  "FC Cincinnati": [
+    "cincinnati",
+    "fc cincinnati"
+  ],
+  "FC Dallas": [
+    "fc dallas"
   ],
   "FC Elche": [
     "elche",
@@ -756,6 +792,10 @@
   "Houston Astros": [
     "houston astros"
   ],
+  "Houston Dynamo FC": [
+    "houston dynamo",
+    "houston dynamo fc"
+  ],
   "Houston Rockets": [
     "houston rockets"
   ],
@@ -798,6 +838,10 @@
     "internazionale milano",
     "mailand",
     "the inter"
+  ],
+  "Inter Miami CF": [
+    "inter miami",
+    "inter miami cf"
   ],
   "Ipswich Town": [
     "ipswich",
@@ -888,6 +932,10 @@
   "LA Clippers": [
     "la clippers"
   ],
+  "LA Galaxy": [
+    "la galaxy",
+    "los angeles galaxy"
+  ],
   "Las Vegas Raiders": [
     "las vegas raiders"
   ],
@@ -931,6 +979,10 @@
   ],
   "Los Angeles Dodgers": [
     "los angeles dodgers"
+  ],
+  "Los Angeles FC": [
+    "lafc",
+    "los angeles fc"
   ],
   "Los Angeles Kings": [
     "los angeles kings"
@@ -1007,6 +1059,10 @@
   "Minnesota Twins": [
     "minnesota twins"
   ],
+  "Minnesota United FC": [
+    "minnesota united",
+    "minnesota united fc"
+  ],
   "Minnesota Vikings": [
     "minnesota vikings"
   ],
@@ -1019,12 +1075,19 @@
   "Nashville Predators": [
     "nashville predators"
   ],
+  "Nashville SC": [
+    "nashville sc"
+  ],
   "Neuseeland": [
     "neuseeland",
     "new zealand"
   ],
   "New England Patriots": [
     "new england patriots"
+  ],
+  "New England Revolution": [
+    "new england",
+    "new england revolution"
   ],
   "New Jersey Devils": [
     "new jersey devils"
@@ -1034,6 +1097,11 @@
   ],
   "New Orleans Saints": [
     "new orleans saints"
+  ],
+  "New York City FC": [
+    "new york city",
+    "new york city fc",
+    "nycfc"
   ],
   "New York Giants": [
     "new york giants"
@@ -1052,6 +1120,10 @@
   ],
   "New York Rangers": [
     "new york rangers"
+  ],
+  "New York Red Bulls": [
+    "new york red bulls",
+    "ny red bulls"
   ],
   "New York Yankees": [
     "new york yankees"
@@ -1129,6 +1201,10 @@
     "olympique marsilien",
     "om"
   ],
+  "Orlando City SC": [
+    "orlando city",
+    "orlando city sc"
+  ],
   "Orlando Magic": [
     "orlando magic"
   ],
@@ -1171,6 +1247,9 @@
   "Philadelphia Phillies": [
     "philadelphia phillies"
   ],
+  "Philadelphia Union": [
+    "philadelphia union"
+  ],
   "Phoenix Suns": [
     "phoenix suns"
   ],
@@ -1187,6 +1266,9 @@
     "poland",
     "polen",
     "polska"
+  ],
+  "Portland Timbers": [
+    "portland timbers"
   ],
   "Portland Trail Blazers": [
     "portland trail blazers"
@@ -1250,6 +1332,9 @@
   "Real Oviedo": [
     "oviedo",
     "real oviedo s.a.d."
+  ],
+  "Real Salt Lake": [
+    "real salt lake"
   ],
   "Real Sociedad": [
     "donostia football club",
@@ -1349,6 +1434,9 @@
   "San Antonio Spurs": [
     "san antonio spurs"
   ],
+  "San Diego FC": [
+    "san diego fc"
+  ],
   "San Diego Padres": [
     "san diego padres"
   ],
@@ -1357,6 +1445,9 @@
   ],
   "San Francisco Giants": [
     "san francisco giants"
+  ],
+  "San Jose Earthquakes": [
+    "san jose earthquakes"
   ],
   "San Jose Sharks": [
     "san jose sharks"
@@ -1389,6 +1480,10 @@
   "Seattle Seahawks": [
     "seattle seahawks"
   ],
+  "Seattle Sounders FC": [
+    "seattle sounders",
+    "seattle sounders fc"
+  ],
   "Senegal": [
     "lions of teranga",
     "senegal"
@@ -1420,6 +1515,10 @@
     "spezia",
     "spezia calcio 1906"
   ],
+  "Sporting Kansas City": [
+    "sporting kansas city",
+    "sporting kc"
+  ],
   "St. Louis Blues": [
     "st louis blues",
     "st. louis blues"
@@ -1427,6 +1526,11 @@
   "St. Louis Cardinals": [
     "st louis cardinals",
     "st. louis cardinals"
+  ],
+  "St. Louis City SC": [
+    "st louis city",
+    "st. louis city",
+    "stl city"
   ],
   "Stade Brest": [
     "brest",
@@ -1491,6 +1595,9 @@
   ],
   "Toronto Blue Jays": [
     "toronto blue jays"
+  ],
+  "Toronto FC": [
+    "toronto fc"
   ],
   "Toronto Maple Leafs": [
     "toronto maple leafs"
@@ -1590,6 +1697,10 @@
   ],
   "Vancouver Canucks": [
     "vancouver canucks"
+  ],
+  "Vancouver Whitecaps FC": [
+    "vancouver whitecaps",
+    "vancouver whitecaps fc"
   ],
   "Vegas Golden Knights": [
     "vegas golden knights"

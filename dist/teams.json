@@ -2497,6 +2497,357 @@
     "stadium": "Stade Gabriel Montpied"
   },
   {
+    "slug": "atlanta-united",
+    "name": "Atlanta United FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "atlanta united",
+      "atlanta united fc"
+    ]
+  },
+  {
+    "slug": "austin-fc",
+    "name": "Austin FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "austin fc"
+    ]
+  },
+  {
+    "slug": "cf-montreal",
+    "name": "CF Montréal",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "CA",
+    "aliases": [
+      "cf montreal",
+      "cf montréal",
+      "montreal impact"
+    ]
+  },
+  {
+    "slug": "charlotte-fc",
+    "name": "Charlotte FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "charlotte fc"
+    ]
+  },
+  {
+    "slug": "chicago-fire",
+    "name": "Chicago Fire FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "chicago fire",
+      "chicago fire fc"
+    ]
+  },
+  {
+    "slug": "colorado-rapids",
+    "name": "Colorado Rapids",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "colorado rapids"
+    ]
+  },
+  {
+    "slug": "columbus-crew",
+    "name": "Columbus Crew",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "columbus crew"
+    ]
+  },
+  {
+    "slug": "dc-united",
+    "name": "D.C. United",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "d.c. united",
+      "dc united"
+    ]
+  },
+  {
+    "slug": "fc-cincinnati",
+    "name": "FC Cincinnati",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "fc cincinnati",
+      "cincinnati"
+    ]
+  },
+  {
+    "slug": "fc-dallas",
+    "name": "FC Dallas",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "fc dallas"
+    ]
+  },
+  {
+    "slug": "houston-dynamo",
+    "name": "Houston Dynamo FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "houston dynamo",
+      "houston dynamo fc"
+    ]
+  },
+  {
+    "slug": "inter-miami",
+    "name": "Inter Miami CF",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "inter miami",
+      "inter miami cf"
+    ]
+  },
+  {
+    "slug": "la-galaxy",
+    "name": "LA Galaxy",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "la galaxy",
+      "los angeles galaxy"
+    ]
+  },
+  {
+    "slug": "los-angeles-fc",
+    "name": "Los Angeles FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "los angeles fc",
+      "lafc"
+    ]
+  },
+  {
+    "slug": "minnesota-united",
+    "name": "Minnesota United FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "minnesota united",
+      "minnesota united fc"
+    ]
+  },
+  {
+    "slug": "nashville-sc",
+    "name": "Nashville SC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "nashville sc"
+    ]
+  },
+  {
+    "slug": "new-england-revolution",
+    "name": "New England Revolution",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "new england revolution",
+      "new england"
+    ]
+  },
+  {
+    "slug": "new-york-city-fc",
+    "name": "New York City FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "new york city fc",
+      "new york city",
+      "nycfc"
+    ]
+  },
+  {
+    "slug": "new-york-red-bulls",
+    "name": "New York Red Bulls",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "new york red bulls",
+      "ny red bulls"
+    ]
+  },
+  {
+    "slug": "orlando-city",
+    "name": "Orlando City SC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "orlando city",
+      "orlando city sc"
+    ]
+  },
+  {
+    "slug": "philadelphia-union",
+    "name": "Philadelphia Union",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "philadelphia union"
+    ]
+  },
+  {
+    "slug": "portland-timbers",
+    "name": "Portland Timbers",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "portland timbers"
+    ]
+  },
+  {
+    "slug": "real-salt-lake",
+    "name": "Real Salt Lake",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "real salt lake"
+    ]
+  },
+  {
+    "slug": "san-diego-fc",
+    "name": "San Diego FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "san diego fc"
+    ]
+  },
+  {
+    "slug": "san-jose-earthquakes",
+    "name": "San Jose Earthquakes",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "san jose earthquakes"
+    ]
+  },
+  {
+    "slug": "seattle-sounders",
+    "name": "Seattle Sounders FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "seattle sounders",
+      "seattle sounders fc"
+    ]
+  },
+  {
+    "slug": "sporting-kansas-city",
+    "name": "Sporting Kansas City",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "sporting kansas city",
+      "sporting kc"
+    ]
+  },
+  {
+    "slug": "st-louis-city",
+    "name": "St. Louis City SC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "US",
+    "aliases": [
+      "st. louis city",
+      "st louis city",
+      "stl city"
+    ]
+  },
+  {
+    "slug": "toronto-fc",
+    "name": "Toronto FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "CA",
+    "aliases": [
+      "toronto fc"
+    ]
+  },
+  {
+    "slug": "vancouver-whitecaps",
+    "name": "Vancouver Whitecaps FC",
+    "sport": "football",
+    "type": "club",
+    "league": "mls",
+    "country": "CA",
+    "aliases": [
+      "vancouver whitecaps",
+      "vancouver whitecaps fc"
+    ]
+  },
+  {
     "slug": "afc-bournemouth",
     "name": "AFC Bournemouth",
     "sport": "football",
