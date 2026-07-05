@@ -4591,6 +4591,32 @@
       "morocco",
       "atlas lions",
       "atlasloewen"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 2019
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2013,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1998,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1993,
+        "to": 1997
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1976,
+        "to": 1992
+      }
     ]
   },
   {
@@ -4704,6 +4730,37 @@
     "aliases": [
       "nigeria",
       "super eagles"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2015
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2002,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 1994,
+        "to": 2002
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1988,
+        "to": 1994
+      },
+      {
+        "manufacturer": "Admiral",
+        "from": 1984,
+        "to": 1987
+      },
+      {
+        "manufacturer": "Erima",
+        "from": 1980,
+        "to": 1984
+      }
     ]
   },
   {
@@ -4742,6 +4799,12 @@
       "oesterreich",
       "osterreich",
       "austria"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 1974
+      }
     ]
   },
   {
@@ -4864,6 +4927,22 @@
     "aliases": [
       "schweden",
       "sweden"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2014
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2003,
+        "to": 2013
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 2003
+      }
     ]
   },
   {
@@ -4993,6 +5072,22 @@
       "south korea",
       "korea republic",
       "korea"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2020
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2003,
+        "to": 2019
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 1996,
+        "to": 2002
+      }
     ]
   },
   {
@@ -5021,6 +5116,17 @@
       "turkei",
       "turkey",
       "turkiye"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2003
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1983,
+        "to": 2002
+      }
     ]
   },
   {

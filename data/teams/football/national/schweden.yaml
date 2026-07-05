@@ -7,3 +7,8 @@ country: SE
 aliases:
 - schweden
 - sweden
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Sweden men's national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2014 }
+- { manufacturer: Umbro, from: 2003, to: 2013 }
+- { manufacturer: adidas, from: 1974, to: 2003 }

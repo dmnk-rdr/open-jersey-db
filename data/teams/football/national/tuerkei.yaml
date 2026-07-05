@@ -9,3 +9,7 @@ aliases:
 - turkei
 - turkey
 - turkiye
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Turkey national football team".
+kit_suppliers:
+- { manufacturer: Nike, from: 2003 }
+- { manufacturer: adidas, from: 1983, to: 2002 }

@@ -8,3 +8,6 @@ aliases:
 - oesterreich
 - osterreich
 - austria
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Austria national football team".
+kit_suppliers:
+- { manufacturer: Puma, from: 1974 }

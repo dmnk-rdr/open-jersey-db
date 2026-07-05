@@ -9,3 +9,10 @@ aliases:
 - morocco
 - atlas lions
 - atlasloewen
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Morocco national football team".
+kit_suppliers:
+- { manufacturer: Puma, from: 2019 }
+- { manufacturer: adidas, from: 2013, to: 2018 }
+- { manufacturer: Puma, from: 1998, to: 2012 }
+- { manufacturer: Lotto, from: 1993, to: 1997 }
+- { manufacturer: adidas, from: 1976, to: 1992 }
