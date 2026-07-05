@@ -4284,6 +4284,19 @@
     ]
   },
   {
+    "slug": "ungarn",
+    "name": "Ungarn",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "HU",
+    "aliases": [
+      "hungary",
+      "ungarn",
+      "hungary national team"
+    ]
+  },
+  {
     "slug": "uruguay",
     "name": "Uruguay",
     "sport": "football",
@@ -4320,6 +4333,18 @@
     "aliases": [
       "usbekistan",
       "uzbekistan"
+    ]
+  },
+  {
+    "slug": "venezuela",
+    "name": "Venezuela",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "VE",
+    "aliases": [
+      "venezuela",
+      "venezuela national team"
     ]
   },
   {
