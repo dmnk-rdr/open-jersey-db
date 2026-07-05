@@ -8,3 +8,8 @@ aliases:
 - spanien
 - spain
 - espana
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Spain national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 1991 }
+- { manufacturer: Le Coq Sportif, from: 1984, to: 1990 }
+- { manufacturer: adidas, from: 1981, to: 1983 }

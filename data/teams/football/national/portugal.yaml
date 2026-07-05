@@ -6,3 +6,7 @@ league: null
 country: PT
 aliases:
 - portugal
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Portugal national football team".
+kit_suppliers:
+- { manufacturer: Puma, from: 2025 }
+- { manufacturer: Nike, from: 1997, to: 2024 }

@@ -9,3 +9,10 @@ aliases:
 - netherlands
 - holland
 - oranje
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Netherlands national football team".
+kit_suppliers:
+- { manufacturer: Nike, from: 1997 }
+- { manufacturer: Lotto, from: 1992, to: 1996 }
+- { manufacturer: adidas, from: 1974, to: 1990 }
+- { manufacturer: Jansen & Tilanus, from: 1969, to: 1973 }
+- { manufacturer: Umbro, from: 1964, to: 1968 }

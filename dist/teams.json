@@ -3488,6 +3488,32 @@
       "argentinien",
       "argentina",
       "albiceleste"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2001
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 1999,
+        "to": 2000
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1990,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1982,
+        "to": 1989
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 1981
+      }
     ]
   },
   {
@@ -3803,6 +3829,22 @@
       "frankreich",
       "france",
       "les bleus"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2011
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1972,
+        "to": 2010
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1966,
+        "to": 1971
+      }
     ]
   },
   {
@@ -3916,6 +3958,47 @@
       "italy",
       "italia",
       "azzurri"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2023
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2003,
+        "to": 2022
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1999,
+        "to": 2002
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 1995,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Diadora",
+        "from": 1986,
+        "to": 1994
+      },
+      {
+        "manufacturer": "Ennerre",
+        "from": 1984,
+        "to": 1985
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1980,
+        "to": 1984
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 1978
+      }
     ]
   },
   {
@@ -4082,6 +4165,32 @@
       "netherlands",
       "holland",
       "oranje"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 1997
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1992,
+        "to": 1996
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 1990
+      },
+      {
+        "manufacturer": "Jansen & Tilanus",
+        "from": 1969,
+        "to": 1973
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1964,
+        "to": 1968
+      }
     ]
   },
   {
@@ -4190,6 +4299,17 @@
     "country": "PT",
     "aliases": [
       "portugal"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 2025
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 1997,
+        "to": 2024
+      }
     ]
   },
   {
@@ -4291,6 +4411,22 @@
       "spanien",
       "spain",
       "espana"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 1991
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1984,
+        "to": 1990
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1981,
+        "to": 1983
+      }
     ]
   },
   {
