@@ -7,3 +7,7 @@ country: UY
 aliases:
 - uruguay
 - la celeste
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Uruguay national football team".
+kit_suppliers:
+- { manufacturer: Nike, from: 2024 }
+- { manufacturer: Puma, from: 2006, to: 2023 }

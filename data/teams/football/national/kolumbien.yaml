@@ -8,3 +8,10 @@ aliases:
 - kolumbien
 - colombia
 - los cafeteros
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Colombia national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2011 }
+- { manufacturer: Lotto, from: 2003, to: 2010 }
+- { manufacturer: Reebok, from: 1998, to: 2002 }
+- { manufacturer: Umbro, from: 1993, to: 1997 }
+- { manufacturer: adidas, from: 1983, to: 1990 }

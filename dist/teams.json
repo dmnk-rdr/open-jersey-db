@@ -4049,6 +4049,31 @@
       "daenemark",
       "danemark",
       "denmark"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Hummel",
+        "from": 2016
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2004,
+        "to": 2016
+      },
+      {
+        "manufacturer": "Hummel",
+        "from": 1979,
+        "to": 2004
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1968,
+        "to": 1978
+      },
+      {
+        "manufacturer": "In-House",
+        "to": 1964
+      }
     ]
   },
   {
@@ -4416,6 +4441,17 @@
     "aliases": [
       "japan",
       "samurai blue"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 1999
+      },
+      {
+        "manufacturer": "Asics",
+        "from": 1988,
+        "to": 1998
+      }
     ]
   },
   {
@@ -4491,6 +4527,32 @@
       "kolumbien",
       "colombia",
       "los cafeteros"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2011
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 2003,
+        "to": 2010
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 1998,
+        "to": 2002
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1993,
+        "to": 1997
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1983,
+        "to": 1990
+      }
     ]
   },
   {
@@ -4727,6 +4789,22 @@
       "polen",
       "poland",
       "polska"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2009
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1994,
+        "to": 1996
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 1991
+      }
     ]
   },
   {
@@ -4800,6 +4878,27 @@
       "switzerland",
       "suisse",
       "nati"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 1998
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1992,
+        "to": 1996
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1976,
+        "to": 1990
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1970,
+        "to": 1974
+      }
     ]
   },
   {
@@ -4972,6 +5071,17 @@
     "aliases": [
       "uruguay",
       "la celeste"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2024
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2006,
+        "to": 2023
+      }
     ]
   },
   {

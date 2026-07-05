@@ -8,3 +8,8 @@ aliases:
 - polen
 - poland
 - polska
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Poland national football team".
+kit_suppliers:
+- { manufacturer: Nike, from: 2009 }
+- { manufacturer: Puma, from: 1994, to: 1996 }
+- { manufacturer: adidas, from: 1974, to: 1991 }

@@ -7,3 +7,7 @@ country: JP
 aliases:
 - japan
 - samurai blue
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Japan national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 1999 }
+- { manufacturer: Asics, from: 1988, to: 1998 }
