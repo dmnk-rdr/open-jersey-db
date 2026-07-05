@@ -48,6 +48,20 @@
       "type": ["string", "null"],
       "description": "Home ground / arena, e.g. 'Carl-Benz-Stadion'. For clubs only."
     },
+    "kit_suppliers": {
+      "type": ["array", "null"],
+      "description": "Kit/manufacturer history, most recent first. from/to = years; only 'from' = 'since', only 'to' = 'until'.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["manufacturer"],
+        "properties": {
+          "manufacturer": { "type": "string", "minLength": 1 },
+          "from": { "type": ["integer", "null"] },
+          "to": { "type": ["integer", "null"] }
+        }
+      }
+    },
     "wikidata": {
       "type": ["string", "null"],
       "pattern": "^Q[0-9]+$",

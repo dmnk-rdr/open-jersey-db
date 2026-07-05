@@ -37,6 +37,30 @@
     },
     "main_sponsor": { "type": ["string", "null"] },
     "colorway": { "type": ["string", "null"] },
+    "design": {
+      "type": ["string", "null"],
+      "description": "Short design descriptor, e.g. 'V-neck', 'geometric'."
+    },
+    "colors": {
+      "type": ["array", "null"],
+      "items": { "type": "string" },
+      "description": "Primary colours of the design."
+    },
+    "competitions": {
+      "type": ["array", "null"],
+      "items": { "type": "string" },
+      "description": "Competitions the kit is worn in, e.g. 'World Cup'."
+    },
+    "skus": {
+      "type": ["object", "null"],
+      "additionalProperties": { "type": "string" },
+      "description": "Manufacturer article numbers per grade, e.g. {authentic: 'JN2066', replica: 'KD8363'}."
+    },
+    "release_date": {
+      "type": ["string", "null"],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "Official release date (ISO YYYY-MM-DD)."
+    },
     "gtins": {
       "type": "array",
       "items": { "type": "string", "pattern": "^(\\d{8}|\\d{12,14})$" },
