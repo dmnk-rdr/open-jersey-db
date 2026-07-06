@@ -1,0 +1,20 @@
+team: island
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: Puma
+main_sponsor: null
+colorway: Blau
+design: null
+colors:
+- Blau
+- Weiß
+- Rot
+competitions:
+- International
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
