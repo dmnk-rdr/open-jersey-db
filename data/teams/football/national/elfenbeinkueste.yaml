@@ -10,3 +10,6 @@ aliases:
 - ivory coast
 - cote d'ivoire
 - côte d'ivoire
+# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+kit_suppliers:
+- { manufacturer: Puma }

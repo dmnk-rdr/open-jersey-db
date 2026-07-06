@@ -1,0 +1,20 @@
+team: portugal
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: Puma
+main_sponsor: null
+colorway: Rot / Grün
+design: null
+colors:
+- Rot
+- Grün
+competitions:
+- International
+- World Cup
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community

@@ -1,0 +1,19 @@
+team: italien
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: adidas
+main_sponsor: null
+colorway: Blau (Azzurro)
+design: null
+colors:
+- Blau
+competitions:
+- International
+- World Cup
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community

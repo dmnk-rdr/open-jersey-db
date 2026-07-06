@@ -1,0 +1,21 @@
+team: spanien
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: adidas
+main_sponsor: null
+colorway: Rot
+design: null
+colors:
+- Rot
+- Gelb
+- Blau
+competitions:
+- International
+- World Cup
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community

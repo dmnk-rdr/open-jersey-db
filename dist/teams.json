@@ -3842,6 +3842,11 @@
       "algeria",
       "algérie",
       "algerie"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
     ]
   },
   {
@@ -4082,6 +4087,11 @@
     "aliases": [
       "costa rica",
       "costa rica national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
     ]
   },
   {
@@ -4251,6 +4261,11 @@
       "ivory coast",
       "cote d'ivoire",
       "côte d'ivoire"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma"
+      }
     ]
   },
   {
@@ -4372,6 +4387,11 @@
       "greece",
       "griechenland",
       "greece national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
     ]
   },
   {
@@ -4446,6 +4466,11 @@
       "iceland",
       "island",
       "iceland national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma"
+      }
     ]
   },
   {
@@ -4514,6 +4539,11 @@
       "jamaica",
       "jamaika",
       "jamaica national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
     ]
   },
   {
@@ -4625,6 +4655,11 @@
     "aliases": [
       "katar",
       "qatar"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
     ]
   },
   {
@@ -4789,6 +4824,11 @@
     "aliases": [
       "neuseeland",
       "new zealand"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma"
+      }
     ]
   },
   {
@@ -4885,6 +4925,11 @@
       "northern ireland",
       "nordirland",
       "northern ireland national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
     ]
   },
   {
@@ -4959,6 +5004,11 @@
     "country": "PY",
     "aliases": [
       "paraguay"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma"
+      }
     ]
   },
   {
@@ -4971,6 +5021,11 @@
     "aliases": [
       "peru",
       "peru national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Marathon"
+      }
     ]
   },
   {
@@ -5190,6 +5245,11 @@
       "slovenia",
       "slowenien",
       "slovenia national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike"
+      }
     ]
   },
   {
@@ -5232,6 +5292,11 @@
       "südafrika",
       "suedafrika",
       "south africa"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
     ]
   },
   {
@@ -5277,6 +5342,11 @@
       "czech republic",
       "czechia",
       "tschechische republik"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma"
+      }
     ]
   },
   {
@@ -5315,6 +5385,11 @@
       "tunesien",
       "tunisia",
       "tunisie"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Kappa"
+      }
     ]
   },
   {
@@ -5340,6 +5415,11 @@
       "hungary",
       "ungarn",
       "hungary national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
     ]
   },
   {

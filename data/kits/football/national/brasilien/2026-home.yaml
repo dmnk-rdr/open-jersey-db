@@ -1,0 +1,20 @@
+team: brasilien
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Gelb
+design: null
+colors:
+- Gelb
+- Grün
+competitions:
+- International
+- World Cup
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community

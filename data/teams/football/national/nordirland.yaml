@@ -8,3 +8,6 @@ aliases:
 - northern ireland
 - nordirland
 - northern ireland national team
+# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+kit_suppliers:
+- { manufacturer: adidas }

@@ -7,3 +7,6 @@ country: PE
 aliases:
 - peru
 - peru national team
+# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+kit_suppliers:
+- { manufacturer: Marathon }

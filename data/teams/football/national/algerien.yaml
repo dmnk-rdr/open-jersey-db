@@ -9,3 +9,6 @@ aliases:
 - algeria
 - algérie
 - algerie
+# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+kit_suppliers:
+- { manufacturer: adidas }

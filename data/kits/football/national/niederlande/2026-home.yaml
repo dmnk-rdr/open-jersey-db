@@ -1,0 +1,19 @@
+team: niederlande
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Orange
+design: null
+colors:
+- Orange
+competitions:
+- International
+- World Cup
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community

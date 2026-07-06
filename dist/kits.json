@@ -216,6 +216,30 @@
     "source": "community"
   },
   {
+    "team": "argentinien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Hellblau / Weiß",
+    "design": null,
+    "colors": [
+      "Hellblau",
+      "Weiß"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
     "team": "as-monaco",
     "sport": "football",
     "league": "ligue-1",
@@ -540,6 +564,30 @@
     "source": "community"
   },
   {
+    "team": "brasilien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Gelb",
+    "design": null,
+    "colors": [
+      "Gelb",
+      "Grün"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
     "team": "brighton-hove-albion",
     "sport": "football",
     "league": "premier-league",
@@ -845,6 +893,30 @@
     "kit_type": "home",
     "manufacturer": null,
     "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "england",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Blau"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": null,
     "gtins": [],
     "aliases": [],
     "source": "community"
@@ -1462,6 +1534,31 @@
     "source": "community"
   },
   {
+    "team": "frankreich",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Blau",
+    "design": null,
+    "colors": [
+      "Blau",
+      "Weiß",
+      "Rot"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
     "team": "futbol-club-barcelona",
     "sport": "football",
     "league": "la-liga",
@@ -1625,6 +1722,29 @@
     "kit_type": "home",
     "manufacturer": null,
     "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "italien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Blau (Azzurro)",
+    "design": null,
+    "colors": [
+      "Blau"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": null,
     "gtins": [],
     "aliases": [],
     "source": "community"
@@ -1990,6 +2110,29 @@
     "source": "community"
   },
   {
+    "team": "niederlande",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Orange",
+    "design": null,
+    "colors": [
+      "Orange"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
     "team": "nigeria",
     "sport": "football",
     "league": null,
@@ -2273,6 +2416,30 @@
     "kit_type": "home",
     "manufacturer": null,
     "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "portugal",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": "Rot / Grün",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Grün"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": null,
     "gtins": [],
     "aliases": [],
     "source": "community"
@@ -2729,6 +2896,31 @@
     "kit_type": "home",
     "manufacturer": null,
     "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "spanien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Rot",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Gelb",
+      "Blau"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": null,
     "gtins": [],
     "aliases": [],
     "source": "community"

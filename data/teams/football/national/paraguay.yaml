@@ -6,3 +6,6 @@ league: null
 country: PY
 aliases:
 - paraguay
+# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+kit_suppliers:
+- { manufacturer: Puma }
