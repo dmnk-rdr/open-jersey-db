@@ -1344,6 +1344,12 @@
       {
         "manufacturer": "uhlsport"
       }
+    ],
+    "achievements": [
+      {
+        "year": "1999/2000",
+        "text": "Einzige Bundesliga-Saison der Vereinsgeschichte (Platz 16, Abstieg)"
+      }
     ]
   },
   {
@@ -1366,6 +1372,16 @@
     "kit_suppliers": [
       {
         "manufacturer": "uhlsport"
+      }
+    ],
+    "achievements": [
+      {
+        "year": "1983–1990",
+        "text": "Sieben Spielzeiten Bundesliga, bester Tabellenplatz Rang 6 (1984/85)"
+      },
+      {
+        "year": "1939/40",
+        "text": "Finalist im Tschammerpokal (Vorläufer des DFB-Pokals), 0:2 gegen 1. FC Nürnberg"
       }
     ]
   },
@@ -3324,6 +3340,12 @@
       {
         "manufacturer": "uhlsport"
       }
+    ],
+    "achievements": [
+      {
+        "year": "1999–2001",
+        "text": "Zwei Spielzeiten Bundesliga; in der Debütsaison 1999/2000 Platz 10 – bis heute bestes Bundesliga-Ergebnis des Vereins"
+      }
     ]
   },
   {
@@ -3345,6 +3367,12 @@
       {
         "manufacturer": "uhlsport"
       }
+    ],
+    "achievements": [
+      {
+        "year": "1986/87",
+        "text": "DFB-Pokal-Finalist, 1:3 gegen den Hamburger SV im Olympiastadion Berlin"
+      }
     ]
   },
   {
@@ -3364,6 +3392,16 @@
     "kit_suppliers": [
       {
         "manufacturer": "uhlsport"
+      }
+    ],
+    "achievements": [
+      {
+        "year": "2018",
+        "text": "Aufstieg in die Regionalliga Südwest nach dem Gewinn der Oberliga Baden-Württemberg – bislang höchste Spielklasse der Vereinsgeschichte"
+      },
+      {
+        "year": "2021/22",
+        "text": "Erfolgreichste Saison der Vereinsgeschichte: Platz 8 in der Regionalliga Südwest"
       }
     ]
   },
@@ -4496,6 +4534,16 @@
       {
         "manufacturer": "Puma"
       }
+    ],
+    "achievements": [
+      {
+        "year": "2018",
+        "text": "WM-Teilnahme in Russland – mit rund 335.000 Einwohnern die kleinste Nation, die sich je für eine Fußball-Weltmeisterschaft qualifiziert hat"
+      },
+      {
+        "year": "2016",
+        "text": "Erste EM-Teilnahme (Frankreich): nach einem 2:1-Sieg im Achtelfinale gegen England Einzug ins Viertelfinale, dort 5:2 gegen Gastgeber Frankreich"
+      }
     ]
   },
   {
@@ -5006,6 +5054,20 @@
       {
         "manufacturer": "Puma",
         "from": 1974
+      }
+    ],
+    "achievements": [
+      {
+        "year": "1954",
+        "text": "WM-Dritter in der Schweiz – u. a. nach einem 7:5-Sieg im Viertelfinale gegen die Schweiz, bis heute das torreichste Spiel der WM-Geschichte"
+      },
+      {
+        "year": "1934",
+        "text": "WM-Vierter in Italien mit dem „Wunderteam\" unter Trainer Hugo Meisl"
+      },
+      {
+        "year": "1931–1932",
+        "text": "Das „Wunderteam\" um Matthias Sindelar bleibt 14 Länderspiele in Folge ungeschlagen (April 1931 bis Dezember 1932)"
       }
     ]
   },

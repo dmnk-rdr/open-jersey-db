@@ -14,3 +14,6 @@ stadium: Gazi-Stadion auf der Waldau
 # Aktueller Ausrüster. Quelle: uhlsport-Fanshop (offizieller Vereins-Fanshop).
 kit_suppliers:
 - { manufacturer: uhlsport }
+# Kuratierte Erfolge (jüngste zuerst). Quelle: Wikipedia „1987 DFB-Pokal final".
+achievements:
+- { year: '1986/87', text: 'DFB-Pokal-Finalist, 1:3 gegen den Hamburger SV im Olympiastadion Berlin' }

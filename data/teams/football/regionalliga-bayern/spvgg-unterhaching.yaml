@@ -13,3 +13,6 @@ founded: 1925
 # Aktueller Ausrüster. Quelle: uhlsport-Fanshop (offizieller Vereins-Fanshop).
 kit_suppliers:
 - { manufacturer: uhlsport }
+# Kuratierte Erfolge (jüngste zuerst). Quelle: Wikipedia „SpVgg Unterhaching".
+achievements:
+- { year: '1999–2001', text: 'Zwei Spielzeiten Bundesliga; in der Debütsaison 1999/2000 Platz 10 – bis heute bestes Bundesliga-Ergebnis des Vereins' }

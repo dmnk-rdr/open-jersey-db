@@ -25,7 +25,7 @@ DIST = ROOT / "dist"
 
 TEAM_FIELDS = ["slug", "name", "sport", "type", "league", "country",
                "aliases", "founded", "city", "stadium", "kit_suppliers",
-               "wikidata", "logo_url"]
+               "achievements", "wikidata", "logo_url"]
 KIT_FIELDS = ["team", "sport", "league", "season", "kit_type", "player_name",
               "manufacturer", "main_sponsor", "colorway", "design", "colors",
               "competitions", "skus", "release_date", "gtins", "aliases",

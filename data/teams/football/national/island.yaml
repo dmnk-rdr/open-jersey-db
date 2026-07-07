@@ -11,3 +11,7 @@ aliases:
 # Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
 kit_suppliers:
 - { manufacturer: Puma }
+# Kuratierte Erfolge (jüngste zuerst). Quelle: Wikipedia „Iceland national football team".
+achievements:
+- { year: '2018', text: 'WM-Teilnahme in Russland – mit rund 335.000 Einwohnern die kleinste Nation, die sich je für eine Fußball-Weltmeisterschaft qualifiziert hat' }
+- { year: '2016', text: 'Erste EM-Teilnahme (Frankreich): nach einem 2:1-Sieg im Achtelfinale gegen England Einzug ins Viertelfinale, dort 5:2 gegen Gastgeber Frankreich' }

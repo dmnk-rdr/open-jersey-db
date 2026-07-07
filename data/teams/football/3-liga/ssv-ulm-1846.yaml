@@ -16,3 +16,6 @@ stadium: Donaustadion
 # Aktueller Ausrüster. Quelle: uhlsport-Fanshop (offizieller Vereins-Fanshop).
 kit_suppliers:
 - { manufacturer: uhlsport }
+# Kuratierte Erfolge (jüngste zuerst). Quelle: Wikipedia „SSV Ulm 1846".
+achievements:
+- { year: '1999/2000', text: 'Einzige Bundesliga-Saison der Vereinsgeschichte (Platz 16, Abstieg)' }

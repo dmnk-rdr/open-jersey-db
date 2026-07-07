@@ -13,3 +13,7 @@ stadium: Bizerba-Arena
 # Aktueller Ausrüster. Quelle: uhlsport-Fanshop (offizieller Vereins-Fanshop).
 kit_suppliers:
 - { manufacturer: uhlsport }
+# Kuratierte Erfolge (jüngste zuerst). Quelle: Wikipedia „TSG Balingen Fußball" / tsg-fussball.de Chronik.
+achievements:
+- { year: '2018', text: 'Aufstieg in die Regionalliga Südwest nach dem Gewinn der Oberliga Baden-Württemberg – bislang höchste Spielklasse der Vereinsgeschichte' }
+- { year: '2021/22', text: 'Erfolgreichste Saison der Vereinsgeschichte: Platz 8 in der Regionalliga Südwest' }

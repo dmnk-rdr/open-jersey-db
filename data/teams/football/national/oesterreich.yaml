@@ -11,3 +11,8 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Austria national football team".
 kit_suppliers:
 - { manufacturer: Puma, from: 1974 }
+# Kuratierte Erfolge (jüngste zuerst). Quelle: Wikipedia „Austria national football team" / „Wunderteam".
+achievements:
+- { year: '1954', text: 'WM-Dritter in der Schweiz – u. a. nach einem 7:5-Sieg im Viertelfinale gegen die Schweiz, bis heute das torreichste Spiel der WM-Geschichte' }
+- { year: '1934', text: 'WM-Vierter in Italien mit dem „Wunderteam" unter Trainer Hugo Meisl' }
+- { year: '1931–1932', text: 'Das „Wunderteam" um Matthias Sindelar bleibt 14 Länderspiele in Folge ungeschlagen (April 1931 bis Dezember 1932)' }

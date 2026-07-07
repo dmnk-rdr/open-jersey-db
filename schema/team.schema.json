@@ -67,6 +67,22 @@
       "pattern": "^Q[0-9]+$",
       "description": "Wikidata item id (e.g. 'Q15789'), enables idempotent re-imports."
     },
+    "achievements": {
+      "type": ["array", "null"],
+      "description": "Kuratierte, belegte sportliche Erfolge/Meilensteine (Titel, Turnier-Endrunden, Rekorde), jüngste zuerst. Wie kit_suppliers: nur handverifizierte Fakten aus einer verlässlichen Quelle (i. d. R. Wikipedia) — Wikidata modelliert Erfolge/Titel für Nationalteams nicht sauber genug für Automatisierung, also NICHT automatisiert ableiten.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["text"],
+        "properties": {
+          "year": {
+            "type": ["string", "null"],
+            "description": "Jahr oder Zeitraum, z. B. '2016' oder '1983–1990'."
+          },
+          "text": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
     "logo_url": {
       "type": ["string", "null"],
       "description": "Reference URL only — this database stores no image binaries."

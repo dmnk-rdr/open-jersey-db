@@ -16,3 +16,7 @@ stadium: Carl-Benz-Stadion
 # Aktueller Ausrüster. Quelle: uhlsport-Fanshop (offizieller Vereins-Fanshop).
 kit_suppliers:
 - { manufacturer: uhlsport }
+# Kuratierte Erfolge (jüngste zuerst). Quelle: Wikipedia „SV Waldhof Mannheim".
+achievements:
+- { year: '1983–1990', text: 'Sieben Spielzeiten Bundesliga, bester Tabellenplatz Rang 6 (1984/85)' }
+- { year: '1939/40', text: 'Finalist im Tschammerpokal (Vorläufer des DFB-Pokals), 0:2 gegen 1. FC Nürnberg' }
