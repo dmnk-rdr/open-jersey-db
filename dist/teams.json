@@ -1324,6 +1324,60 @@
     "wikidata": "Q169165"
   },
   {
+    "slug": "fc-schalke-04",
+    "name": "FC Schalke 04",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "schalke",
+      "schalke 04",
+      "s04",
+      "fc schalke",
+      "koenigsblau"
+    ],
+    "founded": 1904,
+    "city": "Gelsenkirchen",
+    "stadium": "Veltins-Arena",
+    "wikidata": "Q32494"
+  },
+  {
+    "slug": "sc-paderborn-07",
+    "name": "SC Paderborn 07",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "paderborn",
+      "sc paderborn",
+      "scp"
+    ],
+    "founded": 1907,
+    "city": "Paderborn",
+    "stadium": "Home-Deluxe-Arena",
+    "wikidata": "Q160532"
+  },
+  {
+    "slug": "sv-elversberg",
+    "name": "SV Elversberg",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "elversberg",
+      "sv elversberg",
+      "sve",
+      "sv 07 elversberg"
+    ],
+    "founded": 1907,
+    "city": "Elversberg",
+    "stadium": "Waldstadion Kaiserlinde",
+    "wikidata": "Q692691"
+  },
+  {
     "slug": "ssv-ulm-1846",
     "name": "SSV Ulm 1846",
     "sport": "football",
@@ -1549,25 +1603,6 @@
     "wikidata": "Q15789"
   },
   {
-    "slug": "fc-schalke-04",
-    "name": "FC Schalke 04",
-    "sport": "football",
-    "type": "club",
-    "league": "bundesliga",
-    "country": "DE",
-    "aliases": [
-      "schalke",
-      "schalke 04",
-      "s04",
-      "fc schalke",
-      "koenigsblau"
-    ],
-    "founded": 1904,
-    "city": "Gelsenkirchen",
-    "stadium": "Veltins-Arena",
-    "wikidata": "Q32494"
-  },
-  {
     "slug": "hamburger-sv",
     "name": "Hamburger SV",
     "sport": "football",
@@ -1622,41 +1657,6 @@
     "founded": 1904,
     "city": "Freiburg im Breisgau",
     "wikidata": "Q106394"
-  },
-  {
-    "slug": "sc-paderborn-07",
-    "name": "SC Paderborn 07",
-    "sport": "football",
-    "type": "club",
-    "league": "bundesliga",
-    "country": "DE",
-    "aliases": [
-      "paderborn",
-      "sc paderborn",
-      "scp"
-    ],
-    "founded": 1907,
-    "city": "Paderborn",
-    "stadium": "Home-Deluxe-Arena",
-    "wikidata": "Q160532"
-  },
-  {
-    "slug": "sv-elversberg",
-    "name": "SV Elversberg",
-    "sport": "football",
-    "type": "club",
-    "league": "bundesliga",
-    "country": "DE",
-    "aliases": [
-      "elversberg",
-      "sv elversberg",
-      "sve",
-      "sv 07 elversberg"
-    ],
-    "founded": 1907,
-    "city": "Elversberg",
-    "stadium": "Waldstadion Kaiserlinde",
-    "wikidata": "Q692691"
   },
   {
     "slug": "sv-werder-bremen",
