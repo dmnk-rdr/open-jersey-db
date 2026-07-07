@@ -8,18 +8,14 @@ aliases:
 - iceland
 - island
 - iceland national team
-# Ausrüster-Historie (jüngste zuerst). Fakten geprüft gegen footballkitarchive.com
-# + Wikipedia; keine Übernahme der zusammengestellten DB, nur die einzelnen Fakten.
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Iceland national football team".
 kit_suppliers:
 - { manufacturer: Puma, from: 2020 }
-- { manufacturer: Erreà, from: 2002, to: 2018 }
-- { manufacturer: Reusch, from: 1996, to: 2000 }
-- { manufacturer: ABM, from: 1992, to: 1995 }
-- { manufacturer: adidas, from: 1986, to: 1992 }
-- { manufacturer: Henson, from: 1984, to: 1984 }
-- { manufacturer: adidas, from: 1976, to: 1982 }
+- { manufacturer: Erreà, from: 2002, to: 2020 }
+- { manufacturer: Reusch, from: 1996, to: 2001 }
+- { manufacturer: ABM, from: 1992, to: 1996 }
+- { manufacturer: adidas, from: 1976, to: 1991 }
 - { manufacturer: Umbro, from: 1975, to: 1975 }
-- { manufacturer: In-House, to: 1973 }
 # Kuratierte Erfolge (jüngste zuerst). Quelle: Wikipedia „Iceland national football team".
 achievements:
 - { year: '2018', text: 'WM-Teilnahme in Russland – mit rund 335.000 Einwohnern die kleinste Nation, die sich je für eine Fußball-Weltmeisterschaft qualifiziert hat' }
