@@ -4532,7 +4532,47 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "Puma"
+        "manufacturer": "Puma",
+        "from": 2020
+      },
+      {
+        "manufacturer": "Erreà",
+        "from": 2002,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Reusch",
+        "from": 1996,
+        "to": 2000
+      },
+      {
+        "manufacturer": "ABM",
+        "from": 1992,
+        "to": 1995
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1986,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Henson",
+        "from": 1984,
+        "to": 1984
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1976,
+        "to": 1982
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1975,
+        "to": 1975
+      },
+      {
+        "manufacturer": "In-House",
+        "to": 1973
       }
     ],
     "achievements": [
