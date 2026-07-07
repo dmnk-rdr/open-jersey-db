@@ -7,3 +7,20 @@ country: SV
 aliases:
 - el salvador
 - el salvador national team
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „El Salvador national football team".
+kit_suppliers:
+- { manufacturer: Umbro, from: 2017 }
+- { manufacturer: Mitre, from: 2009, to: 2017 }
+- { manufacturer: Atletica, from: 2007, to: 2009 }
+- { manufacturer: Milán, from: 2007, to: 2007 }
+- { manufacturer: Atletica, from: 2004, to: 2007 }
+- { manufacturer: Galaxia, from: 2003, to: 2003 }
+- { manufacturer: Joma, from: 2001, to: 2002 }
+- { manufacturer: Kappa, from: 1999, to: 2000 }
+- { manufacturer: Lanzera, from: 1996, to: 1998 }
+- { manufacturer: Reebok, from: 1996, to: 1996 }
+- { manufacturer: Score, from: 1992, to: 1995 }
+- { manufacturer: Galaxia, from: 1992, to: 1992 }
+- { manufacturer: Pony, from: 1988, to: 1992 }
+- { manufacturer: adidas, from: 1982, to: 1987 }
+- { manufacturer: Pony, from: 1980, to: 1982 }

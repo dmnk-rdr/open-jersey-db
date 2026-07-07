@@ -3890,6 +3890,16 @@
         "manufacturer": "Puma",
         "from": 2001,
         "to": 2012
+      },
+      {
+        "manufacturer": "Venecia",
+        "from": 1995,
+        "to": 1998
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1990,
+        "to": 1995
       }
     ]
   },
@@ -3908,7 +3918,103 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "adidas"
+        "manufacturer": "adidas",
+        "from": 2015
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2010,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 2003,
+        "to": 2009
+      },
+      {
+        "manufacturer": "Cirta Sport",
+        "from": 2001,
+        "to": 2002
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2001,
+        "to": 2001
+      },
+      {
+        "manufacturer": "Cirta Sport",
+        "from": 2000,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1999,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Cirta Sport",
+        "from": 1997,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1997,
+        "to": 1997
+      },
+      {
+        "manufacturer": "Delta Sport",
+        "from": 1996,
+        "to": 1996
+      },
+      {
+        "manufacturer": "Luanvi",
+        "from": 1994,
+        "to": 1995
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1993,
+        "to": 1994
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1991,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Sonitex",
+        "from": 1985,
+        "to": 1990
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1983,
+        "to": 1984
+      },
+      {
+        "manufacturer": "Sonitex",
+        "from": 1978,
+        "to": 1982
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1977,
+        "to": 1977
+      },
+      {
+        "manufacturer": "Sonitex",
+        "from": 1976,
+        "to": 1976
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1975,
+        "to": 1976
+      },
+      {
+        "manufacturer": "Delta",
+        "from": 1971,
+        "to": 1975
       }
     ]
   },
@@ -3948,6 +4054,36 @@
         "manufacturer": "adidas",
         "from": 1974,
         "to": 1981
+      },
+      {
+        "manufacturer": "Industria Lanús",
+        "from": 1967,
+        "to": 1973
+      },
+      {
+        "manufacturer": "Sportlandia",
+        "from": 1966,
+        "to": 1966
+      },
+      {
+        "manufacturer": "Noceto Sports",
+        "from": 1964,
+        "to": 1965
+      },
+      {
+        "manufacturer": "Industria Lanús",
+        "from": 1958,
+        "to": 1963
+      },
+      {
+        "manufacturer": "Gath & Chaves",
+        "from": 1925,
+        "to": 1934
+      },
+      {
+        "manufacturer": "St. Margaret",
+        "from": 1901,
+        "to": 1924
       }
     ]
   },
@@ -4053,6 +4189,37 @@
       "bosnia",
       "bosnia and herzegovina",
       "bosna i hercegovina"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Kelme",
+        "from": 2023
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2014,
+        "to": 2023
+      },
+      {
+        "manufacturer": "Legea",
+        "from": 2005,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Reusch",
+        "from": 2000,
+        "to": 2005
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1999,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Patrick",
+        "from": 1996,
+        "to": 1999
+      }
     ]
   },
   {
@@ -4124,6 +4291,71 @@
         "manufacturer": "Brooks",
         "from": 2004,
         "to": 2010
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2000,
+        "to": 2003
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 1996,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Rhumell",
+        "from": 1995,
+        "to": 1995
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1993,
+        "to": 1994
+      },
+      {
+        "manufacturer": "Avia",
+        "from": 1992,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1990,
+        "to": 1991
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1988,
+        "to": 1990
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1987,
+        "to": 1988
+      },
+      {
+        "manufacturer": "Power",
+        "from": 1987,
+        "to": 1987
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1986,
+        "to": 1986
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1985,
+        "to": 1985
+      },
+      {
+        "manufacturer": "Penalty",
+        "from": 1984,
+        "to": 1984
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1979,
+        "to": 1983
       }
     ]
   },
@@ -4138,6 +4370,17 @@
       "china",
       "china pr",
       "china national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2015
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1991,
+        "to": 2014
+      }
     ]
   },
   {
@@ -4153,7 +4396,48 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "adidas"
+        "manufacturer": "adidas",
+        "from": 2023
+      },
+      {
+        "manufacturer": "New Balance",
+        "from": 2015,
+        "to": 2022
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 2007,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Joma",
+        "from": 2001,
+        "to": 2007
+      },
+      {
+        "manufacturer": "Atletica",
+        "from": 2000,
+        "to": 2001
+      },
+      {
+        "manufacturer": "Trooper",
+        "from": 1999,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 1995,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1990,
+        "to": 1994
+      },
+      {
+        "manufacturer": "Desport",
+        "from": 1980,
+        "to": 1989
       }
     ]
   },
@@ -4167,6 +4451,32 @@
     "aliases": [
       "curaçao",
       "curacao"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2025
+      },
+      {
+        "manufacturer": "Kelme",
+        "from": 2024,
+        "to": 2025
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2016,
+        "to": 2023
+      },
+      {
+        "manufacturer": "Beltona",
+        "from": 2002,
+        "to": 2015
+      },
+      {
+        "manufacturer": "Score",
+        "from": 1990,
+        "to": 2002
+      }
     ]
   },
   {
@@ -4296,6 +4606,26 @@
         "manufacturer": "Marathon",
         "from": 1996,
         "to": 2003
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 1993,
+        "to": 1994
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1991,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Credeport",
+        "from": 1986,
+        "to": 1990
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1985,
+        "to": 1985
       }
     ]
   },
@@ -4309,6 +4639,82 @@
     "aliases": [
       "el salvador",
       "el salvador national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Umbro",
+        "from": 2017
+      },
+      {
+        "manufacturer": "Mitre",
+        "from": 2009,
+        "to": 2017
+      },
+      {
+        "manufacturer": "Atletica",
+        "from": 2007,
+        "to": 2009
+      },
+      {
+        "manufacturer": "Milán",
+        "from": 2007,
+        "to": 2007
+      },
+      {
+        "manufacturer": "Atletica",
+        "from": 2004,
+        "to": 2007
+      },
+      {
+        "manufacturer": "Galaxia",
+        "from": 2003,
+        "to": 2003
+      },
+      {
+        "manufacturer": "Joma",
+        "from": 2001,
+        "to": 2002
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1999,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Lanzera",
+        "from": 1996,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 1996,
+        "to": 1996
+      },
+      {
+        "manufacturer": "Score",
+        "from": 1992,
+        "to": 1995
+      },
+      {
+        "manufacturer": "Galaxia",
+        "from": 1992,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Pony",
+        "from": 1988,
+        "to": 1992
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1982,
+        "to": 1987
+      },
+      {
+        "manufacturer": "Pony",
+        "from": 1980,
+        "to": 1982
+      }
     ]
   },
   {
@@ -4371,6 +4777,11 @@
         "manufacturer": "Umbro",
         "from": 1954,
         "to": 1959
+      },
+      {
+        "manufacturer": "St. Blaize and Hope Brothers",
+        "from": 1949,
+        "to": 1954
       }
     ]
   },
@@ -4385,6 +4796,17 @@
       "finland",
       "finnland",
       "finland national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2014
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1979,
+        "to": 2013
+      }
     ]
   },
   {
@@ -4413,6 +4835,11 @@
         "manufacturer": "Le Coq Sportif",
         "from": 1966,
         "to": 1971
+      },
+      {
+        "manufacturer": "Allen Sport",
+        "from": 1938,
+        "to": 1966
       }
     ]
   },
@@ -4433,9 +4860,19 @@
         "from": 2005
       },
       {
+        "manufacturer": "Kappa",
+        "from": 2000,
+        "to": 2005
+      },
+      {
         "manufacturer": "adidas",
         "from": 1992,
         "to": 1998
+      },
+      {
+        "manufacturer": "Erima",
+        "from": 1991,
+        "to": 1992
       }
     ]
   },
@@ -4453,7 +4890,53 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "adidas"
+        "manufacturer": "adidas",
+        "from": 2026
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2013,
+        "to": 2025
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2004,
+        "to": 2013
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 2001,
+        "to": 2003
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1998,
+        "to": 2001
+      },
+      {
+        "manufacturer": "Diadora",
+        "from": 1991,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Asics",
+        "from": 1989,
+        "to": 1991
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1988,
+        "to": 1989
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1982,
+        "to": 1987
+      },
+      {
+        "manufacturer": "Asics",
+        "from": 1980,
+        "to": 1981
       }
     ]
   },
@@ -4468,6 +4951,17 @@
       "greenland",
       "grönland",
       "greenland national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Hummel",
+        "from": 2024
+      },
+      {
+        "manufacturer": "Macron",
+        "from": 2020,
+        "to": 2024
+      }
     ]
   },
   {
@@ -4480,6 +4974,62 @@
     "aliases": [
       "guatemala",
       "guatemala national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Umbro",
+        "from": 2011
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2007,
+        "to": 2010
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2005,
+        "to": 2007
+      },
+      {
+        "manufacturer": "Atletica",
+        "from": 1998,
+        "to": 2002
+      },
+      {
+        "manufacturer": "Aba Sport",
+        "from": 1997,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1996,
+        "to": 1997
+      },
+      {
+        "manufacturer": "Erima",
+        "from": 1992,
+        "to": 1994
+      },
+      {
+        "manufacturer": "Pro-Specs",
+        "from": 1988,
+        "to": 1989
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1986,
+        "to": 1986
+      },
+      {
+        "manufacturer": "Erima",
+        "from": 1981,
+        "to": 1983
+      },
+      {
+        "manufacturer": "Sportica",
+        "from": 1980,
+        "to": 1981
+      }
     ]
   },
   {
@@ -4492,6 +5042,111 @@
     "aliases": [
       "haiti",
       "haïti"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Saeta",
+        "from": 2013
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2010,
+        "to": 2013
+      },
+      {
+        "manufacturer": "Squadra",
+        "from": 2010,
+        "to": 2010
+      },
+      {
+        "manufacturer": "Plus One",
+        "from": 2009,
+        "to": 2009
+      },
+      {
+        "manufacturer": "Squadra",
+        "from": 2008,
+        "to": 2008
+      },
+      {
+        "manufacturer": "Finta",
+        "from": 2008,
+        "to": 2008
+      },
+      {
+        "manufacturer": "Diadora",
+        "from": 2007,
+        "to": 2007
+      },
+      {
+        "manufacturer": "Finta",
+        "from": 2006,
+        "to": 2007
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2005,
+        "to": 2005
+      },
+      {
+        "manufacturer": "Joma",
+        "from": 2003,
+        "to": 2004
+      },
+      {
+        "manufacturer": "Sport Globe",
+        "from": 2001,
+        "to": 2002
+      },
+      {
+        "manufacturer": "Finta",
+        "from": 2000,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Uhlsport",
+        "from": 1997,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Pienne",
+        "from": 1995,
+        "to": 1996
+      },
+      {
+        "manufacturer": "Hummel",
+        "from": 1993,
+        "to": 1994
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1986,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1983,
+        "to": 1986
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1981,
+        "to": 1982
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1980,
+        "to": 1980
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 1979
+      },
+      {
+        "manufacturer": "In-House",
+        "to": 1969
+      }
     ]
   },
   {
@@ -4504,6 +5159,67 @@
     "aliases": [
       "irak",
       "iraq"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2024
+      },
+      {
+        "manufacturer": "Jako",
+        "from": 2022,
+        "to": 2023
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2020,
+        "to": 2022
+      },
+      {
+        "manufacturer": "Givova",
+        "from": 2019,
+        "to": 2020
+      },
+      {
+        "manufacturer": "Jako",
+        "from": 2014,
+        "to": 2019
+      },
+      {
+        "manufacturer": "Peak",
+        "from": 2008,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Jack & Jones",
+        "from": 2004,
+        "to": 2006
+      },
+      {
+        "manufacturer": "Jako",
+        "from": 2003,
+        "to": 2004
+      },
+      {
+        "manufacturer": "Patrick",
+        "from": 2000,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1996,
+        "to": 1996
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1986,
+        "to": 1994
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1984,
+        "to": 1986
+      }
     ]
   },
   {
@@ -4516,6 +5232,87 @@
     "aliases": [
       "iran",
       "islamische republik iran"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Merooj",
+        "from": 2022
+      },
+      {
+        "manufacturer": "Uhlsport",
+        "from": 2019,
+        "to": 2022
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2016,
+        "to": 2019
+      },
+      {
+        "manufacturer": "Givova",
+        "from": 2016,
+        "to": 2016
+      },
+      {
+        "manufacturer": "Uhlsport",
+        "from": 2012,
+        "to": 2016
+      },
+      {
+        "manufacturer": "Legea",
+        "from": 2009,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Daei Sport",
+        "from": 2008,
+        "to": 2009
+      },
+      {
+        "manufacturer": "Merooj",
+        "from": 2007,
+        "to": 2008
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2006,
+        "to": 2007
+      },
+      {
+        "manufacturer": "Daei Sport",
+        "from": 2003,
+        "to": 2006
+      },
+      {
+        "manufacturer": "Shekari",
+        "from": 2000,
+        "to": 2003
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1998,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Shekari",
+        "from": 1993,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Amini",
+        "from": 1981,
+        "to": 1993
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1980,
+        "to": 1980
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1978,
+        "to": 1978
+      }
     ]
   },
   {
@@ -4638,6 +5435,11 @@
         "manufacturer": "adidas",
         "from": 1974,
         "to": 1978
+      },
+      {
+        "manufacturer": "Baila",
+        "from": 1978,
+        "to": 1979
       }
     ]
   },
@@ -4655,7 +5457,38 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "adidas"
+        "manufacturer": "adidas",
+        "from": 2023
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2018,
+        "to": 2022
+      },
+      {
+        "manufacturer": "Romai",
+        "from": 2015,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 2008,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Uhlsport",
+        "from": 2000,
+        "to": 2006
+      },
+      {
+        "manufacturer": "Lanzera / Kappa",
+        "from": 1995,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Score",
+        "from": 1993,
+        "to": 1993
       }
     ]
   },
@@ -4679,6 +5512,26 @@
         "manufacturer": "Asics",
         "from": 1988,
         "to": 1998
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1986,
+        "to": 1986
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1980,
+        "to": 1985
+      },
+      {
+        "manufacturer": "Asics",
+        "from": 1979,
+        "to": 1979
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1975,
+        "to": 1977
       }
     ]
   },
@@ -4692,6 +5545,62 @@
     "aliases": [
       "jordanien",
       "jordan"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Kelme",
+        "from": 2024
+      },
+      {
+        "manufacturer": "Jako",
+        "from": 2022,
+        "to": 2024
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2021,
+        "to": 2022
+      },
+      {
+        "manufacturer": "Joma",
+        "from": 2018,
+        "to": 2021
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2015,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Jako",
+        "from": 2012,
+        "to": 2015
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2010,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Uhlsport",
+        "from": 2009,
+        "to": 2010
+      },
+      {
+        "manufacturer": "Jako",
+        "from": 2005,
+        "to": 2009
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1999,
+        "to": 2005
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1997,
+        "to": 1999
+      }
     ]
   },
   {
@@ -4705,6 +5614,52 @@
       "kamerun",
       "cameroon",
       "indomitable lions"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Fourteen",
+        "from": 2025
+      },
+      {
+        "manufacturer": "One All Sports",
+        "from": 2022,
+        "to": 2024
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 2019,
+        "to": 2022
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1998,
+        "to": 2018
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1996,
+        "to": 1997
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1995,
+        "to": 1996
+      },
+      {
+        "manufacturer": "Mitre",
+        "from": 1993,
+        "to": 1995
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1988,
+        "to": 1993
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1982,
+        "to": 1987
+      }
     ]
   },
   {
@@ -4756,6 +5711,72 @@
       "kap verde",
       "cape verde",
       "cabo verde"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Capelli Sport",
+        "from": 2026
+      },
+      {
+        "manufacturer": "Tempo Sport",
+        "from": 2022,
+        "to": 2026
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2018,
+        "to": 2021
+      },
+      {
+        "manufacturer": "Lacatoni",
+        "from": 2016,
+        "to": 2017
+      },
+      {
+        "manufacturer": "Hummel",
+        "from": 2014,
+        "to": 2015
+      },
+      {
+        "manufacturer": "Tepa",
+        "from": 2013,
+        "to": 2013
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2012,
+        "to": 2012
+      },
+      {
+        "manufacturer": "KS Sport",
+        "from": 2010,
+        "to": 2011
+      },
+      {
+        "manufacturer": "Erreà",
+        "from": 2008,
+        "to": 2009
+      },
+      {
+        "manufacturer": "Tepa",
+        "from": 2002,
+        "to": 2007
+      },
+      {
+        "manufacturer": "Saillev",
+        "from": 1994,
+        "to": 2001
+      },
+      {
+        "manufacturer": "Duarig",
+        "from": 1992,
+        "to": 1993
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1978,
+        "to": 1992
+      }
     ]
   },
   {
@@ -4771,7 +5792,43 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "adidas"
+        "manufacturer": "adidas",
+        "from": 2024
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2012,
+        "to": 2024
+      },
+      {
+        "manufacturer": "Burrda",
+        "from": 2009,
+        "to": 2011
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2002,
+        "to": 2008
+      },
+      {
+        "manufacturer": "Grand Sport",
+        "from": 1996,
+        "to": 2002
+      },
+      {
+        "manufacturer": "Venecia",
+        "from": 1993,
+        "to": 1995
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1984,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1980,
+        "to": 1984
       }
     ]
   },
@@ -4811,6 +5868,16 @@
         "manufacturer": "adidas",
         "from": 1983,
         "to": 1990
+      },
+      {
+        "manufacturer": "Comba",
+        "from": 1992,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Kelme",
+        "from": 1991,
+        "to": 1991
       }
     ]
   },
@@ -4835,6 +5902,11 @@
         "manufacturer": "Lotto",
         "from": 1992,
         "to": 1999
+      },
+      {
+        "manufacturer": "Uhlsport",
+        "from": 1990,
+        "to": 1991
       }
     ]
   },
@@ -4924,6 +5996,16 @@
         "manufacturer": "adidas",
         "from": 1982,
         "to": 1990
+      },
+      {
+        "manufacturer": "Pony",
+        "from": 1980,
+        "to": 1983
+      },
+      {
+        "manufacturer": "Levi's",
+        "from": 1978,
+        "to": 1979
       }
     ]
   },
@@ -4940,7 +6022,43 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "Puma"
+        "manufacturer": "Puma",
+        "from": 2024
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2004,
+        "to": 2023
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1997,
+        "to": 2003
+      },
+      {
+        "manufacturer": "Mitre",
+        "from": 1995,
+        "to": 1996
+      },
+      {
+        "manufacturer": "Pony",
+        "from": 1989,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Mitre",
+        "from": 1987,
+        "to": 1988
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1984,
+        "to": 1986
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1972,
+        "to": 1983
       }
     ]
   },
@@ -4981,6 +6099,10 @@
         "manufacturer": "Umbro",
         "from": 1964,
         "to": 1968
+      },
+      {
+        "manufacturer": "Tweka",
+        "to": 1966
       }
     ]
   },
@@ -5041,7 +6163,43 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "adidas"
+        "manufacturer": "adidas",
+        "from": 2012
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2004,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Patrick",
+        "from": 1999,
+        "to": 2004
+      },
+      {
+        "manufacturer": "Olympic Sportswear",
+        "from": 1998,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Asics",
+        "from": 1994,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1990,
+        "to": 1994
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1977,
+        "to": 1990
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1975,
+        "to": 1977
       }
     ]
   },
@@ -5075,6 +6233,11 @@
         "manufacturer": "Hummel",
         "from": 1982,
         "to": 1990
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1976,
+        "to": 1980
       }
     ]
   },
@@ -5120,6 +6283,37 @@
     "country": "PA",
     "aliases": [
       "panama"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Reebok",
+        "from": 2023
+      },
+      {
+        "manufacturer": "New Balance",
+        "from": 2015,
+        "to": 2023
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 2002,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1999,
+        "to": 2002
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 1996,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Patrick",
+        "from": 1992,
+        "to": 1996
+      }
     ]
   },
   {
@@ -5134,7 +6328,48 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "Puma"
+        "manufacturer": "Puma",
+        "from": 2020
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2007,
+        "to": 2019
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 1995,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Ennerre",
+        "from": 1993,
+        "to": 1994
+      },
+      {
+        "manufacturer": "Textil Paraná",
+        "from": 1991,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Sportman",
+        "from": 1987,
+        "to": 1990
+      },
+      {
+        "manufacturer": "Rainha",
+        "from": 1984,
+        "to": 1986
+      },
+      {
+        "manufacturer": "Textil Paraná",
+        "from": 1981,
+        "to": 1983
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1979,
+        "to": 1980
       }
     ]
   },
@@ -5151,7 +6386,68 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "Marathon"
+        "manufacturer": "adidas",
+        "from": 2023
+      },
+      {
+        "manufacturer": "Marathon",
+        "from": 2018,
+        "to": 2022
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2010,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Walon Sport",
+        "from": 1998,
+        "to": 2010
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1996,
+        "to": 1997
+      },
+      {
+        "manufacturer": "Polmer",
+        "from": 1993,
+        "to": 1995
+      },
+      {
+        "manufacturer": "Diadora",
+        "from": 1991,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Power",
+        "from": 1989,
+        "to": 1991
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1987,
+        "to": 1989
+      },
+      {
+        "manufacturer": "Calvo Sportwear",
+        "from": 1986,
+        "to": 1987
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1983,
+        "to": 1985
+      },
+      {
+        "manufacturer": "Penalty",
+        "from": 1981,
+        "to": 1982
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1978,
+        "to": 1978
       }
     ]
   },
@@ -5174,13 +6470,57 @@
       },
       {
         "manufacturer": "Puma",
+        "from": 2001,
+        "to": 2008
+      },
+      {
+        "manufacturer": "Tico",
+        "from": 2000,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1999,
+        "to": 2000
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1999,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 1996,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Puma",
         "from": 1994,
         "to": 1996
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1993,
+        "to": 1994
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1993,
+        "to": 1993
+      },
+      {
+        "manufacturer": "Admiral",
+        "from": 1992,
+        "to": 1993
       },
       {
         "manufacturer": "adidas",
         "from": 1974,
         "to": 1991
+      },
+      {
+        "manufacturer": "Polsport",
+        "to": 1974
       }
     ]
   },
@@ -5203,6 +6543,20 @@
         "manufacturer": "Nike",
         "from": 1997,
         "to": 2024
+      },
+      {
+        "manufacturer": "Olympic Sportswear",
+        "from": 1994,
+        "to": 1996
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1976,
+        "to": 1994
+      },
+      {
+        "manufacturer": "In-House",
+        "to": 1976
       }
     ]
   },
@@ -5227,6 +6581,51 @@
         "manufacturer": "Nike",
         "from": 2011,
         "to": 2022
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2006,
+        "to": 2010
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 2004,
+        "to": 2005
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2001,
+        "to": 2003
+      },
+      {
+        "manufacturer": "Shammel",
+        "from": 1994,
+        "to": 2000
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1990,
+        "to": 1993
+      },
+      {
+        "manufacturer": "Faisok",
+        "from": 1987,
+        "to": 1989
+      },
+      {
+        "manufacturer": "Topper",
+        "from": 1984,
+        "to": 1986
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1980,
+        "to": 1984
+      },
+      {
+        "manufacturer": "Admiral",
+        "from": 1976,
+        "to": 1979
       }
     ]
   },
@@ -5250,6 +6649,11 @@
         "manufacturer": "Diadora",
         "from": 2003,
         "to": 2010
+      },
+      {
+        "manufacturer": "Fila",
+        "from": 2000,
+        "to": 2003
       },
       {
         "manufacturer": "Umbro",
@@ -5283,6 +6687,11 @@
         "manufacturer": "adidas",
         "from": 1974,
         "to": 2003
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1970,
+        "to": 1970
       }
     ]
   },
@@ -5315,6 +6724,11 @@
         "to": 1990
       },
       {
+        "manufacturer": "Blacky",
+        "from": 1990,
+        "to": 1992
+      },
+      {
         "manufacturer": "Le Coq Sportif",
         "from": 1970,
         "to": 1974
@@ -5338,6 +6752,11 @@
         "from": 2018
       },
       {
+        "manufacturer": "Romai",
+        "from": 2017,
+        "to": 2017
+      },
+      {
         "manufacturer": "Puma",
         "from": 2005,
         "to": 2016
@@ -5346,6 +6765,20 @@
         "manufacturer": "Le Coq Sportif",
         "from": 2002,
         "to": 2004
+      },
+      {
+        "manufacturer": "Erreà",
+        "from": 2000,
+        "to": 2001
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1980,
+        "to": 2000
+      },
+      {
+        "manufacturer": "In-House",
+        "to": 1980
       }
     ]
   },
@@ -5359,6 +6792,37 @@
     "aliases": [
       "serbien",
       "serbia"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Capelli Sport",
+        "from": 2025
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2018,
+        "to": 2025
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2014,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2006,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 2002,
+        "to": 2006
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 2002
+      }
     ]
   },
   {
@@ -5375,7 +6839,28 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "Nike"
+        "manufacturer": "Nike",
+        "from": 2007
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 2003,
+        "to": 2006
+      },
+      {
+        "manufacturer": "Uhlsport",
+        "from": 2002,
+        "to": 2003
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1997,
+        "to": 2001
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1993,
+        "to": 1996
       }
     ]
   },
@@ -5405,6 +6890,25 @@
         "manufacturer": "adidas",
         "from": 1981,
         "to": 1983
+      },
+      {
+        "manufacturer": "Deportes Cóndor",
+        "from": 1967,
+        "to": 1981
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1966,
+        "to": 1966
+      },
+      {
+        "manufacturer": "Deportes Cóndor",
+        "from": 1935,
+        "to": 1966
+      },
+      {
+        "manufacturer": "In-House",
+        "to": 1935
       }
     ]
   },
@@ -5422,7 +6926,33 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "adidas"
+        "manufacturer": "adidas",
+        "from": 2026
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 2020,
+        "to": 2025
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2014,
+        "to": 2020
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2011,
+        "to": 2013
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1999,
+        "to": 2010
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1992,
+        "to": 1998
       }
     ]
   },
@@ -5454,6 +6984,11 @@
         "manufacturer": "Nike",
         "from": 1996,
         "to": 2002
+      },
+      {
+        "manufacturer": "Rapido",
+        "from": 1987,
+        "to": 1995
       }
     ]
   },
@@ -5472,7 +7007,13 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "Puma"
+        "manufacturer": "Puma",
+        "from": 1996
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1994,
+        "to": 1996
       }
     ]
   },
@@ -5515,7 +7056,52 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "Kappa"
+        "manufacturer": "Kappa",
+        "from": 2019
+      },
+      {
+        "manufacturer": "Uhlsport",
+        "from": 2016,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Burrda",
+        "from": 2011,
+        "to": 2016
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2002,
+        "to": 2011
+      },
+      {
+        "manufacturer": "Uhlsport",
+        "from": 2000,
+        "to": 2001
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1998,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1996,
+        "to": 1997
+      },
+      {
+        "manufacturer": "Guidas",
+        "from": 1994,
+        "to": 1995
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1970,
+        "to": 1993
+      },
+      {
+        "manufacturer": "In-House",
+        "to": 1969
       }
     ]
   },
@@ -5529,6 +7115,26 @@
     "aliases": [
       "ukraine",
       "ukraine national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2024
+      },
+      {
+        "manufacturer": "Joma",
+        "from": 2017,
+        "to": 2024
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2009,
+        "to": 2017
+      },
+      {
+        "manufacturer": "Lotto",
+        "to": 2009
+      }
     ]
   },
   {
@@ -5545,7 +7151,27 @@
     ],
     "kit_suppliers": [
       {
-        "manufacturer": "adidas"
+        "manufacturer": "adidas",
+        "from": 1995
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1990,
+        "to": 1994
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1976,
+        "to": 1989
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1966,
+        "to": 1966
+      },
+      {
+        "manufacturer": "In-House",
+        "to": 1976
       }
     ]
   },
@@ -5566,9 +7192,49 @@
         "from": 2024
       },
       {
+        "manufacturer": "MGR Sport",
+        "from": 2024,
+        "to": 2024
+      },
+      {
         "manufacturer": "Puma",
         "from": 2006,
         "to": 2023
+      },
+      {
+        "manufacturer": "Uhlsport",
+        "from": 2004,
+        "to": 2006
+      },
+      {
+        "manufacturer": "L-Sporto",
+        "from": 2002,
+        "to": 2004
+      },
+      {
+        "manufacturer": "Meta",
+        "from": 1999,
+        "to": 2001
+      },
+      {
+        "manufacturer": "Ennerre",
+        "from": 1992,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1987,
+        "to": 1991
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1983,
+        "to": 1986
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 1982
       }
     ]
   },
@@ -5608,6 +7274,62 @@
     "aliases": [
       "usbekistan",
       "uzbekistan"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "7SABER",
+        "from": 2025
+      },
+      {
+        "manufacturer": "Jako",
+        "from": 2019,
+        "to": 2025
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2018,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Joma",
+        "from": 2013,
+        "to": 2017
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2004,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2003,
+        "to": 2003
+      },
+      {
+        "manufacturer": "Hummel",
+        "from": 2001,
+        "to": 2002
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2000,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Grand Sport",
+        "from": 1999,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Admiral",
+        "from": 1998,
+        "to": 1998
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1992,
+        "to": 1997
+      }
     ]
   },
   {
@@ -5620,6 +7342,52 @@
     "aliases": [
       "venezuela",
       "venezuela national team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2024
+      },
+      {
+        "manufacturer": "Givova",
+        "from": 2019,
+        "to": 2023
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2005,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Atlética",
+        "from": 2000,
+        "to": 2004
+      },
+      {
+        "manufacturer": "Aba Sport",
+        "from": 1998,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Polmer",
+        "from": 1996,
+        "to": 1997
+      },
+      {
+        "manufacturer": "Score",
+        "from": 1995,
+        "to": 1996
+      },
+      {
+        "manufacturer": "Forte",
+        "from": 1992,
+        "to": 1995
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1981,
+        "to": 1991
+      }
     ]
   },
   {
@@ -5644,6 +7412,11 @@
         "to": 2012
       },
       {
+        "manufacturer": "Champion",
+        "from": 2008,
+        "to": 2010
+      },
+      {
         "manufacturer": "Kappa",
         "from": 2000,
         "to": 2007
@@ -5659,9 +7432,19 @@
         "to": 1994
       },
       {
+        "manufacturer": "Hummel",
+        "from": 1987,
+        "to": 1990
+      },
+      {
         "manufacturer": "adidas",
         "from": 1980,
         "to": 1984
+      },
+      {
+        "manufacturer": "Admiral",
+        "from": 1976,
+        "to": 1980
       }
     ]
   },

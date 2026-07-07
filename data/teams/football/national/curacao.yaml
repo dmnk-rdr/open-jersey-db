@@ -7,3 +7,10 @@ country: CW
 aliases:
 - curaçao
 - curacao
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Curaçao national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2025 }
+- { manufacturer: Kelme, from: 2024, to: 2025 }
+- { manufacturer: Nike, from: 2016, to: 2023 }
+- { manufacturer: Beltona, from: 2002, to: 2015 }
+- { manufacturer: Score, from: 1990, to: 2002 }

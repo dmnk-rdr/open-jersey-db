@@ -8,6 +8,15 @@ aliases:
 - greece
 - griechenland
 - greece national team
-# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Greece national football team".
 kit_suppliers:
-- { manufacturer: adidas }
+- { manufacturer: adidas, from: 2026 }
+- { manufacturer: Nike, from: 2013, to: 2025 }
+- { manufacturer: adidas, from: 2004, to: 2013 }
+- { manufacturer: Le Coq Sportif, from: 2001, to: 2003 }
+- { manufacturer: Lotto, from: 1998, to: 2001 }
+- { manufacturer: Diadora, from: 1991, to: 1998 }
+- { manufacturer: Asics, from: 1989, to: 1991 }
+- { manufacturer: adidas, from: 1988, to: 1989 }
+- { manufacturer: Puma, from: 1982, to: 1987 }
+- { manufacturer: Asics, from: 1980, to: 1981 }

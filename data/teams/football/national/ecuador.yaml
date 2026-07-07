@@ -12,3 +12,7 @@ kit_suppliers:
 - { manufacturer: Marathon, from: 2009 }
 - { manufacturer: Umbro, from: 2004, to: 2008 }
 - { manufacturer: Marathon, from: 1996, to: 2003 }
+- { manufacturer: Reebok, from: 1993, to: 1994 }
+- { manufacturer: Puma, from: 1991, to: 1992 }
+- { manufacturer: Credeport, from: 1986, to: 1990 }
+- { manufacturer: adidas, from: 1985, to: 1985 }

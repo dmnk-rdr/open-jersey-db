@@ -8,3 +8,14 @@ aliases:
 - kamerun
 - cameroon
 - indomitable lions
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Cameroon national football team".
+kit_suppliers:
+- { manufacturer: Fourteen, from: 2025 }
+- { manufacturer: One All Sports, from: 2022, to: 2024 }
+- { manufacturer: Le Coq Sportif, from: 2019, to: 2022 }
+- { manufacturer: Puma, from: 1998, to: 2018 }
+- { manufacturer: adidas, from: 1996, to: 1997 }
+- { manufacturer: Lotto, from: 1995, to: 1996 }
+- { manufacturer: Mitre, from: 1993, to: 1995 }
+- { manufacturer: adidas, from: 1988, to: 1993 }
+- { manufacturer: Le Coq Sportif, from: 1982, to: 1987 }

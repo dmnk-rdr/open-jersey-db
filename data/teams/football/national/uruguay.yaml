@@ -10,4 +10,12 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Uruguay national football team".
 kit_suppliers:
 - { manufacturer: Nike, from: 2024 }
+- { manufacturer: MGR Sport, from: 2024, to: 2024 }
 - { manufacturer: Puma, from: 2006, to: 2023 }
+- { manufacturer: Uhlsport, from: 2004, to: 2006 }
+- { manufacturer: L-Sporto, from: 2002, to: 2004 }
+- { manufacturer: Meta, from: 1999, to: 2001 }
+- { manufacturer: Ennerre, from: 1992, to: 1998 }
+- { manufacturer: Puma, from: 1987, to: 1991 }
+- { manufacturer: Le Coq Sportif, from: 1983, to: 1986 }
+- { manufacturer: adidas, from: 1974, to: 1982 }

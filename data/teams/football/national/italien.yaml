@@ -19,3 +19,4 @@ kit_suppliers:
 - { manufacturer: Ennerre, from: 1984, to: 1985 }
 - { manufacturer: Le Coq Sportif, from: 1980, to: 1984 }
 - { manufacturer: adidas, from: 1974, to: 1978 }
+- { manufacturer: Baila, from: 1978, to: 1979 }

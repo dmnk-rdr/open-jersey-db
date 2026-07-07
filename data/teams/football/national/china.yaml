@@ -8,3 +8,7 @@ aliases:
 - china
 - china pr
 - china national team
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „China national football team".
+kit_suppliers:
+- { manufacturer: Nike, from: 2015 }
+- { manufacturer: adidas, from: 1991, to: 2014 }

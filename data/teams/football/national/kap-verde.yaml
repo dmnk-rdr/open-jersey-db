@@ -8,3 +8,18 @@ aliases:
 - kap verde
 - cape verde
 - cabo verde
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Cape Verde national football team".
+kit_suppliers:
+- { manufacturer: Capelli Sport, from: 2026 }
+- { manufacturer: Tempo Sport, from: 2022, to: 2026 }
+- { manufacturer: adidas, from: 2018, to: 2021 }
+- { manufacturer: Lacatoni, from: 2016, to: 2017 }
+- { manufacturer: Hummel, from: 2014, to: 2015 }
+- { manufacturer: Tepa, from: 2013, to: 2013 }
+- { manufacturer: adidas, from: 2012, to: 2012 }
+- { manufacturer: KS Sport, from: 2010, to: 2011 }
+- { manufacturer: Erreà, from: 2008, to: 2009 }
+- { manufacturer: Tepa, from: 2002, to: 2007 }
+- { manufacturer: Saillev, from: 1994, to: 2001 }
+- { manufacturer: Duarig, from: 1992, to: 1993 }
+- { manufacturer: adidas, from: 1978, to: 1992 }

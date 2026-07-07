@@ -7,3 +7,21 @@ country: IR
 aliases:
 - iran
 - islamische republik iran
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Iran national football team".
+kit_suppliers:
+- { manufacturer: Merooj, from: 2022 }
+- { manufacturer: Uhlsport, from: 2019, to: 2022 }
+- { manufacturer: adidas, from: 2016, to: 2019 }
+- { manufacturer: Givova, from: 2016, to: 2016 }
+- { manufacturer: Uhlsport, from: 2012, to: 2016 }
+- { manufacturer: Legea, from: 2009, to: 2012 }
+- { manufacturer: Daei Sport, from: 2008, to: 2009 }
+- { manufacturer: Merooj, from: 2007, to: 2008 }
+- { manufacturer: Puma, from: 2006, to: 2007 }
+- { manufacturer: Daei Sport, from: 2003, to: 2006 }
+- { manufacturer: Shekari, from: 2000, to: 2003 }
+- { manufacturer: Puma, from: 1998, to: 2000 }
+- { manufacturer: Shekari, from: 1993, to: 1998 }
+- { manufacturer: Amini, from: 1981, to: 1993 }
+- { manufacturer: Puma, from: 1980, to: 1980 }
+- { manufacturer: adidas, from: 1978, to: 1978 }

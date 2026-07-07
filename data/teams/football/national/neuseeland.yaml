@@ -7,6 +7,13 @@ country: NZ
 aliases:
 - neuseeland
 - new zealand
-# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „New Zealand men's national football team".
 kit_suppliers:
-- { manufacturer: Puma }
+- { manufacturer: Puma, from: 2024 }
+- { manufacturer: Nike, from: 2004, to: 2023 }
+- { manufacturer: adidas, from: 1997, to: 2003 }
+- { manufacturer: Mitre, from: 1995, to: 1996 }
+- { manufacturer: Pony, from: 1989, to: 1992 }
+- { manufacturer: Mitre, from: 1987, to: 1988 }
+- { manufacturer: Le Coq Sportif, from: 1984, to: 1986 }
+- { manufacturer: adidas, from: 1972, to: 1983 }

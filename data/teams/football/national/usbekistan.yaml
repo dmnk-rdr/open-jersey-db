@@ -7,3 +7,16 @@ country: UZ
 aliases:
 - usbekistan
 - uzbekistan
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Uzbekistan national football team".
+kit_suppliers:
+- { manufacturer: 7SABER, from: 2025 }
+- { manufacturer: Jako, from: 2019, to: 2025 }
+- { manufacturer: adidas, from: 2018, to: 2018 }
+- { manufacturer: Joma, from: 2013, to: 2017 }
+- { manufacturer: Puma, from: 2004, to: 2012 }
+- { manufacturer: Umbro, from: 2003, to: 2003 }
+- { manufacturer: Hummel, from: 2001, to: 2002 }
+- { manufacturer: adidas, from: 2000, to: 2000 }
+- { manufacturer: Grand Sport, from: 1999, to: 1999 }
+- { manufacturer: Admiral, from: 1998, to: 1998 }
+- { manufacturer: adidas, from: 1992, to: 1997 }

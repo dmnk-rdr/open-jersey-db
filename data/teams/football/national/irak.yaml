@@ -7,3 +7,17 @@ country: IQ
 aliases:
 - irak
 - iraq
+# Ausrüster-Historie (jüngste zuerst, teilweise belegt). Quelle: Wikipedia „Iraq national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2024 }
+- { manufacturer: Jako, from: 2022, to: 2023 }
+- { manufacturer: Umbro, from: 2020, to: 2022 }
+- { manufacturer: Givova, from: 2019, to: 2020 }
+- { manufacturer: Jako, from: 2014, to: 2019 }
+- { manufacturer: Peak, from: 2008, to: 2014 }
+- { manufacturer: Jack & Jones, from: 2004, to: 2006 }
+- { manufacturer: Jako, from: 2003, to: 2004 }
+- { manufacturer: Patrick, from: 2000, to: 2000 }
+- { manufacturer: Puma, from: 1996, to: 1996 }
+- { manufacturer: adidas, from: 1986, to: 1994 }
+- { manufacturer: Umbro, from: 1984, to: 1986 }

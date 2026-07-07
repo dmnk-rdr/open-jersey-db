@@ -11,3 +11,7 @@ aliases:
 kit_suppliers:
 - { manufacturer: adidas, from: 1999 }
 - { manufacturer: Asics, from: 1988, to: 1998 }
+- { manufacturer: adidas, from: 1986, to: 1986 }
+- { manufacturer: Puma, from: 1980, to: 1985 }
+- { manufacturer: Asics, from: 1979, to: 1979 }
+- { manufacturer: adidas, from: 1975, to: 1977 }

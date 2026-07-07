@@ -7,3 +7,9 @@ country: UA
 aliases:
 - ukraine
 - ukraine national team
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Ukraine national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2024 }
+- { manufacturer: Joma, from: 2017, to: 2024 }
+- { manufacturer: adidas, from: 2009, to: 2017 }
+- { manufacturer: Lotto, to: 2009 }

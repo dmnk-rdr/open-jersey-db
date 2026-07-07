@@ -12,3 +12,12 @@ aliases:
 kit_suppliers:
 - { manufacturer: adidas, from: 2023 }
 - { manufacturer: Nike, from: 2011, to: 2022 }
+- { manufacturer: Puma, from: 2006, to: 2010 }
+- { manufacturer: Le Coq Sportif, from: 2004, to: 2005 }
+- { manufacturer: adidas, from: 2001, to: 2003 }
+- { manufacturer: Shammel, from: 1994, to: 2000 }
+- { manufacturer: adidas, from: 1990, to: 1993 }
+- { manufacturer: Faisok, from: 1987, to: 1989 }
+- { manufacturer: Topper, from: 1984, to: 1986 }
+- { manufacturer: Puma, from: 1980, to: 1984 }
+- { manufacturer: Admiral, from: 1976, to: 1979 }

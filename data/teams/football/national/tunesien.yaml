@@ -8,6 +8,15 @@ aliases:
 - tunesien
 - tunisia
 - tunisie
-# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Tunisia national football team" (teils via footballkitarchive.com referenziert).
 kit_suppliers:
-- { manufacturer: Kappa }
+- { manufacturer: Kappa, from: 2019 }
+- { manufacturer: Uhlsport, from: 2016, to: 2018 }
+- { manufacturer: Burrda, from: 2011, to: 2016 }
+- { manufacturer: Puma, from: 2002, to: 2011 }
+- { manufacturer: Uhlsport, from: 2000, to: 2001 }
+- { manufacturer: Lotto, from: 1998, to: 1999 }
+- { manufacturer: Kappa, from: 1996, to: 1997 }
+- { manufacturer: Guidas, from: 1994, to: 1995 }
+- { manufacturer: adidas, from: 1970, to: 1993 }
+- { manufacturer: In-House, to: 1969 }

@@ -13,3 +13,7 @@ kit_suppliers:
 - { manufacturer: adidas, from: 1991 }
 - { manufacturer: Le Coq Sportif, from: 1984, to: 1990 }
 - { manufacturer: adidas, from: 1981, to: 1983 }
+- { manufacturer: Deportes Cóndor, from: 1967, to: 1981 }
+- { manufacturer: Umbro, from: 1966, to: 1966 }
+- { manufacturer: Deportes Cóndor, from: 1935, to: 1966 }
+- { manufacturer: In-House, to: 1935 }

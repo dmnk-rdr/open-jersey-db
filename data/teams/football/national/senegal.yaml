@@ -10,5 +10,9 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Senegal national football team".
 kit_suppliers:
 - { manufacturer: Puma, from: 2018 }
+- { manufacturer: Romai, from: 2017, to: 2017 }
 - { manufacturer: Puma, from: 2005, to: 2016 }
 - { manufacturer: Le Coq Sportif, from: 2002, to: 2004 }
+- { manufacturer: Erreà, from: 2000, to: 2001 }
+- { manufacturer: adidas, from: 1980, to: 2000 }
+- { manufacturer: In-House, to: 1980 }

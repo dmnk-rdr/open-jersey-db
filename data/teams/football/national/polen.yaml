@@ -11,5 +11,14 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Poland national football team".
 kit_suppliers:
 - { manufacturer: Nike, from: 2009 }
+- { manufacturer: Puma, from: 2001, to: 2008 }
+- { manufacturer: Tico, from: 2000, to: 2000 }
+- { manufacturer: Puma, from: 1999, to: 2000 }
+- { manufacturer: adidas, from: 1999, to: 1999 }
+- { manufacturer: Nike, from: 1996, to: 1999 }
 - { manufacturer: Puma, from: 1994, to: 1996 }
+- { manufacturer: Lotto, from: 1993, to: 1994 }
+- { manufacturer: adidas, from: 1993, to: 1993 }
+- { manufacturer: Admiral, from: 1992, to: 1993 }
 - { manufacturer: adidas, from: 1974, to: 1991 }
+- { manufacturer: Polsport, to: 1974 }

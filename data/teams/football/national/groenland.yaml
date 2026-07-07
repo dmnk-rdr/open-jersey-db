@@ -8,3 +8,7 @@ aliases:
 - greenland
 - grönland
 - greenland national team
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Greenland national football team".
+kit_suppliers:
+- { manufacturer: Hummel, from: 2024 }
+- { manufacturer: Macron, from: 2020, to: 2024 }

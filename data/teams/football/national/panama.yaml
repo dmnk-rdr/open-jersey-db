@@ -6,3 +6,11 @@ league: null
 country: PA
 aliases:
 - panama
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Panama national football team".
+kit_suppliers:
+- { manufacturer: Reebok, from: 2023 }
+- { manufacturer: New Balance, from: 2015, to: 2023 }
+- { manufacturer: Lotto, from: 2002, to: 2014 }
+- { manufacturer: Kappa, from: 1999, to: 2002 }
+- { manufacturer: Reebok, from: 1996, to: 1999 }
+- { manufacturer: Patrick, from: 1992, to: 1996 }

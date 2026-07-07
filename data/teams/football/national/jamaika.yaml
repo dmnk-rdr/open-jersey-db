@@ -8,6 +8,12 @@ aliases:
 - jamaica
 - jamaika
 - jamaica national team
-# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Jamaica national football team".
 kit_suppliers:
-- { manufacturer: adidas }
+- { manufacturer: adidas, from: 2023 }
+- { manufacturer: Umbro, from: 2018, to: 2022 }
+- { manufacturer: Romai, from: 2015, to: 2018 }
+- { manufacturer: Kappa, from: 2008, to: 2014 }
+- { manufacturer: Uhlsport, from: 2000, to: 2006 }
+- { manufacturer: Lanzera / Kappa, from: 1995, to: 1998 }
+- { manufacturer: Score, from: 1993, to: 1993 }

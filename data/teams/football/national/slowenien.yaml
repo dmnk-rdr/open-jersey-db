@@ -8,6 +8,10 @@ aliases:
 - slovenia
 - slowenien
 - slovenia national team
-# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Slovenia national football team".
 kit_suppliers:
-- { manufacturer: Nike }
+- { manufacturer: Nike, from: 2007 }
+- { manufacturer: Kappa, from: 2003, to: 2006 }
+- { manufacturer: Uhlsport, from: 2002, to: 2003 }
+- { manufacturer: adidas, from: 1997, to: 2001 }
+- { manufacturer: Puma, from: 1993, to: 1996 }

@@ -13,3 +13,5 @@ kit_suppliers:
 - { manufacturer: Puma, from: 2019 }
 - { manufacturer: adidas, from: 2012, to: 2018 }
 - { manufacturer: Puma, from: 2001, to: 2012 }
+- { manufacturer: Venecia, from: 1995, to: 1998 }
+- { manufacturer: adidas, from: 1990, to: 1995 }

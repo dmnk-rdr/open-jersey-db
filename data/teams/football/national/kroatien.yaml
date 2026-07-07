@@ -12,3 +12,4 @@ aliases:
 kit_suppliers:
 - { manufacturer: Nike, from: 2000 }
 - { manufacturer: Lotto, from: 1992, to: 1999 }
+- { manufacturer: Uhlsport, from: 1990, to: 1991 }

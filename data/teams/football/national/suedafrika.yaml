@@ -8,6 +8,11 @@ aliases:
 - südafrika
 - suedafrika
 - south africa
-# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „South Africa national soccer team".
 kit_suppliers:
-- { manufacturer: adidas }
+- { manufacturer: adidas, from: 2026 }
+- { manufacturer: Le Coq Sportif, from: 2020, to: 2025 }
+- { manufacturer: Nike, from: 2014, to: 2020 }
+- { manufacturer: Puma, from: 2011, to: 2013 }
+- { manufacturer: adidas, from: 1999, to: 2010 }
+- { manufacturer: Kappa, from: 1992, to: 1998 }

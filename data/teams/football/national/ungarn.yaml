@@ -8,6 +8,10 @@ aliases:
 - hungary
 - ungarn
 - hungary national team
-# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Hungary national football team".
 kit_suppliers:
-- { manufacturer: adidas }
+- { manufacturer: adidas, from: 1995 }
+- { manufacturer: Umbro, from: 1990, to: 1994 }
+- { manufacturer: adidas, from: 1976, to: 1989 }
+- { manufacturer: Umbro, from: 1966, to: 1966 }
+- { manufacturer: In-House, to: 1976 }

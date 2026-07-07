@@ -11,4 +11,5 @@ aliases:
 kit_suppliers:
 - { manufacturer: adidas, from: 2010 }
 - { manufacturer: Diadora, from: 2003, to: 2010 }
+- { manufacturer: Fila, from: 2000, to: 2003 }
 - { manufacturer: Umbro, from: 1972, to: 2000 }

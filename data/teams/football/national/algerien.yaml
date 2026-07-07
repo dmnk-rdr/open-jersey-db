@@ -9,6 +9,25 @@ aliases:
 - algeria
 - algérie
 - algerie
-# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Algeria national football team".
 kit_suppliers:
-- { manufacturer: adidas }
+- { manufacturer: adidas, from: 2015 }
+- { manufacturer: Puma, from: 2010, to: 2014 }
+- { manufacturer: Le Coq Sportif, from: 2003, to: 2009 }
+- { manufacturer: Cirta Sport, from: 2001, to: 2002 }
+- { manufacturer: Puma, from: 2001, to: 2001 }
+- { manufacturer: Cirta Sport, from: 2000, to: 2000 }
+- { manufacturer: Kappa, from: 1999, to: 1999 }
+- { manufacturer: Cirta Sport, from: 1997, to: 1998 }
+- { manufacturer: Kappa, from: 1997, to: 1997 }
+- { manufacturer: Delta Sport, from: 1996, to: 1996 }
+- { manufacturer: Luanvi, from: 1994, to: 1995 }
+- { manufacturer: Lotto, from: 1993, to: 1994 }
+- { manufacturer: adidas, from: 1991, to: 1992 }
+- { manufacturer: Sonitex, from: 1985, to: 1990 }
+- { manufacturer: adidas, from: 1983, to: 1984 }
+- { manufacturer: Sonitex, from: 1978, to: 1982 }
+- { manufacturer: adidas, from: 1977, to: 1977 }
+- { manufacturer: Sonitex, from: 1976, to: 1976 }
+- { manufacturer: adidas, from: 1975, to: 1976 }
+- { manufacturer: Delta, from: 1971, to: 1975 }

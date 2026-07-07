@@ -17,3 +17,5 @@ kit_suppliers:
 - { manufacturer: ABA Sport, from: 1995, to: 1998 }
 - { manufacturer: Umbro, from: 1991, to: 1994 }
 - { manufacturer: adidas, from: 1982, to: 1990 }
+- { manufacturer: Pony, from: 1980, to: 1983 }
+- { manufacturer: Levi's, from: 1978, to: 1979 }

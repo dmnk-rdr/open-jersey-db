@@ -13,3 +13,4 @@ kit_suppliers:
 - { manufacturer: Umbro, from: 1997, to: 2014 }
 - { manufacturer: adidas, from: 1992, to: 1996 }
 - { manufacturer: Hummel, from: 1982, to: 1990 }
+- { manufacturer: Le Coq Sportif, from: 1976, to: 1980 }

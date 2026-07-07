@@ -10,3 +10,11 @@ aliases:
 - bosnia
 - bosnia and herzegovina
 - bosna i hercegovina
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Bosnia and Herzegovina national football team".
+kit_suppliers:
+- { manufacturer: Kelme, from: 2023 }
+- { manufacturer: adidas, from: 2014, to: 2023 }
+- { manufacturer: Legea, from: 2005, to: 2014 }
+- { manufacturer: Reusch, from: 2000, to: 2005 }
+- { manufacturer: adidas, from: 1999, to: 2000 }
+- { manufacturer: Patrick, from: 1996, to: 1999 }

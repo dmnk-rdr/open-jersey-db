@@ -7,3 +7,11 @@ country: RS
 aliases:
 - serbien
 - serbia
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Serbia national football team".
+kit_suppliers:
+- { manufacturer: Capelli Sport, from: 2025 }
+- { manufacturer: Puma, from: 2018, to: 2025 }
+- { manufacturer: Umbro, from: 2014, to: 2018 }
+- { manufacturer: Nike, from: 2006, to: 2014 }
+- { manufacturer: Lotto, from: 2002, to: 2006 }
+- { manufacturer: adidas, from: 1974, to: 2002 }

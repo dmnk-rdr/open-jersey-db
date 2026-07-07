@@ -8,6 +8,13 @@ aliases:
 - northern ireland
 - nordirland
 - northern ireland national team
-# Aktueller Ausrüster (2026). Quelle: Footy Headlines / offizielle Marken-Releases.
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Northern Ireland national football team".
 kit_suppliers:
-- { manufacturer: adidas }
+- { manufacturer: adidas, from: 2012 }
+- { manufacturer: Umbro, from: 2004, to: 2012 }
+- { manufacturer: Patrick, from: 1999, to: 2004 }
+- { manufacturer: Olympic Sportswear, from: 1998, to: 1999 }
+- { manufacturer: Asics, from: 1994, to: 1998 }
+- { manufacturer: Umbro, from: 1990, to: 1994 }
+- { manufacturer: adidas, from: 1977, to: 1990 }
+- { manufacturer: Umbro, from: 1975, to: 1977 }

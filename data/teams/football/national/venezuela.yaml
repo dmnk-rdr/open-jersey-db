@@ -7,3 +7,14 @@ country: VE
 aliases:
 - venezuela
 - venezuela national team
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Venezuela national football team".
+kit_suppliers:
+- { manufacturer: adidas, from: 2024 }
+- { manufacturer: Givova, from: 2019, to: 2023 }
+- { manufacturer: adidas, from: 2005, to: 2018 }
+- { manufacturer: Atlética, from: 2000, to: 2004 }
+- { manufacturer: Aba Sport, from: 1998, to: 1999 }
+- { manufacturer: Polmer, from: 1996, to: 1997 }
+- { manufacturer: Score, from: 1995, to: 1996 }
+- { manufacturer: Forte, from: 1992, to: 1995 }
+- { manufacturer: adidas, from: 1981, to: 1991 }

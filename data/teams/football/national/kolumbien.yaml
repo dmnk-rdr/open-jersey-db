@@ -15,3 +15,5 @@ kit_suppliers:
 - { manufacturer: Reebok, from: 1998, to: 2002 }
 - { manufacturer: Umbro, from: 1993, to: 1997 }
 - { manufacturer: adidas, from: 1983, to: 1990 }
+- { manufacturer: Comba, from: 1992, to: 1992 }
+- { manufacturer: Kelme, from: 1991, to: 1991 }

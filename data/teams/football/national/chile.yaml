@@ -13,3 +13,16 @@ kit_suppliers:
 - { manufacturer: Nike, from: 2015, to: 2021 }
 - { manufacturer: Puma, from: 2011, to: 2015 }
 - { manufacturer: Brooks, from: 2004, to: 2010 }
+- { manufacturer: Umbro, from: 2000, to: 2003 }
+- { manufacturer: Reebok, from: 1996, to: 2000 }
+- { manufacturer: Rhumell, from: 1995, to: 1995 }
+- { manufacturer: adidas, from: 1993, to: 1994 }
+- { manufacturer: Avia, from: 1992, to: 1992 }
+- { manufacturer: Umbro, from: 1990, to: 1991 }
+- { manufacturer: adidas, from: 1988, to: 1990 }
+- { manufacturer: Puma, from: 1987, to: 1988 }
+- { manufacturer: Power, from: 1987, to: 1987 }
+- { manufacturer: Umbro, from: 1986, to: 1986 }
+- { manufacturer: Puma, from: 1985, to: 1985 }
+- { manufacturer: Penalty, from: 1984, to: 1984 }
+- { manufacturer: adidas, from: 1979, to: 1983 }

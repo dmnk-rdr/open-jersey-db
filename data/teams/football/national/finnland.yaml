@@ -8,3 +8,7 @@ aliases:
 - finland
 - finnland
 - finland national team
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Finland national football team".
+kit_suppliers:
+- { manufacturer: Nike, from: 2014 }
+- { manufacturer: adidas, from: 1979, to: 2013 }

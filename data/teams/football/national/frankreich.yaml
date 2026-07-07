@@ -13,3 +13,4 @@ kit_suppliers:
 - { manufacturer: Nike, from: 2011 }
 - { manufacturer: adidas, from: 1972, to: 2010 }
 - { manufacturer: Le Coq Sportif, from: 1966, to: 1971 }
+- { manufacturer: Allen Sport, from: 1938, to: 1966 }

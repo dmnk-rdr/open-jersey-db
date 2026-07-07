@@ -10,3 +10,6 @@ aliases:
 kit_suppliers:
 - { manufacturer: Puma, from: 2025 }
 - { manufacturer: Nike, from: 1997, to: 2024 }
+- { manufacturer: Olympic Sportswear, from: 1994, to: 1996 }
+- { manufacturer: adidas, from: 1976, to: 1994 }
+- { manufacturer: In-House, to: 1976 }
