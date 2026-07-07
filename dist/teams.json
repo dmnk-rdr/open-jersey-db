@@ -4532,8 +4532,28 @@
     ],
     "kit_suppliers": [
       {
+        "manufacturer": "Nike",
+        "from": 2027
+      },
+      {
         "manufacturer": "adidas",
-        "from": 1954
+        "from": 1980,
+        "to": 2026
+      },
+      {
+        "manufacturer": "Erima / adidas",
+        "from": 1972,
+        "to": 1979
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1964,
+        "to": 1971
+      },
+      {
+        "manufacturer": "Leuzela",
+        "from": 1950,
+        "to": 1962
       }
     ]
   },

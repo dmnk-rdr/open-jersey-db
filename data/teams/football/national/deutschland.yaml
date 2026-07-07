@@ -11,9 +11,13 @@ aliases:
 # Sondertrikots würden fälschlich der Nationalelf zugeordnet. 'dfb team' ist eindeutig.
 - dfb team
 - nationalmannschaft deutschland
-# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Deutsche Fußballnationalmannschaft".
-# Wikipedia führt KEINE granulare Hersteller-Chronik, nur adidas als langjährigen
-# Ausrüster (seit dem WM-Titel 1954). Ältere Marken-Details (Erima/Leuze/…) sind
-# CC-frei nicht belegt → bewusste Lücke statt FKA-Übernahme.
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Deutsche Fußballnationalmannschaft",
+# Abschnitt „Ausrüstersponsor" (Zeitleiste Trikot + Fließtext): adidas Hauptausrüster
+# seit WM 1954 (Logo auf Trikots seit 1978), Nike ab 2027. Marken-Reihenfolge der
+# Zeitleiste: Leuzela → Umbro → Erima/adidas → adidas → Nike.
 kit_suppliers:
-- { manufacturer: adidas, from: 1954 }
+- { manufacturer: Nike, from: 2027 }
+- { manufacturer: adidas, from: 1980, to: 2026 }
+- { manufacturer: Erima / adidas, from: 1972, to: 1979 }
+- { manufacturer: Umbro, from: 1964, to: 1971 }
+- { manufacturer: Leuzela, from: 1950, to: 1962 }
