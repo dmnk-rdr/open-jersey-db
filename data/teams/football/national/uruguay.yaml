@@ -11,7 +11,7 @@ aliases:
 kit_suppliers:
 - { manufacturer: Nike, from: 2024 }
 - { manufacturer: MGR Sport, from: 2024, to: 2024 }
-- { manufacturer: Puma, from: 2006, to: 2023 }
+- { manufacturer: Puma, from: 2007, to: 2023 }
 - { manufacturer: Uhlsport, from: 2004, to: 2006 }
 - { manufacturer: L-Sporto, from: 2002, to: 2004 }
 - { manufacturer: Meta, from: 1999, to: 2001 }

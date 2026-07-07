@@ -11,6 +11,8 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Australia men's national soccer team".
 kit_suppliers:
 - { manufacturer: Nike, from: 2004 }
-- { manufacturer: adidas, from: 1993, to: 2002 }
-- { manufacturer: adidas, from: 1982, to: 1988 }
-- { manufacturer: Umbro, from: 1972, to: 1982 }
+- { manufacturer: adidas, from: 1993, to: 2004 }
+- { manufacturer: Patrick, from: 1993, to: 1993 }
+- { manufacturer: Kingroo, from: 1990, to: 1993 }
+- { manufacturer: adidas, from: 1983, to: 1989 }
+- { manufacturer: Umbro, from: 1974, to: 1983 }

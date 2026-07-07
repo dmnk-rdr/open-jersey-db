@@ -12,7 +12,7 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Switzerland national football team".
 kit_suppliers:
 - { manufacturer: Puma, from: 1998 }
-- { manufacturer: Lotto, from: 1992, to: 1996 }
-- { manufacturer: adidas, from: 1976, to: 1990 }
+- { manufacturer: Lotto, from: 1993, to: 1997 }
 - { manufacturer: Blacky, from: 1990, to: 1992 }
-- { manufacturer: Le Coq Sportif, from: 1970, to: 1974 }
+- { manufacturer: adidas, from: 1976, to: 1989 }
+- { manufacturer: Le Coq Sportif, from: 1970, to: 1975 }

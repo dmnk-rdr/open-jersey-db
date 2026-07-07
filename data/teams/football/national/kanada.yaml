@@ -12,5 +12,6 @@ kit_suppliers:
 - { manufacturer: Nike, from: 2019 }
 - { manufacturer: Umbro, from: 2011, to: 2018 }
 - { manufacturer: adidas, from: 1999, to: 2010 }
-- { manufacturer: Umbro, from: 1994, to: 1998 }
-- { manufacturer: adidas, from: 1978, to: 1992 }
+- { manufacturer: Umbro, from: 1996, to: 1998 }
+- { manufacturer: Score, from: 1993, to: 1995 }
+- { manufacturer: adidas, from: 1986, to: 1992 }

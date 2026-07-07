@@ -10,7 +10,9 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Japan national football team".
 kit_suppliers:
 - { manufacturer: adidas, from: 1999 }
-- { manufacturer: Asics, from: 1988, to: 1998 }
+- { manufacturer: Asics, from: 1993, to: 1998 }
+- { manufacturer: adidas, from: 1989, to: 1992 }
+- { manufacturer: Asics, from: 1987, to: 1988 }
 - { manufacturer: adidas, from: 1986, to: 1986 }
 - { manufacturer: Puma, from: 1980, to: 1985 }
 - { manufacturer: Asics, from: 1979, to: 1979 }

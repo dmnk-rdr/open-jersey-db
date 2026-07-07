@@ -11,5 +11,7 @@ aliases:
 kit_suppliers:
 - { manufacturer: adidas, from: 2024 }
 - { manufacturer: Joma, from: 2017, to: 2024 }
-- { manufacturer: adidas, from: 2009, to: 2017 }
-- { manufacturer: Lotto, to: 2009 }
+- { manufacturer: adidas, from: 2009, to: 2016 }
+- { manufacturer: Lotto, from: 2003, to: 2008 }
+- { manufacturer: Puma, from: 1998, to: 2002 }
+- { manufacturer: Umbro, from: 1992, to: 1997 }

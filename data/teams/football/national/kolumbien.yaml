@@ -11,9 +11,11 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Colombia national football team".
 kit_suppliers:
 - { manufacturer: adidas, from: 2011 }
-- { manufacturer: Lotto, from: 2003, to: 2010 }
+- { manufacturer: Lotto, from: 2002, to: 2010 }
 - { manufacturer: Reebok, from: 1998, to: 2002 }
-- { manufacturer: Umbro, from: 1993, to: 1997 }
-- { manufacturer: adidas, from: 1983, to: 1990 }
+- { manufacturer: Umbro, from: 1992, to: 1998 }
 - { manufacturer: Comba, from: 1992, to: 1992 }
 - { manufacturer: Kelme, from: 1991, to: 1991 }
+- { manufacturer: adidas, from: 1988, to: 1990 }
+- { manufacturer: Puma, from: 1987, to: 1987 }
+- { manufacturer: adidas, from: 1980, to: 1987 }

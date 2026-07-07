@@ -28,6 +28,6 @@ kit_suppliers:
 - { manufacturer: adidas, from: 1983, to: 1984 }
 - { manufacturer: Sonitex, from: 1978, to: 1982 }
 - { manufacturer: adidas, from: 1977, to: 1977 }
-- { manufacturer: Sonitex, from: 1976, to: 1976 }
+- { manufacturer: Sonitex, from: 1976, to: 1977 }
 - { manufacturer: adidas, from: 1975, to: 1976 }
 - { manufacturer: Delta, from: 1971, to: 1975 }

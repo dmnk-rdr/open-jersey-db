@@ -11,8 +11,8 @@ aliases:
 - selecao
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Brazil national football team".
 kit_suppliers:
-- { manufacturer: Nike, from: 1996 }
+- { manufacturer: Nike, from: 1997 }
 - { manufacturer: Umbro, from: 1991, to: 1996 }
-- { manufacturer: Topper, from: 1980, to: 1991 }
-- { manufacturer: adidas, from: 1977, to: 1980 }
-- { manufacturer: Athleta, to: 1976 }
+- { manufacturer: Topper, from: 1981, to: 1991 }
+- { manufacturer: adidas, from: 1977, to: 1981 }
+- { manufacturer: Athleta, from: 1954, to: 1977 }

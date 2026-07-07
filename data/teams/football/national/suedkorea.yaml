@@ -12,7 +12,5 @@ aliases:
 - korea
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „South Korea national football team".
 kit_suppliers:
-- { manufacturer: Nike, from: 2020 }
-- { manufacturer: adidas, from: 2003, to: 2019 }
-- { manufacturer: Nike, from: 1996, to: 2002 }
+- { manufacturer: Nike, from: 1996 }
 - { manufacturer: Rapido, from: 1987, to: 1995 }

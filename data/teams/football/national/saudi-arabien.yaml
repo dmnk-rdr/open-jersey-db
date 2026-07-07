@@ -11,7 +11,7 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Saudi Arabia national football team".
 kit_suppliers:
 - { manufacturer: adidas, from: 2023 }
-- { manufacturer: Nike, from: 2011, to: 2022 }
+- { manufacturer: Nike, from: 2011, to: 2023 }
 - { manufacturer: Puma, from: 2006, to: 2010 }
 - { manufacturer: Le Coq Sportif, from: 2004, to: 2005 }
 - { manufacturer: adidas, from: 2001, to: 2003 }

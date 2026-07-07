@@ -13,4 +13,4 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „United States men's national soccer team".
 kit_suppliers:
 - { manufacturer: Nike, from: 1995 }
-- { manufacturer: adidas, from: 1984, to: 1994 }
+- { manufacturer: adidas, from: 1975, to: 1994 }

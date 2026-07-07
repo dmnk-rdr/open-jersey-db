@@ -20,5 +20,5 @@ kit_suppliers:
 - { manufacturer: Lotto, from: 1993, to: 1994 }
 - { manufacturer: adidas, from: 1993, to: 1993 }
 - { manufacturer: Admiral, from: 1992, to: 1993 }
-- { manufacturer: adidas, from: 1974, to: 1991 }
+- { manufacturer: adidas, from: 1974, to: 1992 }
 - { manufacturer: Polsport, to: 1974 }

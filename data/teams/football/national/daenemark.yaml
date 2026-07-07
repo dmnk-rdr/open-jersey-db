@@ -13,5 +13,3 @@ kit_suppliers:
 - { manufacturer: Hummel, from: 2016 }
 - { manufacturer: adidas, from: 2004, to: 2016 }
 - { manufacturer: Hummel, from: 1979, to: 2004 }
-- { manufacturer: Umbro, from: 1968, to: 1978 }
-- { manufacturer: In-House, to: 1964 }

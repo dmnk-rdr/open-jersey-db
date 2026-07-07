@@ -10,7 +10,7 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Norway national football team".
 kit_suppliers:
 - { manufacturer: Nike, from: 2015 }
-- { manufacturer: Umbro, from: 1997, to: 2014 }
+- { manufacturer: Umbro, from: 1996, to: 2014 }
 - { manufacturer: adidas, from: 1992, to: 1996 }
-- { manufacturer: Hummel, from: 1982, to: 1990 }
+- { manufacturer: Hummel, from: 1981, to: 1991 }
 - { manufacturer: Le Coq Sportif, from: 1976, to: 1980 }

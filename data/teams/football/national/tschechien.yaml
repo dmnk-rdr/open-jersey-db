@@ -10,7 +10,7 @@ aliases:
 - czechia
 - tschechische republik
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Czech Republic national football team".
-# Hinweis: adidas-Wechsel ab 2027 bereits angekündigt, aber noch nicht aktiv (2026 = Puma).
 kit_suppliers:
-- { manufacturer: Puma, from: 1996 }
+- { manufacturer: adidas, from: 2027 }
+- { manufacturer: Puma, from: 1996, to: 2026 }
 - { manufacturer: adidas, from: 1994, to: 1996 }

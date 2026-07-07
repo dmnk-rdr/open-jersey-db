@@ -10,8 +10,8 @@ aliases:
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Nigeria national football team".
 kit_suppliers:
 - { manufacturer: Nike, from: 2015 }
-- { manufacturer: adidas, from: 2002, to: 2014 }
-- { manufacturer: Nike, from: 1994, to: 2002 }
+- { manufacturer: adidas, from: 2004, to: 2014 }
+- { manufacturer: Nike, from: 1994, to: 2003 }
 - { manufacturer: adidas, from: 1988, to: 1994 }
 - { manufacturer: Admiral, from: 1984, to: 1987 }
 - { manufacturer: Erima, from: 1980, to: 1984 }
