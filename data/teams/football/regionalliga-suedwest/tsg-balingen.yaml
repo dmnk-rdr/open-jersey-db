@@ -10,3 +10,6 @@ aliases:
 founded: 1848
 city: Balingen
 stadium: Bizerba-Arena
+# Aktueller Ausrüster. Quelle: uhlsport-Fanshop (offizieller Vereins-Fanshop).
+kit_suppliers:
+- { manufacturer: uhlsport }

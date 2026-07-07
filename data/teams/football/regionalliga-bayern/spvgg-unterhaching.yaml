@@ -10,3 +10,6 @@ aliases:
 - spvgg unterhaching
 - unterhaching
 founded: 1925
+# Aktueller Ausrüster. Quelle: uhlsport-Fanshop (offizieller Vereins-Fanshop).
+kit_suppliers:
+- { manufacturer: uhlsport }

@@ -1,0 +1,31 @@
+team: tsg-balingen
+sport: football
+league: regionalliga-suedwest
+season: '2025/26'
+kit_type: home
+manufacturer: uhlsport
+main_sponsor: null
+colorway: Rot / Bordeaux
+design: null
+colors:
+- Rot
+- Bordeaux
+competitions:
+- Regionalliga Südwest
+skus: null
+release_date: null
+gtins:
+- '4099803280715'
+- '4099803280722'
+- '4099803280739'
+- '4099803280746'
+- '4099803280753'
+- '4099803280760'
+- '4099803280791'
+- '4099803280807'
+- '4099803280814'
+- '4099803280821'
+- '4099803280838'
+aliases: []
+source: community
+notes: "Quelle: uhlsport-Shop, Produktbeschreibung Heimtrikot 25/26 (\"red/burgundy\")."

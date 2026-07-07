@@ -1,0 +1,30 @@
+team: spvgg-unterhaching
+sport: football
+league: regionalliga-bayern
+season: '2025/26'
+kit_type: home
+manufacturer: uhlsport
+main_sponsor: null
+colorway: Rot
+design: null
+colors:
+- Rot
+competitions:
+- Regionalliga Bayern
+skus: null
+release_date: null
+gtins:
+- '4099803281231'
+- '4099803281248'
+- '4099803281255'
+- '4099803281262'
+- '4099803281279'
+- '4099803281286'
+- '4099803281316'
+- '4099803281323'
+- '4099803281330'
+- '4099803281347'
+- '4099803281354'
+aliases: []
+source: community
+notes: "Quelle: uhlsport-Shop, Produktbeschreibung Heimtrikot 25/26 (\"in red\")."

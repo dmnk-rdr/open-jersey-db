@@ -1,0 +1,32 @@
+team: ssv-ulm-1846
+sport: football
+league: 3-liga
+season: '2025/26'
+kit_type: home
+manufacturer: uhlsport
+main_sponsor: null
+colorway: Weiß
+design: Vertikale Ton-in-Ton-Streifen, weiße Ärmel; angelehnt an das Bundesliga-Trikot 1999/2000
+colors:
+- Weiß
+competitions:
+- 3. Liga
+skus: null
+release_date: null
+gtins:
+- '4099803241273'
+- '4099803241280'
+- '4099803241297'
+- '4099803241303'
+- '4099803241310'
+- '4099803241327'
+- '4099803241334'
+- '4099803241341'
+- '4099803241358'
+- '4099803241365'
+- '4099803241372'
+- '4099803241389'
+- '4099803241396'
+aliases: []
+source: community
+notes: "Quelle: uhlsport-Shop, Produktbeschreibung Heimtrikot 25/26."

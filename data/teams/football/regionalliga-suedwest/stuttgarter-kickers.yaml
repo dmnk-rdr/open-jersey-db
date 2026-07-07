@@ -11,3 +11,6 @@ aliases:
 founded: 1899
 city: Stuttgart
 stadium: Gazi-Stadion auf der Waldau
+# Aktueller Ausrüster. Quelle: uhlsport-Fanshop (offizieller Vereins-Fanshop).
+kit_suppliers:
+- { manufacturer: uhlsport }

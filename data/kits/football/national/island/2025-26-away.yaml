@@ -1,0 +1,30 @@
+team: island
+sport: football
+league: null
+season: '2025/26'
+kit_type: away
+manufacturer: Puma
+main_sponsor: null
+colorway: Grau
+design: Muster inspiriert von vulkanischem Gestein und Gletschereis
+colors:
+- Grau
+competitions:
+- International
+skus: null
+release_date: null
+gtins:
+- '4069157765176'
+- '4069157765251'
+- '4069157765343'
+- '4069157765299'
+- '4069157765305'
+- '4069157765213'
+- '4069157765367'
+- '4069157765350'
+- '4069157765282'
+- '4069157765275'
+- '4069157765336'
+aliases: []
+source: community
+notes: "Quelle: PUMA Media Hub (\"For the Love of the Shirt\", Island-Auswärtstrikot)."

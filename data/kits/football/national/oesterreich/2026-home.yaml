@@ -1,0 +1,30 @@
+team: oesterreich
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: Puma
+main_sponsor: null
+colorway: Rot / Schwarz
+design: >-
+  Erstmals schwarze Ärmel in der Vereinsgeschichte, Ärmelbündchen in den
+  Flaggenfarben, Rückenspruch „Immer wieder Österreich“
+colors:
+- Rot
+- Schwarz
+- Weiß
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2025-12-03'
+gtins:
+- '4069162337481'
+- '4069162337542'
+- '4069162337528'
+- '4069162337498'
+- '4069162337535'
+- '199259338580'
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Austria 2026 World Cup Home Kit Released\", 2025-12-03). Österreich für die WM 2026 qualifiziert (Gruppe J, Quelle: FIFA.com)."

@@ -1706,6 +1706,41 @@
     "team": "island",
     "sport": "football",
     "league": null,
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": "Grau",
+    "design": "Muster inspiriert von vulkanischem Gestein und Gletschereis",
+    "colors": [
+      "Grau"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [
+      "4069157765176",
+      "4069157765251",
+      "4069157765343",
+      "4069157765299",
+      "4069157765305",
+      "4069157765213",
+      "4069157765367",
+      "4069157765350",
+      "4069157765282",
+      "4069157765275",
+      "4069157765336"
+    ],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: PUMA Media Hub (\"For the Love of the Shirt\", Island-Auswärtstrikot)."
+  },
+  {
+    "team": "island",
+    "sport": "football",
+    "league": null,
     "season": "2026",
     "kit_type": "home",
     "manufacturer": "Puma",
@@ -2251,6 +2286,66 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "oesterreich",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": "Weiß / Mint",
+    "design": "Von Wiener Kaffeehäusern inspiriertes Muster mit goldenen Linien sowie Türkis-/Magenta-Akzenten (Colorway „PUMA White–Mint Melt“)",
+    "colors": [
+      "Weiß",
+      "Mint"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [
+      "199259338948"
+    ],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Football Fashion (\"Austria 2026 Jersey: PUMA Unveils World Cup Away Kit\")."
+  },
+  {
+    "team": "oesterreich",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": "Rot / Schwarz",
+    "design": "Erstmals schwarze Ärmel in der Vereinsgeschichte, Ärmelbündchen in den Flaggenfarben, Rückenspruch „Immer wieder Österreich“",
+    "colors": [
+      "Rot",
+      "Schwarz",
+      "Weiß"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2025-12-03",
+    "gtins": [
+      "4069162337481",
+      "4069162337542",
+      "4069162337528",
+      "4069162337498",
+      "4069162337535",
+      "199259338580"
+    ],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Austria 2026 World Cup Home Kit Released\", 2025-12-03). Österreich für die WM 2026 qualifiziert (Gruppe J, Quelle: FIFA.com)."
   },
   {
     "team": "ogc-nizza",
@@ -2974,6 +3069,41 @@
     "source": "community"
   },
   {
+    "team": "spvgg-unterhaching",
+    "sport": "football",
+    "league": "regionalliga-bayern",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "uhlsport",
+    "main_sponsor": null,
+    "colorway": "Rot",
+    "design": null,
+    "colors": [
+      "Rot"
+    ],
+    "competitions": [
+      "Regionalliga Bayern"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [
+      "4099803281231",
+      "4099803281248",
+      "4099803281255",
+      "4099803281262",
+      "4099803281279",
+      "4099803281286",
+      "4099803281316",
+      "4099803281323",
+      "4099803281330",
+      "4099803281347",
+      "4099803281354"
+    ],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: uhlsport-Shop, Produktbeschreibung Heimtrikot 25/26 (\"in red\")."
+  },
+  {
     "team": "ss-lazio-multisports-club",
     "sport": "football",
     "league": "serie-a",
@@ -3020,6 +3150,43 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "ssv-ulm-1846",
+    "sport": "football",
+    "league": "3-liga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "uhlsport",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Vertikale Ton-in-Ton-Streifen, weiße Ärmel; angelehnt an das Bundesliga-Trikot 1999/2000",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "3. Liga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [
+      "4099803241273",
+      "4099803241280",
+      "4099803241297",
+      "4099803241303",
+      "4099803241310",
+      "4099803241327",
+      "4099803241334",
+      "4099803241341",
+      "4099803241358",
+      "4099803241365",
+      "4099803241372",
+      "4099803241389",
+      "4099803241396"
+    ],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: uhlsport-Shop, Produktbeschreibung Heimtrikot 25/26."
   },
   {
     "team": "stade-brest",
@@ -3070,6 +3237,40 @@
     "source": "community"
   },
   {
+    "team": "stuttgarter-kickers",
+    "sport": "football",
+    "league": "regionalliga-suedwest",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "uhlsport",
+    "main_sponsor": null,
+    "colorway": "Blau / Weiß",
+    "design": null,
+    "colors": [
+      "Blau",
+      "Weiß"
+    ],
+    "competitions": [
+      "Regionalliga Südwest"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [
+      "4099803279856",
+      "4099803279863",
+      "4099803279870",
+      "4099803279887",
+      "4099803279894",
+      "4099803279900",
+      "4099803279948",
+      "4099803279955",
+      "4099803279979"
+    ],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: uhlsport-Shop, Produktbeschreibung Heimtrikot 25/26 (\"blau/weiß\")."
+  },
+  {
     "team": "suedkorea",
     "sport": "football",
     "league": null,
@@ -3116,6 +3317,35 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "sv-waldhof-mannheim",
+    "sport": "football",
+    "league": "3-liga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "uhlsport",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Blau",
+    "design": "Schwarze Basis mit vertikalen blauen Streifen",
+    "colors": [
+      "Schwarz",
+      "Blau"
+    ],
+    "competitions": [
+      "3. Liga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [
+      "4099803241532",
+      "4099803241587",
+      "4099803241594",
+      "4099803241600"
+    ],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: uhlsport-Shop / SVW07-Vereinsshop, Produktbeschreibung Heimtrikot 25/26."
   },
   {
     "team": "sv-werder-bremen",
@@ -3188,6 +3418,42 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "tsg-balingen",
+    "sport": "football",
+    "league": "regionalliga-suedwest",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "uhlsport",
+    "main_sponsor": null,
+    "colorway": "Rot / Bordeaux",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Bordeaux"
+    ],
+    "competitions": [
+      "Regionalliga Südwest"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [
+      "4099803280715",
+      "4099803280722",
+      "4099803280739",
+      "4099803280746",
+      "4099803280753",
+      "4099803280760",
+      "4099803280791",
+      "4099803280807",
+      "4099803280814",
+      "4099803280821",
+      "4099803280838"
+    ],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: uhlsport-Shop, Produktbeschreibung Heimtrikot 25/26 (\"red/burgundy\")."
   },
   {
     "team": "tuerkei",

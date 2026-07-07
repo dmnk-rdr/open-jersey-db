@@ -1,0 +1,29 @@
+team: stuttgarter-kickers
+sport: football
+league: regionalliga-suedwest
+season: '2025/26'
+kit_type: home
+manufacturer: uhlsport
+main_sponsor: null
+colorway: Blau / Weiß
+design: null
+colors:
+- Blau
+- Weiß
+competitions:
+- Regionalliga Südwest
+skus: null
+release_date: null
+gtins:
+- '4099803279856'
+- '4099803279863'
+- '4099803279870'
+- '4099803279887'
+- '4099803279894'
+- '4099803279900'
+- '4099803279948'
+- '4099803279955'
+- '4099803279979'
+aliases: []
+source: community
+notes: "Quelle: uhlsport-Shop, Produktbeschreibung Heimtrikot 25/26 (\"blau/weiß\")."

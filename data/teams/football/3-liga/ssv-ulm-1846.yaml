@@ -13,3 +13,6 @@ aliases:
 founded: 1846
 city: Ulm
 stadium: Donaustadion
+# Aktueller Ausrüster. Quelle: uhlsport-Fanshop (offizieller Vereins-Fanshop).
+kit_suppliers:
+- { manufacturer: uhlsport }

@@ -1,0 +1,24 @@
+team: sv-waldhof-mannheim
+sport: football
+league: 3-liga
+season: '2025/26'
+kit_type: home
+manufacturer: uhlsport
+main_sponsor: null
+colorway: Schwarz / Blau
+design: Schwarze Basis mit vertikalen blauen Streifen
+colors:
+- Schwarz
+- Blau
+competitions:
+- 3. Liga
+skus: null
+release_date: null
+gtins:
+- '4099803241532'
+- '4099803241587'
+- '4099803241594'
+- '4099803241600'
+aliases: []
+source: community
+notes: "Quelle: uhlsport-Shop / SVW07-Vereinsshop, Produktbeschreibung Heimtrikot 25/26."

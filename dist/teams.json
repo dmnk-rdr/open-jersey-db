@@ -1339,7 +1339,12 @@
     ],
     "founded": 1846,
     "city": "Ulm",
-    "stadium": "Donaustadion"
+    "stadium": "Donaustadion",
+    "kit_suppliers": [
+      {
+        "manufacturer": "uhlsport"
+      }
+    ]
   },
   {
     "slug": "sv-waldhof-mannheim",
@@ -1357,7 +1362,12 @@
     ],
     "founded": 1907,
     "city": "Mannheim",
-    "stadium": "Carl-Benz-Stadion"
+    "stadium": "Carl-Benz-Stadion",
+    "kit_suppliers": [
+      {
+        "manufacturer": "uhlsport"
+      }
+    ]
   },
   {
     "slug": "1-fc-koeln",
@@ -3309,7 +3319,12 @@
       "spvgg unterhaching",
       "unterhaching"
     ],
-    "founded": 1925
+    "founded": 1925,
+    "kit_suppliers": [
+      {
+        "manufacturer": "uhlsport"
+      }
+    ]
   },
   {
     "slug": "stuttgarter-kickers",
@@ -3325,7 +3340,12 @@
     ],
     "founded": 1899,
     "city": "Stuttgart",
-    "stadium": "Gazi-Stadion auf der Waldau"
+    "stadium": "Gazi-Stadion auf der Waldau",
+    "kit_suppliers": [
+      {
+        "manufacturer": "uhlsport"
+      }
+    ]
   },
   {
     "slug": "tsg-balingen",
@@ -3340,7 +3360,12 @@
     ],
     "founded": 1848,
     "city": "Balingen",
-    "stadium": "Bizerba-Arena"
+    "stadium": "Bizerba-Arena",
+    "kit_suppliers": [
+      {
+        "manufacturer": "uhlsport"
+      }
+    ]
   },
   {
     "slug": "ac-florenz",
