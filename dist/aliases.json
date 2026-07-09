@@ -264,6 +264,9 @@
     "brazil",
     "selecao"
   ],
+  "Brazil": [
+    "brazil rugby"
+  ],
   "Brighton & Hove Albion": [
     "albion",
     "bha",
@@ -281,6 +284,10 @@
     "brighton fc",
     "hove",
     "the seagulls"
+  ],
+  "British & Irish Lions": [
+    "british & irish lions rugby",
+    "british and irish lions"
   ],
   "Brooklyn Nets": [
     "brooklyn nets"
@@ -494,8 +501,7 @@
     "ivory coast"
   ],
   "England": [
-    "england",
-    "three lions"
+    "england rugby"
   ],
   "Espanyol Barcelona": [
     "barcelona",
@@ -716,6 +722,9 @@
     "villarreal club football",
     "villarreal club of football"
   ],
+  "Fiji": [
+    "fiji rugby"
+  ],
   "Finnland": [
     "finland",
     "finland national team",
@@ -723,6 +732,9 @@
   ],
   "Florida Panthers": [
     "florida panthers"
+  ],
+  "France": [
+    "france rugby"
   ],
   "Frankreich": [
     "france",
@@ -970,6 +982,10 @@
     "levante union deportiva",
     "levante unión deportiva",
     "ud levante"
+  ],
+  "Lidl–Trek": [
+    "lidl trek",
+    "lidl-trek"
   ],
   "Los Angeles Angels": [
     "los angeles angels"
@@ -1471,6 +1487,9 @@
     "suisse",
     "switzerland"
   ],
+  "Scotland": [
+    "scotland rugby"
+  ],
   "Seattle Kraken": [
     "seattle kraken"
   ],
@@ -1502,6 +1521,9 @@
     "spielvereinigung unterhaching",
     "spvgg unterhaching",
     "unterhaching"
+  ],
+  "Spain": [
+    "spain rugby"
   ],
   "Spanien": [
     "espana",
@@ -1614,6 +1636,11 @@
     "tottenham hotspur fc",
     "tottenham hotspur football club"
   ],
+  "Tour de France": [
+    "maillot jaune",
+    "tour de france",
+    "tour de france merchandise"
+  ],
   "Tschechien": [
     "czech republic",
     "czechia",
@@ -1647,6 +1674,9 @@
     "salernitana sports union 1919",
     "unione sportiva salernitana 1919 s.r.l.",
     "uss1919"
+  ],
+  "UAE Team Emirates": [
+    "uae team emirates"
   ],
   "US Cremonese": [
     "cremonese",
@@ -1717,9 +1747,13 @@
   "VfL Potsdam": [
     "vfl potsdam"
   ],
+  "Visma–Lease a Bike": [
+    "team lease a bike",
+    "visma",
+    "visma-lease a bike"
+  ],
   "Wales": [
-    "wales",
-    "wales national team"
+    "wales rugby"
   ],
   "Washington Capitals": [
     "washington capitals"

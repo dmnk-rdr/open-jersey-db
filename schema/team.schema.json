@@ -18,7 +18,7 @@
       "description": "Canonical display name, e.g. 'FC Bayern München'."
     },
     "sport": {
-      "enum": ["football", "basketball", "american-football", "ice-hockey", "baseball", "handball", "rugby"]
+      "enum": ["football", "basketball", "american-football", "ice-hockey", "baseball", "handball", "rugby", "cycling"]
     },
     "type": {
       "enum": ["club", "national"]

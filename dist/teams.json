@@ -1324,6 +1324,55 @@
     "wikidata": "Q169165"
   },
   {
+    "slug": "lidl-trek",
+    "name": "Lidl–Trek",
+    "sport": "cycling",
+    "type": "club",
+    "league": "tour-de-france",
+    "country": "US",
+    "aliases": [
+      "lidl-trek",
+      "lidl trek"
+    ]
+  },
+  {
+    "slug": "tour-de-france",
+    "name": "Tour de France",
+    "sport": "cycling",
+    "type": "club",
+    "league": "tour-de-france",
+    "country": "FR",
+    "aliases": [
+      "tour de france merchandise",
+      "maillot jaune",
+      "tour de france"
+    ]
+  },
+  {
+    "slug": "uae-team-emirates",
+    "name": "UAE Team Emirates",
+    "sport": "cycling",
+    "type": "club",
+    "league": "tour-de-france",
+    "country": "AE",
+    "aliases": [
+      "uae team emirates"
+    ]
+  },
+  {
+    "slug": "visma-lease-a-bike",
+    "name": "Visma–Lease a Bike",
+    "sport": "cycling",
+    "type": "club",
+    "league": "tour-de-france",
+    "country": "NL",
+    "aliases": [
+      "team lease a bike",
+      "visma-lease a bike",
+      "visma"
+    ]
+  },
+  {
     "slug": "fc-schalke-04",
     "name": "FC Schalke 04",
     "sport": "football",
@@ -8052,5 +8101,94 @@
     "city": "Winnipeg",
     "stadium": "Winnipeg Arena",
     "wikidata": "Q576406"
+  },
+  {
+    "slug": "brazil-rugby",
+    "name": "Brazil",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "BR",
+    "aliases": [
+      "brazil rugby"
+    ]
+  },
+  {
+    "slug": "british-irish-lions",
+    "name": "British & Irish Lions",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "GB",
+    "aliases": [
+      "british & irish lions rugby",
+      "british and irish lions"
+    ]
+  },
+  {
+    "slug": "england-rugby",
+    "name": "England",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "GB",
+    "aliases": [
+      "england rugby"
+    ]
+  },
+  {
+    "slug": "fiji-rugby",
+    "name": "Fiji",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "FJ",
+    "aliases": [
+      "fiji rugby"
+    ]
+  },
+  {
+    "slug": "france-rugby",
+    "name": "France",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "FR",
+    "aliases": [
+      "france rugby"
+    ]
+  },
+  {
+    "slug": "scotland-rugby",
+    "name": "Scotland",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "GB",
+    "aliases": [
+      "scotland rugby"
+    ]
+  },
+  {
+    "slug": "spain-rugby",
+    "name": "Spain",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "ES",
+    "aliases": [
+      "spain rugby"
+    ]
+  },
+  {
+    "slug": "wales-rugby",
+    "name": "Wales",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "GB",
+    "aliases": [
+      "wales rugby"
+    ]
   }
 ]
