@@ -130,6 +130,10 @@
   "Arizona Diamondbacks": [
     "arizona diamondbacks"
   ],
+  "Astana Qazaqstan Team": [
+    "astana",
+    "astana qazaqstan"
+  ],
   "Aston Villa": [
     "aston",
     "aston villa fc",
@@ -814,6 +818,11 @@
   "Houston Texans": [
     "houston texans"
   ],
+  "INEOS Grenadiers": [
+    "grenadiers",
+    "ineos",
+    "ineos grenadiers"
+  ],
   "Indiana Pacers": [
     "indiana pacers"
   ],
@@ -1087,6 +1096,10 @@
   ],
   "Montreal Canadiens": [
     "montreal canadiens"
+  ],
+  "Movistar Team": [
+    "movistar",
+    "movistar team"
   ],
   "Nashville Predators": [
     "nashville predators"
@@ -1363,6 +1376,13 @@
     "san sebastián foot-ball club",
     "sociedad"
   ],
+  "Red Bull–BORA–hansgrohe": [
+    "bora",
+    "bora hansgrohe",
+    "bora-hansgrohe",
+    "red bull bora",
+    "red bull-bora-hansgrohe"
+  ],
   "Rumänien": [
     "romania",
     "rumaenien",
@@ -1516,6 +1536,13 @@
     "slovenia national team",
     "slowenien"
   ],
+  "Soudal Quick-Step": [
+    "quick step",
+    "quick-step",
+    "quick-step alpha vinyl",
+    "soudal quick step",
+    "soudal quick-step"
+  ],
   "SpVgg Unterhaching": [
     "haching",
     "spielvereinigung unterhaching",
@@ -1605,6 +1632,11 @@
   "Tampa Bay Rays": [
     "tampa bay rays"
   ],
+  "Team Bahrain Victorious": [
+    "bahrain",
+    "bahrain merida",
+    "bahrain victorious"
+  ],
   "Tennessee Titans": [
     "tennessee titans"
   ],
@@ -1676,7 +1708,9 @@
     "uss1919"
   ],
   "UAE Team Emirates": [
-    "uae team emirates"
+    "uae emirates",
+    "uae team emirates",
+    "uae team emirates xrg"
   ],
   "US Cremonese": [
     "cremonese",
