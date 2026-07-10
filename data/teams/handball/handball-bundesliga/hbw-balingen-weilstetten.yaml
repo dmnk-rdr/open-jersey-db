@@ -12,3 +12,6 @@ aliases:
 founded: 2002
 city: Balingen
 stadium: Mey-Generalbau-Arena
+# Ausrüster. Quelle: offizieller Kempa-Fanshop (aktueller Ausrüster).
+kit_suppliers:
+- { manufacturer: Kempa }

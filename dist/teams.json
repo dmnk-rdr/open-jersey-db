@@ -7635,7 +7635,12 @@
     ],
     "founded": 2002,
     "city": "Balingen",
-    "stadium": "Mey-Generalbau-Arena"
+    "stadium": "Mey-Generalbau-Arena",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Kempa"
+      }
+    ]
   },
   {
     "slug": "thsv-eisenach",

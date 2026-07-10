@@ -668,7 +668,7 @@
     "manufacturer": "adidas",
     "main_sponsor": null,
     "colorway": "Chalky Brown",
-    "design": "Erstmals kein weißes Auswärtstrikot in der Verbandsgeschichte: helle, sandfarbene (\"Chalky Brown\") Basis mit dunkelbraunen Akzenten an Kragen, Ärmelbündchen und Schulterstreifen; abstraktes Muster inspiriert vom \"desierto florido\" der Atacama-Wüste.",
+    "design": "Erstmals kein weißes Auswärtstrikot: sandfarbene (\"Chalky Brown\") Basis mit dunkelbraunen Akzenten, abstraktes Muster inspiriert vom \"desierto florido\" der Atacama-Wüste.",
     "colors": [
       "Chalky Brown",
       "Dunkelbraun"
@@ -2824,7 +2824,7 @@
     "manufacturer": "Puma",
     "main_sponsor": null,
     "colorway": "Aquamarin / Weiß",
-    "design": "Vorwiegend aquamarinfarbenes Trikot unter dem Motto \"Connecting Heroes\": V-förmige Schnitte in Brust- und Bauchbereich (inspiriert von Superhelden-Anzügen) kombinieren verschiedene Aquamarin-Töne mit Weiß, ein ozeanisches Grafikmuster im oberen Bereich. Name und Nummern in Dunkelrot, weißer V-Kragen.",
+    "design": "Aquamarinfarbenes Trikot (\"Connecting Heroes\"): V-förmige, von Superhelden-Anzügen inspirierte Schnitte an Brust und Bauch, ozeanisches Grafikmuster, Name/Nummern in Dunkelrot, weißer V-Kragen.",
     "colors": [
       "Aquamarin",
       "Weiß",
@@ -3260,7 +3260,7 @@
     "manufacturer": "Puma",
     "main_sponsor": null,
     "colorway": "Rot / Weiß",
-    "design": "Roter Grundton mit weißen Akzenten und einem ganzflächigen, topografischen Grafikmuster, das an die Informationsseite des Schweizer Passes angelehnt ist – schwungvolle Linien symbolisieren Landkarten, Grenzen und Gelände. Design erinnert an das Heimtrikot von 2018.",
+    "design": "Roter Grundton mit weißen Akzenten und topografischem Grafikmuster, angelehnt an die Infoseite des Schweizer Passes (Landkarten, Grenzen, Gelände). Erinnert an das Heimtrikot von 2018.",
     "colors": [
       "Rot",
       "Weiß"
@@ -4036,7 +4036,7 @@
     "manufacturer": "adidas",
     "main_sponsor": null,
     "colorway": "Off-White / Gold",
-    "design": "Retro-inspiriertes Design mit reduzierter, cremefarbener Basis; statt eines klassischen Wappens ein geschwungener \"Venezuela\"-Schriftzug auf der Brust, angelehnt an das Verbandswappen der 1960er-Jahre. Goldene Details am V-Kragen und an den Ärmelbündchen.",
+    "design": "Retro-inspiriert, cremefarbene Basis; statt Wappen ein geschwungener \"Venezuela\"-Schriftzug, angelehnt an das Verbandswappen der 1960er. Goldene Details am V-Kragen und den Ärmelbündchen.",
     "colors": [
       "Off-White",
       "Gold"
@@ -4146,5 +4146,30 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "hbw-balingen-weilstetten",
+    "sport": "handball",
+    "league": "handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Kempa",
+    "main_sponsor": null,
+    "colorway": "Blau / Rot / Weiß",
+    "design": "Rundhalsausschnitt, gerader Schnitt, Sublimationsdruck; aus recyceltem Polyester (\"FOR THE PLANET\"-Nachhaltigkeitslinie).",
+    "colors": [
+      "Blau",
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "Handball-Bundesliga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: offizieller Kempa-Shop, Produktseite \"HBW Heimtrikot 25/26\" (kempa-sports.com)."
   }
 ]
