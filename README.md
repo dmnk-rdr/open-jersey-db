@@ -21,10 +21,20 @@ openly so nobody has to rebuild it privately.
 
 ## Scope
 
-Team-sport jerseys across leagues — football today, with room for basketball
-(NBA), American football (NFL) and ice hockey (NHL): the `sport` and `league`
-fields carry that distinction, the schema stays the same. **Metadata and
-barcodes only — no image binaries** (`logo_url` is a reference, never a file).
+Team- and club-sport jerseys across many leagues and countries — currently
+**~350 teams and ~280 kits across 8 sports**:
+
+- **Football (soccer)** — Bundesliga · 2. Bundesliga · 3. Liga · Regionalliga ·
+  Premier League · La Liga · Serie A · Ligue 1 & 2 · MLS, plus national teams
+- **American football** (NFL) · **Basketball** (NBA) · **Ice hockey** (NHL) ·
+  **Baseball** (MLB)
+- **Handball** and **rugby** (national teams) · **pro cycling** (Tour de France
+  teams)
+
+One schema covers them all — the `sport` and `league` fields carry the
+distinction, so new sports and leagues arrive purely as data (PRs), no schema
+change. **Metadata and barcodes only — no image binaries** (`logo_url` is a
+reference, never a file).
 
 ## Structure
 

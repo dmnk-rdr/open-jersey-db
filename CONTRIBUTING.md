@@ -1,7 +1,12 @@
 # Contributing
 
 Thanks for helping build an open jersey database! Contributions are plain YAML
-files reviewed via pull request and checked automatically by CI.
+files reviewed via pull request and checked automatically by CI. By taking part
+you agree to our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+The database spans multiple team and club sports (football, American football,
+basketball, ice hockey, baseball, handball, rugby and pro cycling) — the same
+schema and workflow below apply to all of them.
 
 ## Quick start
 
@@ -67,9 +72,9 @@ source: manufacturer
 verified_by: adidas          # required when source = manufacturer
 ```
 
-Verified entries are preferred over feed-harvested or community guesses when
-data conflicts. If a bulk import is easier for you, open an issue and we'll
-agree on a format.
+Verified entries are preferred over unverified community entries when data
+conflicts. If a bulk import is easier for you, open an issue and we'll agree on
+a format.
 
 ## Conventions
 
