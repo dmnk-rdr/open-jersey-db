@@ -63,9 +63,14 @@ source: community
 
 ## For manufacturers & brands 🏷️
 
-You have the authoritative data — we'd love your help. Submit your official
-kits and GTINs the same way (a YAML PR, no database access needed), and mark
-provenance so users can trust verified entries:
+You have the authoritative data — we'd love your help. Every genuine kit and
+GTIN you add makes the record of *real* products more complete, which in turn
+makes **counterfeit listings from fake shops easier to spot**: anything that
+doesn't match a known-genuine entry stands out. Protecting your kits and helping
+buyers avoid fakes is a shared interest.
+
+Submit your official kits and GTINs the same way (a YAML PR, no database access
+needed), and mark provenance so users can trust verified entries:
 
 ```yaml
 source: manufacturer

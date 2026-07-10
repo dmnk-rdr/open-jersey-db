@@ -7,7 +7,8 @@ clubs, national teams, seasons, kit types, manufacturers, sponsors and the
 Think *MusicBrainz for jerseys*: a canonical identity layer that lets any
 application recognise that "FC Bayern Heimtrikot 24/25", "Bayern Munich Home
 Jersey 2024" and "adidas FCB H JSY" are the **same product** — and map shop
-offers onto it by barcode.
+offers onto it by barcode. Because it's anchored to the authentic **GTIN/EAN**,
+it also helps tell **genuine kits from counterfeits**.
 
 Data is plain **YAML**, reviewed via pull requests, schema-validated in CI and
 compiled to ready-to-consume **JSON** artifacts in [`dist/`](dist/).
@@ -18,6 +19,20 @@ Price-comparison and catalog apps all face the same problem: the same jersey
 arrives from dozens of shops under wildly different names. The reliable key is
 the **GTIN/EAN** printed on the packaging. This project collects that mapping
 openly so nobody has to rebuild it privately.
+
+### Helping spot counterfeits
+
+There's a second reason this matters. The market is flooded with **fake-shop
+counterfeits** of popular jerseys. An open, manufacturer-backed record of the
+genuine products that actually exist — down to their authentic **GTIN/EAN** —
+gives apps and buyers something to check against: a listing whose barcode,
+season or kit doesn't match any known-genuine entry is a red flag.
+
+open-jersey-db does **not** certify authenticity — only the brand can do that —
+but it provides the **authentic-identity reference** that makes counterfeit
+listings easier to catch. That is exactly why we invite **manufacturers and
+brands** to contribute their authoritative data directly: the more complete the
+genuine record, the harder it is for fakes to hide.
 
 ## Scope
 
