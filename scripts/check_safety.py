@@ -90,8 +90,16 @@ def scan_line(line: str) -> list[str]:
     return hits
 
 
+def _rel(path: Path) -> str:
+    """Repo-relative posix path, or the raw path if it lies outside the repo."""
+    try:
+        return path.resolve().relative_to(ROOT).as_posix()
+    except ValueError:
+        return path.as_posix()
+
+
 def scan_file(path: Path) -> list[tuple[int, str, str]]:
-    rel = path.relative_to(ROOT).as_posix() if path.is_absolute() else path.as_posix()
+    rel = _rel(path)
     if rel in SELF_ALLOW or path.suffix.lower() not in SCAN_EXT:
         return []
     try:
@@ -145,8 +153,7 @@ def main(argv: list[str]) -> int:
     findings: list[str] = []
     for path in targets:
         for n, label, snippet in scan_file(path):
-            rel = path.relative_to(ROOT).as_posix() if path.is_absolute() and ROOT in path.parents else str(path)
-            findings.append(f"  {rel}:{n}  [{label}]  {snippet}")
+            findings.append(f"  {_rel(path)}:{n}  [{label}]  {snippet}")
     if findings:
         print(f"\n✗ public-safety scan: {len(findings)} forbidden match(es):\n", file=sys.stderr)
         print("\n".join(findings), file=sys.stderr)
