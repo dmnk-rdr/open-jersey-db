@@ -1,0 +1,26 @@
+team: schweiz
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: Puma
+main_sponsor: null
+colorway: Rot / Weiß
+design: >-
+  Roter Grundton mit weißen Akzenten und einem ganzflächigen,
+  topografischen Grafikmuster, das an die Informationsseite des
+  Schweizer Passes angelehnt ist – schwungvolle Linien symbolisieren
+  Landkarten, Grenzen und Gelände. Design erinnert an das Heimtrikot
+  von 2018.
+colors:
+- Rot
+- Weiß
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2025-12-03'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Switzerland 2026 World Cup Home Kit Released + Away Kit Info\", 2025-09). Schweiz ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

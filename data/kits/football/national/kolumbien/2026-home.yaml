@@ -1,0 +1,26 @@
+team: kolumbien
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: adidas
+main_sponsor: null
+colorway: Gelb / Blau / Rot
+design: >-
+  Gelbe Basis mit blauen und roten Akzenten (Flaggenfarben) und einem
+  einzigartigen Schmetterlingsmuster als Hommage an den Schriftsteller
+  Gabriel García Márquez – die gelben Schmetterlinge stehen für
+  Hoffnung, Wandel und Liebe.
+colors:
+- Gelb
+- Blau
+- Rot
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2025-11-06'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Colombia 2026 World Cup Home Kit Released\", 2025-08/2025-11). Kolumbien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

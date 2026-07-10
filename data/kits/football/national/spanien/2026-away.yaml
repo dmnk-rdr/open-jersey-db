@@ -1,0 +1,26 @@
+team: spanien
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: adidas
+main_sponsor: null
+colorway: Off-White / Bordeaux
+design: >-
+  Off-White-Basis mit Spiralmotiven, die von spanischen Literatur-
+  manuskripten inspiriert sind. Kragen und Ärmelbündchen in Bordeaux
+  mit goldenen Details, Trefoil-Logo statt des üblichen Performance-
+  Logos.
+colors:
+- Off-White
+- Bordeaux
+- Gold
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2026-03-20'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Spain 2026 World Cup Away Kit Released\", 2026-03). Spanien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

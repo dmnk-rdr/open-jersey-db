@@ -6,7 +6,11 @@ kit_type: home
 manufacturer: Puma
 main_sponsor: null
 colorway: Rot / Grün
-design: null
+design: >-
+  Vorwiegend rotes Trikot mit grünen Akzenten an Kragen und
+  Ärmelbündchen; dezentes, wellenförmiges Grafikmuster über die
+  gesamte Front als Hommage an Portugals maritime Geschichte, dazu ein
+  kompassartiges Detail im Innenkragen.
 colors:
 - Rot
 - Grün
@@ -14,7 +18,8 @@ competitions:
 - International
 - World Cup
 skus: null
-release_date: null
+release_date: '2025-12-03'
 gtins: []
 aliases: []
 source: community
+notes: "Quelle: Footy Headlines (\"Portugal 2026 Home Kit World Cup Released - Inspired by the Sea\", 2025-05/2025-12). Portugal ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

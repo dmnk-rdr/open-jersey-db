@@ -1,0 +1,24 @@
+team: chile
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: adidas
+main_sponsor: null
+colorway: Chalky Brown
+design: >-
+  Erstmals kein weißes Auswärtstrikot in der Verbandsgeschichte:
+  helle, sandfarbene ("Chalky Brown") Basis mit dunkelbraunen Akzenten
+  an Kragen, Ärmelbündchen und Schulterstreifen; abstraktes Muster
+  inspiriert vom "desierto florido" der Atacama-Wüste.
+colors:
+- Chalky Brown
+- Dunkelbraun
+competitions:
+- International
+skus: null
+release_date: '2026-03-20'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Exclusive: Chile 2026 Away Kit Leaked\", 2025-08; Verkaufsstart 2026-03-20 bestätigt). Chile hat sich NICHT für die WM 2026 qualifiziert, daher Wettbewerb nur \"International\"."

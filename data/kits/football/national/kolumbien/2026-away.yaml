@@ -1,0 +1,26 @@
+team: kolumbien
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: adidas
+main_sponsor: null
+colorway: Team Navy Blue / Myspet
+design: >-
+  Kombiniert "Team Navy Blue" als Hauptfarbe mit einem Muster in
+  dunklerem Mintblau ("Myspet") – eine Hommage an Kolumbiens
+  Biodiversität zwischen Karibikküste und Pazifik. Logos in kräftigem
+  Gelb.
+colors:
+- Marineblau
+- Mintblau
+- Gelb
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2026-03-20'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Colombia 2026 World Cup Away Kit Released\", 2025-08). Kolumbien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

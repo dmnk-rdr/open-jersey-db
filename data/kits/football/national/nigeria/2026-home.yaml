@@ -1,0 +1,22 @@
+team: nigeria
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Nigeria Green
+design: >-
+  Kräftiger grüner Farbton ("Nigeria Green") als Basis; rüstungsartige
+  Seitenpanels sollen Stärke und Kampfbereitschaft symbolisieren.
+colors:
+- Grün
+- Weiß
+competitions:
+- International
+skus: null
+release_date: '2026-03-23'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Nigeria 2026 Home & Away Kits Released\"). Nigeria hat sich NICHT für die WM 2026 qualifiziert (Playoff-Aus, Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\", kein \"World Cup\"."

@@ -1,0 +1,24 @@
+team: venezuela
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: adidas
+main_sponsor: null
+colorway: Vinotinto / Gold
+design: >-
+  Ganzflächiges geometrisches Muster inspiriert von Venezuelas Tepui-
+  Tafelbergen, goldene Akzente an V-Kragen, Schulterstreifen und
+  Ärmelbündchen; die drei Streifen in den Landesfarben (Gelb/Blau/Rot)
+  als Hommage an die Flagge.
+colors:
+- Vinotinto
+- Gold
+competitions:
+- International
+skus: null
+release_date: '2025-11-06'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Adidas 2026 World Cup Home Kits Released\", 2025-11-06). Venezuela hat sich NICHT für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\", kein \"World Cup\"."

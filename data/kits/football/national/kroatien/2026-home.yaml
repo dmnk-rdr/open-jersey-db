@@ -1,0 +1,26 @@
+team: kroatien
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Rot / Weiß
+design: >-
+  Klassische rot-weiße Schachbrett-Karos, vertikal über die Mitte
+  laufend; die Ärmel sind einfarbig Rot, Seitenteile und Kragenbereich
+  setzen blaue Akzente. Design inspiriert vom historischen Spiel gegen
+  die USA 1990.
+colors:
+- Rot
+- Weiß
+- Blau
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2026-03-23'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Last By Nike: Croatia 2026 World Cup Home & Away Kits Released\", 2025-06/2026-03). Letztes von Nike ausgestattetes Kroatien-Trikot, ab Sommer 2026 übernimmt adidas. Kroatien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

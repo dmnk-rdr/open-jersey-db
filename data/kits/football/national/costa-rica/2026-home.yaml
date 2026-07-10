@@ -1,0 +1,23 @@
+team: costa-rica
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: adidas
+main_sponsor: null
+colorway: Rot / Marineblau
+design: >-
+  Roter Grundton mit ganzflächigem, von der costa-ricanischen Natur
+  inspiriertem Muster (u. a. Blätter und Tukane) in dunkleren und
+  helleren Rottönen, marineblauer Kragen; Rückenspruch "Pura Vida".
+colors:
+- Rot
+- Marineblau
+competitions:
+- International
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Costa Rica 2026 (World Cup) Home Kit Leaked\", 2025-10) + adidas News (offizielle Kollektionsbeschreibung). Release-Datum uneinheitlich berichtet, daher weggelassen. Costa Rica hat sich NICHT für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\"."

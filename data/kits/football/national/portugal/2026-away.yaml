@@ -1,0 +1,27 @@
+team: portugal
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: Puma
+main_sponsor: null
+colorway: Aquamarin / Weiß
+design: >-
+  Vorwiegend aquamarinfarbenes Trikot unter dem Motto "Connecting
+  Heroes": V-förmige Schnitte in Brust- und Bauchbereich (inspiriert
+  von Superhelden-Anzügen) kombinieren verschiedene Aquamarin-Töne mit
+  Weiß, ein ozeanisches Grafikmuster im oberen Bereich. Name und
+  Nummern in Dunkelrot, weißer V-Kragen.
+colors:
+- Aquamarin
+- Weiß
+- Dunkelrot
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2026-03-20'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Portugal 2026 World Cup Away Kit Released\", 2025-05/2026-03). Portugal ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

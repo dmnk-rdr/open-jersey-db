@@ -5,8 +5,12 @@ season: '2026'
 kit_type: home
 manufacturer: adidas
 main_sponsor: null
-colorway: Rot
-design: null
+colorway: Rot / Marineblau
+design: >-
+  Tiefroter Trikotkörper mit dunkelblauen Ärmeln; die adidas-Schulter-
+  streifen sind in Rot-Gelb-Rot gehalten (Flaggenfarben), dazu dünne,
+  gepunktete gelbe Vertikalstreifen. "España"-Schriftzug am
+  Nackenkragen.
 colors:
 - Rot
 - Gelb
@@ -15,7 +19,8 @@ competitions:
 - International
 - World Cup
 skus: null
-release_date: null
+release_date: '2025-11-06'
 gtins: []
 aliases: []
 source: community
+notes: "Quelle: Footy Headlines (\"Spain 2026 World Cup Home Kit Released\", 2025-08/2025-11). Spanien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

@@ -1,0 +1,27 @@
+team: marokko
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: Puma
+main_sponsor: null
+colorway: Weiß / Gold
+design: >-
+  Weiße Basis mit gold-/sandfarbenen geometrischen Mustern über Brust
+  und Rücken sowie rot-grünem Rand an V-Kragen und Ärmelbündchen (Farben
+  der Nationalflagge). Roter Tifinagh-Schriftzug im oberen Rücken als
+  kulturelles Detail.
+colors:
+- Weiß
+- Gold
+- Rot
+- Grün
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2026-03-24'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Morocco 2026 World Cup Away Kit Leaked\", 2026-03). Marokko ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

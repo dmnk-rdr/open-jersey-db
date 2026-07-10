@@ -1,0 +1,23 @@
+team: nigeria
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Grün
+design: >-
+  Weiße Basis mit einem von Motocross-/Dirtbike-Grafiken inspirierten
+  Flammenmuster in verschiedenen Grüntönen; dunkelgrüner Kragen und
+  Ärmelbündchen, Verbandswappen und Nike-Swoosh zentral platziert.
+colors:
+- Weiß
+- Grün
+competitions:
+- International
+skus: null
+release_date: '2026-03-23'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Nigeria 2026 Home & Away Kits Released\"). Nigeria hat sich NICHT für die WM 2026 qualifiziert, daher Wettbewerb nur \"International\"."

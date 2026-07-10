@@ -1,0 +1,24 @@
+team: chile
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: adidas
+main_sponsor: null
+colorway: Rot / Weiß / Blau
+design: >-
+  Roter Grundton mit chevron-artigem, vom Kondor inspiriertem
+  Federmuster, das Bewegung und Textur ins Design bringt; weißer
+  V-Kragen mit blauem Rand, größere adidas-Schulterstreifen.
+colors:
+- Rot
+- Weiß
+- Blau
+competitions:
+- International
+skus: null
+release_date: '2025-11-06'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Chile 2026 Home Kit Leaked\"/\"Adidas 2026 World Cup Home Kits Released\", 2025-11-06). Chile hat sich NICHT für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\", kein \"World Cup\"."

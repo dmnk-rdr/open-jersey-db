@@ -660,6 +660,79 @@
     "source": "community"
   },
   {
+    "team": "chile",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Chalky Brown",
+    "design": "Erstmals kein weißes Auswärtstrikot in der Verbandsgeschichte: helle, sandfarbene (\"Chalky Brown\") Basis mit dunkelbraunen Akzenten an Kragen, Ärmelbündchen und Schulterstreifen; abstraktes Muster inspiriert vom \"desierto florido\" der Atacama-Wüste.",
+    "colors": [
+      "Chalky Brown",
+      "Dunkelbraun"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "skus": null,
+    "release_date": "2026-03-20",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Exclusive: Chile 2026 Away Kit Leaked\", 2025-08; Verkaufsstart 2026-03-20 bestätigt). Chile hat sich NICHT für die WM 2026 qualifiziert, daher Wettbewerb nur \"International\"."
+  },
+  {
+    "team": "chile",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Rot / Weiß / Blau",
+    "design": "Roter Grundton mit chevron-artigem, vom Kondor inspiriertem Federmuster, das Bewegung und Textur ins Design bringt; weißer V-Kragen mit blauem Rand, größere adidas-Schulterstreifen.",
+    "colors": [
+      "Rot",
+      "Weiß",
+      "Blau"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "skus": null,
+    "release_date": "2025-11-06",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Chile 2026 Home Kit Leaked\"/\"Adidas 2026 World Cup Home Kits Released\", 2025-11-06). Chile hat sich NICHT für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\", kein \"World Cup\"."
+  },
+  {
+    "team": "costa-rica",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Rot / Marineblau",
+    "design": "Roter Grundton mit ganzflächigem, von der costa-ricanischen Natur inspiriertem Muster (u. a. Blätter und Tukane) in dunkleren und helleren Rottönen, marineblauer Kragen; Rückenspruch \"Pura Vida\".",
+    "colors": [
+      "Rot",
+      "Marineblau"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Costa Rica 2026 (World Cup) Home Kit Leaked\", 2025-10) + adidas News (offizielle Kollektionsbeschreibung). Release-Datum uneinheitlich berichtet, daher weggelassen. Costa Rica hat sich NICHT für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\"."
+  },
+  {
     "team": "crystal-palace",
     "sport": "football",
     "league": "premier-league",
@@ -1929,6 +2002,58 @@
     "source": "community"
   },
   {
+    "team": "kolumbien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Team Navy Blue / Myspet",
+    "design": "Kombiniert \"Team Navy Blue\" als Hauptfarbe mit einem Muster in dunklerem Mintblau (\"Myspet\") – eine Hommage an Kolumbiens Biodiversität zwischen Karibikküste und Pazifik. Logos in kräftigem Gelb.",
+    "colors": [
+      "Marineblau",
+      "Mintblau",
+      "Gelb"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2026-03-20",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Colombia 2026 World Cup Away Kit Released\", 2025-08). Kolumbien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
+    "team": "kolumbien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Gelb / Blau / Rot",
+    "design": "Gelbe Basis mit blauen und roten Akzenten (Flaggenfarben) und einem einzigartigen Schmetterlingsmuster als Hommage an den Schriftsteller Gabriel García Márquez – die gelben Schmetterlinge stehen für Hoffnung, Wandel und Liebe.",
+    "colors": [
+      "Gelb",
+      "Blau",
+      "Rot"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2025-11-06",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Colombia 2026 World Cup Home Kit Released\", 2025-08/2025-11). Kolumbien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
     "team": "kroatien",
     "sport": "football",
     "league": null,
@@ -1951,6 +2076,57 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "kroatien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Blau / Rot",
+    "design": "Tiefblaue Basis mit dezentem, zweifarbigem Karo-Muster über die gesamte Front.",
+    "colors": [
+      "Blau",
+      "Rot"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2026-03-30",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Last By Nike: Croatia 2026 World Cup Home & Away Kits Released\"). Kroatien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
+    "team": "kroatien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rot / Weiß",
+    "design": "Klassische rot-weiße Schachbrett-Karos, vertikal über die Mitte laufend; die Ärmel sind einfarbig Rot, Seitenteile und Kragenbereich setzen blaue Akzente. Design inspiriert vom historischen Spiel gegen die USA 1990.",
+    "colors": [
+      "Rot",
+      "Weiß",
+      "Blau"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2026-03-23",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Last By Nike: Croatia 2026 World Cup Home & Away Kits Released\", 2025-06/2026-03). Letztes von Nike ausgestattetes Kroatien-Trikot, ab Sommer 2026 übernimmt adidas. Kroatien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
   },
   {
     "team": "le-havre-ac",
@@ -2095,6 +2271,58 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "marokko",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": "Weiß / Gold",
+    "design": "Weiße Basis mit gold-/sandfarbenen geometrischen Mustern über Brust und Rücken sowie rot-grünem Rand an V-Kragen und Ärmelbündchen (Farben der Nationalflagge). Roter Tifinagh-Schriftzug im oberen Rücken als kulturelles Detail.",
+    "colors": [
+      "Weiß",
+      "Gold",
+      "Rot",
+      "Grün"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2026-03-24",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Morocco 2026 World Cup Away Kit Leaked\", 2026-03). Marokko ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
+    "team": "marokko",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": "Rot / Grün",
+    "design": "Dominante rote Basis, treu zur Tradition der Atlas-Löwen, mit grünen Akzentflächen an den Seiten. Kragen und Ärmelbündchen tragen dekorative Muster, die von marokkanischem Kunsthandwerk und dem Amazigh-Erbe inspiriert sind.",
+    "colors": [
+      "Rot",
+      "Grün"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Morocco 2026 Home Kit Leaked\"; Release-Datum uneinheitlich berichtet Nov 2025 vs. März 2026, daher weggelassen). Marokko ist für die WM 2026 qualifiziert (Gruppe Afrika, Quelle: FIFA/Wikipedia)."
   },
   {
     "team": "mexiko",
@@ -2214,6 +2442,54 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "nigeria",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Grün",
+    "design": "Weiße Basis mit einem von Motocross-/Dirtbike-Grafiken inspirierten Flammenmuster in verschiedenen Grüntönen; dunkelgrüner Kragen und Ärmelbündchen, Verbandswappen und Nike-Swoosh zentral platziert.",
+    "colors": [
+      "Weiß",
+      "Grün"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "skus": null,
+    "release_date": "2026-03-23",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Nigeria 2026 Home & Away Kits Released\"). Nigeria hat sich NICHT für die WM 2026 qualifiziert, daher Wettbewerb nur \"International\"."
+  },
+  {
+    "team": "nigeria",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Nigeria Green",
+    "design": "Kräftiger grüner Farbton (\"Nigeria Green\") als Basis; rüstungsartige Seitenpanels sollen Stärke und Kampfbereitschaft symbolisieren.",
+    "colors": [
+      "Grün",
+      "Weiß"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "skus": null,
+    "release_date": "2026-03-23",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Nigeria 2026 Home & Away Kits Released\"). Nigeria hat sich NICHT für die WM 2026 qualifiziert (Playoff-Aus, Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\", kein \"World Cup\"."
   },
   {
     "team": "norwegen",
@@ -2544,11 +2820,37 @@
     "sport": "football",
     "league": null,
     "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": "Aquamarin / Weiß",
+    "design": "Vorwiegend aquamarinfarbenes Trikot unter dem Motto \"Connecting Heroes\": V-förmige Schnitte in Brust- und Bauchbereich (inspiriert von Superhelden-Anzügen) kombinieren verschiedene Aquamarin-Töne mit Weiß, ein ozeanisches Grafikmuster im oberen Bereich. Name und Nummern in Dunkelrot, weißer V-Kragen.",
+    "colors": [
+      "Aquamarin",
+      "Weiß",
+      "Dunkelrot"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2026-03-20",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Portugal 2026 World Cup Away Kit Released\", 2025-05/2026-03). Portugal ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
+    "team": "portugal",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
     "kit_type": "home",
     "manufacturer": "Puma",
     "main_sponsor": null,
     "colorway": "Rot / Grün",
-    "design": null,
+    "design": "Vorwiegend rotes Trikot mit grünen Akzenten an Kragen und Ärmelbündchen; dezentes, wellenförmiges Grafikmuster über die gesamte Front als Hommage an Portugals maritime Geschichte, dazu ein kompassartiges Detail im Innenkragen.",
     "colors": [
       "Rot",
       "Grün"
@@ -2558,370 +2860,421 @@
       "World Cup"
     ],
     "skus": null,
+    "release_date": "2025-12-03",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Portugal 2026 Home Kit World Cup Released - Inspired by the Sea\", 2025-05/2025-12). Portugal ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
+    "team": "racing-strassburg",
+    "sport": "football",
+    "league": "ligue-1",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "racing-strassburg",
+    "sport": "football",
+    "league": "ligue-1",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "rayo-vallecano",
+    "sport": "football",
+    "league": "la-liga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "rayo-vallecano",
+    "sport": "football",
+    "league": "la-liga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "rb-leipzig",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "rb-leipzig",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "rc-lens",
+    "sport": "football",
+    "league": "ligue-1",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "rc-lens",
+    "sport": "football",
+    "league": "ligue-1",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "rcd-mallorca",
+    "sport": "football",
+    "league": "la-liga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "rcd-mallorca",
+    "sport": "football",
+    "league": "la-liga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "real-madrid",
+    "sport": "football",
+    "league": "la-liga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "real-madrid",
+    "sport": "football",
+    "league": "la-liga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "real-oviedo",
+    "sport": "football",
+    "league": "la-liga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "real-oviedo",
+    "sport": "football",
+    "league": "la-liga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "real-sociedad",
+    "sport": "football",
+    "league": "la-liga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "real-sociedad",
+    "sport": "football",
+    "league": "la-liga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "sampdoria-genua",
+    "sport": "football",
+    "league": "serie-a",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "sampdoria-genua",
+    "sport": "football",
+    "league": "serie-a",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "saudi-arabien",
+    "sport": "football",
+    "league": null,
+    "season": "2024",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "saudi-arabien",
+    "sport": "football",
+    "league": null,
+    "season": "2024",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "sc-freiburg",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "sc-freiburg",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "sc-paderborn-07",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "sc-paderborn-07",
+    "sport": "football",
+    "league": "bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "schottland",
+    "sport": "football",
+    "league": null,
+    "season": "2024",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "schottland",
+    "sport": "football",
+    "league": null,
+    "season": "2024",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "schweden",
+    "sport": "football",
+    "league": null,
+    "season": "2024",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "schweden",
+    "sport": "football",
+    "league": null,
+    "season": "2024",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "schweiz",
+    "sport": "football",
+    "league": null,
+    "season": "2024",
+    "kit_type": "away",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "schweiz",
+    "sport": "football",
+    "league": null,
+    "season": "2024",
+    "kit_type": "home",
+    "manufacturer": null,
+    "main_sponsor": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "schweiz",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": "Sea Glass / Dark Indigo",
+    "design": "Offizielle Puma-Colorway \"Sea Glass–Dark Indigo\": hellblaue Basis mit dunkelblauen Akzenten, dazu ein topografisches Muster in Weiß und Gelbgrün, das das Pass-Thema des Heimtrikots fortführt. Erstmals mit nachleuchtendem (\"glow in the dark\") Druck.",
+    "colors": [
+      "Hellblau",
+      "Dunkelblau"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
     "release_date": null,
     "gtins": [],
     "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "racing-strassburg",
-    "sport": "football",
-    "league": "ligue-1",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "racing-strassburg",
-    "sport": "football",
-    "league": "ligue-1",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "rayo-vallecano",
-    "sport": "football",
-    "league": "la-liga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "rayo-vallecano",
-    "sport": "football",
-    "league": "la-liga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "rb-leipzig",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "rb-leipzig",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "rc-lens",
-    "sport": "football",
-    "league": "ligue-1",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "rc-lens",
-    "sport": "football",
-    "league": "ligue-1",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "rcd-mallorca",
-    "sport": "football",
-    "league": "la-liga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "rcd-mallorca",
-    "sport": "football",
-    "league": "la-liga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "real-madrid",
-    "sport": "football",
-    "league": "la-liga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "real-madrid",
-    "sport": "football",
-    "league": "la-liga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "real-oviedo",
-    "sport": "football",
-    "league": "la-liga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "real-oviedo",
-    "sport": "football",
-    "league": "la-liga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "real-sociedad",
-    "sport": "football",
-    "league": "la-liga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "real-sociedad",
-    "sport": "football",
-    "league": "la-liga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "sampdoria-genua",
-    "sport": "football",
-    "league": "serie-a",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "sampdoria-genua",
-    "sport": "football",
-    "league": "serie-a",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "saudi-arabien",
-    "sport": "football",
-    "league": null,
-    "season": "2024",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "saudi-arabien",
-    "sport": "football",
-    "league": null,
-    "season": "2024",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "sc-freiburg",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "sc-freiburg",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "sc-paderborn-07",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "sc-paderborn-07",
-    "sport": "football",
-    "league": "bundesliga",
-    "season": "2025/26",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "schottland",
-    "sport": "football",
-    "league": null,
-    "season": "2024",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "schottland",
-    "sport": "football",
-    "league": null,
-    "season": "2024",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "schweden",
-    "sport": "football",
-    "league": null,
-    "season": "2024",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "schweden",
-    "sport": "football",
-    "league": null,
-    "season": "2024",
-    "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Switzerland 2026 World Cup Home Kit Released + Away Kit Info\", 2025-09) + Football Fashion (\"Switzerland 2026 Jersey: PUMA Away Kit for FIFA World Cup 2026\", 2026-05, offizielle Colorway-Bezeichnung \"Sea Glass-Dark Indigo\"). Exaktes Verkaufsdatum uneinheitlich berichtet, daher weggelassen. Erstmals im März 2026 gegen Norwegen getragen. Schweiz ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
   },
   {
     "team": "schweiz",
     "sport": "football",
     "league": null,
-    "season": "2024",
-    "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
-    "gtins": [],
-    "aliases": [],
-    "source": "community"
-  },
-  {
-    "team": "schweiz",
-    "sport": "football",
-    "league": null,
-    "season": "2024",
+    "season": "2026",
     "kit_type": "home",
-    "manufacturer": null,
+    "manufacturer": "Puma",
     "main_sponsor": null,
+    "colorway": "Rot / Weiß",
+    "design": "Roter Grundton mit weißen Akzenten und einem ganzflächigen, topografischen Grafikmuster, das an die Informationsseite des Schweizer Passes angelehnt ist – schwungvolle Linien symbolisieren Landkarten, Grenzen und Gelände. Design erinnert an das Heimtrikot von 2018.",
+    "colors": [
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2025-12-03",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Switzerland 2026 World Cup Home Kit Released + Away Kit Info\", 2025-09). Schweiz ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
   },
   {
     "team": "sco-angers",
@@ -3024,11 +3377,37 @@
     "sport": "football",
     "league": null,
     "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Off-White / Bordeaux",
+    "design": "Off-White-Basis mit Spiralmotiven, die von spanischen Literatur- manuskripten inspiriert sind. Kragen und Ärmelbündchen in Bordeaux mit goldenen Details, Trefoil-Logo statt des üblichen Performance- Logos.",
+    "colors": [
+      "Off-White",
+      "Bordeaux",
+      "Gold"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2026-03-20",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Spain 2026 World Cup Away Kit Released\", 2026-03). Spanien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
+    "team": "spanien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
     "kit_type": "home",
     "manufacturer": "adidas",
     "main_sponsor": null,
-    "colorway": "Rot",
-    "design": null,
+    "colorway": "Rot / Marineblau",
+    "design": "Tiefroter Trikotkörper mit dunkelblauen Ärmeln; die adidas-Schulter- streifen sind in Rot-Gelb-Rot gehalten (Flaggenfarben), dazu dünne, gepunktete gelbe Vertikalstreifen. \"España\"-Schriftzug am Nackenkragen.",
     "colors": [
       "Rot",
       "Gelb",
@@ -3039,10 +3418,11 @@
       "World Cup"
     ],
     "skus": null,
-    "release_date": null,
+    "release_date": "2025-11-06",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Spain 2026 World Cup Home Kit Released\", 2025-08/2025-11). Spanien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
   },
   {
     "team": "spezia-calcio",
@@ -3646,6 +4026,54 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "venezuela",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Off-White / Gold",
+    "design": "Retro-inspiriertes Design mit reduzierter, cremefarbener Basis; statt eines klassischen Wappens ein geschwungener \"Venezuela\"-Schriftzug auf der Brust, angelehnt an das Verbandswappen der 1960er-Jahre. Goldene Details am V-Kragen und an den Ärmelbündchen.",
+    "colors": [
+      "Off-White",
+      "Gold"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "skus": null,
+    "release_date": "2026-03-20",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Venezuela 2026 Away Kit Released\", 2025-11). Venezuela hat sich NICHT für die WM 2026 qualifiziert, daher Wettbewerb nur \"International\"."
+  },
+  {
+    "team": "venezuela",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Vinotinto / Gold",
+    "design": "Ganzflächiges geometrisches Muster inspiriert von Venezuelas Tepui- Tafelbergen, goldene Akzente an V-Kragen, Schulterstreifen und Ärmelbündchen; die drei Streifen in den Landesfarben (Gelb/Blau/Rot) als Hommage an die Flagge.",
+    "colors": [
+      "Vinotinto",
+      "Gold"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "skus": null,
+    "release_date": "2025-11-06",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Adidas 2026 World Cup Home Kits Released\", 2025-11-06). Venezuela hat sich NICHT für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\", kein \"World Cup\"."
   },
   {
     "team": "vfb-stuttgart",

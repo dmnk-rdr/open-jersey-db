@@ -1,0 +1,24 @@
+team: venezuela
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: adidas
+main_sponsor: null
+colorway: Off-White / Gold
+design: >-
+  Retro-inspiriertes Design mit reduzierter, cremefarbener Basis; statt
+  eines klassischen Wappens ein geschwungener "Venezuela"-Schriftzug auf
+  der Brust, angelehnt an das Verbandswappen der 1960er-Jahre. Goldene
+  Details am V-Kragen und an den Ärmelbündchen.
+colors:
+- Off-White
+- Gold
+competitions:
+- International
+skus: null
+release_date: '2026-03-20'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Venezuela 2026 Away Kit Released\", 2025-11). Venezuela hat sich NICHT für die WM 2026 qualifiziert, daher Wettbewerb nur \"International\"."
