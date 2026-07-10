@@ -61,10 +61,34 @@ python3 scripts/build.py        # regenerate dist/
 ## Contributing
 
 Everyone welcome — including **manufacturers**, who can submit authoritative kit
-data and barcodes. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
+data and barcodes. See [`CONTRIBUTING.md`](CONTRIBUTING.md). By participating you
+agree to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
 Data is licensed under the **[Open Database License (ODbL) 1.0](LICENSE)** —
 free to use and adapt **with attribution**, and derived databases must stay
 open under the same terms.
+
+## Notice & disclaimer
+
+open-jersey-db is an **independent, fact-based** database. It records publicly
+verifiable product-identity facts — team and kit names, seasons, manufacturers,
+colours and **GTIN/EAN barcodes** — and deliberately contains **no prices,
+offers, affiliate links, product images or personal data**.
+
+- **Trademarks** — club, league and brand names (e.g. adidas, Nike, Puma, and
+  the leagues) belong to their respective owners and are used here only
+  *nominatively*, to identify products. This project is **not affiliated with,
+  endorsed by, or sponsored by** any club, league, manufacturer or retailer.
+- **GTIN/EAN** codes are public product identifiers issued by GS1 and are
+  recorded as facts, for identification only.
+- **Sources** — entries cite their primary source in the `source`/`notes`
+  fields. Spotted a better or corrected attribution? Please open a PR.
+
+### Reporting a rights or data concern
+
+If you believe an entry infringes a right, is inaccurate, or should not be
+published, please open an issue or email **info@dmnkrdr.com**. We review such
+reports promptly and correct or remove data where warranted. For security
+issues see [`SECURITY.md`](SECURITY.md).
