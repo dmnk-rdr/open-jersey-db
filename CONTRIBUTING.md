@@ -23,6 +23,25 @@ schema and workflow below apply to all of them.
 > Only **PyYAML** is required to run the scripts; `pip install jsonschema`
 > additionally enables full schema validation locally (CI always runs it).
 
+## Safety — this repo is public
+
+This is an **identity-only** database. It must never contain secrets, API keys,
+affiliate-network identifiers, tracking links/deeplinks, prices/offers, internal
+hostnames, or personal data. A [`check_safety.py`](scripts/check_safety.py) gate
+enforces this in CI on every push and pull request.
+
+Run it locally any time:
+
+```bash
+python3 scripts/check_safety.py            # scan tracked files
+```
+
+…or enable it as an automatic **pre-commit hook** (recommended, once per clone):
+
+```bash
+git config core.hooksPath .githooks
+```
+
 ## Adding a team
 
 Create `data/teams/<sport>/<league|national>/<slug>.yaml`:
