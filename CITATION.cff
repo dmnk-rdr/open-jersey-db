@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: open-jersey-db
+message: >-
+  If you use this database, please cite it using the metadata below.
+type: dataset
+authors:
+  - given-names: Dominik
+    family-names: Rieder
+    email: info@dmnkrdr.com
+repository-code: https://github.com/dmnk-rdr/open-jersey-db
+url: https://github.com/dmnk-rdr/open-jersey-db
+abstract: >-
+  An open, community-maintained database of football and team-sport jerseys —
+  clubs, national teams, seasons, kit types, manufacturers, sponsors and the
+  GTIN/EAN barcodes that identify each shirt. It is a canonical identity layer
+  for recognising the same product across shops, and an authentic-identity
+  reference that helps tell genuine kits from counterfeits.
+keywords:
+  - jerseys
+  - football
+  - team-sports
+  - gtin
+  - ean
+  - open-data
+  - dataset
+  - product-identity
+  - counterfeit
+license: ODbL-1.0

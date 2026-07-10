@@ -89,6 +89,20 @@ Everyone welcome — including **manufacturers**, who can submit authoritative k
 data and barcodes. See [`CONTRIBUTING.md`](CONTRIBUTING.md). By participating you
 agree to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
+## Used by
+
+- [**Trikot Scout**](https://trikotscout.com) — a jersey price-comparison site;
+  the reference implementation that maps shop offers onto these identities.
+
+Using open-jersey-db in your project? Open a PR to add it here.
+
+## Citing
+
+If you use this database in research or a product, please cite it. GitHub's
+**“Cite this repository”** button (top-right) renders the entry in
+[`CITATION.cff`](CITATION.cff) as APA or BibTeX. Attribution also satisfies the
+ODbL license.
+
 ## License
 
 Data is licensed under the **[Open Database License (ODbL) 1.0](LICENSE)** —
