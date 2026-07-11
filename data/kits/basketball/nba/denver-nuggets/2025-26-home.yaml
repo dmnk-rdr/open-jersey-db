@@ -1,0 +1,21 @@
+team: denver-nuggets
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Rot / Gelb
+design: "Association Edition, weiß mit 'Nuggets' in Flatirons-Rot, Sunshine-Gelb-Trim, Nummern in Mitternachtsblau"
+colors:
+- Weiß
+- Rot
+- Gelb
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Denver Nuggets\" (Abschnitt Uniforms, 2018–19-Redesign): \"The white 'Association' jersey features 'Nuggets' in flatirons red, with sunshine yellow trim and midnight blue numbers.\""

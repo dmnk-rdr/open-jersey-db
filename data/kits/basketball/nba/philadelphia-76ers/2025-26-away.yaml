@@ -1,0 +1,19 @@
+team: philadelphia-76ers
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Blau
+design: "Icon Edition, blau, 'PHILA'-Schriftzug"
+colors:
+- Blau
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Philadelphia 76ers\" (Abschnitt Team identity/2015–present)."

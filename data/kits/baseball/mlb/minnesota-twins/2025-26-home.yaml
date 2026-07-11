@@ -1,0 +1,21 @@
+team: minnesota-twins
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Rot / Marineblau
+design: Weiß, 'Twins'-Script rot mit Navy-Nummern (seit 2023)
+colors:
+- Weiß
+- Rot
+- Marineblau
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Minnesota Twins\" (Abschnitt Uniforms/Current): \"The white home uniform features the updated 'Twins' script ... in red with navy numbers.\""

@@ -1,0 +1,21 @@
+team: atlanta-braves
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Rot / Marineblau
+design: Weiß, Schriftzug 'Atlanta' rot mit Navy-Tomahawk-Unterstrich
+colors:
+- Weiß
+- Rot
+- Marineblau
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Atlanta Braves\" (Abschnitt Logos and uniforms): \"the classic white home and gray road uniforms\"; Farbdetails (rot/navy Schriftzug) über MLB.com Braves Uniforms-Seite und gängige Team-Farbübersichten bestätigt."

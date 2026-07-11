@@ -1,0 +1,19 @@
+team: charlotte-hornets
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß, Schriftzug 'Hornets'"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Charlotte Hornets\" (Abschnitt Uniforms): \"The white 'Association' uniform and the teal 'Icon' uniform feature the 'Hornets' wordmark in front.\""

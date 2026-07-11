@@ -1,0 +1,20 @@
+team: san-diego-padres
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Braun
+design: Grau mit braunen Streifen ('San Diego'); daneben ein durchgängig brauens Alternativtrikot ('Friar Brown'), das NICHT als home/away kuratiert wurde
+colors:
+- Grau
+- Braun
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: justbaseball.com (\"Ranking All Current Padres Uniforms From Worst to Best\"): \"Away Uniforms ... Gray coloring with brown stripes ... Primary road uniform\". Die frühere alleinige braune Roadversion (2020) wurde inzwischen wieder um ein graues Primärtrikot ergänzt; Braun besteht als eigenes Alternate-Trikot fort."

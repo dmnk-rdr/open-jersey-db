@@ -1,0 +1,21 @@
+team: la-clippers
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Marineblau / Rot
+design: "Association Edition, weiß mit 'Clippers'-Script in Navy und roten Nummern (Design seit 2024–25)"
+colors:
+- Weiß
+- Marineblau
+- Rot
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"LA Clippers\" (Abschnitt Uniforms, 2024–25-Redesign): \"The 'Association' white uniform featured the modernized script 'Clippers' wordmark in navy blue with red numbers.\""

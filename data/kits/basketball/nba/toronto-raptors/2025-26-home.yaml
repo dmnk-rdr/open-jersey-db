@@ -1,0 +1,19 @@
+team: toronto-raptors
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Web-Recherche (Nike.com/NBA-Store-Produktseiten): \"Icon Edition comes in red ... Association Edition comes in white.\" Wikipedia \"Toronto Raptors\" bestätigt die Editionsnamen (Abschnitt Uniforms, 2017), ohne die Grundfarben im Fließtext zu wiederholen."

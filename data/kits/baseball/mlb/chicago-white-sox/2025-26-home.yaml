@@ -1,0 +1,21 @@
+team: chicago-white-sox
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Schwarz / Silber
+design: Weiß mit schwarzen Pinstripes, 'SOX'-Schriftzug schwarz/silber
+colors:
+- Weiß
+- Schwarz
+- Silber
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Chicago White Sox\" (Abschnitt Logos and uniforms): Rückkehr zu Schwarz-Silber-Farbschema seit 1990/1991 (\"team's primary color changed back to black, this time with silver trim\"), aktuelles Heimtrikot weiß mit schwarzen Pinstripes."

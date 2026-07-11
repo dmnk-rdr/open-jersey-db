@@ -1,0 +1,20 @@
+team: utah-jazz
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Lila
+design: "Association Edition (ab Saison 2025/26): weiß mit lila Berg-Gradient ('Mountain Basketball'-Redesign)"
+colors:
+- Weiß
+- Lila
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Web-Recherche (u. a. Delta Center/NBA.com \"Mountain Basketball\"-Vorstellung): \"The 2025-26 white association edition jersey features a purple gradient mountainscape.\""

@@ -1,0 +1,20 @@
+team: toronto-blue-jays
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Blau
+design: Grau, geteilte Blau/Weiß/Blau-Buchstaben
+colors:
+- Grau
+- Blau
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Toronto Blue Jays\" (Abschnitt Uniforms, 1989–1996/2012–present): \"road uniforms changed from powder blue to grey, while the city name and numerals in blue/white/blue split letters were emblazoned\" – aktuelles Design (seit 2012) folgt diesem Vorbild."

@@ -1,0 +1,21 @@
+team: phoenix-suns
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Orange / Lila
+design: "Association Edition, weiß, 'Suns' in Orange, Nummern in Lila"
+colors:
+- Weiß
+- Orange
+- Lila
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Phoenix Suns\" (Abschnitt Uniforms, 2017): \"The Suns' 'Association' uniforms featured 'Suns' in orange and the numbers in purple.\""

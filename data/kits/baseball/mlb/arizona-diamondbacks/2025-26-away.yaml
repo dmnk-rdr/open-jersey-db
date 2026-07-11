@@ -1,0 +1,21 @@
+team: arizona-diamondbacks
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Schwarz / Sedona Rot
+design: Grau mit schwarzem Piping, 'Arizona' in Sedona-Rot mit Teal/Schwarz-Outline
+colors:
+- Grau
+- Schwarz
+- Sedona Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Arizona Diamondbacks\" (Abschnitt Logos and uniforms, Design 2024–present): \"The road grey uniform with black piping featured 'Arizona' in Sedona red with teal and black outlines.\""

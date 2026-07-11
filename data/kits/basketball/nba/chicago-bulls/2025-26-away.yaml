@@ -1,0 +1,19 @@
+team: chicago-bulls
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Rot
+design: "Icon Edition, rot"
+colors:
+- Rot
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Chicago Bulls\" (Abschnitt Uniforms): \"their red 'Icon' uniforms would become their home uniforms\" (2017–2021), inzwischen Auswärts-/Statement-Rolle; Grundfarbe Rot unverändert."

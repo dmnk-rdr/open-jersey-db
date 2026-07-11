@@ -1,0 +1,21 @@
+team: houston-astros
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Marineblau / Orange
+design: Grau, 'Houston' in Navy-Blockbuchstaben mit orangem Trim
+colors:
+- Grau
+- Marineblau
+- Orange
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Houston Astros\" (Abschnitt Uniforms, 2013–present sowie 1994–1999: \"the first time since 1982 that the Astros wore grey uniforms on the road\")."

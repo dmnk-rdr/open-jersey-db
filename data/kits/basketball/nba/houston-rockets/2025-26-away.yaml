@@ -1,0 +1,19 @@
+team: houston-rockets
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Rot
+design: "Icon Edition, rot"
+colors:
+- Rot
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Houston Rockets\" (Abschnitt Uniforms); ab 2026–27 rot/gelb akzentuiert im Rahmen der Rückkehr zum klassischen Farbschema, Grundfarbe weiterhin Rot."

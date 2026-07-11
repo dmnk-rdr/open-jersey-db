@@ -1,0 +1,20 @@
+team: st-louis-cardinals
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Rot
+design: Weiß, 'birds on the bat'-Logo, kardinalrote Akzente
+colors:
+- Weiß
+- Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"St. Louis Cardinals\" (Abschnitt Logos and uniforms): \"white home and gray road uniforms which both had cardinal red accents\"; kardinalrot als durchgängiges Markenzeichen seit Vereinsgründung belegt."

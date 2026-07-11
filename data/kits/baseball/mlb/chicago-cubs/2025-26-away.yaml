@@ -1,0 +1,21 @@
+team: chicago-cubs
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Blau / Rot
+design: Grau, 'Chicago' blau mit weißer Outline, rote Nummern
+colors:
+- Grau
+- Blau
+- Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Chicago Cubs\" (Abschnitt Uniforms/Road): \"has 'Chicago' in blue letters outlined in white ... front numbers of red outlined in white.\""

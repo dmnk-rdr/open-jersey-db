@@ -1,0 +1,19 @@
+team: detroit-pistons
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß, klassisches Rot-Weiß-Blau-Farbschema"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Web-Recherche (Pistons-Teamshop/Fanatics-Produktbeschreibungen): \"The four Pistons jerseys available are the Association (white), Icon (blue), Statement (light grey) and City Edition (red).\" Wikipedia \"Detroit Pistons\" nennt nur die Logo-/Farbhistorie ohne Edition-Detailfarben."

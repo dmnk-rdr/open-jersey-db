@@ -1,0 +1,21 @@
+team: new-york-mets
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Blau / Orange
+design: Grau, 'NEW YORK' im Bogen blau mit orangem Outline (aktuelles Design seit 2025)
+colors:
+- Grau
+- Blau
+- Orange
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"New York Mets\" (Abschnitt Uniform color and design): \"The road uniforms, introduced in its current form in 2025, are gray ... 'NEW YORK' in Tiffany-style letters across the chest in blue outlined in orange.\""

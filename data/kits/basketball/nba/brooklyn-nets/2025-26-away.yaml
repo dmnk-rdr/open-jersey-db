@@ -1,0 +1,19 @@
+team: brooklyn-nets
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Schwarz
+design: "Icon Edition, schwarz"
+colors:
+- Schwarz
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Brooklyn Nets\" (Abschnitt Uniforms)."

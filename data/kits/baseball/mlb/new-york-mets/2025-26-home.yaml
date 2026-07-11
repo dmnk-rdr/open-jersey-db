@@ -1,0 +1,21 @@
+team: new-york-mets
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Blau / Orange
+design: Weiß mit blauen Pinstripes, 'Mets'-Script blau mit orangem Outline
+colors:
+- Weiß
+- Blau
+- Orange
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"New York Mets\" (Abschnitt Uniform color and design): \"The home uniforms are white with blue pinstripes and feature 'Mets' in blue script with an orange outline.\""

@@ -1,0 +1,21 @@
+team: cincinnati-reds
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Rot / Schwarz
+design: Grau, 'CINCINNATI' im Bogen, Schwarz seit 1999 als weitere Akzentfarbe
+colors:
+- Grau
+- Rot
+- Schwarz
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Cincinnati Reds\" (Abschnitt Logos and uniforms/Uniforms): \"the introduction of black as a primary color of the Reds in 1999, especially on their road uniforms.\""

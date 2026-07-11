@@ -1,0 +1,19 @@
+team: golden-state-warriors
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Golden State Warriors\" (Abschnitt Uniforms): \"the white uniform becoming the 'Association' uniform and the blue uniform becoming the 'Icon' uniform.\""

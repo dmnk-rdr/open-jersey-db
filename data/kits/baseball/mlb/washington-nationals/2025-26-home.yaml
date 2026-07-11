@@ -1,0 +1,21 @@
+team: washington-nationals
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Marineblau / Rot
+design: Weiß, 'Nationals'-Script navy mit rotem Trim (seit 2022 primäres Heimtrikot)
+colors:
+- Weiß
+- Marineblau
+- Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Washington Nationals\" (Abschnitt Uniforms, 2018–present): \"a white version was added, with the script version of the team name in navy with red trim ... Starting in 2022, the white alternate uniform with the 'Nationals' script became the primary home uniform.\""

@@ -1,0 +1,21 @@
+team: athletics
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Dunkelgrün / Gold
+design: Grau, gleiches Schriftbild wie Heimtrikot
+colors:
+- Grau
+- Dunkelgrün
+- Gold
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Web-Recherche (Uni-Watch/Fanatics 2025): \"The road uniform features the same concept and design, but both the jerseys and the pants are medium-dark gray.\""

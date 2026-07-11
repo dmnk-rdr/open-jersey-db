@@ -1,0 +1,21 @@
+team: denver-nuggets
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Marineblau / Gelb / Rot
+design: "Icon Edition, Mitternachtsblau ('midnight blue') mit 'Denver' in Sunshine-Gelb, Flatirons-Rot-Trim"
+colors:
+- Marineblau
+- Gelb
+- Rot
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Denver Nuggets\" (Abschnitt Uniforms, 2018–19-Redesign): \"the midnight blue 'Icon' jersey features 'Denver' in sunshine yellow, with flatirons red trim and white numbers with flatirons red trim.\""

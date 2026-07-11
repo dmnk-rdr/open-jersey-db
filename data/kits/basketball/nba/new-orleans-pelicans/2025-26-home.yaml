@@ -1,0 +1,19 @@
+team: new-orleans-pelicans
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"New Orleans Pelicans\" (Abschnitt Uniforms): \"The white 'Association' and navy 'Icon' uniforms now featured an enlarged and condensed treatment of the 'New Orleans' wordmark.\""

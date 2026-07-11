@@ -1,0 +1,21 @@
+team: cleveland-cavaliers
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Weinrot / Gold / Marineblau
+design: "Icon Edition, weinrote Basis, 'Cleveland' in Gold, Navy-Nummern"
+colors:
+- Weinrot
+- Gold
+- Marineblau
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Cleveland Cavaliers\" (Abschnitt Uniforms): \"The Cavaliers' Icon uniforms were wine-colored with 'Cleveland' across the front and the player's name in gold lettering with navy blue numerals.\""

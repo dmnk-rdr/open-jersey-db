@@ -1,0 +1,20 @@
+team: new-york-yankees
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Marineblau
+design: Weiß mit Pinstripes, navyfarbenes 'NY'-Interlocking-Logo
+colors:
+- Weiß
+- Marineblau
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Logos and uniforms of the New York Yankees\": \"The home uniform is white with distinctive pinstripes and a navy interlocking 'NY' at the chest.\" Offizielle Vereinsfarben laut Artikel: \"midnight navy blue and white\"."

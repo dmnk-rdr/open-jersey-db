@@ -1,0 +1,21 @@
+team: san-francisco-giants
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Orange / Schwarz
+design: Grau, 'San Francisco'-Wordmark mit Gold-Drop-Shadow und schwarzem Piping
+colors:
+- Grau
+- Orange
+- Schwarz
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"San Francisco Giants\" (Abschnitt Uniforms/2000–present/Road): \"The gray road uniform ... gold drop shadows were also added ... tweaked to include black piping in 2012.\""

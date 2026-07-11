@@ -1,0 +1,19 @@
+team: memphis-grizzlies
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Marineblau
+design: "Icon Edition, navy blau"
+colors:
+- Marineblau
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Memphis Grizzlies\" (Abschnitt Uniforms)."

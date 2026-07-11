@@ -5,12 +5,11 @@ season: '2025/26'
 kit_type: home
 manufacturer: Nike
 main_sponsor: null
-colorway: Rot / Marineblau / Weiß
-design: null
+colorway: Weiß / Rot
+design: Weiß mit rotem Piping, 'RED SOX' rot mit blauer Outline
 colors:
-- Rot
-- Marineblau
 - Weiß
+- Rot
 competitions:
 - MLB
 skus: null
@@ -18,4 +17,4 @@ release_date: null
 gtins: []
 aliases: []
 source: community
-notes: "Teamfarben Quelle: Wikipedia \"Boston Red Sox\" (Infobox: Red, navy blue, white). Nike ist seit 2020 exklusiver Uniform-Ausrüster der MLB (Quelle: MLB.com/ESPN)."
+notes: "Quelle: Wikipedia \"Logos and uniforms of the Boston Red Sox\" (Abschnitt Home uniforms): \"The current primary home uniform is white with red piping ... and 'RED SOX' in red letters, outlined in blue\"."

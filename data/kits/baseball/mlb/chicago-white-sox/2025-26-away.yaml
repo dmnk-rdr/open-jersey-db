@@ -1,0 +1,21 @@
+team: chicago-white-sox
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Schwarz / Silber
+design: Grau, gleiches Schwarz-Silber-Farbschema
+colors:
+- Grau
+- Schwarz
+- Silber
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Chicago White Sox\" (Abschnitt Logos and uniforms), Bildunterschrift \"James McCann wearing the White Sox's road uniform\"."

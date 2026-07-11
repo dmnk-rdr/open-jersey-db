@@ -1,0 +1,21 @@
+team: atlanta-hawks
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Rot / Gold
+design: "Association Edition: Weiß mit Torch-Red-Nummern/Schrift und Legacy-Gold-Outline"
+colors:
+- Weiß
+- Rot
+- Gold
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Web-Recherche (u. a. Team-/Handelsseiten): \"The Association uniform has white as the primary color with Torch Red filling the numbers, letters and marks and Legacy Yellow borders.\" Wikipedia \"Atlanta Hawks\" (Abschnitt Logos and uniforms) bestätigt die Editionsnamen 'Icon'/'Association'/'Statement' seit 2017."

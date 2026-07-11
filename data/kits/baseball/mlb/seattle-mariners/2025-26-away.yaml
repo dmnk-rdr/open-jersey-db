@@ -1,0 +1,19 @@
+team: seattle-mariners
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Marineblau
+design: Navy-Blau als primäres Roadtrikot seit 2023 (kein Grau mehr)
+colors:
+- Marineblau
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Seattle Mariners\" (Abschnitt Uniforms): \"The Mariners confirmed that they will replace the gray jerseys with the navy blue jerseys as their standard away uniforms for the 2023 season.\" Ausnahme von der Grau-Konvention. Beschriftungsfarbe auf dem Navy-Trikot nicht eindeutig belegt, daher nicht kuratiert."

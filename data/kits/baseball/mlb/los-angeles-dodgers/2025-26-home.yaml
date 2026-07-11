@@ -5,12 +5,11 @@ season: '2025/26'
 kit_type: home
 manufacturer: Nike
 main_sponsor: null
-colorway: Dodger Blue / Weiß / Rot
-design: null
+colorway: Weiß / Dodger Blue
+design: Weiß, Schriftzug 'Dodgers' in Royal-/Dodger-Blue-Script
 colors:
-- Dodger Blue
 - Weiß
-- Rot
+- Dodger Blue
 competitions:
 - MLB
 skus: null
@@ -18,4 +17,4 @@ release_date: null
 gtins: []
 aliases: []
 source: community
-notes: "Teamfarben Quelle: Wikipedia \"Los Angeles Dodgers\" (Infobox: Dodger blue, white, red). Nike ist seit 2020 exklusiver Uniform-Ausrüster der MLB (Quelle: MLB.com/ESPN)."
+notes: "Quelle: Wikipedia \"Los Angeles Dodgers\" (Abschnitt Uniforms): \"The home jersey is white with 'Dodgers' written in script across the chest in royal.\" NICHT die Vereinspalette, sondern die tatsächliche Trikotbeschreibung."

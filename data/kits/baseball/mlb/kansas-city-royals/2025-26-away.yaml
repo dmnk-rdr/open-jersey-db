@@ -1,0 +1,20 @@
+team: kansas-city-royals
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Blau
+design: Grau, 'Kansas City' in blockigen Buchstaben (seit 2022)
+colors:
+- Grau
+- Blau
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Kansas City Royals\" (Abschnitt Uniform history, 2022–present: \"The road primary ... returned to the block 'Kansas City' wordmark\")."

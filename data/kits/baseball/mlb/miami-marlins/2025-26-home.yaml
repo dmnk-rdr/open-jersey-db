@@ -1,0 +1,21 @@
+team: miami-marlins
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Schwarz / Rot
+design: Weiß, 'Miami' schwarz mit rotem Drop-Shadow, blaue Akzente (Miami Blue)
+colors:
+- Weiß
+- Schwarz
+- Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Miami Marlins\" (Abschnitt Uniform history, 2019–present): \"Home and road uniforms contain 'Miami' and letters in black with red drop shadows and blue accents.\""

@@ -1,0 +1,21 @@
+team: la-clippers
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Marineblau / Rot / Weiß
+design: "Icon Edition, navy blau mit 'Clippers'-Script in Rot und weißen Nummern"
+colors:
+- Marineblau
+- Rot
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"LA Clippers\" (Abschnitt Uniforms, 2024–25-Redesign): \"The 'Icon' navy blue uniform featured the aforementioned 'Clippers' script in red with white numbers.\""

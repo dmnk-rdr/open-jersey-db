@@ -1,0 +1,20 @@
+team: boston-red-sox
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Rot
+design: Grau, 'BOSTON' in Rot (seit 2014)
+colors:
+- Grau
+- Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Logos and uniforms of the Boston Red Sox\" (Abschnitt Road uniforms): \"In 2014, the road uniforms again switched to red in the home uniform font.\""

@@ -1,0 +1,21 @@
+team: tampa-bay-rays
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Dunkelblau / Gelb
+design: Weiß, 'Rays' dunkelblau mit gelbem 'Sunburst' im 'R'
+colors:
+- Weiß
+- Dunkelblau
+- Gelb
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Tampa Bay Rays\" (Abschnitt Logo and uniform history, 2008–present): \"The home jersey is a traditional white with the name 'Rays' in dark blue across the chest and a yellow 'sunburst' on the letter 'R'.\""

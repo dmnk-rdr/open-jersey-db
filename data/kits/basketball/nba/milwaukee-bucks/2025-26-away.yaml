@@ -1,0 +1,19 @@
+team: milwaukee-bucks
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grün
+design: "Icon Edition, grün"
+colors:
+- Grün
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Milwaukee Bucks\" (Abschnitt Uniforms)."

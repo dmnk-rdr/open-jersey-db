@@ -1,0 +1,19 @@
+team: san-antonio-spurs
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"San Antonio Spurs\" (Abschnitt Logo and uniforms): \"The Spurs' black 'Icon', silver 'Statement' and white 'Association' uniform remained identical to the previous set.\" Die Spurs tragen traditionell Weiß zu Hause und Schwarz auswärts."

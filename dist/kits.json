@@ -1597,19 +1597,19 @@
     "notes": "Heimtrikot durchgängig Burgundy. Quelle: NFLShop.com („Home Game Jersey - Burgundy“); Wikipedia „Washington Commanders“. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
   },
   {
-    "team": "boston-red-sox",
+    "team": "arizona-diamondbacks",
     "sport": "baseball",
     "league": "mlb",
     "season": "2025/26",
-    "kit_type": "home",
+    "kit_type": "away",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "Rot / Marineblau / Weiß",
-    "design": null,
+    "colorway": "Grau / Schwarz / Sedona Rot",
+    "design": "Grau mit schwarzem Piping, 'Arizona' in Sedona-Rot mit Teal/Schwarz-Outline",
     "colors": [
-      "Rot",
-      "Marineblau",
-      "Weiß"
+      "Grau",
+      "Schwarz",
+      "Sedona Rot"
     ],
     "competitions": [
       "MLB"
@@ -1619,20 +1619,217 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"Boston Red Sox\" (Infobox: Red, navy blue, white). Nike ist seit 2020 exklusiver Uniform-Ausrüster der MLB (Quelle: MLB.com/ESPN)."
+    "notes": "Quelle: Wikipedia \"Arizona Diamondbacks\" (Abschnitt Logos and uniforms, Design 2024–present): \"The road grey uniform with black piping featured 'Arizona' in Sedona red with teal and black outlines.\""
   },
   {
-    "team": "los-angeles-dodgers",
+    "team": "arizona-diamondbacks",
     "sport": "baseball",
     "league": "mlb",
     "season": "2025/26",
     "kit_type": "home",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "Dodger Blue / Weiß / Rot",
-    "design": null,
+    "colorway": "Creme / Schwarz",
+    "design": "Cream-Base mit schwarzem Piping, 'A'-Logo linke Brust",
     "colors": [
-      "Dodger Blue",
+      "Creme",
+      "Schwarz"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Arizona Diamondbacks\" (Abschnitt Logos and uniforms, Design 2024–present): \"The home uniform is now a cream base with black piping\". Kein reines Weiß mehr seit 2024 – Ausnahme von der sonst weiß/grau-Konvention der MLB."
+  },
+  {
+    "team": "athletics",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Dunkelgrün / Gold",
+    "design": "Grau, gleiches Schriftbild wie Heimtrikot",
+    "colors": [
+      "Grau",
+      "Dunkelgrün",
+      "Gold"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (Uni-Watch/Fanatics 2025): \"The road uniform features the same concept and design, but both the jerseys and the pants are medium-dark gray.\""
+  },
+  {
+    "team": "athletics",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Dunkelgrün / Gold",
+    "design": "Weiß, Schriftzug 'Athletics' dunkelgrün mit Gold-Outline",
+    "colors": [
+      "Weiß",
+      "Dunkelgrün",
+      "Gold"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Athletics (baseball)\" (Abschnitt Uniforms) + Web-Recherche (u. a. MLB Shop/Fanatics-Produktbeschreibungen 2025): Heimtrikot weiß, Schriftzug 'Athletics' dunkelgrün mit breitem gelben Outline. Team spielt 2025–2027 übergangsweise in West Sacramento, Beschriftung bleibt 'Athletics' ohne Stadtnamen."
+  },
+  {
+    "team": "atlanta-braves",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Marineblau / Rot",
+    "design": "Grau, Schriftzug 'Atlanta' navy mit rotem Tomahawk-Unterstrich",
+    "colors": [
+      "Grau",
+      "Marineblau",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Atlanta Braves\" (Abschnitt Logos and uniforms) + MLB.com Braves Uniforms-Seite."
+  },
+  {
+    "team": "atlanta-braves",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Marineblau",
+    "design": "Weiß, Schriftzug 'Atlanta' rot mit Navy-Tomahawk-Unterstrich",
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Marineblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Atlanta Braves\" (Abschnitt Logos and uniforms): \"the classic white home and gray road uniforms\"; Farbdetails (rot/navy Schriftzug) über MLB.com Braves Uniforms-Seite und gängige Team-Farbübersichten bestätigt."
+  },
+  {
+    "team": "baltimore-orioles",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Orange / Schwarz",
+    "design": "Grau, Schriftzug 'Baltimore'",
+    "colors": [
+      "Grau",
+      "Orange",
+      "Schwarz"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Baltimore Orioles\" (Abschnitt Logos and uniforms): \"The road uniform is gray with the word 'Baltimore' written across the chest.\""
+  },
+  {
+    "team": "baltimore-orioles",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Orange / Schwarz",
+    "design": "Weiß, Schriftzug 'Orioles' traditionell orange mit schwarzem Trim",
+    "colors": [
+      "Weiß",
+      "Orange",
+      "Schwarz"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Baltimore Orioles\" (Abschnitt Logos and uniforms): \"The Orioles' home uniform is white with the word 'Orioles' written across the chest\"; Orange/Schwarz als traditionelle Beschriftungsfarben durchgängig im Artikel belegt."
+  },
+  {
+    "team": "boston-red-sox",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Rot",
+    "design": "Grau, 'BOSTON' in Rot (seit 2014)",
+    "colors": [
+      "Grau",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Logos and uniforms of the Boston Red Sox\" (Abschnitt Road uniforms): \"In 2014, the road uniforms again switched to red in the home uniform font.\""
+  },
+  {
+    "team": "boston-red-sox",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot",
+    "design": "Weiß mit rotem Piping, 'RED SOX' rot mit blauer Outline",
+    "colors": [
       "Weiß",
       "Rot"
     ],
@@ -1644,22 +1841,22 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"Los Angeles Dodgers\" (Infobox: Dodger blue, white, red). Nike ist seit 2020 exklusiver Uniform-Ausrüster der MLB (Quelle: MLB.com/ESPN)."
+    "notes": "Quelle: Wikipedia \"Logos and uniforms of the Boston Red Sox\" (Abschnitt Home uniforms): \"The current primary home uniform is white with red piping ... and 'RED SOX' in red letters, outlined in blue\"."
   },
   {
-    "team": "san-diego-padres",
+    "team": "chicago-cubs",
     "sport": "baseball",
     "league": "mlb",
     "season": "2025/26",
-    "kit_type": "home",
+    "kit_type": "away",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "Braun / Gold / Weiß",
-    "design": null,
+    "colorway": "Grau / Blau / Rot",
+    "design": "Grau, 'Chicago' blau mit weißer Outline, rote Nummern",
     "colors": [
-      "Braun",
-      "Gold",
-      "Weiß"
+      "Grau",
+      "Blau",
+      "Rot"
     ],
     "competitions": [
       "MLB"
@@ -1669,7 +1866,2623 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"San Diego Padres\" (Infobox: Brown, gold, white - seit 2020 wieder die ursprüngliche Farbpalette). Nike ist seit 2020 exklusiver Uniform-Ausrüster der MLB (Quelle: MLB.com/ESPN)."
+    "notes": "Quelle: Wikipedia \"Chicago Cubs\" (Abschnitt Uniforms/Road): \"has 'Chicago' in blue letters outlined in white ... front numbers of red outlined in white.\""
+  },
+  {
+    "team": "chicago-cubs",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Blau",
+    "design": "Weiß mit blauen Pinstripes, blaue Nummern",
+    "colors": [
+      "Weiß",
+      "Blau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Chicago Cubs\" (Abschnitt Uniforms/Home): \"The Cubs currently wear pinstriped white uniforms at home ... blue pinstripes and blue numbers.\""
+  },
+  {
+    "team": "chicago-white-sox",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Schwarz / Silber",
+    "design": "Grau, gleiches Schwarz-Silber-Farbschema",
+    "colors": [
+      "Grau",
+      "Schwarz",
+      "Silber"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Chicago White Sox\" (Abschnitt Logos and uniforms), Bildunterschrift \"James McCann wearing the White Sox's road uniform\"."
+  },
+  {
+    "team": "chicago-white-sox",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Silber",
+    "design": "Weiß mit schwarzen Pinstripes, 'SOX'-Schriftzug schwarz/silber",
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Silber"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Chicago White Sox\" (Abschnitt Logos and uniforms): Rückkehr zu Schwarz-Silber-Farbschema seit 1990/1991 (\"team's primary color changed back to black, this time with silver trim\"), aktuelles Heimtrikot weiß mit schwarzen Pinstripes."
+  },
+  {
+    "team": "cincinnati-reds",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Rot / Schwarz",
+    "design": "Grau, 'CINCINNATI' im Bogen, Schwarz seit 1999 als weitere Akzentfarbe",
+    "colors": [
+      "Grau",
+      "Rot",
+      "Schwarz"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Cincinnati Reds\" (Abschnitt Logos and uniforms/Uniforms): \"the introduction of black as a primary color of the Reds in 1999, especially on their road uniforms.\""
+  },
+  {
+    "team": "cincinnati-reds",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot",
+    "design": "Weiß mit roten Pinstripes, 'C-REDS'-Logo rot",
+    "colors": [
+      "Weiß",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Cincinnati Reds\" (Abschnitt Logos and uniforms/Uniforms): 1993er Design (weiß mit roten Pinstripes) bildet weiterhin die Basis des aktuellen Heimtrikots."
+  },
+  {
+    "team": "cleveland-guardians",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Marineblau / Rot",
+    "design": "Grau, 'Cleveland' in Navy-'diamond C'-Schrift mit rotem Trim",
+    "colors": [
+      "Grau",
+      "Marineblau",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Cleveland Guardians\" (Abschnitt Uniforms/Road): \"The primary road uniform is gray, with 'Cleveland' in navy blue 'diamond C' letters, trimmed in red.\""
+  },
+  {
+    "team": "cleveland-guardians",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Marineblau",
+    "design": "Weiß mit rot-navyfarbenem Piping an den Ärmeln, Schriftzug 'Guardians' rot mit Navy-Outline",
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Marineblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Cleveland Guardians\" (Abschnitt Uniforms/Home): \"The primary home uniform is white with red and navy blue piping ... 'Guardians' in red with a navy blue outline.\""
+  },
+  {
+    "team": "colorado-rockies",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Lila",
+    "design": "Grau mit lila Piping",
+    "colors": [
+      "Grau",
+      "Lila"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Colorado Rockies\" (Abschnitt Uniforms): \"The Rockies' road uniform is grey with purple piping\" (seit 2012 wieder eingeführt)."
+  },
+  {
+    "team": "colorado-rockies",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Lila",
+    "design": "Weiß mit lila Pinstripes, 'Rockies' silber mit schwarzem Trim",
+    "colors": [
+      "Weiß",
+      "Lila"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Colorado Rockies\" (Abschnitt Uniforms): \"The Rockies' home uniform is white with purple pinstripes.\""
+  },
+  {
+    "team": "detroit-tigers",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Orange / Marineblau",
+    "design": "Grau mit Navy-Piping, Schriftzug 'Detroit' – einziges Team mit Orange auf dem Roadtrikot ohne Orange im Heimtrikot",
+    "colors": [
+      "Grau",
+      "Orange",
+      "Marineblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Detroit Tigers\" (Abschnitt Uniforms and logos): aktuelles Roadtrikot seit 1994 mit Navy-Piping; \"The Tigers are the only team in Major League Baseball to have a color on their road uniforms that is not on their home uniforms (orange).\""
+  },
+  {
+    "team": "detroit-tigers",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Marineblau",
+    "design": "Weiß mit Navy-Piping, Old English 'D' navy",
+    "colors": [
+      "Weiß",
+      "Marineblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Detroit Tigers\" (Abschnitt Uniforms and logos): \"solid white jersey with navy blue piping down the front and an Old English 'D' on the left chest\" (seit 1934 im Kern unverändert)."
+  },
+  {
+    "team": "houston-astros",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Marineblau / Orange",
+    "design": "Grau, 'Houston' in Navy-Blockbuchstaben mit orangem Trim",
+    "colors": [
+      "Grau",
+      "Marineblau",
+      "Orange"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Houston Astros\" (Abschnitt Uniforms, 2013–present sowie 1994–1999: \"the first time since 1982 that the Astros wore grey uniforms on the road\")."
+  },
+  {
+    "team": "houston-astros",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Marineblau / Orange",
+    "design": "Weiß, 'Astros' in Navy-Blockbuchstaben mit orangem Trim",
+    "colors": [
+      "Weiß",
+      "Marineblau",
+      "Orange"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Houston Astros\" (Abschnitt Uniforms, 2013–present: Return to navy and orange): \"Both uniforms featured the city name (road) and team name (home) in block navy letters with orange trim.\""
+  },
+  {
+    "team": "kansas-city-royals",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Blau",
+    "design": "Grau, 'Kansas City' in blockigen Buchstaben (seit 2022)",
+    "colors": [
+      "Grau",
+      "Blau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Kansas City Royals\" (Abschnitt Uniform history, 2022–present: \"The road primary ... returned to the block 'Kansas City' wordmark\")."
+  },
+  {
+    "team": "kansas-city-royals",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Blau",
+    "design": "Weiß, Schriftzug 'Royals' in Blau (Script)",
+    "colors": [
+      "Weiß",
+      "Blau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Kansas City Royals\" (Abschnitt Uniform history, 2006–2021/2022–present): Bildunterschrift \"Home uniform (2006–present)\"; Blau als durchgängige Schriftfarbe seit Franchise-Gründung."
+  },
+  {
+    "team": "los-angeles-angels",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Rot / Dunkelblau",
+    "design": "Grau, Team-/Stadtname rot mit Navy-Trim",
+    "colors": [
+      "Grau",
+      "Rot",
+      "Dunkelblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Los Angeles Angels\" (Abschnitt Logos, uniforms and colors): rote Beschriftung seit 2001/2002 auf Heim- und Auswärtstrikot durchgängig."
+  },
+  {
+    "team": "los-angeles-angels",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Dunkelblau",
+    "design": "Weiß, 'Angels' rot mit Navy-Trim",
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Dunkelblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Los Angeles Angels\" (Abschnitt Logos, uniforms and colors): aktuelles Farbschema seit 2002 \"predominantly red with some dark blue and white ... red letters trimmed in dark blue and silver\"."
+  },
+  {
+    "team": "los-angeles-dodgers",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Dodger Blue / Rot",
+    "design": "Grau, Schriftzug 'Los Angeles' in Royal-Blue-Script, rote Rückennummer",
+    "colors": [
+      "Grau",
+      "Dodger Blue",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Los Angeles Dodgers\" (Abschnitt Uniforms): \"The road jersey is gray with 'Los Angeles' written in script across the chest in royal ... a red uniform number under the script.\""
+  },
+  {
+    "team": "los-angeles-dodgers",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Dodger Blue",
+    "design": "Weiß, Schriftzug 'Dodgers' in Royal-/Dodger-Blue-Script",
+    "colors": [
+      "Weiß",
+      "Dodger Blue"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Los Angeles Dodgers\" (Abschnitt Uniforms): \"The home jersey is white with 'Dodgers' written in script across the chest in royal.\" NICHT die Vereinspalette, sondern die tatsächliche Trikotbeschreibung."
+  },
+  {
+    "team": "miami-marlins",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Schwarz / Rot",
+    "design": "Grau, gleiches Farbschema wie Heimtrikot",
+    "colors": [
+      "Grau",
+      "Schwarz",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Miami Marlins\" (Abschnitt Uniform history, 2019–present)."
+  },
+  {
+    "team": "miami-marlins",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Rot",
+    "design": "Weiß, 'Miami' schwarz mit rotem Drop-Shadow, blaue Akzente (Miami Blue)",
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Miami Marlins\" (Abschnitt Uniform history, 2019–present): \"Home and road uniforms contain 'Miami' and letters in black with red drop shadows and blue accents.\""
+  },
+  {
+    "team": "milwaukee-brewers",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Hellblau / Marineblau / Senfgold",
+    "design": "Powder Blue ab 2026 als primäres Roadtrikot (zuvor Grau), 'Milwaukee' Blockschrift",
+    "colors": [
+      "Hellblau",
+      "Marineblau",
+      "Senfgold"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Milwaukee Brewers\" (Abschnitt Uniforms, 2020–present): \"Ahead of the 2026 season, the Brewers tweaked their primary road uniform. This design essentially swapped the grey base ... in favor of powder blue.\" Ausnahme von der Grau-Konvention, gültig für die laufende Saison 2026."
+  },
+  {
+    "team": "milwaukee-brewers",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Creme / Marineblau / Senfgold",
+    "design": "Creme-Base ('Cream City'), 'Brewers' in stilisierten Blockbuchstaben, Navy/Senfgold",
+    "colors": [
+      "Creme",
+      "Marineblau",
+      "Senfgold"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Milwaukee Brewers\" (Abschnitt Uniforms, 2020–present): \"a cream home uniform with 'Brewers' and numbers in stylized block letters (a nod to Milwaukee's 'Cream City' nickname)\" – primäres Heimtrikot ist NICHT Weiß. Navy blau + Senfgold ('mustard gold') als Farbschema seit 2020."
+  },
+  {
+    "team": "minnesota-twins",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Marineblau / Rot",
+    "design": "Grau, 'MINNESOTA' navy mit roten Nummern, Navy-Pinstripes",
+    "colors": [
+      "Grau",
+      "Marineblau",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Minnesota Twins\" (Abschnitt Uniforms/Current): \"Road gray uniforms featured an all-caps 'MINNESOTA' in navy with red numbers ... Navy pinstripes were also added.\""
+  },
+  {
+    "team": "minnesota-twins",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Marineblau",
+    "design": "Weiß, 'Twins'-Script rot mit Navy-Nummern (seit 2023)",
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Marineblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Minnesota Twins\" (Abschnitt Uniforms/Current): \"The white home uniform features the updated 'Twins' script ... in red with navy numbers.\""
+  },
+  {
+    "team": "new-york-mets",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Blau / Orange",
+    "design": "Grau, 'NEW YORK' im Bogen blau mit orangem Outline (aktuelles Design seit 2025)",
+    "colors": [
+      "Grau",
+      "Blau",
+      "Orange"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"New York Mets\" (Abschnitt Uniform color and design): \"The road uniforms, introduced in its current form in 2025, are gray ... 'NEW YORK' in Tiffany-style letters across the chest in blue outlined in orange.\""
+  },
+  {
+    "team": "new-york-mets",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Blau / Orange",
+    "design": "Weiß mit blauen Pinstripes, 'Mets'-Script blau mit orangem Outline",
+    "colors": [
+      "Weiß",
+      "Blau",
+      "Orange"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"New York Mets\" (Abschnitt Uniform color and design): \"The home uniforms are white with blue pinstripes and feature 'Mets' in blue script with an orange outline.\""
+  },
+  {
+    "team": "new-york-yankees",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Marineblau",
+    "design": "Grau, 'NEW YORK' navy",
+    "colors": [
+      "Grau",
+      "Marineblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Logos and uniforms of the New York Yankees\": \"The away uniform is gray with 'NEW YORK' written across the chest in navy blue.\""
+  },
+  {
+    "team": "new-york-yankees",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Marineblau",
+    "design": "Weiß mit Pinstripes, navyfarbenes 'NY'-Interlocking-Logo",
+    "colors": [
+      "Weiß",
+      "Marineblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Logos and uniforms of the New York Yankees\": \"The home uniform is white with distinctive pinstripes and a navy interlocking 'NY' at the chest.\" Offizielle Vereinsfarben laut Artikel: \"midnight navy blue and white\"."
+  },
+  {
+    "team": "philadelphia-phillies",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Rot",
+    "design": "Grau, 'Phillies'-Script rot",
+    "colors": [
+      "Grau",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Philadelphia Phillies\" (Abschnitt Team uniforms/Current uniforms): \"The road uniform is traditional grey with red lettering/numbering.\""
+  },
+  {
+    "team": "philadelphia-phillies",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot",
+    "design": "Weiß mit roten Pinstripes, 'Phillies'-Script rot",
+    "colors": [
+      "Weiß",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Philadelphia Phillies\" (Abschnitt Team uniforms/Current uniforms): \"The team's home uniform is white with red pinstripes, lettering and numbering.\""
+  },
+  {
+    "team": "pittsburgh-pirates",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Schwarz / Gold",
+    "design": "Grau, Schriftzug 'Pittsburgh' (Script, seit 2020 wiederbelebt)",
+    "colors": [
+      "Grau",
+      "Schwarz",
+      "Gold"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Pittsburgh Pirates\" (Abschnitt Logos and uniforms): \"the Pirates revived the script 'Pittsburgh' wordmarks on their gray road ... jerseys.\""
+  },
+  {
+    "team": "pittsburgh-pirates",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Gold",
+    "design": "Weiß, Schwarz-Gold-Farbschema seit 1948",
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Gold"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Pittsburgh Pirates\" (Abschnitt Logos and uniforms): \"the team returned to the straightforward home whites/road grays combination\" (seit 1985) auf Basis des seit 1948 etablierten Schwarz-Gold-Farbschemas."
+  },
+  {
+    "team": "san-diego-padres",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Braun",
+    "design": "Grau mit braunen Streifen ('San Diego'); daneben ein durchgängig brauens Alternativtrikot ('Friar Brown'), das NICHT als home/away kuratiert wurde",
+    "colors": [
+      "Grau",
+      "Braun"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: justbaseball.com (\"Ranking All Current Padres Uniforms From Worst to Best\"): \"Away Uniforms ... Gray coloring with brown stripes ... Primary road uniform\". Die frühere alleinige braune Roadversion (2020) wurde inzwischen wieder um ein graues Primärtrikot ergänzt; Braun besteht als eigenes Alternate-Trikot fort."
+  },
+  {
+    "team": "san-diego-padres",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Braun / Gold",
+    "design": "Weiß mit braunen Pinstripes, 'Padres' braun mit Gold-Outline (Rückkehr zu Braun/Gold seit 2020)",
+    "colors": [
+      "Weiß",
+      "Braun",
+      "Gold"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: ESPN (\"San Diego Padres unveil new uniforms with brown-and-gold color scheme\", 2019-11-09): \"Home Uniform: White base with brown pinstripes, 'Padres' lettering in brown trimmed in gold\". Kein Wikipedia-Fließtext zu Uniforms vorhanden, daher externe Quelle."
+  },
+  {
+    "team": "san-francisco-giants",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Orange / Schwarz",
+    "design": "Grau, 'San Francisco'-Wordmark mit Gold-Drop-Shadow und schwarzem Piping",
+    "colors": [
+      "Grau",
+      "Orange",
+      "Schwarz"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"San Francisco Giants\" (Abschnitt Uniforms/2000–present/Road): \"The gray road uniform ... gold drop shadows were also added ... tweaked to include black piping in 2012.\""
+  },
+  {
+    "team": "san-francisco-giants",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Creme / Orange / Schwarz",
+    "design": "Creme-Base, 'Giants'-Wordmark orange mit schwarzem Outline, Gold-Drop-Shadow",
+    "colors": [
+      "Creme",
+      "Orange",
+      "Schwarz"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"San Francisco Giants\" (Abschnitt Uniforms/2000–present/Home): \"The base of the home uniform was changed to cream.\" Beschriftungsfarbe (orange/schwarz) über Web-Recherche (MLB Shop-Produktbeschreibung Cream Home Jersey) bestätigt, da die Wikipedia-Sektion selbst keine Buchstabenfarbe nennt."
+  },
+  {
+    "team": "seattle-mariners",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Marineblau",
+    "design": "Navy-Blau als primäres Roadtrikot seit 2023 (kein Grau mehr)",
+    "colors": [
+      "Marineblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Seattle Mariners\" (Abschnitt Uniforms): \"The Mariners confirmed that they will replace the gray jerseys with the navy blue jerseys as their standard away uniforms for the 2023 season.\" Ausnahme von der Grau-Konvention. Beschriftungsfarbe auf dem Navy-Trikot nicht eindeutig belegt, daher nicht kuratiert."
+  },
+  {
+    "team": "seattle-mariners",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Marineblau",
+    "design": "Weiß, 'Mariners' navy mit Northwest-Green-Trim, Silber-Inline seit 2015",
+    "colors": [
+      "Weiß",
+      "Marineblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Seattle Mariners\" (Abschnitt Uniforms, 1993–present): \"The white home uniform originally featured 'Mariners' in navy with trim in a shade of teal green.\""
+  },
+  {
+    "team": "st-louis-cardinals",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Rot",
+    "design": "Grau, kardinalrote Akzente",
+    "colors": [
+      "Grau",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"St. Louis Cardinals\" (Abschnitt Logos and uniforms)."
+  },
+  {
+    "team": "st-louis-cardinals",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot",
+    "design": "Weiß, 'birds on the bat'-Logo, kardinalrote Akzente",
+    "colors": [
+      "Weiß",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"St. Louis Cardinals\" (Abschnitt Logos and uniforms): \"white home and gray road uniforms which both had cardinal red accents\"; kardinalrot als durchgängiges Markenzeichen seit Vereinsgründung belegt."
+  },
+  {
+    "team": "tampa-bay-rays",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Marineblau",
+    "design": "Navy-Blau als Roadtrikot seit 2023 (Graues Trikot abgeschafft; alterniert mit Columbia-Blue)",
+    "colors": [
+      "Marineblau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Tampa Bay Rays\" (Abschnitt Logo and uniform history, 2008–present): \"Starting in 2023, the Rays abandoned the gray road jerseys ... The road jerseys are now either the navy blue or Columbia blue tops with gray pants.\" Bildunterschrift bestätigt Navy als \"road uniform (2023–present)\". Ausnahme von der Grau-Konvention."
+  },
+  {
+    "team": "tampa-bay-rays",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Dunkelblau / Gelb",
+    "design": "Weiß, 'Rays' dunkelblau mit gelbem 'Sunburst' im 'R'",
+    "colors": [
+      "Weiß",
+      "Dunkelblau",
+      "Gelb"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Tampa Bay Rays\" (Abschnitt Logo and uniform history, 2008–present): \"The home jersey is a traditional white with the name 'Rays' in dark blue across the chest and a yellow 'sunburst' on the letter 'R'.\""
+  },
+  {
+    "team": "texas-rangers",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Blau / Rot",
+    "design": "Grau, 'TEXAS' blau mit rotem Trim",
+    "colors": [
+      "Grau",
+      "Blau",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Texas Rangers (baseball)\" (Abschnitt Uniforms, 2009–2019/2020–present): Roadtrikot in Blau mit Rot-Trim seit 2000er-Jahren im Kern unverändert fortgeführt."
+  },
+  {
+    "team": "texas-rangers",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Blau / Rot",
+    "design": "Weiß, 'Rangers'-Script blau mit weißem/rotem Trim",
+    "colors": [
+      "Weiß",
+      "Blau",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Texas Rangers (baseball)\" (Abschnitt Uniforms, 2020–present): \"The home white uniforms now featured a script 'Rangers' wordmark in blue with white and red trim.\""
+  },
+  {
+    "team": "toronto-blue-jays",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Blau",
+    "design": "Grau, geteilte Blau/Weiß/Blau-Buchstaben",
+    "colors": [
+      "Grau",
+      "Blau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Toronto Blue Jays\" (Abschnitt Uniforms, 1989–1996/2012–present): \"road uniforms changed from powder blue to grey, while the city name and numerals in blue/white/blue split letters were emblazoned\" – aktuelles Design (seit 2012) folgt diesem Vorbild."
+  },
+  {
+    "team": "toronto-blue-jays",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Blau",
+    "design": "Weiß, geteilte Blau/Weiß/Blau-Buchstaben (Design 1989–1996 seit 2012 wiederbelebt)",
+    "colors": [
+      "Weiß",
+      "Blau"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Toronto Blue Jays\" (Abschnitt Uniforms, 2012–present): \"The uniforms are similar to the ones used from 1989 to 1996\" (Heimtrikot weiß mit blau/weiß/blau Split-Letters)."
+  },
+  {
+    "team": "washington-nationals",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grau / Marineblau / Rot",
+    "design": "Grau, 'Washington' in Blockbuchstaben navy mit weißem/rotem Trim (seit 2024)",
+    "colors": [
+      "Grau",
+      "Marineblau",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Washington Nationals\" (Abschnitt Uniforms, 2018–present): \"In 2024, the Nationals updated their road uniform, featuring a block 'Washington' lettering in navy with white and red trim.\""
+  },
+  {
+    "team": "washington-nationals",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Marineblau / Rot",
+    "design": "Weiß, 'Nationals'-Script navy mit rotem Trim (seit 2022 primäres Heimtrikot)",
+    "colors": [
+      "Weiß",
+      "Marineblau",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Washington Nationals\" (Abschnitt Uniforms, 2018–present): \"a white version was added, with the script version of the team name in navy with red trim ... Starting in 2022, the white alternate uniform with the 'Nationals' script became the primary home uniform.\""
+  },
+  {
+    "team": "atlanta-hawks",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rot / Weiß / Gold",
+    "design": "Icon Edition: Torch Red als Basis mit weißer Schrift und Legacy-Gold-Outline; dient als primäres Heim-Trikot der Hawks",
+    "colors": [
+      "Rot",
+      "Weiß",
+      "Gold"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche: \"The Icon edition has Torch Red as the primary color with white filling the numbers, letters and marks with Legacy Yellow borders.\" Hinweis: Die Hawks tragen das rote Icon-Trikot faktisch bei Heimspielen; hier trotzdem als kit_type 'away' kuratiert, da Icon in unserem Modell durchgängig der Auswärts-/Farbtrikot-Slot ist (siehe Notes zu anderen Teams mit gleicher Konvention)."
+  },
+  {
+    "team": "atlanta-hawks",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Gold",
+    "design": "Association Edition: Weiß mit Torch-Red-Nummern/Schrift und Legacy-Gold-Outline",
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Gold"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (u. a. Team-/Handelsseiten): \"The Association uniform has white as the primary color with Torch Red filling the numbers, letters and marks and Legacy Yellow borders.\" Wikipedia \"Atlanta Hawks\" (Abschnitt Logos and uniforms) bestätigt die Editionsnamen 'Icon'/'Association'/'Statement' seit 2017."
+  },
+  {
+    "team": "boston-celtics",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grün / Weiß",
+    "design": "Icon Edition: grüne Basis mit weißem Trim, Schriftzug 'Boston'",
+    "colors": [
+      "Grün",
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Boston Celtics\" (Abschnitt Logos and uniforms), zitiert NBA LockerVision: \"A green base with white trim features a 'Boston' jersey wordmark.\""
+  },
+  {
+    "team": "boston-celtics",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Boston Celtics\" (Abschnitt Logos and uniforms): \"the white Celtics uniforms became known as the 'Association' uniforms\"."
+  },
+  {
+    "team": "brooklyn-nets",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz",
+    "design": "Icon Edition, schwarz",
+    "colors": [
+      "Schwarz"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Brooklyn Nets\" (Abschnitt Uniforms)."
+  },
+  {
+    "team": "brooklyn-nets",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Brooklyn Nets\" (Abschnitt Uniforms): \"The white uniform became the 'Association' uniform while the black uniform became the 'Icon' uniform.\""
+  },
+  {
+    "team": "charlotte-hornets",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Türkis",
+    "design": "Icon Edition, teal/türkis, Schriftzug 'Hornets'",
+    "colors": [
+      "Türkis"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Charlotte Hornets\" (Abschnitt Uniforms)."
+  },
+  {
+    "team": "charlotte-hornets",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß, Schriftzug 'Hornets'",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Charlotte Hornets\" (Abschnitt Uniforms): \"The white 'Association' uniform and the teal 'Icon' uniform feature the 'Hornets' wordmark in front.\""
+  },
+  {
+    "team": "chicago-bulls",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rot",
+    "design": "Icon Edition, rot",
+    "colors": [
+      "Rot"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Chicago Bulls\" (Abschnitt Uniforms): \"their red 'Icon' uniforms would become their home uniforms\" (2017–2021), inzwischen Auswärts-/Statement-Rolle; Grundfarbe Rot unverändert."
+  },
+  {
+    "team": "chicago-bulls",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß (seit 2021–22 wieder primäres Heimtrikot)",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Chicago Bulls\" (Abschnitt Uniforms): \"the Bulls ... returned to wearing the white 'Association' uniforms in home games starting in the 2021–22 season.\""
+  },
+  {
+    "team": "cleveland-cavaliers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weinrot / Gold / Marineblau",
+    "design": "Icon Edition, weinrote Basis, 'Cleveland' in Gold, Navy-Nummern",
+    "colors": [
+      "Weinrot",
+      "Gold",
+      "Marineblau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Cleveland Cavaliers\" (Abschnitt Uniforms): \"The Cavaliers' Icon uniforms were wine-colored with 'Cleveland' across the front and the player's name in gold lettering with navy blue numerals.\""
+  },
+  {
+    "team": "cleveland-cavaliers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß, 'Cavs'-Schriftzug in Wine",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Cleveland Cavaliers\" (Abschnitt Uniforms): \"The white Association uniforms have 'Cavs' across the front, with wine color letters and numbers.\""
+  },
+  {
+    "team": "dallas-mavericks",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Blau",
+    "design": "Icon Edition, royal blau",
+    "colors": [
+      "Blau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Dallas Mavericks\" (Abschnitt Uniforms): \"the royal blue uniforms are identified with the 'Icon' set\" (Navy blau ist das separate 'Statement'-Trikot)."
+  },
+  {
+    "team": "dallas-mavericks",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Dallas Mavericks\" (Abschnitt Uniforms): \"The Mavericks' white uniforms are part of the 'Association' set.\""
+  },
+  {
+    "team": "denver-nuggets",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Marineblau / Gelb / Rot",
+    "design": "Icon Edition, Mitternachtsblau ('midnight blue') mit 'Denver' in Sunshine-Gelb, Flatirons-Rot-Trim",
+    "colors": [
+      "Marineblau",
+      "Gelb",
+      "Rot"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Denver Nuggets\" (Abschnitt Uniforms, 2018–19-Redesign): \"the midnight blue 'Icon' jersey features 'Denver' in sunshine yellow, with flatirons red trim and white numbers with flatirons red trim.\""
+  },
+  {
+    "team": "denver-nuggets",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Gelb",
+    "design": "Association Edition, weiß mit 'Nuggets' in Flatirons-Rot, Sunshine-Gelb-Trim, Nummern in Mitternachtsblau",
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Gelb"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Denver Nuggets\" (Abschnitt Uniforms, 2018–19-Redesign): \"The white 'Association' jersey features 'Nuggets' in flatirons red, with sunshine yellow trim and midnight blue numbers.\""
+  },
+  {
+    "team": "detroit-pistons",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Blau",
+    "design": "Icon Edition, blau",
+    "colors": [
+      "Blau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (Pistons-Teamshop/Fanatics-Produktbeschreibungen): Icon Edition blau, Bestandteil des seit 2017 verwendeten klassischen Rot-Weiß-Blau-Schemas."
+  },
+  {
+    "team": "detroit-pistons",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß, klassisches Rot-Weiß-Blau-Farbschema",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (Pistons-Teamshop/Fanatics-Produktbeschreibungen): \"The four Pistons jerseys available are the Association (white), Icon (blue), Statement (light grey) and City Edition (red).\" Wikipedia \"Detroit Pistons\" nennt nur die Logo-/Farbhistorie ohne Edition-Detailfarben."
+  },
+  {
+    "team": "golden-state-warriors",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Blau",
+    "design": "Icon Edition, royal-/'The City'-Blau mit Bay-Bridge-Logo",
+    "colors": [
+      "Blau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Golden State Warriors\" (Abschnitt Uniforms)."
+  },
+  {
+    "team": "golden-state-warriors",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Golden State Warriors\" (Abschnitt Uniforms): \"the white uniform becoming the 'Association' uniform and the blue uniform becoming the 'Icon' uniform.\""
+  },
+  {
+    "team": "houston-rockets",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rot",
+    "design": "Icon Edition, rot",
+    "colors": [
+      "Rot"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Houston Rockets\" (Abschnitt Uniforms); ab 2026–27 rot/gelb akzentuiert im Rahmen der Rückkehr zum klassischen Farbschema, Grundfarbe weiterhin Rot."
+  },
+  {
+    "team": "houston-rockets",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Houston Rockets\" (Abschnitt Uniforms): \"the red 'Icon' and white 'Association' uniforms now feature truncated side striping.\""
+  },
+  {
+    "team": "indiana-pacers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Marineblau",
+    "design": "Icon Edition, navy blau",
+    "colors": [
+      "Marineblau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Indiana Pacers\" (Abschnitt Uniforms, 2017)."
+  },
+  {
+    "team": "indiana-pacers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Indiana Pacers\" (Abschnitt Uniforms, 2017): \"the white 'Association', navy blue 'Icon' and yellow 'Statement' uniforms mirrored each other.\""
+  },
+  {
+    "team": "la-clippers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Marineblau / Rot / Weiß",
+    "design": "Icon Edition, navy blau mit 'Clippers'-Script in Rot und weißen Nummern",
+    "colors": [
+      "Marineblau",
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"LA Clippers\" (Abschnitt Uniforms, 2024–25-Redesign): \"The 'Icon' navy blue uniform featured the aforementioned 'Clippers' script in red with white numbers.\""
+  },
+  {
+    "team": "la-clippers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Marineblau / Rot",
+    "design": "Association Edition, weiß mit 'Clippers'-Script in Navy und roten Nummern (Design seit 2024–25)",
+    "colors": [
+      "Weiß",
+      "Marineblau",
+      "Rot"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"LA Clippers\" (Abschnitt Uniforms, 2024–25-Redesign): \"The 'Association' white uniform featured the modernized script 'Clippers' wordmark in navy blue with red numbers.\""
+  },
+  {
+    "team": "los-angeles-lakers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Gold",
+    "design": "Icon Edition, Gold – NICHT Lila (das ist das separate 'Statement'-Trikot)",
+    "colors": [
+      "Gold"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (s. o.): Bei den Lakers ist das Icon-Trikot golden, nicht violett – Ausnahme von der naheliegenden Annahme 'Icon = Vereinshauptfarbe Lila'. Wikipedia \"Los Angeles Lakers\" bestätigt nur die weiße Association-Ausführung im Fließtext, Icon-Farbe daher über Zweitquelle belegt."
+  },
+  {
+    "team": "los-angeles-lakers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (Team-/Handelsseiten, u. a. StockX-Produktbeschreibung \"Icon Edition ... Amarillo/Purple/White\"): \"The Lakers white jersey is the team's 'Association' jersey ... the gold is the 'Icon' jersey, and the purple is the 'Statement' jersey.\""
+  },
+  {
+    "team": "memphis-grizzlies",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Marineblau",
+    "design": "Icon Edition, navy blau",
+    "colors": [
+      "Marineblau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Memphis Grizzlies\" (Abschnitt Uniforms)."
+  },
+  {
+    "team": "memphis-grizzlies",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Memphis Grizzlies\" (Abschnitt Uniforms): \"The white 'Association' and navy blue 'Icon' uniform featured player names below the number.\""
+  },
+  {
+    "team": "miami-heat",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz",
+    "design": "Icon Edition, schwarz",
+    "colors": [
+      "Schwarz"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Miami Heat\" (Abschnitt Uniforms)."
+  },
+  {
+    "team": "miami-heat",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Miami Heat\" (Abschnitt Uniforms): \"The white uniforms are part of the 'Association' line, the black uniforms are on the 'Icon' line.\" Anmerkung: Zeitweise (Ende 2024/25) diente das weiße 'Miami Vice'-Trikot als Ersatz für die Association-Ausführung."
+  },
+  {
+    "team": "milwaukee-bucks",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Grün",
+    "design": "Icon Edition, grün",
+    "colors": [
+      "Grün"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Milwaukee Bucks\" (Abschnitt Uniforms)."
+  },
+  {
+    "team": "milwaukee-bucks",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Milwaukee Bucks\" (Abschnitt Uniforms): \"their regular home (now 'Association' white) and road (now 'Icon' green) uniforms.\""
+  },
+  {
+    "team": "minnesota-timberwolves",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Marineblau / Weiß",
+    "design": "Icon Edition (Saison 2025/26), Navy-Körper mit weißen Streifen und Schrift",
+    "colors": [
+      "Marineblau",
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Minnesota Timberwolves\" (Abschnitt Uniforms, 2017): \"The Icon Edition uniform ... has a navy body with white stripes and lettering.\""
+  },
+  {
+    "team": "minnesota-timberwolves",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Marineblau / Blau",
+    "design": "Association Edition (Saison 2025/26, vor dem Redesign zur Saison 2026/27): weiß mit Navy-/Blau-Streifen und -Schrift",
+    "colors": [
+      "Weiß",
+      "Marineblau",
+      "Blau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Minnesota Timberwolves\" (Abschnitt Uniforms, 2017): \"The Association Edition uniform ... consisted of a white uniform with navy and blue stripes and lettering.\" Ein neues Design (weißes Association/blaues Icon im 1989–96-Stil) wurde erst zur Saison 2026/27 angekündigt und betrifft daher nicht das hier kuratierte 2025/26-Kit."
+  },
+  {
+    "team": "new-orleans-pelicans",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Marineblau",
+    "design": "Icon Edition, navy blau",
+    "colors": [
+      "Marineblau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"New Orleans Pelicans\" (Abschnitt Uniforms)."
+  },
+  {
+    "team": "new-orleans-pelicans",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"New Orleans Pelicans\" (Abschnitt Uniforms): \"The white 'Association' and navy 'Icon' uniforms now featured an enlarged and condensed treatment of the 'New Orleans' wordmark.\""
+  },
+  {
+    "team": "new-york-knicks",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Blau",
+    "design": "Icon Edition, blau",
+    "colors": [
+      "Blau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"New York Knicks\" (Abschnitt Uniforms)."
+  },
+  {
+    "team": "new-york-knicks",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"New York Knicks\" (Abschnitt Uniforms): \"The Knicks kept their white 'Association' and blue 'icon' uniforms almost intact.\""
+  },
+  {
+    "team": "oklahoma-city-thunder",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Blau",
+    "design": "Icon Edition, blau, Teamname vorn mit 'OKC'-Kürzel am Bund",
+    "colors": [
+      "Blau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Oklahoma City Thunder\" (Abschnitt Uniforms)."
+  },
+  {
+    "team": "oklahoma-city-thunder",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß, mit Umriss von Oklahoma",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Oklahoma City Thunder\" (Abschnitt Uniforms): \"the Thunder kept their existing white ('Association') and blue ('Icon') uniforms.\""
+  },
+  {
+    "team": "orlando-magic",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Blau",
+    "design": "Icon Edition, blau (zur Saison 2025/26 als Icon-Grundfarbe zurückgekehrt; zwischenzeitlich 2019–2025 war Schwarz die Icon-Farbe)",
+    "colors": [
+      "Blau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Orlando Magic\" (Abschnitt Uniforms): \"Ahead of the 2025–26 season ... Blue was brought back as the 'Icon' uniform base color, while the black 'Statement' uniform pays homage to the road warmup gear.\""
+  },
+  {
+    "team": "orlando-magic",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß, Pinstripe-Look (Redesign zur Saison 2025/26)",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Orlando Magic\" (Abschnitt Uniforms, Redesign vor der Saison 2025/26): weißes Association-Trikot im modernisierten 1989–98-Pinstripe-Look."
+  },
+  {
+    "team": "philadelphia-76ers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Blau",
+    "design": "Icon Edition, blau, 'PHILA'-Schriftzug",
+    "colors": [
+      "Blau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Philadelphia 76ers\" (Abschnitt Team identity/2015–present)."
+  },
+  {
+    "team": "philadelphia-76ers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß, 'PHILA'-Schriftzug",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Philadelphia 76ers\" (Abschnitt Team identity/2015–present): \"The blue 'Icon' uniform and the white 'Association' uniform now feature a red drop shadow on the lettering.\""
+  },
+  {
+    "team": "phoenix-suns",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Lila / Grau / Orange",
+    "design": "Icon Edition, lila, 'Phoenix' in Grau, Nummern in Orange",
+    "colors": [
+      "Lila",
+      "Grau",
+      "Orange"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Phoenix Suns\" (Abschnitt Uniforms, 2017): \"The purple 'Icon' uniforms featured 'Phoenix' in grey and the numbers in orange.\""
+  },
+  {
+    "team": "phoenix-suns",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Orange / Lila",
+    "design": "Association Edition, weiß, 'Suns' in Orange, Nummern in Lila",
+    "colors": [
+      "Weiß",
+      "Orange",
+      "Lila"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Phoenix Suns\" (Abschnitt Uniforms, 2017): \"The Suns' 'Association' uniforms featured 'Suns' in orange and the numbers in purple.\""
+  },
+  {
+    "team": "portland-trail-blazers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Rot / Weiß",
+    "design": "Icon Edition (ab Saison 2025/26): schwarz mit Rot-Weiß-Schärpe",
+    "colors": [
+      "Schwarz",
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (s. o.): \"mainly held in black with the typical sash in red and white.\" Löst das vorherige (2017–2025) Icon-Design ab; gültig für die hier kuratierte Saison 2025/26."
+  },
+  {
+    "team": "portland-trail-blazers",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Schwarz",
+    "design": "Association Edition (ab Saison 2025/26): weiß mit diagonaler Rot-Schwarz-Schärpe",
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (Rip City Clothing/Fanatics-Produktbeschreibungen zum 2025-26-Redesign): \"predominantly white with the iconic diagonal sash in red and black.\" Wikipedia \"Portland Trail Blazers\" enthielt zum Redaktionszeitpunkt keinen eigenen Uniforms-Fließtext."
+  },
+  {
+    "team": "sacramento-kings",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Weiß / Lila",
+    "design": "Icon Edition (seit 2023–24): schwarze Basis mit weißer Schrift und lila Trim – Schwarz löste Lila als Hauptfarbe ab",
+    "colors": [
+      "Schwarz",
+      "Weiß",
+      "Lila"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Sacramento Kings\" (Abschnitt Uniforms, 2023–24-Redesign): \"The most notable change was that black became the primary color and purple relegated to accent color ... The black 'Icon' uniform featured white letters and purple trim.\""
+  },
+  {
+    "team": "sacramento-kings",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Lila",
+    "design": "Association Edition (seit 2023–24): weiß mit schwarzer Schrift und lila Trim",
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Lila"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Sacramento Kings\" (Abschnitt Uniforms, 2023–24-Redesign): \"The white 'Association' uniform featured black letters and purple trim.\""
+  },
+  {
+    "team": "san-antonio-spurs",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz",
+    "design": "Icon Edition, schwarz",
+    "colors": [
+      "Schwarz"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"San Antonio Spurs\" (Abschnitt Logo and uniforms)."
+  },
+  {
+    "team": "san-antonio-spurs",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"San Antonio Spurs\" (Abschnitt Logo and uniforms): \"The Spurs' black 'Icon', silver 'Statement' and white 'Association' uniform remained identical to the previous set.\" Die Spurs tragen traditionell Weiß zu Hause und Schwarz auswärts."
+  },
+  {
+    "team": "toronto-raptors",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rot",
+    "design": "Icon Edition, rot",
+    "colors": [
+      "Rot"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (s. o.)."
+  },
+  {
+    "team": "toronto-raptors",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (Nike.com/NBA-Store-Produktseiten): \"Icon Edition comes in red ... Association Edition comes in white.\" Wikipedia \"Toronto Raptors\" bestätigt die Editionsnamen (Abschnitt Uniforms, 2017), ohne die Grundfarben im Fließtext zu wiederholen."
+  },
+  {
+    "team": "utah-jazz",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Lila / Weiß / Hellblau",
+    "design": "Icon Edition (ab Saison 2025/26): lila Basis ('Mountain Purple') mit Bergmotiv, weißen und hellblauen ('Sky Blue') Akzenten",
+    "colors": [
+      "Lila",
+      "Weiß",
+      "Hellblau"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (s. o.): \"The Utah Jazz 2025-26 Icon Edition jersey is built upon a rich purple base ... with white and teal accents.\" Wikipedia \"Utah Jazz\" (Abschnitt Uniforms) bestätigt den Umstieg auf das lila 'Mountain'-Design zur Saison 2025/26."
+  },
+  {
+    "team": "utah-jazz",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Lila",
+    "design": "Association Edition (ab Saison 2025/26): weiß mit lila Berg-Gradient ('Mountain Basketball'-Redesign)",
+    "colors": [
+      "Weiß",
+      "Lila"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Web-Recherche (u. a. Delta Center/NBA.com \"Mountain Basketball\"-Vorstellung): \"The 2025-26 white association edition jersey features a purple gradient mountainscape.\""
+  },
+  {
+    "team": "washington-wizards",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rot",
+    "design": "Icon Edition, rot",
+    "colors": [
+      "Rot"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Washington Wizards\" (Abschnitt Uniforms)."
+  },
+  {
+    "team": "washington-wizards",
+    "sport": "basketball",
+    "league": "nba",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß",
+    "design": "Association Edition, weiß",
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "NBA"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Wikipedia \"Washington Wizards\" (Abschnitt Uniforms): \"the white 'Association', red 'Icon' and navy 'Statement' uniforms.\""
   },
   {
     "team": "1-fc-koeln",

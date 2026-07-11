@@ -1,0 +1,21 @@
+team: athletics
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Dunkelgrün / Gold
+design: Weiß, Schriftzug 'Athletics' dunkelgrün mit Gold-Outline
+colors:
+- Weiß
+- Dunkelgrün
+- Gold
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Athletics (baseball)\" (Abschnitt Uniforms) + Web-Recherche (u. a. MLB Shop/Fanatics-Produktbeschreibungen 2025): Heimtrikot weiß, Schriftzug 'Athletics' dunkelgrün mit breitem gelben Outline. Team spielt 2025–2027 übergangsweise in West Sacramento, Beschriftung bleibt 'Athletics' ohne Stadtnamen."

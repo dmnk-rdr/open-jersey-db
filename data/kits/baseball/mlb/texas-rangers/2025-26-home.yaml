@@ -1,0 +1,21 @@
+team: texas-rangers
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Blau / Rot
+design: Weiß, 'Rangers'-Script blau mit weißem/rotem Trim
+colors:
+- Weiß
+- Blau
+- Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Texas Rangers (baseball)\" (Abschnitt Uniforms, 2020–present): \"The home white uniforms now featured a script 'Rangers' wordmark in blue with white and red trim.\""

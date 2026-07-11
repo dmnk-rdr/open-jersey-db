@@ -1,0 +1,21 @@
+team: atlanta-hawks
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Rot / Weiß / Gold
+design: "Icon Edition: Torch Red als Basis mit weißer Schrift und Legacy-Gold-Outline; dient als primäres Heim-Trikot der Hawks"
+colors:
+- Rot
+- Weiß
+- Gold
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Web-Recherche: \"The Icon edition has Torch Red as the primary color with white filling the numbers, letters and marks with Legacy Yellow borders.\" Hinweis: Die Hawks tragen das rote Icon-Trikot faktisch bei Heimspielen; hier trotzdem als kit_type 'away' kuratiert, da Icon in unserem Modell durchgängig der Auswärts-/Farbtrikot-Slot ist (siehe Notes zu anderen Teams mit gleicher Konvention)."

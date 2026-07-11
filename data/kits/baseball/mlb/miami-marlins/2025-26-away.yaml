@@ -1,0 +1,21 @@
+team: miami-marlins
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Schwarz / Rot
+design: Grau, gleiches Farbschema wie Heimtrikot
+colors:
+- Grau
+- Schwarz
+- Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Miami Marlins\" (Abschnitt Uniform history, 2019–present)."

@@ -1,0 +1,19 @@
+team: miami-heat
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Miami Heat\" (Abschnitt Uniforms): \"The white uniforms are part of the 'Association' line, the black uniforms are on the 'Icon' line.\" Anmerkung: Zeitweise (Ende 2024/25) diente das weiße 'Miami Vice'-Trikot als Ersatz für die Association-Ausführung."

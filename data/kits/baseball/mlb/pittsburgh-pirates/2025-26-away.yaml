@@ -1,0 +1,21 @@
+team: pittsburgh-pirates
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Schwarz / Gold
+design: Grau, Schriftzug 'Pittsburgh' (Script, seit 2020 wiederbelebt)
+colors:
+- Grau
+- Schwarz
+- Gold
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Pittsburgh Pirates\" (Abschnitt Logos and uniforms): \"the Pirates revived the script 'Pittsburgh' wordmarks on their gray road ... jerseys.\""

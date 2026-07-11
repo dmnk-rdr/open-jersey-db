@@ -1,0 +1,21 @@
+team: milwaukee-brewers
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Hellblau / Marineblau / Senfgold
+design: Powder Blue ab 2026 als primäres Roadtrikot (zuvor Grau), 'Milwaukee' Blockschrift
+colors:
+- Hellblau
+- Marineblau
+- Senfgold
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Milwaukee Brewers\" (Abschnitt Uniforms, 2020–present): \"Ahead of the 2026 season, the Brewers tweaked their primary road uniform. This design essentially swapped the grey base ... in favor of powder blue.\" Ausnahme von der Grau-Konvention, gültig für die laufende Saison 2026."

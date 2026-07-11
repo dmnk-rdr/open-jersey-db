@@ -1,0 +1,21 @@
+team: sacramento-kings
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Schwarz / Lila
+design: "Association Edition (seit 2023–24): weiß mit schwarzer Schrift und lila Trim"
+colors:
+- Weiß
+- Schwarz
+- Lila
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Sacramento Kings\" (Abschnitt Uniforms, 2023–24-Redesign): \"The white 'Association' uniform featured black letters and purple trim.\""

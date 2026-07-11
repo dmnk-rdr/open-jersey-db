@@ -1,0 +1,21 @@
+team: houston-astros
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Marineblau / Orange
+design: Weiß, 'Astros' in Navy-Blockbuchstaben mit orangem Trim
+colors:
+- Weiß
+- Marineblau
+- Orange
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Houston Astros\" (Abschnitt Uniforms, 2013–present: Return to navy and orange): \"Both uniforms featured the city name (road) and team name (home) in block navy letters with orange trim.\""

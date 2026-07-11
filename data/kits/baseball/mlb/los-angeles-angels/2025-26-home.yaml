@@ -1,0 +1,21 @@
+team: los-angeles-angels
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Rot / Dunkelblau
+design: Weiß, 'Angels' rot mit Navy-Trim
+colors:
+- Weiß
+- Rot
+- Dunkelblau
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Los Angeles Angels\" (Abschnitt Logos, uniforms and colors): aktuelles Farbschema seit 2002 \"predominantly red with some dark blue and white ... red letters trimmed in dark blue and silver\"."

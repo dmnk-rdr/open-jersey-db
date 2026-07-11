@@ -1,0 +1,19 @@
+team: detroit-pistons
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Blau
+design: "Icon Edition, blau"
+colors:
+- Blau
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Web-Recherche (Pistons-Teamshop/Fanatics-Produktbeschreibungen): Icon Edition blau, Bestandteil des seit 2017 verwendeten klassischen Rot-Weiß-Blau-Schemas."

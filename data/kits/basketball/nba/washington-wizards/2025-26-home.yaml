@@ -1,0 +1,19 @@
+team: washington-wizards
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Washington Wizards\" (Abschnitt Uniforms): \"the white 'Association', red 'Icon' and navy 'Statement' uniforms.\""

@@ -1,0 +1,21 @@
+team: texas-rangers
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Blau / Rot
+design: Grau, 'TEXAS' blau mit rotem Trim
+colors:
+- Grau
+- Blau
+- Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Texas Rangers (baseball)\" (Abschnitt Uniforms, 2009–2019/2020–present): Roadtrikot in Blau mit Rot-Trim seit 2000er-Jahren im Kern unverändert fortgeführt."

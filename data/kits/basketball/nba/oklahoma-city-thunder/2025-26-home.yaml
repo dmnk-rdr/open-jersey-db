@@ -1,0 +1,19 @@
+team: oklahoma-city-thunder
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß, mit Umriss von Oklahoma"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Oklahoma City Thunder\" (Abschnitt Uniforms): \"the Thunder kept their existing white ('Association') and blue ('Icon') uniforms.\""

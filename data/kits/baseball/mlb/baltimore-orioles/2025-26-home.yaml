@@ -1,0 +1,21 @@
+team: baltimore-orioles
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Orange / Schwarz
+design: Weiß, Schriftzug 'Orioles' traditionell orange mit schwarzem Trim
+colors:
+- Weiß
+- Orange
+- Schwarz
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Baltimore Orioles\" (Abschnitt Logos and uniforms): \"The Orioles' home uniform is white with the word 'Orioles' written across the chest\"; Orange/Schwarz als traditionelle Beschriftungsfarben durchgängig im Artikel belegt."

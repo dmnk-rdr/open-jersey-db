@@ -1,0 +1,21 @@
+team: baltimore-orioles
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Orange / Schwarz
+design: Grau, Schriftzug 'Baltimore'
+colors:
+- Grau
+- Orange
+- Schwarz
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Baltimore Orioles\" (Abschnitt Logos and uniforms): \"The road uniform is gray with the word 'Baltimore' written across the chest.\""

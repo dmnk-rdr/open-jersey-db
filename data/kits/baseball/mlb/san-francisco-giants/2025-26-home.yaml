@@ -1,0 +1,21 @@
+team: san-francisco-giants
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Creme / Orange / Schwarz
+design: Creme-Base, 'Giants'-Wordmark orange mit schwarzem Outline, Gold-Drop-Shadow
+colors:
+- Creme
+- Orange
+- Schwarz
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"San Francisco Giants\" (Abschnitt Uniforms/2000–present/Home): \"The base of the home uniform was changed to cream.\" Beschriftungsfarbe (orange/schwarz) über Web-Recherche (MLB Shop-Produktbeschreibung Cream Home Jersey) bestätigt, da die Wikipedia-Sektion selbst keine Buchstabenfarbe nennt."

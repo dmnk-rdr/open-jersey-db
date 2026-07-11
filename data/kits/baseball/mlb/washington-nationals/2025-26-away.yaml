@@ -1,0 +1,21 @@
+team: washington-nationals
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Grau / Marineblau / Rot
+design: Grau, 'Washington' in Blockbuchstaben navy mit weißem/rotem Trim (seit 2024)
+colors:
+- Grau
+- Marineblau
+- Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Washington Nationals\" (Abschnitt Uniforms, 2018–present): \"In 2024, the Nationals updated their road uniform, featuring a block 'Washington' lettering in navy with white and red trim.\""

@@ -1,0 +1,21 @@
+team: phoenix-suns
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Lila / Grau / Orange
+design: "Icon Edition, lila, 'Phoenix' in Grau, Nummern in Orange"
+colors:
+- Lila
+- Grau
+- Orange
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Phoenix Suns\" (Abschnitt Uniforms, 2017): \"The purple 'Icon' uniforms featured 'Phoenix' in grey and the numbers in orange.\""

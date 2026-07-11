@@ -1,0 +1,19 @@
+team: orlando-magic
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Blau
+design: "Icon Edition, blau (zur Saison 2025/26 als Icon-Grundfarbe zurückgekehrt; zwischenzeitlich 2019–2025 war Schwarz die Icon-Farbe)"
+colors:
+- Blau
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Orlando Magic\" (Abschnitt Uniforms): \"Ahead of the 2025–26 season ... Blue was brought back as the 'Icon' uniform base color, while the black 'Statement' uniform pays homage to the road warmup gear.\""

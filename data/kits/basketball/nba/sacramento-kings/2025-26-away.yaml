@@ -1,0 +1,21 @@
+team: sacramento-kings
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Schwarz / Weiß / Lila
+design: "Icon Edition (seit 2023–24): schwarze Basis mit weißer Schrift und lila Trim – Schwarz löste Lila als Hauptfarbe ab"
+colors:
+- Schwarz
+- Weiß
+- Lila
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Sacramento Kings\" (Abschnitt Uniforms, 2023–24-Redesign): \"The most notable change was that black became the primary color and purple relegated to accent color ... The black 'Icon' uniform featured white letters and purple trim.\""

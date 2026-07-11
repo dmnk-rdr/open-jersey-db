@@ -1,0 +1,19 @@
+team: philadelphia-76ers
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß, 'PHILA'-Schriftzug"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Philadelphia 76ers\" (Abschnitt Team identity/2015–present): \"The blue 'Icon' uniform and the white 'Association' uniform now feature a red drop shadow on the lettering.\""

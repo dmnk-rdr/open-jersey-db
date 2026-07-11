@@ -1,0 +1,19 @@
+team: dallas-mavericks
+sport: basketball
+league: nba
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß
+design: "Association Edition, weiß"
+colors:
+- Weiß
+competitions:
+- NBA
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Wikipedia \"Dallas Mavericks\" (Abschnitt Uniforms): \"The Mavericks' white uniforms are part of the 'Association' set.\""
