@@ -41,12 +41,31 @@ GTIN for that design.
 | `player_name`  |     | string \| null | Only for player-name editions. |
 | `manufacturer` |     | string \| null | `adidas`, `Nike`, `Puma`, … |
 | `main_sponsor` |     | string \| null | |
-| `colorway`     |     | string \| null | |
+| `colorway`     |     | string \| null | Free-text, e.g. `Scarlet / Gold`. |
+| `colors`       |     | string[] \| null | Primary colours of the design. **`colors[0]` is the shirt's base colour** — see below. |
 | `gtins`        |     | string[]       | GTIN-8/12/13/14, **mod-10 check-digit validated**. The golden matching key. |
 | `aliases`      |     | string[]       | Free-text product-name variants from shops. |
 | `source`       |  ✓  | enum           | `manufacturer`, `feed`, or `community` (provenance). |
 | `verified_by`  |     | string \| null | Required when `source = manufacturer`, e.g. `adidas`. |
 | `notes`        |     | string \| null | |
+
+### Colours
+
+`colors` lists the colours of **this kit's design** — not the club's colour palette.
+
+**`colors[0]` MUST be the base colour of the shirt itself**, i.e. the colour you see across most
+of the jersey body. Trim, numbers, secondary and accent colours follow, in no particular order.
+
+This ordering is load-bearing: consumers identify a kit by matching a shop's colour word
+("white", "scarlet", "navy") against `colors[0]`. A palette dump breaks that. For example, the
+New England Patriots' home shirt is nautical blue — so `colors[0]` is `Nautical Blue`, even
+though white and silver appear on the shirt too, and even though the club's palette lists them
+as club colours.
+
+Leagues where the home shirt is *not* simply "the dark one" make this necessary: in the NFL the
+home team picks its own shirt colour for the season and several teams traditionally wear white
+at home; in MLB the home shirt is white and the road shirt is grey. There is no league-wide
+rule to fall back on — the kit's own colours are the only reliable statement.
 
 ### GTINs
 
