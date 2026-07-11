@@ -1,0 +1,22 @@
+team: new-england-patriots
+sport: american-football
+league: nfl
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Nautical Blue / Rot / Silber
+design: null
+colors:
+- Nautical Blue
+- Rot
+- New Century Silver
+- Weiß
+competitions:
+- NFL
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Teamfarben Quelle: Wikipedia \"New England Patriots\" (Infobox: Nautical blue, red, new century silver, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."

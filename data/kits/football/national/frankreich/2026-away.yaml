@@ -1,0 +1,27 @@
+team: frankreich
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Igloo (Mint) / Monarch (Kupfer)
+design: >-
+  Mintgrünes ("Igloo") Trikot mit kupferfarbenen ("Monarch") Logos und
+  französischer Trikolore an den Ärmelbündchen. Design von der
+  Freiheitsstatue inspiriert - Anspielung auf die historische Verbindung
+  zwischen Frankreich und den USA als WM-2026-Gastgeber. Sowohl Nike-Swoosh
+  als auch FFF-Wappen in Kupfer-Optik; die 2026-Austragungsorte sind in
+  distressed-Schrift über die Trikotpaneele gedruckt.
+colors:
+- Mintgrün
+- Kupfer
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2026-03-23'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"France 2026 World Cup Away Kit Teased + Leaked\", 2025-04). Frankreich ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

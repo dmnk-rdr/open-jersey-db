@@ -10,3 +10,7 @@ wikidata: Q721134
 founded: 1969
 city: San Diego
 stadium: PETCO Park
+# Ausrüster: Nike ist seit 2020 exklusiver Uniform-Ausrüster ALLER MLB-Teams
+# (ligaweiter Deal, kein teamspezifischer; zuvor Majestic Athletic). Quelle: MLB.com/ESPN.
+kit_suppliers:
+- { manufacturer: Nike, from: 2020 }

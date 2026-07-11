@@ -9,3 +9,7 @@ aliases:
 wikidata: Q337377
 founded: 1936
 city: Los Angeles
+# Ausrüster: Nike ist seit 2012 exklusiver On-Field-Ausrüster ALLER NFL-Teams
+# (ligaweiter Deal, kein teamspezifischer). Quelle: NFL.com/ESPN.
+kit_suppliers:
+- { manufacturer: Nike, from: 2012 }

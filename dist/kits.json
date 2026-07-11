@@ -1,5 +1,280 @@
 [
   {
+    "team": "baltimore-ravens",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Lila / Schwarz / Gold",
+    "design": null,
+    "colors": [
+      "Lila",
+      "Schwarz",
+      "Metallic Gold"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"Baltimore Ravens\" (Infobox: Purple, black, metallic gold). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "chicago-bears",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Marineblau / Orange",
+    "design": null,
+    "colors": [
+      "Marineblau",
+      "Orange",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"Chicago Bears\" (Infobox: Navy blue, orange, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "cincinnati-bengals",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Orange",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Orange",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"Cincinnati Bengals\" (Infobox: Black, orange, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "los-angeles-rams",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rams Royal / Sol / Weiß",
+    "design": null,
+    "colors": [
+      "Rams Royal (Blau)",
+      "Sol (Gelb)",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"Los Angeles Rams\" (Infobox: Rams royal, sol, white, midnight). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "minnesota-vikings",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Lila / Gold",
+    "design": null,
+    "colors": [
+      "Lila",
+      "Gold",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"Minnesota Vikings\" (Infobox: Purple, gold, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "new-england-patriots",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Nautical Blue / Rot / Silber",
+    "design": null,
+    "colors": [
+      "Nautical Blue",
+      "Rot",
+      "New Century Silver",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"New England Patriots\" (Infobox: Nautical blue, red, new century silver, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "san-francisco-49ers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rot / Gold",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Gold"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"San Francisco 49ers\" (Infobox: Red, Gold). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "seattle-seahawks",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "College Navy / Action Green / Wolf Grey",
+    "design": null,
+    "colors": [
+      "College Navy (Marineblau)",
+      "Action Green",
+      "Wolf Grey"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"Seattle Seahawks\" (Infobox: College navy, action green, wolf grey). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "boston-red-sox",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rot / Marineblau / Weiß",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Marineblau",
+      "Weiß"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"Boston Red Sox\" (Infobox: Red, navy blue, white). Nike ist seit 2020 exklusiver Uniform-Ausrüster der MLB (Quelle: MLB.com/ESPN)."
+  },
+  {
+    "team": "los-angeles-dodgers",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Dodger Blue / Weiß / Rot",
+    "design": null,
+    "colors": [
+      "Dodger Blue",
+      "Weiß",
+      "Rot"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"Los Angeles Dodgers\" (Infobox: Dodger blue, white, red). Nike ist seit 2020 exklusiver Uniform-Ausrüster der MLB (Quelle: MLB.com/ESPN)."
+  },
+  {
+    "team": "san-diego-padres",
+    "sport": "baseball",
+    "league": "mlb",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Braun / Gold / Weiß",
+    "design": null,
+    "colors": [
+      "Braun",
+      "Gold",
+      "Weiß"
+    ],
+    "competitions": [
+      "MLB"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Teamfarben Quelle: Wikipedia \"San Diego Padres\" (Infobox: Brown, gold, white - seit 2020 wieder die ursprüngliche Farbpalette). Nike ist seit 2020 exklusiver Uniform-Ausrüster der MLB (Quelle: MLB.com/ESPN)."
+  },
+  {
     "team": "1-fc-koeln",
     "sport": "football",
     "league": "bundesliga",
@@ -190,6 +465,60 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "algerien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Grün / Dunkelgrün",
+    "design": "Zweifarbiges Grün: heller grüner Trikotkörper mit dunkelgrünen Ärmeln, weiße Logos und rote Applikationen. Rote Einfassung an V-Kragen und Ärmelbündchen, weiße adidas-Schulterstreifen. Wie das Heimtrikot mit der Nationalflagge statt des Verbandswappens.",
+    "colors": [
+      "Grün",
+      "Dunkelgrün",
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2026-03-20",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Algeria 2026 World Cup Home Kit Released + Away Kit Leaked\", 2025-10; Verkaufsstart 2026-03-20) + Football Fashion (\"Algeria 2026 Jersey: adidas Away Kit for FIFA World Cup\", 2026-05). Algerien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
+    "team": "algerien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Chalk White / Grün",
+    "design": "Von den Sanddünen und Felsen der Sahara inspiriertes Trikot: cremefarbene (\"Chalk White\") Basis mit dezenten goldenen, traditionell gemusterten Vertikalstreifen, abgerundeter Kragen mit rotem Rand und grünen Schulterstreifen. Erstmals seit der WM-Qualifikation 2018 wieder mit der Nationalflagge statt des Verbandswappens auf der Brust.",
+    "colors": [
+      "Chalk White (Creme)",
+      "Rot",
+      "Grün",
+      "Gold"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2025-11-06",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Algeria 2026 World Cup Home Kit Released + Away Kit Leaked\", 2025-10). Algerien ist für die WM 2026 als Sieger der CAF-Gruppe G qualifiziert (Quelle: FIFA/Wikipedia)."
   },
   {
     "team": "argentinien",
@@ -456,6 +785,58 @@
     "source": "community"
   },
   {
+    "team": "belgien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Frozen Blue / Rosa",
+    "design": "Vom belgischen Surrealisten René Magritte inspiriertes Trikot: hellblaue (\"Robin's Egg Blue\") Basis mit wiederkehrendem Muster aus rosa/blauen Fußball-Motiven, angelehnt an Magrittes runde Bildmotive (Äpfel, Monde, Sonnen). Schwarzer V-Kragen, Ärmelbündchen und adidas-Schulterstreifen. Im Innenkragen der Schriftzug \"Ceci n'est pas un maillot\" - eine direkte Anspielung auf Magrittes Werk \"La Trahison des Images\".",
+    "colors": [
+      "Hellblau",
+      "Rosa",
+      "Schwarz"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2026-04-26",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Football Fashion (\"Belgium World Cup 2026 Away Jersey: adidas Unveils Magritte-Inspired Kit\", 2026-04-26) + Artsy (bestätigt Einsatz im WM-2026-K.-o.-Spiel). Belgien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
+    "team": "belgien",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Rot / Schwarz / Gelb",
+    "design": "Roter Grundton mit ganzflächigem Muster aus Buntglas-Grafiken, inspiriert von belgischer Gotik-Architektur; wiederkehrende Symbole der Red Devils und Red Flames als kulturelles Detail. Schwarz-gelbe Einfassung an Schultern und Ärmelbündchen (Flaggenfarben). Transfer-Knit-Jacquard mit adidas-Climacool+-Technologie, perforiertes 3-Streifen-Tape.",
+    "colors": [
+      "Rot",
+      "Schwarz",
+      "Gelb"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2025-11-14",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Football Fashion (\"Belgium World Cup 2026 Kit\", 2025-11-14). Belgien ist für die WM 2026 qualifiziert und im Turnier vertreten (Quelle: FIFA/Wikipedia)."
+  },
+  {
     "team": "betis-sevilla",
     "sport": "football",
     "league": "la-liga",
@@ -707,6 +1088,31 @@
     "aliases": [],
     "source": "community",
     "notes": "Quelle: Footy Headlines (\"Chile 2026 Home Kit Leaked\"/\"Adidas 2026 World Cup Home Kits Released\", 2025-11-06). Chile hat sich NICHT für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\", kein \"World Cup\"."
+  },
+  {
+    "team": "costa-rica",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Hellblau / Lavendel / Creme",
+    "design": "Dschungel-inspiriertes Trikot in Hellblau, Lavendel und Creme; dynamisches, ganzflächiges Blau-Fuchsia-Grafikmuster mit Elementen des Tukans und Regenwaldblättern. Dunkelblauer V-Kragen mit passenden adidas-Streifen. Rückenspruch \"Pura Vida\" am Nackenkragen.",
+    "colors": [
+      "Hellblau",
+      "Lavendel",
+      "Creme"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "skus": null,
+    "release_date": "2026-03-20",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"Exclusive: Awesome Costa Rica 2026 Away Kit Leaked\", 2025-11; Footy Headlines bestätigt explizit: das Trikot wird NICHT bei der WM 2026 getragen, da Costa Rica sich nicht qualifiziert hat). Costa Rica hat sich NICHT für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\"."
   },
   {
     "team": "costa-rica",
@@ -1611,25 +2017,51 @@
     "sport": "football",
     "league": null,
     "season": "2026",
-    "kit_type": "home",
+    "kit_type": "away",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "Blau",
-    "design": null,
+    "colorway": "Igloo (Mint) / Monarch (Kupfer)",
+    "design": "Mintgrünes (\"Igloo\") Trikot mit kupferfarbenen (\"Monarch\") Logos und französischer Trikolore an den Ärmelbündchen. Design von der Freiheitsstatue inspiriert - Anspielung auf die historische Verbindung zwischen Frankreich und den USA als WM-2026-Gastgeber. Sowohl Nike-Swoosh als auch FFF-Wappen in Kupfer-Optik; die 2026-Austragungsorte sind in distressed-Schrift über die Trikotpaneele gedruckt.",
     "colors": [
-      "Blau",
-      "Weiß",
-      "Rot"
+      "Mintgrün",
+      "Kupfer"
     ],
     "competitions": [
       "International",
       "World Cup"
     ],
     "skus": null,
-    "release_date": null,
+    "release_date": "2026-03-23",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"France 2026 World Cup Away Kit Teased + Leaked\", 2025-04). Frankreich ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
+    "team": "frankreich",
+    "sport": "football",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Game Royal / Metallic Copper",
+    "design": "Ganzflächiges, tonales Muster mit FFF-Grafiken; moderner Polokragen (vorne Weiß, hinten in Marineblau auslaufend) mit Trikolore-Details. Kupferfarbene Logos als Anspielung auf das Ursprungsmaterial der Freiheitsstatue - Hommage an die historische Verbindung zwischen Frankreich und den USA als WM-Gastgeber.",
+    "colors": [
+      "Game Royal (Blau)",
+      "Metallic Copper",
+      "Weiß"
+    ],
+    "competitions": [
+      "International",
+      "World Cup"
+    ],
+    "skus": null,
+    "release_date": "2026-03-23",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: Footy Headlines (\"France 2026 World Cup Home & Away Kits Released\", 2025-02) + FourFourTwo (\"The France World Cup 2026 home kit is out\"). Frankreich ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
   },
   {
     "team": "futbol-club-barcelona",
@@ -3703,6 +4135,30 @@
     "sport": "football",
     "league": "3-liga",
     "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "uhlsport",
+    "main_sponsor": null,
+    "colorway": "Weiß / Marine",
+    "design": "Weiße Basis mit marineblauen Akzenten",
+    "colors": [
+      "Weiß",
+      "Marineblau"
+    ],
+    "competitions": [
+      "3. Liga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: uhlsport-Shop, Produktbezeichnung \"SVW Auswärtstrikot 25/26 in weiß/marine\"."
+  },
+  {
+    "team": "sv-waldhof-mannheim",
+    "sport": "football",
+    "league": "3-liga",
+    "season": "2025/26",
     "kit_type": "home",
     "manufacturer": "uhlsport",
     "main_sponsor": null,
@@ -3726,6 +4182,29 @@
     "aliases": [],
     "source": "community",
     "notes": "Quelle: uhlsport-Shop / SVW07-Vereinsshop, Produktbeschreibung Heimtrikot 25/26."
+  },
+  {
+    "team": "sv-waldhof-mannheim",
+    "sport": "football",
+    "league": "3-liga",
+    "season": "2025/26",
+    "kit_type": "third",
+    "manufacturer": "uhlsport",
+    "main_sponsor": null,
+    "colorway": "Steingrau",
+    "design": "Trikot in Steingrau",
+    "colors": [
+      "Steingrau"
+    ],
+    "competitions": [
+      "3. Liga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: uhlsport-Shop, Produktbezeichnung \"SVW Ausweichtrikot 25/26 in steingrau\"."
   },
   {
     "team": "sv-werder-bremen",
@@ -4171,5 +4650,26 @@
     "aliases": [],
     "source": "community",
     "notes": "Quelle: offizieller Kempa-Shop, Produktseite \"HBW Heimtrikot 25/26\" (kempa-sports.com)."
+  },
+  {
+    "team": "island-handball",
+    "sport": "handball",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "Kempa",
+    "main_sponsor": null,
+    "colorway": null,
+    "design": null,
+    "colors": null,
+    "competitions": [
+      "International"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Ausrüster Kempa bestätigt (eigener Fanshop-Bereich für die isländische Nationalmannschaft auf kempa-sports.com). Design/Farben des aktuellen Trikots nicht zuverlässig belegt gefunden -> bewusst weggelassen statt geraten."
   }
 ]

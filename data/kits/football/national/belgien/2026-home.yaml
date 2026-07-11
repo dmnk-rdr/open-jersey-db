@@ -1,0 +1,27 @@
+team: belgien
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: adidas
+main_sponsor: null
+colorway: Rot / Schwarz / Gelb
+design: >-
+  Roter Grundton mit ganzflächigem Muster aus Buntglas-Grafiken, inspiriert
+  von belgischer Gotik-Architektur; wiederkehrende Symbole der Red Devils
+  und Red Flames als kulturelles Detail. Schwarz-gelbe Einfassung an
+  Schultern und Ärmelbündchen (Flaggenfarben). Transfer-Knit-Jacquard mit
+  adidas-Climacool+-Technologie, perforiertes 3-Streifen-Tape.
+colors:
+- Rot
+- Schwarz
+- Gelb
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2025-11-14'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Football Fashion (\"Belgium World Cup 2026 Kit\", 2025-11-14). Belgien ist für die WM 2026 qualifiziert und im Turnier vertreten (Quelle: FIFA/Wikipedia)."

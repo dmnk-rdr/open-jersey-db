@@ -39,6 +39,12 @@
     ],
     "founded": 1996,
     "city": "Baltimore",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2012
+      }
+    ],
     "wikidata": "Q276539"
   },
   {
@@ -82,6 +88,12 @@
     ],
     "founded": 1919,
     "city": "Chicago",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2012
+      }
+    ],
     "wikidata": "Q205033"
   },
   {
@@ -97,6 +109,12 @@
     "founded": 1968,
     "city": "Cincinnati",
     "stadium": "Paycor Stadium",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2012
+      }
+    ],
     "wikidata": "Q223511"
   },
   {
@@ -270,6 +288,12 @@
     ],
     "founded": 1936,
     "city": "Los Angeles",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2012
+      }
+    ],
     "wikidata": "Q337377"
   },
   {
@@ -299,6 +323,12 @@
     ],
     "founded": 1961,
     "city": "Minneapolis",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2012
+      }
+    ],
     "wikidata": "Q221150"
   },
   {
@@ -314,6 +344,12 @@
     "founded": 1959,
     "city": "Boston",
     "stadium": "Gillette Stadium",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2012
+      }
+    ],
     "wikidata": "Q193390"
   },
   {
@@ -403,6 +439,12 @@
     "founded": 1946,
     "city": "San Francisco",
     "stadium": "Levi’s Stadium",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2012
+      }
+    ],
     "wikidata": "Q337758"
   },
   {
@@ -417,6 +459,12 @@
     ],
     "founded": 1976,
     "city": "Seattle",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2012
+      }
+    ],
     "wikidata": "Q221878"
   },
   {
@@ -532,6 +580,12 @@
     ],
     "founded": 1901,
     "city": "Boston",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2020
+      }
+    ],
     "wikidata": "Q213959"
   },
   {
@@ -681,6 +735,12 @@
     "founded": 1884,
     "city": "Los Angeles",
     "stadium": "Dodger Stadium",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2020
+      }
+    ],
     "wikidata": "Q334634"
   },
   {
@@ -797,6 +857,12 @@
     "founded": 1969,
     "city": "San Diego",
     "stadium": "PETCO Park",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2020
+      }
+    ],
     "wikidata": "Q721134"
   },
   {

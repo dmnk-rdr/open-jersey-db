@@ -10,3 +10,7 @@ wikidata: Q334634
 founded: 1884
 city: Los Angeles
 stadium: Dodger Stadium
+# Ausrüster: Nike ist seit 2020 exklusiver Uniform-Ausrüster ALLER MLB-Teams
+# (ligaweiter Deal, kein teamspezifischer; zuvor Majestic Athletic). Quelle: MLB.com/ESPN.
+kit_suppliers:
+- { manufacturer: Nike, from: 2020 }

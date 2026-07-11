@@ -1,0 +1,27 @@
+team: algerien
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: adidas
+main_sponsor: null
+colorway: Grün / Dunkelgrün
+design: >-
+  Zweifarbiges Grün: heller grüner Trikotkörper mit dunkelgrünen Ärmeln,
+  weiße Logos und rote Applikationen. Rote Einfassung an V-Kragen und
+  Ärmelbündchen, weiße adidas-Schulterstreifen. Wie das Heimtrikot mit der
+  Nationalflagge statt des Verbandswappens.
+colors:
+- Grün
+- Dunkelgrün
+- Rot
+- Weiß
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2026-03-20'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Algeria 2026 World Cup Home Kit Released + Away Kit Leaked\", 2025-10; Verkaufsstart 2026-03-20) + Football Fashion (\"Algeria 2026 Jersey: adidas Away Kit for FIFA World Cup\", 2026-05). Algerien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

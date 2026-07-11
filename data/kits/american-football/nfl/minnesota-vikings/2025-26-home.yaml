@@ -1,0 +1,21 @@
+team: minnesota-vikings
+sport: american-football
+league: nfl
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Lila / Gold
+design: null
+colors:
+- Lila
+- Gold
+- Weiß
+competitions:
+- NFL
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Teamfarben Quelle: Wikipedia \"Minnesota Vikings\" (Infobox: Purple, gold, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."

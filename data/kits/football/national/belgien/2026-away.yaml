@@ -1,0 +1,28 @@
+team: belgien
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: adidas
+main_sponsor: null
+colorway: Frozen Blue / Rosa
+design: >-
+  Vom belgischen Surrealisten René Magritte inspiriertes Trikot: hellblaue
+  ("Robin's Egg Blue") Basis mit wiederkehrendem Muster aus rosa/blauen
+  Fußball-Motiven, angelehnt an Magrittes runde Bildmotive (Äpfel, Monde,
+  Sonnen). Schwarzer V-Kragen, Ärmelbündchen und adidas-Schulterstreifen.
+  Im Innenkragen der Schriftzug "Ceci n'est pas un maillot" - eine
+  direkte Anspielung auf Magrittes Werk "La Trahison des Images".
+colors:
+- Hellblau
+- Rosa
+- Schwarz
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2026-04-26'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Football Fashion (\"Belgium World Cup 2026 Away Jersey: adidas Unveils Magritte-Inspired Kit\", 2026-04-26) + Artsy (bestätigt Einsatz im WM-2026-K.-o.-Spiel). Belgien ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

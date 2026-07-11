@@ -1,0 +1,21 @@
+team: los-angeles-dodgers
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Dodger Blue / Weiß / Rot
+design: null
+colors:
+- Dodger Blue
+- Weiß
+- Rot
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Teamfarben Quelle: Wikipedia \"Los Angeles Dodgers\" (Infobox: Dodger blue, white, red). Nike ist seit 2020 exklusiver Uniform-Ausrüster der MLB (Quelle: MLB.com/ESPN)."

@@ -5,17 +5,23 @@ season: '2026'
 kit_type: home
 manufacturer: Nike
 main_sponsor: null
-colorway: Blau
-design: null
+colorway: Game Royal / Metallic Copper
+design: >-
+  Ganzflächiges, tonales Muster mit FFF-Grafiken; moderner Polokragen (vorne
+  Weiß, hinten in Marineblau auslaufend) mit Trikolore-Details. Kupferfarbene
+  Logos als Anspielung auf das Ursprungsmaterial der Freiheitsstatue -
+  Hommage an die historische Verbindung zwischen Frankreich und den USA als
+  WM-Gastgeber.
 colors:
-- Blau
+- Game Royal (Blau)
+- Metallic Copper
 - Weiß
-- Rot
 competitions:
 - International
 - World Cup
 skus: null
-release_date: null
+release_date: '2026-03-23'
 gtins: []
 aliases: []
 source: community
+notes: "Quelle: Footy Headlines (\"France 2026 World Cup Home & Away Kits Released\", 2025-02) + FourFourTwo (\"The France World Cup 2026 home kit is out\"). Frankreich ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."

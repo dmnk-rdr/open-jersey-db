@@ -1,0 +1,21 @@
+team: seattle-seahawks
+sport: american-football
+league: nfl
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: College Navy / Action Green / Wolf Grey
+design: null
+colors:
+- College Navy (Marineblau)
+- Action Green
+- Wolf Grey
+competitions:
+- NFL
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Teamfarben Quelle: Wikipedia \"Seattle Seahawks\" (Infobox: College navy, action green, wolf grey). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."

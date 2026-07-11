@@ -1,0 +1,21 @@
+team: los-angeles-rams
+sport: american-football
+league: nfl
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Rams Royal / Sol / Weiß
+design: null
+colors:
+- Rams Royal (Blau)
+- Sol (Gelb)
+- Weiß
+competitions:
+- NFL
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Teamfarben Quelle: Wikipedia \"Los Angeles Rams\" (Infobox: Rams royal, sol, white, midnight). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."

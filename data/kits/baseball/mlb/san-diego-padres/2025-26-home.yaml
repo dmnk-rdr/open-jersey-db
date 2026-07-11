@@ -1,0 +1,21 @@
+team: san-diego-padres
+sport: baseball
+league: mlb
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Braun / Gold / Weiß
+design: null
+colors:
+- Braun
+- Gold
+- Weiß
+competitions:
+- MLB
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Teamfarben Quelle: Wikipedia \"San Diego Padres\" (Infobox: Brown, gold, white - seit 2020 wieder die ursprüngliche Farbpalette). Nike ist seit 2020 exklusiver Uniform-Ausrüster der MLB (Quelle: MLB.com/ESPN)."

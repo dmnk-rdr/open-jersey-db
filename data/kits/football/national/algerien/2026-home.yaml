@@ -1,0 +1,28 @@
+team: algerien
+sport: football
+league: null
+season: '2026'
+kit_type: home
+manufacturer: adidas
+main_sponsor: null
+colorway: Chalk White / Grün
+design: >-
+  Von den Sanddünen und Felsen der Sahara inspiriertes Trikot: cremefarbene
+  ("Chalk White") Basis mit dezenten goldenen, traditionell gemusterten
+  Vertikalstreifen, abgerundeter Kragen mit rotem Rand und grünen
+  Schulterstreifen. Erstmals seit der WM-Qualifikation 2018 wieder mit der
+  Nationalflagge statt des Verbandswappens auf der Brust.
+colors:
+- Chalk White (Creme)
+- Rot
+- Grün
+- Gold
+competitions:
+- International
+- World Cup
+skus: null
+release_date: '2025-11-06'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Algeria 2026 World Cup Home Kit Released + Away Kit Leaked\", 2025-10). Algerien ist für die WM 2026 als Sieger der CAF-Gruppe G qualifiziert (Quelle: FIFA/Wikipedia)."
