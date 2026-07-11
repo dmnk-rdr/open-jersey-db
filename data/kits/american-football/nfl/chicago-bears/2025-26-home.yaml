@@ -5,10 +5,10 @@ season: '2025/26'
 kit_type: home
 manufacturer: Nike
 main_sponsor: null
-colorway: Marineblau / Orange
+colorway: Marineblau (Navy) / Orange / Weiß
 design: null
 colors:
-- Marineblau
+- Marineblau (Navy)
 - Orange
 - Weiß
 competitions:
@@ -18,4 +18,4 @@ release_date: null
 gtins: []
 aliases: []
 source: community
-notes: "Teamfarben Quelle: Wikipedia \"Chicago Bears\" (Infobox: Navy blue, orange, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+notes: "Heimtrikot durchgängig Navy. Quelle: Wikipedia „Chicago Bears“, Abschnitt Uniforms. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."

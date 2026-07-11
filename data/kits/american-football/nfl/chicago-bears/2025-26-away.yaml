@@ -1,0 +1,21 @@
+team: chicago-bears
+sport: american-football
+league: nfl
+season: '2025/26'
+kit_type: away
+manufacturer: Nike
+main_sponsor: null
+colorway: Weiß / Marineblau (Navy) / Orange
+design: null
+colors:
+- Weiß
+- Marineblau (Navy)
+- Orange
+competitions:
+- NFL
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."

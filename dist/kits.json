@@ -1,5 +1,130 @@
 [
   {
+    "team": "arizona-cardinals",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Cardinal Red (Kardinalrot) / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Cardinal Red (Kardinalrot)",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "arizona-cardinals",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Cardinal Red (Kardinalrot) / Schwarz / Weiß",
+    "design": null,
+    "colors": [
+      "Cardinal Red (Kardinalrot)",
+      "Schwarz",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot seit 2023-Redesign durchgängig Cardinal Red („all-red uniforms at home“), Schwarz als Alternate. Quelle: Wikipedia „Arizona Cardinals“, Abschnitt Uniforms; AZCardinals.com Uniform-Reveal 2023. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "atlanta-falcons",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Rot",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Rot"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "atlanta-falcons",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Rot / Silber",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Rot",
+      "Silber"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Seit dem 2020-Redesign ist Schwarz die Grundfarbe des Heimtrikots („Falcons go back to black“), Rot ist Alternate. Quelle: atlantafalcons.com Uniform-Reveal 2020; Wikipedia „Atlanta Falcons“. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "baltimore-ravens",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Lila / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Lila",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
     "team": "baltimore-ravens",
     "sport": "american-football",
     "league": "nfl",
@@ -7,7 +132,7 @@
     "kit_type": "home",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "Lila / Schwarz / Gold",
+    "colorway": "Lila / Schwarz / Metallic Gold",
     "design": null,
     "colors": [
       "Lila",
@@ -22,7 +147,132 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"Baltimore Ravens\" (Infobox: Purple, black, metallic gold). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+    "notes": "Heimtrikot durchgängig Lila (Purple). Quelle: Wikipedia „Baltimore Ravens“, Abschnitt Uniforms. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "buffalo-bills",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Royal Blue (Königsblau) / Rot",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Royal Blue (Königsblau)",
+      "Rot"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "buffalo-bills",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Royal Blue (Königsblau) / Rot / Weiß",
+    "design": null,
+    "colors": [
+      "Royal Blue (Königsblau)",
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Für die Saison 2025 ist Royal Blue wieder die Grundfarbe des Heimtrikots („Royal blue is back as the primary color“). Quelle: buffalobills.com / SportsLogos.Net Uniform-Reveal 2025. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "carolina-panthers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Panther Blue (Blau)",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Panther Blue (Blau)"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß — wird von den Panthers auch oft bei Heimspielen getragen (Hitze). Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "carolina-panthers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Panther Blue (Blau) / Silber",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Panther Blue (Blau)",
+      "Silber"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "NFL-Shop führt das schwarze Trikot als offizielles „Home Game Jersey“; die Panthers tragen wetterbedingt in der ersten Saisonhälfte allerdings häufig ihr weißes Trikot auch zuhause (kein Wechsel der offiziellen Heimfarbe). Quelle: NFLShop.com Produktbezeichnung; panthers.com Jersey-Schedule 2025. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "chicago-bears",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Marineblau (Navy) / Orange",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Marineblau (Navy)",
+      "Orange"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
   },
   {
     "team": "chicago-bears",
@@ -32,10 +282,10 @@
     "kit_type": "home",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "Marineblau / Orange",
+    "colorway": "Marineblau (Navy) / Orange / Weiß",
     "design": null,
     "colors": [
-      "Marineblau",
+      "Marineblau (Navy)",
       "Orange",
       "Weiß"
     ],
@@ -47,7 +297,32 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"Chicago Bears\" (Infobox: Navy blue, orange, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+    "notes": "Heimtrikot durchgängig Navy. Quelle: Wikipedia „Chicago Bears“, Abschnitt Uniforms. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "cincinnati-bengals",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Orange",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Orange"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
   },
   {
     "team": "cincinnati-bengals",
@@ -57,7 +332,7 @@
     "kit_type": "home",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "Schwarz / Orange",
+    "colorway": "Schwarz / Orange / Weiß",
     "design": null,
     "colors": [
       "Schwarz",
@@ -72,21 +347,46 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"Cincinnati Bengals\" (Infobox: Black, orange, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+    "notes": "Seit dem 2021-Redesign („Mayhem“) ist Schwarz die Grundfarbe des Heimtrikots, Orange ist Alternate. Quelle: bengals.com Uniform-Reveal 2021; Wikipedia „Cincinnati Bengals“. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
   },
   {
-    "team": "los-angeles-rams",
+    "team": "cleveland-browns",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Braun / Orange",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Braun",
+      "Orange"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "cleveland-browns",
     "sport": "american-football",
     "league": "nfl",
     "season": "2025/26",
     "kit_type": "home",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "Rams Royal / Sol / Weiß",
+    "colorway": "Braun / Orange / Weiß",
     "design": null,
     "colors": [
-      "Rams Royal (Blau)",
-      "Sol (Gelb)",
+      "Braun",
+      "Orange",
       "Weiß"
     ],
     "competitions": [
@@ -97,7 +397,629 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"Los Angeles Rams\" (Infobox: Rams royal, sol, white, midnight). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+    "notes": "Heimtrikot durchgängig Braun mit orangefarbenen Streifen. Quelle: Wikipedia „Logos and uniforms of the Cleveland Browns“. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "dallas-cowboys",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Navy Blue (Dunkelblau) / Weiß / Silber",
+    "design": null,
+    "colors": [
+      "Navy Blue (Dunkelblau)",
+      "Weiß",
+      "Silber"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Navy Blue (umgekehrt zur sonst üblichen Konvention). Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "dallas-cowboys",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Navy Blue (Dunkelblau) / Silber",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Navy Blue (Dunkelblau)",
+      "Silber"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Einzigartiger Fall in der NFL: Die Cowboys tragen seit einer Entscheidung von GM Tex Schramm (1964) durchgängig Weiß zuhause, umgekehrt zur sonst üblichen Konvention. Quelle: Wikipedia „Away colours“; gridiron-uniforms.com White-at-Home-Datenbank („1971-2012 every home game“ etc.). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "denver-broncos",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Orange / Navy Blue (Dunkelblau)",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Orange",
+      "Navy Blue (Dunkelblau)"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "denver-broncos",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Orange / Navy Blue (Dunkelblau) / Weiß",
+    "design": null,
+    "colors": [
+      "Orange",
+      "Navy Blue (Dunkelblau)",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Für die Saison 2025 ist Orange die Grundfarbe des Heimtrikots, Navy Blue ist Alternate („orange is the primary home jersey color... navy blue used as an alternate“). Quelle: SportsLogos.Net / denverbroncos.com 2025. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "detroit-lions",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Honolulu Blue (Blau) / Silber",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Honolulu Blue (Blau)",
+      "Silber"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "detroit-lions",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Honolulu Blue (Blau) / Silber / Weiß",
+    "design": null,
+    "colors": [
+      "Honolulu Blue (Blau)",
+      "Silber",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Honolulu Blue. Quelle: Wikipedia „Detroit Lions“, Abschnitt Uniforms. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "green-bay-packers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Dunkelgrün / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Dunkelgrün",
+      "Gold"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "green-bay-packers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Dunkelgrün / Gold / Weiß",
+    "design": null,
+    "colors": [
+      "Dunkelgrün",
+      "Gold",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Dunkelgrün. Quelle: Wikipedia „Green Bay Packers“, Abschnitt Uniforms; NFLShop.com. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "houston-texans",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Deep Steel Blue (Marineblau) / Battle Red",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Deep Steel Blue (Marineblau)",
+      "Battle Red"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "houston-texans",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Deep Steel Blue (Marineblau) / Battle Red / Weiß",
+    "design": null,
+    "colors": [
+      "Deep Steel Blue (Marineblau)",
+      "Battle Red",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Deep Steel Blue (Navy). Quelle: NFLShop.com („Home Game Jerseys ... Navy“); houstontexans.com. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "indianapolis-colts",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Royal Blue (Königsblau)",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Royal Blue (Königsblau)"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "indianapolis-colts",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Royal Blue (Königsblau) / Weiß",
+    "design": null,
+    "colors": [
+      "Royal Blue (Königsblau)",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Royal Blue. Quelle: NFLShop.com („Home Game Jerseys ... royal blue“); Wikipedia „Indianapolis Colts“. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "jacksonville-jaguars",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Teal / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Teal",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "jacksonville-jaguars",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Teal / Schwarz / Gold",
+    "design": null,
+    "colors": [
+      "Teal",
+      "Schwarz",
+      "Gold"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Für die Saison 2025 haben die Jaguars die Grundfarbe des Heimtrikots von Schwarz auf Teal umgestellt („Jacksonville Jaguars announce primary uniform switch from black to teal“). Quelle: NFL.com, 2025. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "kansas-city-chiefs",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Gold"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "kansas-city-chiefs",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rot / Gold / Weiß",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Gold",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Rot. Quelle: NFLShop.com („Home Game Jersey ... Red“); Wikipedia „Kansas City Chiefs“. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "las-vegas-raiders",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Silber",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Silber"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "las-vegas-raiders",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Silber",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Silber"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Schwarz. Quelle: NFLShop.com („Home Game Jersey ... Black“); Wikipedia „Las Vegas Raiders“. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "los-angeles-chargers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Powder Blue (Hellblau) / Navy Blue",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Powder Blue (Hellblau)",
+      "Navy Blue"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "los-angeles-chargers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Powder Blue (Hellblau) / Gold / Navy Blue",
+    "design": null,
+    "colors": [
+      "Powder Blue (Hellblau)",
+      "Gold",
+      "Navy Blue"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Seit dem 2024-Redesign ist Powder Blue wieder die Grundfarbe des Heimtrikots („powder blue is the primary home color for the Chargers“). Quelle: chargers.com / boltsfromtheblue.com 2024/25. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "los-angeles-rams",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Royal Blue (Rams Royal) / Gelb (Sol)",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Royal Blue (Rams Royal)",
+      "Gelb (Sol)"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß („white functions as their away jersey“). Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "los-angeles-rams",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Royal Blue (Rams Royal) / Gelb (Sol) / Weiß",
+    "design": null,
+    "colors": [
+      "Royal Blue (Rams Royal)",
+      "Gelb (Sol)",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Royal Blue („Rams Royal“), dient laut Team offiziell als Heimtrikot („royal blue stays the team's primary look, serving as their home jersey“). Quelle: therams.com Jersey-Schedule 2025 / LAFB Network. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "miami-dolphins",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Aqua / Weiß / Orange",
+    "design": null,
+    "colors": [
+      "Aqua",
+      "Weiß",
+      "Orange"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Aqua — die offizielle Teamfarbe, die zuhause seltener getragen wird. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "miami-dolphins",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Aqua / Orange",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Aqua",
+      "Orange"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Die Dolphins tragen wegen des Klimas in Miami traditionell und regelmäßig Weiß auch bei Heimspielen („White has also been worn regularly at home by the Miami Dolphins“). Quelle: Wikipedia „Away colours“; gridiron-uniforms.com White-at-Home-Datenbank. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "minnesota-vikings",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Lila / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Lila",
+      "Gold"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
   },
   {
     "team": "minnesota-vikings",
@@ -107,7 +1029,7 @@
     "kit_type": "home",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "Lila / Gold",
+    "colorway": "Lila / Gold / Weiß",
     "design": null,
     "colors": [
       "Lila",
@@ -122,7 +1044,32 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"Minnesota Vikings\" (Infobox: Purple, gold, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+    "notes": "Heimtrikot durchgängig Lila. Quelle: Wikipedia „Minnesota Vikings“, Abschnitt Uniforms. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "new-england-patriots",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Nautical Blue (Navy) / Rot",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Nautical Blue (Navy)",
+      "Rot"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
   },
   {
     "team": "new-england-patriots",
@@ -132,10 +1079,10 @@
     "kit_type": "home",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "Nautical Blue / Rot / Silber",
+    "colorway": "Nautical Blue (Navy) / Rot / New Century Silver / Weiß",
     "design": null,
     "colors": [
-      "Nautical Blue",
+      "Nautical Blue (Navy)",
       "Rot",
       "New Century Silver",
       "Weiß"
@@ -148,7 +1095,282 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"New England Patriots\" (Infobox: Nautical blue, red, new century silver, white). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+    "notes": "Heimtrikot durchgängig Nautical Blue. Quelle: Wikipedia „New England Patriots“, Abschnitt Uniforms. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "new-orleans-saints",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Gold"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "new-orleans-saints",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Gold / Weiß",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Gold",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Schwarz. Quelle: NFLShop.com („Home Game Jersey ... Black“); Gold („Gameday Golds“) ist seit 2025 Alternate. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "new-york-giants",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Dunkelblau / Rot",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Dunkelblau",
+      "Rot"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "new-york-giants",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Dunkelblau / Rot / Weiß",
+    "design": null,
+    "colors": [
+      "Dunkelblau",
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Dunkelblau. Quelle: Wikipedia „New York Giants“, Abschnitt Uniforms; NFLShop.com. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "new-york-jets",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Legacy Green (Gotham Green) / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Legacy Green (Gotham Green)",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "new-york-jets",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Legacy Green (Gotham Green) / Schwarz / Weiß",
+    "design": null,
+    "colors": [
+      "Legacy Green (Gotham Green)",
+      "Schwarz",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Legacy Green (2019 als „Gotham Green“ eingeführt, seither umbenannt). Quelle: newyorkjets.com / Wikipedia „Logos and uniforms of the New York Jets“. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "philadelphia-eagles",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Midnight Green / Silber",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Midnight Green",
+      "Silber"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "philadelphia-eagles",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Midnight Green / Silber / Schwarz",
+    "design": null,
+    "colors": [
+      "Midnight Green",
+      "Silber",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Midnight Green. Quelle: Wikipedia „Philadelphia Eagles“, Abschnitt Uniforms; NFLShop.com. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "pittsburgh-steelers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Gold"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "pittsburgh-steelers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Gold / Weiß",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Gold",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Schwarz — die Steelers gehören zu den wenigen NFL-Teams, die praktisch nie zuhause Weiß tragen. Quelle: Wikipedia „Logos and uniforms of the Pittsburgh Steelers“; Wikipedia „Away colours“ („Pittsburgh Steelers being the notable exception for modern times“). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "san-francisco-49ers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Gold"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
   },
   {
     "team": "san-francisco-49ers",
@@ -172,7 +1394,32 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"San Francisco 49ers\" (Infobox: Red, Gold). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+    "notes": "Heimtrikot durchgängig Rot. Quelle: Wikipedia „San Francisco 49ers“, Abschnitt Uniforms. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "seattle-seahawks",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / College Navy (Marineblau) / Action Green",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "College Navy (Marineblau)",
+      "Action Green"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
   },
   {
     "team": "seattle-seahawks",
@@ -182,7 +1429,7 @@
     "kit_type": "home",
     "manufacturer": "Nike",
     "main_sponsor": null,
-    "colorway": "College Navy / Action Green / Wolf Grey",
+    "colorway": "College Navy (Marineblau) / Action Green / Wolf Grey",
     "design": null,
     "colors": [
       "College Navy (Marineblau)",
@@ -197,7 +1444,157 @@
     "gtins": [],
     "aliases": [],
     "source": "community",
-    "notes": "Teamfarben Quelle: Wikipedia \"Seattle Seahawks\" (Infobox: College navy, action green, wolf grey). Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (Quelle: NFL.com/ESPN)."
+    "notes": "Heimtrikot durchgängig College Navy. Quelle: Wikipedia „Seattle Seahawks“, Abschnitt Uniforms. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "tampa-bay-buccaneers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Pewter",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Pewter"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "tampa-bay-buccaneers",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Rot / Pewter / Schwarz",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Pewter",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Rot („Buccaneer Red“, seit 2020-Redesign). Quelle: NFLShop.com; buccaneers.com Uniform-Reveal 2020. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "tennessee-titans",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Titans Blue (Dunkelblau) / Rot",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Titans Blue (Dunkelblau)",
+      "Rot"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "tennessee-titans",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Titans Blue (Dunkelblau) / Rot / Weiß",
+    "design": null,
+    "colors": [
+      "Titans Blue (Dunkelblau)",
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Seit dem 27.3.2025 offiziell „Titans Blue“ als alleinige Heimtrikot-Grundfarbe (dunkles Marineblau; löst die Rotation mit dem vorherigen Navy-Trikot ab). Quelle: NBC Sports/ProFootballTalk „Titans switch to 'Titans blue' as primary home jersey color“, 27.3.2025. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "washington-commanders",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Weiß / Burgunderrot (Burgundy) / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Burgunderrot (Burgundy)",
+      "Gold"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot Weiß. Quelle: wie Heimtrikot. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
+  },
+  {
+    "team": "washington-commanders",
+    "sport": "american-football",
+    "league": "nfl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Burgunderrot (Burgundy) / Gold / Weiß",
+    "design": null,
+    "colors": [
+      "Burgunderrot (Burgundy)",
+      "Gold",
+      "Weiß"
+    ],
+    "competitions": [
+      "NFL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Burgundy. Quelle: NFLShop.com („Home Game Jersey - Burgundy“); Wikipedia „Washington Commanders“. Nike ist seit 2012 exklusiver On-Field-Ausrüster aller NFL-Teams (ligaweiter Deal, Quelle: NFL.com/ESPN)."
   },
   {
     "team": "boston-red-sox",
@@ -4671,5 +6068,1599 @@
     "aliases": [],
     "source": "community",
     "notes": "Ausrüster Kempa bestätigt (eigener Fanshop-Bereich für die isländische Nationalmannschaft auf kempa-sports.com). Design/Farben des aktuellen Trikots nicht zuverlässig belegt gefunden -> bewusst weggelassen statt geraten."
+  },
+  {
+    "team": "anaheim-ducks",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Orange / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Orange",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "anaheim-ducks",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Orange / Schwarz / Gold",
+    "design": null,
+    "colors": [
+      "Orange",
+      "Schwarz",
+      "Gold"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Seit dem Brand-Rebrand 2024 ist Orange die Grundfarbe des Heimtrikots („new primary jersey color is now orange“). Quelle: nhl.com/ducks Uniform-Reveal Juni 2024. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "boston-bruins",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Gold"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "boston-bruins",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Gold / Weiß",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Gold",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Schwarz mit Gold-Akzenten. Quelle: Wikipedia „Boston Bruins“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "buffalo-sabres",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Royal Blue (Königsblau) / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Royal Blue (Königsblau)",
+      "Gold"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "buffalo-sabres",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Royal Blue (Königsblau) / Gold / Weiß",
+    "design": null,
+    "colors": [
+      "Royal Blue (Königsblau)",
+      "Gold",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Royal Blue. Quelle: Wikipedia „Buffalo Sabres“; teamcolorcodes.com. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "calgary-flames",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Gold"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "calgary-flames",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Rot / Gold / Schwarz",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Gold",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Rot. Quelle: Wikipedia „Calgary Flames“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "carolina-hurricanes",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "carolina-hurricanes",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Rot / Schwarz / Weiß",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Schwarz",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Rot. Quelle: Wikipedia „Carolina Hurricanes“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "chicago-blackhawks",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "chicago-blackhawks",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Rot / Schwarz / Weiß",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Schwarz",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Rot mit schwarzen Akzenten (das weiße Trikot ist das Auswärtstrikot). Quelle: Wikipedia „Chicago Blackhawks“, Abschnitt Uniforms; clarkstreetsports.com. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "colorado-avalanche",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Burgunderrot (Burgundy) / Blau",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Burgunderrot (Burgundy)",
+      "Blau"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "colorado-avalanche",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Burgunderrot (Burgundy) / Blau / Silber",
+    "design": null,
+    "colors": [
+      "Burgunderrot (Burgundy)",
+      "Blau",
+      "Silber"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Burgundy, unverändert seit 2017. Quelle: Wikipedia „Colorado Avalanche“; shop.nhl.com Produktbezeichnung „Home Burgundy Jersey“. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "columbus-blue-jackets",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Union Blue (Marineblau) / Rot",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Union Blue (Marineblau)",
+      "Rot"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "columbus-blue-jackets",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Union Blue (Marineblau) / Rot / Silber",
+    "design": null,
+    "colors": [
+      "Union Blue (Marineblau)",
+      "Rot",
+      "Silber"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Union Blue. Quelle: Wikipedia „Columbus Blue Jackets“; teamcolorcodes.com. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "dallas-stars",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Victory Green (Grün) / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Victory Green (Grün)",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "dallas-stars",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Victory Green (Grün) / Schwarz / Silber",
+    "design": null,
+    "colors": [
+      "Victory Green (Grün)",
+      "Schwarz",
+      "Silber"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Victory Green. Quelle: Wikipedia „Dallas Stars“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "detroit-red-wings",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "detroit-red-wings",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Rot / Weiß",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Rot. Quelle: Wikipedia „Detroit Red Wings“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "edmonton-oilers",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Royal Blue (Königsblau) / Orange",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Royal Blue (Königsblau)",
+      "Orange"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "edmonton-oilers",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Royal Blue (Königsblau) / Orange / Weiß",
+    "design": null,
+    "colors": [
+      "Royal Blue (Königsblau)",
+      "Orange",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Seit der Saison 2022/23 ist Royal Blue wieder die Grundfarbe des Heimtrikots („Oilers bring back original blues“), mit orangefarbenen Schultern. Quelle: nhl.com Uniform-Reveal Juli 2022; SportsLogos.Net. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "florida-panthers",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Marineblau",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Marineblau"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "florida-panthers",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Rot / Marineblau / Gold",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Marineblau",
+      "Gold"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Rot seit der Rückkehr zur roten Grundfarbe (aktuelles Set seit 2016er Redesign). Quelle: Wikipedia „Florida Panthers“, Abschnitt Uniforms; thehockeywriters.com Jersey-Historie. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "los-angeles-kings",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Silber",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Silber"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "los-angeles-kings",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Silber / Weiß",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Silber",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Schwarz. Quelle: Wikipedia „Los Angeles Kings“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "minnesota-wild",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Waldgrün (Forest Green) / Rot",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Waldgrün (Forest Green)",
+      "Rot"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "minnesota-wild",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Waldgrün (Forest Green) / Rot / Gold",
+    "design": null,
+    "colors": [
+      "Waldgrün (Forest Green)",
+      "Rot",
+      "Gold"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Forest Green, mit „Iron Range Red“ und Gold als Akzenten. Quelle: Wikipedia „Minnesota Wild“, Abschnitt Uniforms; history.vintagemnhockey.com. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "montreal-canadiens",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Blau",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Blau"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "montreal-canadiens",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Rot / Blau / Weiß",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Blau",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Rot („Rouge“). Quelle: Wikipedia „Montreal Canadiens“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "nashville-predators",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Gold (Predator Gold) / Marineblau",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Gold (Predator Gold)",
+      "Marineblau"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "nashville-predators",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Gold (Predator Gold) / Marineblau / Weiß",
+    "design": null,
+    "colors": [
+      "Gold (Predator Gold)",
+      "Marineblau",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Seit dem 2011-Rebrand ist Gold („Predator Gold“) die Grundfarbe des Heimtrikots, davor war es Navy. Quelle: nhl.com/predators Logos & Jerseys; teamcolorcodes.com. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "new-jersey-devils",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "new-jersey-devils",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Rot / Schwarz / Weiß",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Schwarz",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Rot. Quelle: Wikipedia „New Jersey Devils“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "new-york-islanders",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Royal Blue (Königsblau) / Orange",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Royal Blue (Königsblau)",
+      "Orange"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "new-york-islanders",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Royal Blue (Königsblau) / Orange / Weiß",
+    "design": null,
+    "colors": [
+      "Royal Blue (Königsblau)",
+      "Orange",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Royal Blue. Quelle: Wikipedia „New York Islanders“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "new-york-rangers",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Blau / Rot",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Blau",
+      "Rot"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "new-york-rangers",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Blau / Rot / Weiß",
+    "design": null,
+    "colors": [
+      "Blau",
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Blau. Quelle: Wikipedia „New York Rangers“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "ottawa-senators",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Rot",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Rot"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "ottawa-senators",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Rot / Gold",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Rot",
+      "Gold"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Schwarz mit roten Akzenten; das reine Rot-Trikot ist seit 2025/26 wieder Alternate („black with red and white accents“, rotes Trikot als „new red alternate“). Quelle: nhl.com/senators / SportsLogos.Net 2025. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "philadelphia-flyers",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Orange / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Orange",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "philadelphia-flyers",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Orange / Schwarz / Weiß",
+    "design": null,
+    "colors": [
+      "Orange",
+      "Schwarz",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Orange. Quelle: Wikipedia „Philadelphia Flyers“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "pittsburgh-penguins",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Gold"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "pittsburgh-penguins",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Gold / Weiß",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Gold",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Schwarz. Quelle: Wikipedia „Pittsburgh Penguins“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "san-jose-sharks",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Teal / Schwarz",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Teal",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "san-jose-sharks",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Teal / Schwarz / Weiß",
+    "design": null,
+    "colors": [
+      "Teal",
+      "Schwarz",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Teal. Quelle: Wikipedia „San Jose Sharks“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "seattle-kraken",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Deep Sea Blue (Dunkelblau) / Ice Blue",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Deep Sea Blue (Dunkelblau)",
+      "Ice Blue"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "seattle-kraken",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Deep Sea Blue (Dunkelblau) / Ice Blue / Rot",
+    "design": null,
+    "colors": [
+      "Deep Sea Blue (Dunkelblau)",
+      "Ice Blue",
+      "Rot"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Deep Sea Blue. Quelle: nhl.com/kraken „Color Guardians“; shop.nhl.com Produktbezeichnung „Home ... Deep Sea Blue“. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "st-louis-blues",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Blau / Gold",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Blau",
+      "Gold"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "st-louis-blues",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Blau / Gold / Marineblau",
+    "design": null,
+    "colors": [
+      "Blau",
+      "Gold",
+      "Marineblau"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Blau. Quelle: Wikipedia „St. Louis Blues“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "tampa-bay-lightning",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Blau",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Blau"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "tampa-bay-lightning",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Blau / Weiß",
+    "design": null,
+    "colors": [
+      "Blau",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Blau. Quelle: Wikipedia „Tampa Bay Lightning“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "toronto-maple-leafs",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Blau",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Blau"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "toronto-maple-leafs",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Blau / Weiß",
+    "design": null,
+    "colors": [
+      "Blau",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Blau. Quelle: Wikipedia „Toronto Maple Leafs“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "utah-hockey-club",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Blau",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Blau"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "utah-hockey-club",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Schwarz / Blau / Weiß",
+    "design": null,
+    "colors": [
+      "Schwarz",
+      "Blau",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Schwarz („Rock Black“). Hinweis: Das Team firmiert seit Mai 2025 offiziell als „Utah Mammoth“ (vorher „Utah Hockey Club“, Team-Slug/-Name in dieser DB noch nicht aktualisiert — separater Findings-Punkt). Quelle: nhl.com/utah Markenreveal Mai 2025 / September 2025. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "vancouver-canucks",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Blau / Grün",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Blau",
+      "Grün"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "vancouver-canucks",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Blau / Grün / Weiß",
+    "design": null,
+    "colors": [
+      "Blau",
+      "Grün",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Blau (Pacific Blue) mit grünen Akzenten (Orca-Logo). Quelle: Wikipedia „Vancouver Canucks“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "vegas-golden-knights",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Gold / Steel Grey",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Gold",
+      "Steel Grey"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "vegas-golden-knights",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Gold / Steel Grey / Schwarz",
+    "design": null,
+    "colors": [
+      "Gold",
+      "Steel Grey",
+      "Schwarz"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Seit der Saison 2022/23 ist Gold die Grundfarbe des Heimtrikots, Steel Grey (die ursprüngliche Heimfarbe 2017-2021) ist seither Alternate. Quelle: Las Vegas Review-Journal „Golden Knights' gold jersey will be primary at home“, 2022; nhl.com/goldenknights. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "washington-capitals",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Rot / Marineblau",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Rot",
+      "Marineblau"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "washington-capitals",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Rot / Marineblau / Weiß",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Marineblau",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Rot. Quelle: Wikipedia „Washington Capitals“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "winnipeg-jets",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "away",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Weiß / Marineblau (Navy) / Silber",
+    "design": null,
+    "colors": [
+      "Weiß",
+      "Marineblau (Navy)",
+      "Silber"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
+  },
+  {
+    "team": "winnipeg-jets",
+    "sport": "ice-hockey",
+    "league": "nhl",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Fanatics",
+    "main_sponsor": null,
+    "colorway": "Marineblau (Navy) / Silber / Weiß",
+    "design": null,
+    "colors": [
+      "Marineblau (Navy)",
+      "Silber",
+      "Weiß"
+    ],
+    "competitions": [
+      "NHL"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Heimtrikot durchgängig Navy. Quelle: Wikipedia „Winnipeg Jets“, Abschnitt Uniforms. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
   }
 ]

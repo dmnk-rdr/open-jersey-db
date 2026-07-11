@@ -1,0 +1,21 @@
+team: utah-hockey-club
+sport: ice-hockey
+league: nhl
+season: '2025/26'
+kit_type: away
+manufacturer: Fanatics
+main_sponsor: null
+colorway: Weiß / Schwarz / Blau
+design: null
+colors:
+- Weiß
+- Schwarz
+- Blau
+competitions:
+- NHL
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Auswärtstrikot durchgängig Weiß (NHL-Standardkonvention: Heimteam trägt die Vereinsfarbe, Gastteam Weiß). Quelle: wie Heimtrikot. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."

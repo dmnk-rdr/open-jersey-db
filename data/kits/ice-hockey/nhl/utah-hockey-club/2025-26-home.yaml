@@ -1,0 +1,21 @@
+team: utah-hockey-club
+sport: ice-hockey
+league: nhl
+season: '2025/26'
+kit_type: home
+manufacturer: Fanatics
+main_sponsor: null
+colorway: Schwarz / Blau / Weiß
+design: null
+colors:
+- Schwarz
+- Blau
+- Weiß
+competitions:
+- NHL
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Heimtrikot durchgängig Schwarz („Rock Black“). Hinweis: Das Team firmiert seit Mai 2025 offiziell als „Utah Mammoth“ (vorher „Utah Hockey Club“, Team-Slug/-Name in dieser DB noch nicht aktualisiert — separater Findings-Punkt). Quelle: nhl.com/utah Markenreveal Mai 2025 / September 2025. Fanatics ist seit der Saison 2024/25 exklusiver Trikot-Ausrüster aller NHL-Teams (10-Jahres-Deal, löste adidas ab; Quelle: ESPN „Fanatics replacing Adidas as the NHL's official uniform partner“)."
