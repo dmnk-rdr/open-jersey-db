@@ -2032,7 +2032,6 @@
       "alaves football",
       "alaves soccer",
       "alavés",
-      "deportivo",
       "deportivo alaves",
       "deportivo alaves soccer"
     ],
@@ -2332,8 +2331,7 @@
       "real sociedad san sebastian",
       "real sociedad san sebastián",
       "san sebastian foot-ball club",
-      "san sebastián foot-ball club",
-      "sociedad"
+      "san sebastián foot-ball club"
     ],
     "founded": 1909,
     "city": "Donostia-San Sebastián",
@@ -2510,7 +2508,6 @@
       "o. lyonnais",
       "o.l.",
       "ol",
-      "olympique",
       "olympique lyonnais"
     ],
     "founded": 1950,
@@ -2529,7 +2526,6 @@
       "o marseille",
       "olympic marseille",
       "olympic of marseille",
-      "olympique",
       "olympique de marseille",
       "olympique marsilien",
       "om"
@@ -2586,11 +2582,10 @@
     "country": "FR",
     "aliases": [
       "fc paris st. germain",
-      "germain",
       "paris",
       "paris st.-germain",
-      "psgfc",
-      "saint"
+      "psg",
+      "psgfc"
     ],
     "founded": 1970,
     "city": "Paris",
@@ -2665,7 +2660,6 @@
     "country": "FR",
     "aliases": [
       "brest",
-      "stade",
       "stade brestois",
       "stade brestois 29"
     ],
@@ -2685,7 +2679,6 @@
       "rennais",
       "rennes",
       "srfc",
-      "stade",
       "stade rennais",
       "stade rennais fc",
       "stade rennais football club",
@@ -3118,7 +3111,6 @@
     "league": "premier-league",
     "country": "GB",
     "aliases": [
-      "albion",
       "bha",
       "bhafc",
       "brighton",
@@ -3171,7 +3163,6 @@
     "country": "GB",
     "aliases": [
       "a.f.c.",
-      "afc",
       "arsenal",
       "arsenal football club",
       "arsenal london",
@@ -3317,8 +3308,7 @@
       "ipswich town football club",
       "itfc",
       "the blues",
-      "the tractor boys",
-      "town"
+      "the tractor boys"
     ],
     "founded": 1878,
     "city": "Ipswich",
@@ -3333,7 +3323,6 @@
     "league": "premier-league",
     "country": "GB",
     "aliases": [
-      "city",
       "l.c.f.c.",
       "lcfc",
       "leicester",
@@ -3358,7 +3347,6 @@
     "country": "GB",
     "aliases": [
       "citizens",
-      "city",
       "man city",
       "manchester",
       "manchester city f.c. soccer",
@@ -3396,8 +3384,7 @@
       "mufc",
       "newton heath f.c.",
       "newton heath fc",
-      "red devils",
-      "united"
+      "red devils"
     ],
     "founded": 1878,
     "city": "Manchester",
@@ -3475,8 +3462,6 @@
     "aliases": [
       "the hammers",
       "the irons",
-      "united",
-      "west",
       "west ham",
       "west ham united f.c.",
       "west ham united fc",
@@ -3497,7 +3482,6 @@
     "league": "premier-league",
     "country": "GB",
     "aliases": [
-      "wanderers",
       "wolverhampton",
       "wolverhampton fc wolves",
       "wolverhampton wanderers fc",
@@ -3633,8 +3617,7 @@
       "acm",
       "acmilan",
       "association football milan",
-      "associazione calcio milan",
-      "milan"
+      "associazione calcio milan"
     ],
     "founded": 1899,
     "city": "Mailand",
@@ -3830,8 +3813,6 @@
       "fußball-club inter",
       "fußball-club inter mailand",
       "fußball-club internazionale mailand",
-      "i m",
-      "im",
       "inter club",
       "inter fc",
       "inter football club",
@@ -3842,7 +3823,8 @@
       "internazionale mailand",
       "internazionale milano",
       "mailand",
-      "the inter"
+      "the inter",
+      "inter milan"
     ],
     "founded": 1908,
     "city": "Mailand",
@@ -5722,7 +5704,7 @@
     "country": "JO",
     "aliases": [
       "jordanien",
-      "jordan"
+      "jordan national team"
     ],
     "kit_suppliers": [
       {

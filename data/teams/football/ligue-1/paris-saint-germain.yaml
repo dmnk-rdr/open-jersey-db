@@ -6,11 +6,13 @@ league: ligue-1
 country: FR
 aliases:
 - fc paris st. germain
-- germain
 - paris
 - paris st.-germain
+- psg
 - psgfc
-- saint
+# „saint"/„germain" entfernt: Einzelwörter, die keinen Verein identifizieren —
+# „saint" zöge jedes Saint-Étienne-Trikot hierher. Dafür fehlte ausgerechnet „psg",
+# die gängigste Schreibweise in Feed-Titeln.
 founded: 1970
 wikidata: Q483020
 city: Paris

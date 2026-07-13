@@ -62,6 +62,23 @@ def load_schema_validator(name: str):
     return lambda doc: [e.message for e in validator.iter_errors(doc)]
 
 
+# Einzelwörter, die für sich genommen KEINEN Verein identifizieren: sie sind
+# Bestandteil vieler Vereinsnamen. Als eigenständiger Alias reißen sie fremde
+# Vereine an sich — "Hull City" landete so bei Manchester City, "West Bromwich
+# Albion" bei West Ham, "Inter Milan" bei AC Milan. Zwei Sorten:
+#   - Namensbausteine (city/united/town/albion/…) und Ortszusätze (west/saint/…)
+#   - Kürzel, die echte Wörter sind ("im" trifft jedes deutsche "… im Trikot …")
+# Der lange, eindeutige Alias ("manchester city") bleibt selbstverständlich erlaubt.
+GENERIC_ALIASES = {
+    "fc", "sc", "ac", "cf", "afc", "im", "i m",
+    "united", "city", "town", "albion", "wanderers", "rovers", "county", "athletic",
+    "real", "sporting", "club", "deportivo", "sociedad", "atletico", "atlético",
+    "inter", "milan", "olympique", "stade", "racing", "sport", "union",
+    "saint", "germain", "west", "east", "north", "south",
+    "national", "team", "jordan",
+}
+
+
 def main() -> int:
     team_validator = load_schema_validator("team.schema.json")
     kit_validator = load_schema_validator("kit.schema.json")
@@ -80,6 +97,10 @@ def main() -> int:
         if team_validator:
             for m in team_validator(doc):
                 err(path, f"schema: {m}")
+        for alias in doc.get("aliases") or []:
+            if str(alias).strip().lower() in GENERIC_ALIASES:
+                err(path, f"alias '{alias}' identifies no single club — it is a name "
+                          f"component many clubs share; use the full name instead")
         slug = doc.get("slug")
         if slug and slug != path.stem:
             err(path, f"slug '{slug}' != filename '{path.stem}'")

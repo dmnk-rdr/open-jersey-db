@@ -6,7 +6,11 @@ league: null
 country: JO
 aliases:
 - jordanien
-- jordan
+# „jordan" NICHT als Alias: das ist die Marke (Air Jordan/Jordan Brand, PSG-Kollektion)
+# und ein Vorname. Als längster Treffer schlug er sogar 'psg' — die PSG-x-Jordan-Trikots
+# wären auf der jordanischen Nationalmannschaft gelandet. Englisch bleibt über
+# „jordan national team" treffbar, ohne die Marke zu fangen.
+- jordan national team
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Jordan national football team".
 kit_suppliers:
 - { manufacturer: Kelme, from: 2024 }

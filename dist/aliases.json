@@ -43,8 +43,7 @@
     "acm",
     "acmilan",
     "association football milan",
-    "associazione calcio milan",
-    "milan"
+    "associazione calcio milan"
   ],
   "AC Monza": [
     "a.c. monza",
@@ -268,7 +267,6 @@
     "brazil rugby"
   ],
   "Brighton & Hove Albion": [
-    "albion",
     "bha",
     "bhafc",
     "brighton",
@@ -450,7 +448,6 @@
     "alaves football",
     "alaves soccer",
     "alavés",
-    "deportivo",
     "deportivo alaves",
     "deportivo alaves soccer"
   ],
@@ -517,7 +514,6 @@
   ],
   "FC Arsenal": [
     "a.f.c.",
-    "afc",
     "arsenal",
     "arsenal football club",
     "arsenal london",
@@ -840,11 +836,10 @@
     "fußball-club inter",
     "fußball-club inter mailand",
     "fußball-club internazionale mailand",
-    "i m",
-    "im",
     "inter club",
     "inter fc",
     "inter football club",
+    "inter milan",
     "inter milano",
     "inter of milan",
     "inter soccer club",
@@ -864,8 +859,7 @@
     "ipswich town football club",
     "itfc",
     "the blues",
-    "the tractor boys",
-    "town"
+    "the tractor boys"
   ],
   "Irak": [
     "irak",
@@ -897,7 +891,7 @@
     "samurai blue"
   ],
   "Jordanien": [
-    "jordan",
+    "jordan national team",
     "jordanien"
   ],
   "Juventus Turin": [
@@ -963,7 +957,6 @@
     "les ciel et marine"
   ],
   "Leicester City": [
-    "city",
     "l.c.f.c.",
     "lcfc",
     "leicester",
@@ -1014,7 +1007,6 @@
   ],
   "Manchester City": [
     "citizens",
-    "city",
     "man city",
     "manchester",
     "manchester city f.c. soccer",
@@ -1040,8 +1032,7 @@
     "mufc",
     "newton heath f.c.",
     "newton heath fc",
-    "red devils",
-    "united"
+    "red devils"
   ],
   "Marokko": [
     "atlas lions",
@@ -1211,7 +1202,6 @@
     "o. lyonnais",
     "o.l.",
     "ol",
-    "olympique",
     "olympique lyonnais"
   ],
   "Olympique Marseille": [
@@ -1219,7 +1209,6 @@
     "o marseille",
     "olympic marseille",
     "olympic of marseille",
-    "olympique",
     "olympique de marseille",
     "olympique marsilien",
     "om"
@@ -1248,11 +1237,10 @@
   ],
   "Paris Saint-Germain": [
     "fc paris st. germain",
-    "germain",
     "paris",
     "paris st.-germain",
-    "psgfc",
-    "saint"
+    "psg",
+    "psgfc"
   ],
   "Peru": [
     "peru",
@@ -1365,8 +1353,7 @@
     "real sociedad san sebastian",
     "real sociedad san sebastián",
     "san sebastian foot-ball club",
-    "san sebastián foot-ball club",
-    "sociedad"
+    "san sebastián foot-ball club"
   ],
   "Red Bull–BORA–hansgrohe": [
     "bora",
@@ -1575,7 +1562,6 @@
   ],
   "Stade Brest": [
     "brest",
-    "stade",
     "stade brestois",
     "stade brestois 29"
   ],
@@ -1583,7 +1569,6 @@
     "rennais",
     "rennes",
     "srfc",
-    "stade",
     "stade rennais",
     "stade rennais fc",
     "stade rennais football club",
@@ -1796,8 +1781,6 @@
   "West Ham United": [
     "the hammers",
     "the irons",
-    "united",
-    "west",
     "west ham",
     "west ham united f.c.",
     "west ham united fc",
@@ -1809,7 +1792,6 @@
     "winnipeg jets"
   ],
   "Wolverhampton Wanderers": [
-    "wanderers",
     "wolverhampton",
     "wolverhampton fc wolves",
     "wolverhampton wanderers fc",
