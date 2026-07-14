@@ -1521,58 +1521,19 @@
     ]
   },
   {
-    "slug": "fc-schalke-04",
-    "name": "FC Schalke 04",
+    "slug": "fc-st-pauli",
+    "name": "FC St. Pauli",
     "sport": "football",
     "type": "club",
     "league": "2-bundesliga",
     "country": "DE",
     "aliases": [
-      "schalke",
-      "schalke 04",
-      "s04",
-      "fc schalke",
-      "koenigsblau"
-    ],
-    "founded": 1904,
-    "city": "Gelsenkirchen",
-    "stadium": "Veltins-Arena",
-    "wikidata": "Q32494"
-  },
-  {
-    "slug": "sc-paderborn-07",
-    "name": "SC Paderborn 07",
-    "sport": "football",
-    "type": "club",
-    "league": "2-bundesliga",
-    "country": "DE",
-    "aliases": [
-      "paderborn",
-      "sc paderborn",
-      "scp"
-    ],
-    "founded": 1907,
-    "city": "Paderborn",
-    "stadium": "Home-Deluxe-Arena",
-    "wikidata": "Q160532"
-  },
-  {
-    "slug": "sv-elversberg",
-    "name": "SV Elversberg",
-    "sport": "football",
-    "type": "club",
-    "league": "2-bundesliga",
-    "country": "DE",
-    "aliases": [
-      "elversberg",
-      "sv elversberg",
-      "sve",
-      "sv 07 elversberg"
-    ],
-    "founded": 1907,
-    "city": "Elversberg",
-    "stadium": "Waldstadion Kaiserlinde",
-    "wikidata": "Q692691"
+      "fc st pauli",
+      "fc st. pauli",
+      "sankt pauli",
+      "st pauli",
+      "st. pauli"
+    ]
   },
   {
     "slug": "ssv-ulm-1846",
@@ -1800,6 +1761,25 @@
     "wikidata": "Q15789"
   },
   {
+    "slug": "fc-schalke-04",
+    "name": "FC Schalke 04",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "schalke",
+      "schalke 04",
+      "s04",
+      "fc schalke",
+      "koenigsblau"
+    ],
+    "founded": 1904,
+    "city": "Gelsenkirchen",
+    "stadium": "Veltins-Arena",
+    "wikidata": "Q32494"
+  },
+  {
     "slug": "hamburger-sv",
     "name": "Hamburger SV",
     "sport": "football",
@@ -1856,6 +1836,41 @@
     "wikidata": "Q106394"
   },
   {
+    "slug": "sc-paderborn-07",
+    "name": "SC Paderborn 07",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "paderborn",
+      "sc paderborn",
+      "scp"
+    ],
+    "founded": 1907,
+    "city": "Paderborn",
+    "stadium": "Home-Deluxe-Arena",
+    "wikidata": "Q160532"
+  },
+  {
+    "slug": "sv-elversberg",
+    "name": "SV Elversberg",
+    "sport": "football",
+    "type": "club",
+    "league": "bundesliga",
+    "country": "DE",
+    "aliases": [
+      "elversberg",
+      "sv elversberg",
+      "sve",
+      "sv 07 elversberg"
+    ],
+    "founded": 1907,
+    "city": "Elversberg",
+    "stadium": "Waldstadion Kaiserlinde",
+    "wikidata": "Q692691"
+  },
+  {
     "slug": "sv-werder-bremen",
     "name": "SV Werder Bremen",
     "sport": "football",
@@ -1905,6 +1920,119 @@
     "city": "Stuttgart",
     "stadium": "MHPArena",
     "wikidata": "Q4512"
+  },
+  {
+    "slug": "derby-county",
+    "name": "Derby County",
+    "sport": "football",
+    "type": "club",
+    "league": "efl-championship",
+    "country": "GB",
+    "aliases": [
+      "derby county",
+      "derby county fc",
+      "the rams"
+    ]
+  },
+  {
+    "slug": "fc-southampton",
+    "name": "FC Southampton",
+    "sport": "football",
+    "type": "club",
+    "league": "efl-championship",
+    "country": "GB",
+    "aliases": [
+      "s.f.c.",
+      "sfc",
+      "southampton",
+      "southampton fc",
+      "southampton football club",
+      "southamptonfc"
+    ],
+    "founded": 1885,
+    "city": "Southampton",
+    "stadium": "St. Mary’s Stadium",
+    "wikidata": "Q18732"
+  },
+  {
+    "slug": "leicester-city",
+    "name": "Leicester City",
+    "sport": "football",
+    "type": "club",
+    "league": "efl-championship",
+    "country": "GB",
+    "aliases": [
+      "l.c.f.c.",
+      "lcfc",
+      "leicester",
+      "leicester city fc",
+      "leicester city football club",
+      "leicester fosse",
+      "leicester fosse fc",
+      "leicester fosse football club",
+      "the foxes"
+    ],
+    "founded": 1884,
+    "city": "Leicester",
+    "stadium": "Leicester City Stadium",
+    "wikidata": "Q19481"
+  },
+  {
+    "slug": "millwall-fc",
+    "name": "Millwall FC",
+    "sport": "football",
+    "type": "club",
+    "league": "efl-championship",
+    "country": "GB",
+    "aliases": [
+      "millwall",
+      "millwall fc",
+      "the lions"
+    ]
+  },
+  {
+    "slug": "west-ham-united",
+    "name": "West Ham United",
+    "sport": "football",
+    "type": "club",
+    "league": "efl-championship",
+    "country": "GB",
+    "aliases": [
+      "the hammers",
+      "the irons",
+      "west ham",
+      "west ham united f.c.",
+      "west ham united fc",
+      "west ham united football club",
+      "whu",
+      "whufc"
+    ],
+    "founded": 1895,
+    "city": "London",
+    "stadium": "Londoner Stadion",
+    "wikidata": "Q18747"
+  },
+  {
+    "slug": "wolverhampton-wanderers",
+    "name": "Wolverhampton Wanderers",
+    "sport": "football",
+    "type": "club",
+    "league": "efl-championship",
+    "country": "GB",
+    "aliases": [
+      "wolverhampton",
+      "wolverhampton fc wolves",
+      "wolverhampton wanderers fc",
+      "wolverhampton wanderers football club",
+      "wolverhampton wolves",
+      "wolverhampton wolves fc",
+      "wolves",
+      "wwfc"
+    ],
+    "founded": 1877,
+    "city": "Wolverhampton",
+    "stadium": "Molineux Stadium",
+    "wikidata": "Q19500"
   },
   {
     "slug": "athletic-bilbao",
@@ -3133,6 +3261,19 @@
     "wikidata": "Q19453"
   },
   {
+    "slug": "coventry-city",
+    "name": "Coventry City",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "coventry",
+      "coventry city",
+      "coventry city fc"
+    ]
+  },
+  {
     "slug": "crystal-palace",
     "name": "Crystal Palace",
     "sport": "football",
@@ -3276,24 +3417,17 @@
     "wikidata": "Q1130849"
   },
   {
-    "slug": "fc-southampton",
-    "name": "FC Southampton",
+    "slug": "hull-city",
+    "name": "Hull City",
     "sport": "football",
     "type": "club",
     "league": "premier-league",
     "country": "GB",
     "aliases": [
-      "s.f.c.",
-      "sfc",
-      "southampton",
-      "southampton fc",
-      "southampton football club",
-      "southamptonfc"
-    ],
-    "founded": 1885,
-    "city": "Southampton",
-    "stadium": "St. Mary’s Stadium",
-    "wikidata": "Q18732"
+      "hull city",
+      "hull city afc",
+      "the tigers"
+    ]
   },
   {
     "slug": "ipswich-town",
@@ -3316,27 +3450,17 @@
     "wikidata": "Q9653"
   },
   {
-    "slug": "leicester-city",
-    "name": "Leicester City",
+    "slug": "leeds-united",
+    "name": "Leeds United",
     "sport": "football",
     "type": "club",
     "league": "premier-league",
     "country": "GB",
     "aliases": [
-      "l.c.f.c.",
-      "lcfc",
-      "leicester",
-      "leicester city fc",
-      "leicester city football club",
-      "leicester fosse",
-      "leicester fosse fc",
-      "leicester fosse football club",
-      "the foxes"
-    ],
-    "founded": 1884,
-    "city": "Leicester",
-    "stadium": "Leicester City Stadium",
-    "wikidata": "Q19481"
+      "leeds",
+      "leeds united",
+      "leeds united fc"
+    ]
   },
   {
     "slug": "manchester-city",
@@ -3433,6 +3557,19 @@
     "wikidata": "Q19490"
   },
   {
+    "slug": "sunderland",
+    "name": "Sunderland",
+    "sport": "football",
+    "type": "club",
+    "league": "premier-league",
+    "country": "GB",
+    "aliases": [
+      "sunderland",
+      "sunderland afc",
+      "the black cats"
+    ]
+  },
+  {
     "slug": "tottenham-hotspur",
     "name": "Tottenham Hotspur",
     "sport": "football",
@@ -3451,50 +3588,6 @@
     "founded": 1882,
     "city": "London",
     "wikidata": "Q18741"
-  },
-  {
-    "slug": "west-ham-united",
-    "name": "West Ham United",
-    "sport": "football",
-    "type": "club",
-    "league": "premier-league",
-    "country": "GB",
-    "aliases": [
-      "the hammers",
-      "the irons",
-      "west ham",
-      "west ham united f.c.",
-      "west ham united fc",
-      "west ham united football club",
-      "whu",
-      "whufc"
-    ],
-    "founded": 1895,
-    "city": "London",
-    "stadium": "Londoner Stadion",
-    "wikidata": "Q18747"
-  },
-  {
-    "slug": "wolverhampton-wanderers",
-    "name": "Wolverhampton Wanderers",
-    "sport": "football",
-    "type": "club",
-    "league": "premier-league",
-    "country": "GB",
-    "aliases": [
-      "wolverhampton",
-      "wolverhampton fc wolves",
-      "wolverhampton wanderers fc",
-      "wolverhampton wanderers football club",
-      "wolverhampton wolves",
-      "wolverhampton wolves fc",
-      "wolves",
-      "wwfc"
-    ],
-    "founded": 1877,
-    "city": "Wolverhampton",
-    "stadium": "Molineux Stadium",
-    "wikidata": "Q19500"
   },
   {
     "slug": "spvgg-unterhaching",
@@ -8158,13 +8251,15 @@
   },
   {
     "slug": "utah-hockey-club",
-    "name": "Utah Hockey Club",
+    "name": "Utah Mammoth",
     "sport": "ice-hockey",
     "type": "club",
     "league": "nhl",
     "country": "US",
     "aliases": [
-      "utah hockey club"
+      "utah",
+      "utah hockey club",
+      "utah mammoth"
     ],
     "founded": 2024,
     "city": "Salt Lake City",

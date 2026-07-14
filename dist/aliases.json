@@ -408,6 +408,11 @@
     "costa rica",
     "costa rica national team"
   ],
+  "Coventry City": [
+    "coventry",
+    "coventry city",
+    "coventry city fc"
+  ],
   "Crystal Palace": [
     "cpfc",
     "crystal",
@@ -455,6 +460,11 @@
     "alavés",
     "deportivo alaves",
     "deportivo alaves soccer"
+  ],
+  "Derby County": [
+    "derby county",
+    "derby county fc",
+    "the rams"
   ],
   "Detroit Lions": [
     "detroit lions"
@@ -680,6 +690,13 @@
     "southampton football club",
     "southamptonfc"
   ],
+  "FC St. Pauli": [
+    "fc st pauli",
+    "fc st. pauli",
+    "sankt pauli",
+    "st pauli",
+    "st. pauli"
+  ],
   "FC Toulouse": [
     "tfc",
     "toulouse",
@@ -824,6 +841,11 @@
   ],
   "Houston Texans": [
     "houston texans"
+  ],
+  "Hull City": [
+    "hull city",
+    "hull city afc",
+    "the tigers"
   ],
   "INEOS Grenadiers": [
     "grenadiers",
@@ -977,6 +999,11 @@
     "le havre athletic club",
     "les ciel et marine"
   ],
+  "Leeds United": [
+    "leeds",
+    "leeds united",
+    "leeds united fc"
+  ],
   "Leicester City": [
     "l.c.f.c.",
     "lcfc",
@@ -1077,6 +1104,11 @@
   ],
   "Miami Marlins": [
     "miami marlins"
+  ],
+  "Millwall FC": [
+    "millwall",
+    "millwall fc",
+    "the lions"
   ],
   "Milwaukee Brewers": [
     "milwaukee brewers"
@@ -1627,6 +1659,11 @@
     "stuttgarter kickers",
     "sv stuttgarter kickers"
   ],
+  "Sunderland": [
+    "sunderland",
+    "sunderland afc",
+    "the black cats"
+  ],
   "Südafrika": [
     "south africa",
     "suedafrika",
@@ -1789,11 +1826,13 @@
     "usbekistan",
     "uzbekistan"
   ],
-  "Utah Hockey Club": [
-    "utah hockey club"
-  ],
   "Utah Jazz": [
     "utah jazz"
+  ],
+  "Utah Mammoth": [
+    "utah",
+    "utah hockey club",
+    "utah mammoth"
   ],
   "Vancouver Canucks": [
     "vancouver canucks"
