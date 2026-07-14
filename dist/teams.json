@@ -8230,6 +8230,121 @@
     "wikidata": "Q576406"
   },
   {
+    "slug": "fc-grenoble",
+    "name": "FC Grenoble",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "fc grenoble",
+      "fc grenoble rugby",
+      "grenoble",
+      "grenoble rugby"
+    ]
+  },
+  {
+    "slug": "castres-olympique",
+    "name": "Castres Olympique",
+    "sport": "rugby",
+    "type": "club",
+    "league": "top-14",
+    "country": "FR",
+    "aliases": [
+      "castres",
+      "castres olympique"
+    ]
+  },
+  {
+    "slug": "racing-92",
+    "name": "Racing 92",
+    "sport": "rugby",
+    "type": "club",
+    "league": "top-14",
+    "country": "FR",
+    "aliases": [
+      "racing 92",
+      "racing92"
+    ]
+  },
+  {
+    "slug": "rc-toulon",
+    "name": "RC Toulon",
+    "sport": "rugby",
+    "type": "club",
+    "league": "top-14",
+    "country": "FR",
+    "aliases": [
+      "rc toulon",
+      "rct",
+      "toulon rugby"
+    ]
+  },
+  {
+    "slug": "stade-francais",
+    "name": "Stade Français",
+    "sport": "rugby",
+    "type": "club",
+    "league": "top-14",
+    "country": "FR",
+    "aliases": [
+      "stade francais",
+      "stade français",
+      "stade français paris"
+    ]
+  },
+  {
+    "slug": "stade-rochelais",
+    "name": "Stade Rochelais",
+    "sport": "rugby",
+    "type": "club",
+    "league": "top-14",
+    "country": "FR",
+    "aliases": [
+      "la rochelle rugby",
+      "stade rochelais"
+    ]
+  },
+  {
+    "slug": "stade-toulousain",
+    "name": "Stade Toulousain",
+    "sport": "rugby",
+    "type": "club",
+    "league": "top-14",
+    "country": "FR",
+    "aliases": [
+      "stade toulousain",
+      "toulouse rugby"
+    ]
+  },
+  {
+    "slug": "union-bordeaux-begles",
+    "name": "Union Bordeaux-Bègles",
+    "sport": "rugby",
+    "type": "club",
+    "league": "top-14",
+    "country": "FR",
+    "aliases": [
+      "bordeaux begles",
+      "ubb",
+      "union bordeaux begles",
+      "union bordeaux-bègles"
+    ]
+  },
+  {
+    "slug": "usa-perpignan",
+    "name": "USA Perpignan",
+    "sport": "rugby",
+    "type": "club",
+    "league": "top-14",
+    "country": "FR",
+    "aliases": [
+      "perpignan rugby",
+      "usa perpignan",
+      "usap"
+    ]
+  },
+  {
     "slug": "brazil-rugby",
     "name": "Brazil",
     "sport": "rugby",
@@ -8249,7 +8364,8 @@
     "country": "GB",
     "aliases": [
       "british & irish lions rugby",
-      "british and irish lions"
+      "british and irish lions",
+      "lions britanniques et irlandais"
     ]
   },
   {
@@ -8260,6 +8376,7 @@
     "league": null,
     "country": "GB",
     "aliases": [
+      "angleterre",
       "england rugby"
     ]
   },
@@ -8282,7 +8399,37 @@
     "league": null,
     "country": "FR",
     "aliases": [
-      "france rugby"
+      "france rugby",
+      "frankreich",
+      "xv de france",
+      "xv de frankreich",
+      "xv von frankreich"
+    ]
+  },
+  {
+    "slug": "ireland-rugby",
+    "name": "Ireland",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "IE",
+    "aliases": [
+      "ireland",
+      "irland",
+      "irland rugby"
+    ]
+  },
+  {
+    "slug": "new-zealand-rugby",
+    "name": "New Zealand",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "NZ",
+    "aliases": [
+      "all blacks",
+      "neuseeland",
+      "new zealand"
     ]
   },
   {
@@ -8315,6 +8462,7 @@
     "league": null,
     "country": "GB",
     "aliases": [
+      "pays de galles",
       "wales rugby"
     ]
   }

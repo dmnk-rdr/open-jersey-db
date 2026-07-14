@@ -285,7 +285,8 @@
   ],
   "British & Irish Lions": [
     "british & irish lions rugby",
-    "british and irish lions"
+    "british and irish lions",
+    "lions britanniques et irlandais"
   ],
   "Brooklyn Nets": [
     "brooklyn nets"
@@ -315,6 +316,10 @@
   ],
   "Carolina Panthers": [
     "carolina panthers"
+  ],
+  "Castres Olympique": [
+    "castres",
+    "castres olympique"
   ],
   "Celta Vigo": [
     "celta",
@@ -498,6 +503,7 @@
     "ivory coast"
   ],
   "England": [
+    "angleterre",
     "england rugby"
   ],
   "Espanyol Barcelona": [
@@ -610,6 +616,12 @@
     "girona futbol club",
     "girona futbol club, s.a.d.",
     "girona soccer team"
+  ],
+  "FC Grenoble": [
+    "fc grenoble",
+    "fc grenoble rugby",
+    "grenoble",
+    "grenoble rugby"
   ],
   "FC Liverpool": [
     "f.c. liverpool",
@@ -729,7 +741,11 @@
     "florida panthers"
   ],
   "France": [
-    "france rugby"
+    "france rugby",
+    "frankreich",
+    "xv de france",
+    "xv de frankreich",
+    "xv von frankreich"
   ],
   "Frankreich": [
     "france",
@@ -868,6 +884,11 @@
   "Iran": [
     "iran",
     "islamische republik iran"
+  ],
+  "Ireland": [
+    "ireland",
+    "irland",
+    "irland rugby"
   ],
   "Island": [
     "iceland",
@@ -1142,6 +1163,11 @@
   "New York Yankees": [
     "new york yankees"
   ],
+  "New Zealand": [
+    "all blacks",
+    "neuseeland",
+    "new zealand"
+  ],
   "Newcastle United": [
     "newcastle",
     "newcastle united fc",
@@ -1297,12 +1323,21 @@
     "racing club de lens",
     "racing lens"
   ],
+  "RC Toulon": [
+    "rc toulon",
+    "rct",
+    "toulon rugby"
+  ],
   "RCD Mallorca": [
     "mallorca",
     "r.c.d. mallorca",
     "real club deportivo mallorca",
     "real mallorca",
     "reial club deportiu mallorca"
+  ],
+  "Racing 92": [
+    "racing 92",
+    "racing92"
   ],
   "Racing Straßburg": [
     "racing club de strasbourg",
@@ -1565,6 +1600,11 @@
     "stade brestois",
     "stade brestois 29"
   ],
+  "Stade Français": [
+    "stade francais",
+    "stade français",
+    "stade français paris"
+  ],
   "Stade Rennes": [
     "rennais",
     "rennes",
@@ -1573,6 +1613,14 @@
     "stade rennais fc",
     "stade rennais football club",
     "stade rennais uc"
+  ],
+  "Stade Rochelais": [
+    "la rochelle rugby",
+    "stade rochelais"
+  ],
+  "Stade Toulousain": [
+    "stade toulousain",
+    "toulouse rugby"
   ],
   "Stuttgarter Kickers": [
     "kickers",
@@ -1706,6 +1754,11 @@
     "usmnt",
     "vereinigte staaten"
   ],
+  "USA Perpignan": [
+    "perpignan rugby",
+    "usa perpignan",
+    "usap"
+  ],
   "Udinese Calcio": [
     "first bianconeri of italy",
     "udinese",
@@ -1721,6 +1774,12 @@
     "hungary",
     "hungary national team",
     "ungarn"
+  ],
+  "Union Bordeaux-Bègles": [
+    "bordeaux begles",
+    "ubb",
+    "union bordeaux begles",
+    "union bordeaux-bègles"
   ],
   "Uruguay": [
     "la celeste",
@@ -1764,6 +1823,7 @@
     "visma-lease a bike"
   ],
   "Wales": [
+    "pays de galles",
     "wales rugby"
   ],
   "Washington Capitals": [
