@@ -1598,6 +1598,183 @@
     ]
   },
   {
+    "slug": "rapid-wien",
+    "name": "SK Rapid Wien",
+    "sport": "football",
+    "type": "club",
+    "league": "austria-bundesliga",
+    "country": "AT",
+    "aliases": [
+      "rapid vienna",
+      "rapid wien",
+      "sk rapid wien"
+    ]
+  },
+  {
+    "slug": "red-bull-salzburg",
+    "name": "Red Bull Salzburg",
+    "sport": "football",
+    "type": "club",
+    "league": "austria-bundesliga",
+    "country": "AT",
+    "aliases": [
+      "fc salzburg",
+      "rb salzburg",
+      "red bull salzburg"
+    ]
+  },
+  {
+    "slug": "cercle-brugge",
+    "name": "Cercle Brügge",
+    "sport": "football",
+    "type": "club",
+    "league": "belgian-pro-league",
+    "country": "BE",
+    "aliases": [
+      "cercle bruges",
+      "cercle brugge",
+      "cercle brügge"
+    ]
+  },
+  {
+    "slug": "club-brugge",
+    "name": "Club Brügge",
+    "sport": "football",
+    "type": "club",
+    "league": "belgian-pro-league",
+    "country": "BE",
+    "aliases": [
+      "club bruges",
+      "club brugge",
+      "club brügge",
+      "fc brügge"
+    ]
+  },
+  {
+    "slug": "rsc-anderlecht",
+    "name": "RSC Anderlecht",
+    "sport": "football",
+    "type": "club",
+    "league": "belgian-pro-league",
+    "country": "BE",
+    "aliases": [
+      "anderlecht",
+      "rsc anderlecht"
+    ]
+  },
+  {
+    "slug": "wydad-ac",
+    "name": "Wydad AC",
+    "sport": "football",
+    "type": "club",
+    "league": "botola-pro",
+    "country": "MA",
+    "aliases": [
+      "wac",
+      "wydad ac",
+      "wydad casablanca"
+    ]
+  },
+  {
+    "slug": "atletico-mineiro",
+    "name": "Atlético Mineiro",
+    "sport": "football",
+    "type": "club",
+    "league": "brasileirao-serie-a",
+    "country": "BR",
+    "aliases": [
+      "atletico mineiro",
+      "atlético mineiro"
+    ]
+  },
+  {
+    "slug": "corinthians",
+    "name": "SC Corinthians",
+    "sport": "football",
+    "type": "club",
+    "league": "brasileirao-serie-a",
+    "country": "BR",
+    "aliases": [
+      "corinthians",
+      "s.c. corinthians",
+      "sc corinthians"
+    ]
+  },
+  {
+    "slug": "cruzeiro",
+    "name": "Cruzeiro EC",
+    "sport": "football",
+    "type": "club",
+    "league": "brasileirao-serie-a",
+    "country": "BR",
+    "aliases": [
+      "cruzeiro",
+      "cruzeiro ec"
+    ]
+  },
+  {
+    "slug": "flamengo",
+    "name": "CR Flamengo",
+    "sport": "football",
+    "type": "club",
+    "league": "brasileirao-serie-a",
+    "country": "BR",
+    "aliases": [
+      "clube de regatas do flamengo",
+      "cr flamengo",
+      "flamengo"
+    ]
+  },
+  {
+    "slug": "palmeiras",
+    "name": "SE Palmeiras",
+    "sport": "football",
+    "type": "club",
+    "league": "brasileirao-serie-a",
+    "country": "BR",
+    "aliases": [
+      "palmeiras",
+      "se palmeiras"
+    ]
+  },
+  {
+    "slug": "santos-fc",
+    "name": "Santos FC",
+    "sport": "football",
+    "type": "club",
+    "league": "brasileirao-serie-a",
+    "country": "BR",
+    "aliases": [
+      "santos",
+      "santos fc"
+    ]
+  },
+  {
+    "slug": "sao-paulo-fc",
+    "name": "São Paulo FC",
+    "sport": "football",
+    "type": "club",
+    "league": "brasileirao-serie-a",
+    "country": "BR",
+    "aliases": [
+      "sao paulo",
+      "sao paulo fc",
+      "são paulo fc"
+    ]
+  },
+  {
+    "slug": "vasco-da-gama",
+    "name": "CR Vasco da Gama",
+    "sport": "football",
+    "type": "club",
+    "league": "brasileirao-serie-a",
+    "country": "BR",
+    "aliases": [
+      "cr vasco da gama",
+      "vasco da gama"
+    ]
+  },
+  {
     "slug": "1-fc-koeln",
     "name": "1. FC Köln",
     "sport": "football",
@@ -1717,8 +1894,9 @@
     "league": "bundesliga",
     "country": "DE",
     "aliases": [
-      "frankfurt",
+      "eintracht francfort",
       "eintracht frankfurt",
+      "frankfurt",
       "sge"
     ],
     "founded": 1899,
@@ -1922,6 +2100,33 @@
     "wikidata": "Q4512"
   },
   {
+    "slug": "aalborg-bk",
+    "name": "Aalborg BK",
+    "sport": "football",
+    "type": "club",
+    "league": "danish-superliga",
+    "country": "DK",
+    "aliases": [
+      "aab",
+      "aalborg",
+      "aalborg bk"
+    ]
+  },
+  {
+    "slug": "fc-kopenhagen",
+    "name": "FC København",
+    "sport": "football",
+    "type": "club",
+    "league": "danish-superliga",
+    "country": "DK",
+    "aliases": [
+      "copenhagen",
+      "fc kopenhagen",
+      "fc københavn",
+      "kopenhagen"
+    ]
+  },
+  {
     "slug": "derby-county",
     "name": "Derby County",
     "sport": "football",
@@ -1991,6 +2196,18 @@
     ]
   },
   {
+    "slug": "watford-fc",
+    "name": "Watford FC",
+    "sport": "football",
+    "type": "club",
+    "league": "efl-championship",
+    "country": "GB",
+    "aliases": [
+      "watford",
+      "watford fc"
+    ]
+  },
+  {
     "slug": "west-ham-united",
     "name": "West Ham United",
     "sport": "football",
@@ -2033,6 +2250,43 @@
     "city": "Wolverhampton",
     "stadium": "Molineux Stadium",
     "wikidata": "Q19500"
+  },
+  {
+    "slug": "ajax-amsterdam",
+    "name": "Ajax Amsterdam",
+    "sport": "football",
+    "type": "club",
+    "league": "eredivisie",
+    "country": "NL",
+    "aliases": [
+      "afc ajax",
+      "ajax",
+      "ajax amsterdam"
+    ]
+  },
+  {
+    "slug": "feyenoord-rotterdam",
+    "name": "Feyenoord Rotterdam",
+    "sport": "football",
+    "type": "club",
+    "league": "eredivisie",
+    "country": "NL",
+    "aliases": [
+      "feyenoord",
+      "feyenoord rotterdam"
+    ]
+  },
+  {
+    "slug": "psv-eindhoven",
+    "name": "PSV Eindhoven",
+    "sport": "football",
+    "type": "club",
+    "league": "eredivisie",
+    "country": "NL",
+    "aliases": [
+      "psv",
+      "psv eindhoven"
+    ]
   },
   {
     "slug": "athletic-bilbao",
@@ -2332,7 +2586,9 @@
     "country": "ES",
     "aliases": [
       "barcelona",
+      "barcelone",
       "barça",
+      "fc barcelone",
       "futbol"
     ],
     "founded": 1899,
@@ -2495,6 +2751,7 @@
       "a.s. monaco",
       "a.s. monaco f.c.",
       "a.s.m.f.c.",
+      "as monaco",
       "as monaco f.c.",
       "as monaco football club",
       "asmfc",
@@ -3590,6 +3847,95 @@
     "wikidata": "Q18741"
   },
   {
+    "slug": "fc-porto",
+    "name": "FC Porto",
+    "sport": "football",
+    "type": "club",
+    "league": "primeira-liga",
+    "country": "PT",
+    "aliases": [
+      "fc porto",
+      "fc porto finale rétro",
+      "porto"
+    ]
+  },
+  {
+    "slug": "sl-benfica",
+    "name": "SL Benfica",
+    "sport": "football",
+    "type": "club",
+    "league": "primeira-liga",
+    "country": "PT",
+    "aliases": [
+      "benfica",
+      "benfica lisbon",
+      "benfica lisbonne",
+      "benfica lissabon",
+      "sl benfica"
+    ]
+  },
+  {
+    "slug": "sporting-cp",
+    "name": "Sporting CP",
+    "sport": "football",
+    "type": "club",
+    "league": "primeira-liga",
+    "country": "PT",
+    "aliases": [
+      "sporting clube de portugal",
+      "sporting cp",
+      "sporting lisbon",
+      "sporting lissabon"
+    ]
+  },
+  {
+    "slug": "boca-juniors",
+    "name": "Boca Juniors",
+    "sport": "football",
+    "type": "club",
+    "league": "primera-division-arg",
+    "country": "AR",
+    "aliases": [
+      "boca juniors",
+      "ca boca juniors"
+    ]
+  },
+  {
+    "slug": "river-plate",
+    "name": "River Plate",
+    "sport": "football",
+    "type": "club",
+    "league": "primera-division-arg",
+    "country": "AR",
+    "aliases": [
+      "ca river plate",
+      "river plate"
+    ]
+  },
+  {
+    "slug": "kaizer-chiefs",
+    "name": "Kaizer Chiefs",
+    "sport": "football",
+    "type": "club",
+    "league": "psl-south-africa",
+    "country": "ZA",
+    "aliases": [
+      "kaizer chiefs",
+      "kaizer chiefs fc"
+    ]
+  },
+  {
+    "slug": "orlando-pirates",
+    "name": "Orlando Pirates",
+    "sport": "football",
+    "type": "club",
+    "league": "psl-south-africa",
+    "country": "ZA",
+    "aliases": [
+      "orlando pirates"
+    ]
+  },
+  {
     "slug": "spvgg-unterhaching",
     "name": "SpVgg Unterhaching",
     "sport": "football",
@@ -3673,6 +4019,121 @@
     ]
   },
   {
+    "slug": "al-hilal",
+    "name": "Al-Hilal SFC",
+    "sport": "football",
+    "type": "club",
+    "league": "saudi-pro-league",
+    "country": "SA",
+    "aliases": [
+      "al hilal",
+      "al-hilal"
+    ]
+  },
+  {
+    "slug": "al-ittihad",
+    "name": "Al-Ittihad Club",
+    "sport": "football",
+    "type": "club",
+    "league": "saudi-pro-league",
+    "country": "SA",
+    "aliases": [
+      "al ittihad",
+      "al-ittihad"
+    ]
+  },
+  {
+    "slug": "al-nassr",
+    "name": "Al-Nassr FC",
+    "sport": "football",
+    "type": "club",
+    "league": "saudi-pro-league",
+    "country": "SA",
+    "aliases": [
+      "al nassr",
+      "al nassr fc",
+      "al-nassr",
+      "al-nassr fc"
+    ]
+  },
+  {
+    "slug": "celtic-fc",
+    "name": "Celtic FC",
+    "sport": "football",
+    "type": "club",
+    "league": "scottish-premiership",
+    "country": "GB-SCT",
+    "aliases": [
+      "celtic",
+      "celtic fc",
+      "celtic glasgow"
+    ]
+  },
+  {
+    "slug": "rangers-fc",
+    "name": "Rangers FC",
+    "sport": "football",
+    "type": "club",
+    "league": "scottish-premiership",
+    "country": "GB-SCT",
+    "aliases": [
+      "glasgow rangers",
+      "rangers",
+      "rangers fc"
+    ]
+  },
+  {
+    "slug": "deportivo-la-coruna",
+    "name": "Deportivo La Coruña",
+    "sport": "football",
+    "type": "club",
+    "league": "segunda-division",
+    "country": "ES",
+    "aliases": [
+      "deportivo la corogne",
+      "deportivo la coruna",
+      "deportivo la coruña"
+    ]
+  },
+  {
+    "slug": "real-valladolid",
+    "name": "Real Valladolid",
+    "sport": "football",
+    "type": "club",
+    "league": "segunda-division",
+    "country": "ES",
+    "aliases": [
+      "real valladolid",
+      "valladolid"
+    ]
+  },
+  {
+    "slug": "fk-partizan-belgrad",
+    "name": "FK Partizan Belgrad",
+    "sport": "football",
+    "type": "club",
+    "league": "serbian-superliga",
+    "country": "RS",
+    "aliases": [
+      "fk partizan belgrad",
+      "partizan",
+      "partizan belgrad"
+    ]
+  },
+  {
+    "slug": "roter-stern-belgrad",
+    "name": "Roter Stern Belgrad",
+    "sport": "football",
+    "type": "club",
+    "league": "serbian-superliga",
+    "country": "RS",
+    "aliases": [
+      "crvena zvezda",
+      "red star belgrade",
+      "roter stern belgrad"
+    ]
+  },
+  {
     "slug": "ac-florenz",
     "name": "AC Florenz",
     "sport": "football",
@@ -3710,7 +4171,8 @@
       "acm",
       "acmilan",
       "association football milan",
-      "associazione calcio milan"
+      "associazione calcio milan",
+      "milan ac"
     ],
     "founded": 1899,
     "city": "Mailand",
@@ -3863,6 +4325,19 @@
     "wikidata": "Q2768"
   },
   {
+    "slug": "genoa-cfc",
+    "name": "Genoa CFC",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "genoa",
+      "genoa cfc",
+      "genua"
+    ]
+  },
+  {
     "slug": "hellas-verona",
     "name": "Hellas Verona",
     "sport": "football",
@@ -3944,6 +4419,19 @@
     "founded": 1897,
     "city": "Turin",
     "wikidata": "Q1422"
+  },
+  {
+    "slug": "pisa-sc",
+    "name": "Pisa SC",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "ac pisa",
+      "pisa",
+      "pisa sc"
+    ]
   },
   {
     "slug": "sampdoria-genua",
@@ -4127,6 +4615,161 @@
     "city": "Sassuolo",
     "stadium": "Mapei Stadium – Città del Tricolore",
     "wikidata": "Q8603"
+  },
+  {
+    "slug": "palermo-fc",
+    "name": "Palermo FC",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-b",
+    "country": "IT",
+    "aliases": [
+      "palermo",
+      "palermo fc",
+      "us palermo"
+    ]
+  },
+  {
+    "slug": "olympiacos",
+    "name": "Olympiacos Piräus",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece",
+    "country": "GR",
+    "aliases": [
+      "olympiacos",
+      "olympiacos piräus",
+      "olympiakos"
+    ]
+  },
+  {
+    "slug": "panathinaikos",
+    "name": "Panathinaikos",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece",
+    "country": "GR",
+    "aliases": [
+      "panathinaikos",
+      "panathinaikos athen"
+    ]
+  },
+  {
+    "slug": "besiktas",
+    "name": "Beşiktaş",
+    "sport": "football",
+    "type": "club",
+    "league": "super-lig",
+    "country": "TR",
+    "aliases": [
+      "besiktas",
+      "besiktas jk",
+      "beşiktaş"
+    ]
+  },
+  {
+    "slug": "fenerbahce",
+    "name": "Fenerbahçe",
+    "sport": "football",
+    "type": "club",
+    "league": "super-lig",
+    "country": "TR",
+    "aliases": [
+      "fenerbahce",
+      "fenerbahce sk",
+      "fenerbahçe"
+    ]
+  },
+  {
+    "slug": "galatasaray",
+    "name": "Galatasaray",
+    "sport": "football",
+    "type": "club",
+    "league": "super-lig",
+    "country": "TR",
+    "aliases": [
+      "galatasaray",
+      "galatasaray sk"
+    ]
+  },
+  {
+    "slug": "bsc-young-boys",
+    "name": "BSC Young Boys",
+    "sport": "football",
+    "type": "club",
+    "league": "swiss-super-league",
+    "country": "CH",
+    "aliases": [
+      "bsc young boys",
+      "yb",
+      "young boys"
+    ]
+  },
+  {
+    "slug": "fc-basel",
+    "name": "FC Basel",
+    "sport": "football",
+    "type": "club",
+    "league": "swiss-super-league",
+    "country": "CH",
+    "aliases": [
+      "basel",
+      "fc basel",
+      "fc basel 1893"
+    ]
+  },
+  {
+    "slug": "fc-lugano",
+    "name": "FC Lugano",
+    "sport": "football",
+    "type": "club",
+    "league": "swiss-super-league",
+    "country": "CH",
+    "aliases": [
+      "fc lugano",
+      "lugano"
+    ]
+  },
+  {
+    "slug": "fc-st-gallen",
+    "name": "FC St. Gallen",
+    "sport": "football",
+    "type": "club",
+    "league": "swiss-super-league",
+    "country": "CH",
+    "aliases": [
+      "fc saint-gall",
+      "fc st gallen",
+      "fc st. gallen",
+      "st. gallen"
+    ]
+  },
+  {
+    "slug": "servette-fc",
+    "name": "Servette FC",
+    "sport": "football",
+    "type": "club",
+    "league": "swiss-super-league",
+    "country": "CH",
+    "aliases": [
+      "servette",
+      "servette fc",
+      "servette genf"
+    ]
+  },
+  {
+    "slug": "esperance-tunis",
+    "name": "Espérance Tunis",
+    "sport": "football",
+    "type": "club",
+    "league": "tunisian-ligue-1",
+    "country": "TN",
+    "aliases": [
+      "es tunis",
+      "esperance tunis",
+      "espérance sportive tunis",
+      "est"
+    ]
   },
   {
     "slug": "aegypten",
