@@ -1521,6 +1521,111 @@
     ]
   },
   {
+    "slug": "1-fc-heidenheim",
+    "name": "1. FC Heidenheim",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "1 fc heidenheim",
+      "1. fc heidenheim",
+      "fc heidenheim 1846",
+      "heidenheim"
+    ]
+  },
+  {
+    "slug": "1-fc-kaiserslautern",
+    "name": "1. FC Kaiserslautern",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "1 fc kaiserslautern",
+      "1. fc kaiserslautern",
+      "fck",
+      "kaiserslautern"
+    ]
+  },
+  {
+    "slug": "1-fc-magdeburg",
+    "name": "1. FC Magdeburg",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "1 fc magdeburg",
+      "1. fc magdeburg",
+      "magdeburg"
+    ]
+  },
+  {
+    "slug": "1-fc-nuernberg",
+    "name": "1. FC Nürnberg",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "1 fc nürnberg",
+      "1. fc nürnberg",
+      "fcn",
+      "nürnberg"
+    ]
+  },
+  {
+    "slug": "arminia-bielefeld",
+    "name": "Arminia Bielefeld",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "arminia bielefeld",
+      "dsc arminia bielefeld"
+    ]
+  },
+  {
+    "slug": "dynamo-dresden",
+    "name": "Dynamo Dresden",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "dresden",
+      "dynamo dresden",
+      "sg dynamo dresden"
+    ]
+  },
+  {
+    "slug": "eintracht-braunschweig",
+    "name": "Eintracht Braunschweig",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "braunschweig",
+      "eintracht braunschweig"
+    ]
+  },
+  {
+    "slug": "energie-cottbus",
+    "name": "FC Energie Cottbus",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "cottbus",
+      "energie cottbus",
+      "fc energie cottbus"
+    ]
+  },
+  {
     "slug": "fc-st-pauli",
     "name": "FC St. Pauli",
     "sport": "football",
@@ -1533,6 +1638,119 @@
       "sankt pauli",
       "st pauli",
       "st. pauli"
+    ]
+  },
+  {
+    "slug": "hannover-96",
+    "name": "Hannover 96",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hannover",
+      "hannover 96"
+    ]
+  },
+  {
+    "slug": "hertha-bsc",
+    "name": "Hertha BSC",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hertha berlin",
+      "hertha bsc",
+      "hertha bsc berlin"
+    ]
+  },
+  {
+    "slug": "holstein-kiel",
+    "name": "Holstein Kiel",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "holstein kiel",
+      "kiel",
+      "ksv holstein kiel"
+    ]
+  },
+  {
+    "slug": "karlsruher-sc",
+    "name": "Karlsruher SC",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "karlsruhe",
+      "karlsruher sc",
+      "ksc"
+    ]
+  },
+  {
+    "slug": "spvgg-greuther-fuerth",
+    "name": "SpVgg Greuther Fürth",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "fürth",
+      "greuther fürth",
+      "spvgg greuther fürth"
+    ]
+  },
+  {
+    "slug": "sv-darmstadt-98",
+    "name": "SV Darmstadt 98",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "darmstadt",
+      "darmstadt 98",
+      "sv darmstadt 98"
+    ]
+  },
+  {
+    "slug": "vfl-bochum",
+    "name": "VfL Bochum",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "bochum",
+      "vfl bochum"
+    ]
+  },
+  {
+    "slug": "vfl-osnabrueck",
+    "name": "VfL Osnabrück",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "osnabrück",
+      "vfl osnabrück"
+    ]
+  },
+  {
+    "slug": "vfl-wolfsburg",
+    "name": "VfL Wolfsburg",
+    "sport": "football",
+    "type": "club",
+    "league": "2-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "vfl wolfsburg",
+      "wolfsburg"
     ]
   },
   {

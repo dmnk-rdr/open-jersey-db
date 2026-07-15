@@ -1,4 +1,16 @@
 {
+  "1. FC Heidenheim": [
+    "1 fc heidenheim",
+    "1. fc heidenheim",
+    "fc heidenheim 1846",
+    "heidenheim"
+  ],
+  "1. FC Kaiserslautern": [
+    "1 fc kaiserslautern",
+    "1. fc kaiserslautern",
+    "fck",
+    "kaiserslautern"
+  ],
   "1. FC Köln": [
     "1. fc cologne",
     "1. fußball-club köln 01/07",
@@ -12,6 +24,17 @@
     "köln",
     "kölner bc 01",
     "spvgg sülz"
+  ],
+  "1. FC Magdeburg": [
+    "1 fc magdeburg",
+    "1. fc magdeburg",
+    "magdeburg"
+  ],
+  "1. FC Nürnberg": [
+    "1 fc nürnberg",
+    "1. fc nürnberg",
+    "fcn",
+    "nürnberg"
   ],
   "1. FC Union Berlin": [
     "1 fc union berlin",
@@ -154,6 +177,10 @@
   ],
   "Arizona Diamondbacks": [
     "arizona diamondbacks"
+  ],
+  "Arminia Bielefeld": [
+    "arminia bielefeld",
+    "dsc arminia bielefeld"
   ],
   "Astana Qazaqstan Team": [
     "astana",
@@ -562,6 +589,11 @@
     "germany",
     "nationalmannschaft deutschland"
   ],
+  "Dynamo Dresden": [
+    "dresden",
+    "dynamo dresden",
+    "sg dynamo dresden"
+  ],
   "Dänemark": [
     "daenemark",
     "danemark",
@@ -573,6 +605,10 @@
   ],
   "Edmonton Oilers": [
     "edmonton oilers"
+  ],
+  "Eintracht Braunschweig": [
+    "braunschweig",
+    "eintracht braunschweig"
   ],
   "Eintracht Frankfurt": [
     "eintracht francfort",
@@ -685,6 +721,11 @@
     "empoli f.c.",
     "empoli football club",
     "empolifc"
+  ],
+  "FC Energie Cottbus": [
+    "cottbus",
+    "energie cottbus",
+    "fc energie cottbus"
   ],
   "FC Everton": [
     "efc",
@@ -956,6 +997,10 @@
     "hamburgersv",
     "hsv"
   ],
+  "Hannover 96": [
+    "hannover",
+    "hannover 96"
+  ],
   "Hellas Verona": [
     "h.v.f.c.",
     "hellas",
@@ -964,6 +1009,16 @@
     "hellasverona",
     "hvfc",
     "verona"
+  ],
+  "Hertha BSC": [
+    "hertha berlin",
+    "hertha bsc",
+    "hertha bsc berlin"
+  ],
+  "Holstein Kiel": [
+    "holstein kiel",
+    "kiel",
+    "ksv holstein kiel"
   ],
   "Houston Astros": [
     "houston astros"
@@ -1106,6 +1161,11 @@
     "cabo verde",
     "cape verde",
     "kap verde"
+  ],
+  "Karlsruher SC": [
+    "karlsruhe",
+    "karlsruher sc",
+    "ksc"
   ],
   "Katar": [
     "katar",
@@ -1692,6 +1752,11 @@
     "ssv ulm 1846 fussball",
     "ulm"
   ],
+  "SV Darmstadt 98": [
+    "darmstadt",
+    "darmstadt 98",
+    "sv darmstadt 98"
+  ],
   "SV Elversberg": [
     "elversberg",
     "sv 07 elversberg",
@@ -1811,6 +1876,11 @@
     "quick-step alpha vinyl",
     "soudal quick step",
     "soudal quick-step"
+  ],
+  "SpVgg Greuther Fürth": [
+    "fürth",
+    "greuther fürth",
+    "spvgg greuther fürth"
   ],
   "SpVgg Unterhaching": [
     "haching",
@@ -2087,8 +2157,20 @@
     "vfb",
     "vfb stuttgart"
   ],
+  "VfL Bochum": [
+    "bochum",
+    "vfl bochum"
+  ],
+  "VfL Osnabrück": [
+    "osnabrück",
+    "vfl osnabrück"
+  ],
   "VfL Potsdam": [
     "vfl potsdam"
+  ],
+  "VfL Wolfsburg": [
+    "vfl wolfsburg",
+    "wolfsburg"
   ],
   "Visma–Lease a Bike": [
     "team lease a bike",
