@@ -14,3 +14,7 @@ city: Boston
 # (ligaweiter Deal, kein teamspezifischer). Quelle: NFL.com/ESPN.
 kit_suppliers:
 - { manufacturer: Nike, from: 2012 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „New England Patriots".
+achievements:
+- { year: '2001–2018', text: 'Sechs Super-Bowl-Titel in der Ära Brady/Belichick (Rekord gemeinsam mit Pittsburgh)', text_en: 'Six Super Bowl titles in the Brady/Belichick era (a record shared with Pittsburgh)' }

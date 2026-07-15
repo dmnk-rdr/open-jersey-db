@@ -350,6 +350,13 @@
         "from": 2012
       }
     ],
+    "achievements": [
+      {
+        "year": "2001–2018",
+        "text": "Sechs Super-Bowl-Titel in der Ära Brady/Belichick (Rekord gemeinsam mit Pittsburgh)",
+        "text_en": "Six Super Bowl titles in the Brady/Belichick era (a record shared with Pittsburgh)"
+      }
+    ],
     "wikidata": "Q193390"
   },
   {
@@ -443,6 +450,13 @@
       {
         "manufacturer": "Nike",
         "from": 2012
+      }
+    ],
+    "achievements": [
+      {
+        "year": "1981–1994",
+        "text": "Fünf Super-Bowl-Titel (1981, 1984, 1988, 1989, 1994) – die Dynastie um Joe Montana und Jerry Rice",
+        "text_en": "Five Super Bowl titles (1981, 1984, 1988, 1989, 1994) – the dynasty around Joe Montana and Jerry Rice"
       }
     ],
     "wikidata": "Q337758"
@@ -741,6 +755,18 @@
         "from": 2020
       }
     ],
+    "achievements": [
+      {
+        "year": "2025",
+        "text": "World-Series-Champion 2025 (7 Spiele gegen die Toronto Blue Jays) – neunter Titel der Franchise",
+        "text_en": "World Series champions 2025 (7 games vs the Toronto Blue Jays) – a ninth franchise title"
+      },
+      {
+        "year": "1955–2025",
+        "text": "Neun World-Series-Titel insgesamt, u. a. 2020, 2024 und 2025",
+        "text_en": "Nine World Series titles overall, including 2020, 2024 and 2025"
+      }
+    ],
     "wikidata": "Q334634"
   },
   {
@@ -813,6 +839,18 @@
     ],
     "founded": 1901,
     "city": "New York",
+    "achievements": [
+      {
+        "year": "1923–2009",
+        "text": "Rekord von 27 World-Series-Titeln – die meisten aller MLB-Franchises",
+        "text_en": "A record 27 World Series titles – the most of any MLB franchise"
+      },
+      {
+        "year": "2009",
+        "text": "Letzter Titel 2009 gegen die Philadelphia Phillies",
+        "text_en": "Most recent title in 2009 vs the Philadelphia Phillies"
+      }
+    ],
     "wikidata": "Q213417"
   },
   {
@@ -995,6 +1033,13 @@
     ],
     "founded": 1946,
     "city": "Boston",
+    "achievements": [
+      {
+        "year": "1957–2024",
+        "text": "Rekord von 18 NBA-Titeln (zuletzt 2024 gegen die Dallas Mavericks)",
+        "text_en": "A record 18 NBA championships (most recently 2024 vs the Dallas Mavericks)"
+      }
+    ],
     "wikidata": "Q131371"
   },
   {
@@ -1359,6 +1404,13 @@
     ],
     "founded": 1995,
     "city": "Toronto",
+    "achievements": [
+      {
+        "year": "2019",
+        "text": "NBA-Champion 2019 – erster Titel und erste NBA-Meisterschaft eines Teams von außerhalb der USA",
+        "text_en": "NBA champions 2019 – their first title and the first NBA championship won by a team from outside the USA"
+      }
+    ],
     "wikidata": "Q132880"
   },
   {

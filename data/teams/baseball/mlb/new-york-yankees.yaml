@@ -9,3 +9,8 @@ aliases:
 wikidata: Q213417
 founded: 1901
 city: New York
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „New York Yankees".
+achievements:
+- { year: '1923–2009', text: 'Rekord von 27 World-Series-Titeln – die meisten aller MLB-Franchises', text_en: 'A record 27 World Series titles – the most of any MLB franchise' }
+- { year: '2009', text: 'Letzter Titel 2009 gegen die Philadelphia Phillies', text_en: 'Most recent title in 2009 vs the Philadelphia Phillies' }

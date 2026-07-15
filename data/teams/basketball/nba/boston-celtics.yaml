@@ -9,3 +9,7 @@ aliases:
 wikidata: Q131371
 founded: 1946
 city: Boston
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Boston Celtics".
+achievements:
+- { year: '1957–2024', text: 'Rekord von 18 NBA-Titeln (zuletzt 2024 gegen die Dallas Mavericks)', text_en: 'A record 18 NBA championships (most recently 2024 vs the Dallas Mavericks)' }

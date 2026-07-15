@@ -14,3 +14,7 @@ city: San Francisco
 # (ligaweiter Deal, kein teamspezifischer). Quelle: NFL.com/ESPN.
 kit_suppliers:
 - { manufacturer: Nike, from: 2012 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „San Francisco 49ers".
+achievements:
+- { year: '1981–1994', text: 'Fünf Super-Bowl-Titel (1981, 1984, 1988, 1989, 1994) – die Dynastie um Joe Montana und Jerry Rice', text_en: 'Five Super Bowl titles (1981, 1984, 1988, 1989, 1994) – the dynasty around Joe Montana and Jerry Rice' }

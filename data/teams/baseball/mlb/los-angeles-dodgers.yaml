@@ -14,3 +14,8 @@ stadium: Dodger Stadium
 # (ligaweiter Deal, kein teamspezifischer; zuvor Majestic Athletic). Quelle: MLB.com/ESPN.
 kit_suppliers:
 - { manufacturer: Nike, from: 2020 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Los Angeles Dodgers".
+achievements:
+- { year: '2025', text: 'World-Series-Champion 2025 (7 Spiele gegen die Toronto Blue Jays) – neunter Titel der Franchise', text_en: 'World Series champions 2025 (7 games vs the Toronto Blue Jays) – a ninth franchise title' }
+- { year: '1955–2025', text: 'Neun World-Series-Titel insgesamt, u. a. 2020, 2024 und 2025', text_en: 'Nine World Series titles overall, including 2020, 2024 and 2025' }

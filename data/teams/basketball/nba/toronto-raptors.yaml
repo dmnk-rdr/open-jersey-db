@@ -9,3 +9,7 @@ aliases:
 wikidata: Q132880
 founded: 1995
 city: Toronto
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Toronto Raptors".
+achievements:
+- { year: '2019', text: 'NBA-Champion 2019 – erster Titel und erste NBA-Meisterschaft eines Teams von außerhalb der USA', text_en: 'NBA champions 2019 – their first title and the first NBA championship won by a team from outside the USA' }
