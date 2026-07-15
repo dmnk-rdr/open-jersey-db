@@ -28,6 +28,6 @@ kit_suppliers:
 
 # Erfolge (größte zuerst). Quelle: Wikipedia „Peruanische Fußballnationalmannschaft".
 achievements:
-- { year: '1939, 1975', text: 'Zweifacher Copa-América-Sieger' }
-- { year: '1970', text: 'WM-Viertelfinale in Mexiko mit der „goldenen Generation" um Teófilo Cubillas – beste WM-Platzierung' }
-- { year: '2019', text: 'Copa-América-Finalist (0:3 gegen Brasilien)' }
+- { year: '1939, 1975', text: 'Zweifacher Copa-América-Sieger', text_en: 'Two-time Copa América winners' }
+- { year: '1970', text: 'WM-Viertelfinale in Mexiko mit der „goldenen Generation" um Teófilo Cubillas – beste WM-Platzierung', text_en: 'World Cup quarter-final in Mexico with the ''golden generation'' around Teófilo Cubillas – best World Cup result' }
+- { year: '2019', text: 'Copa-América-Finalist (0:3 gegen Brasilien)', text_en: 'Copa América runners-up (0–3 vs Brazil)' }

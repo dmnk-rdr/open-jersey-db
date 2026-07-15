@@ -16,3 +16,8 @@ kit_suppliers:
 - { manufacturer: Erreà, from: 2000, to: 2001 }
 - { manufacturer: adidas, from: 1980, to: 2000 }
 - { manufacturer: In-House, to: 1980 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Senegalesische Fußballnationalmannschaft".
+achievements:
+- { year: '2022', text: 'Afrika-Cup-Sieger in Kamerun (i. E. gegen Ägypten) – erster Titel', text_en: 'Africa Cup of Nations winners in Cameroon (on penalties vs Egypt) – first title' }
+- { year: '2002', text: 'WM-Viertelfinale als Debütant, nach Auftaktsieg gegen Titelverteidiger Frankreich', text_en: 'World Cup quarter-final on their debut, after a shock opening win over holders France' }

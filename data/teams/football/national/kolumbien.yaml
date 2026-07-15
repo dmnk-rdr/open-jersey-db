@@ -22,6 +22,6 @@ kit_suppliers:
 
 # Erfolge (größte zuerst). Quelle: Wikipedia „Kolumbianische Fußballnationalmannschaft".
 achievements:
-- { year: '2001', text: 'Copa-América-Sieger im eigenen Land – bislang einziger großer Titel (Finalsieg gegen Mexiko)' }
-- { year: '2014', text: 'WM-Viertelfinale in Brasilien – beste WM-Platzierung, James Rodríguez wird Torschützenkönig' }
-- { year: '1975, 2024', text: 'Copa-América-Finalist' }
+- { year: '2001', text: 'Copa-América-Sieger im eigenen Land – bislang einziger großer Titel (Finalsieg gegen Mexiko)', text_en: 'Copa América winners at home – so far their only major title (final won vs Mexico)' }
+- { year: '2014', text: 'WM-Viertelfinale in Brasilien – beste WM-Platzierung, James Rodríguez wird Torschützenkönig', text_en: 'World Cup quarter-final in Brazil – best World Cup result, with James Rodríguez the tournament''s top scorer' }
+- { year: '1975, 2024', text: 'Copa-América-Finalist', text_en: 'Copa América runners-up' }

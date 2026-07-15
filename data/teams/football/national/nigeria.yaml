@@ -18,6 +18,6 @@ kit_suppliers:
 
 # Erfolge (größte zuerst). Quelle: Wikipedia „Nigerianische Fußballnationalmannschaft".
 achievements:
-- { year: '1980, 1994, 2013', text: 'Dreifacher Afrika-Cup-Sieger' }
-- { year: '1996', text: 'Olympiasieger in Atlanta – erstes afrikanisches Team mit Fußball-Gold' }
-- { year: '1994, 1998, 2014', text: 'Dreimal WM-Achtelfinale – beste WM-Platzierungen der „Super Eagles"' }
+- { year: '1980, 1994, 2013', text: 'Dreifacher Afrika-Cup-Sieger', text_en: 'Three-time Africa Cup of Nations winners' }
+- { year: '1996', text: 'Olympiasieger in Atlanta – erstes afrikanisches Team mit Fußball-Gold', text_en: 'Olympic champions in Atlanta – first African team to win football gold' }
+- { year: '1994, 1998, 2014', text: 'Dreimal WM-Achtelfinale – beste WM-Platzierungen der „Super Eagles"', text_en: 'Three World Cup round-of-16 appearances – the Super Eagles'' best World Cup finishes' }

@@ -21,3 +21,9 @@ kit_suppliers:
 - { manufacturer: Industria Lanús, from: 1958, to: 1963 }
 - { manufacturer: Gath & Chaves, from: 1925, to: 1934 }
 - { manufacturer: St. Margaret, from: 1901, to: 1924 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Argentinische Fußballnationalmannschaft".
+achievements:
+- { year: '1978, 1986, 2022', text: 'Dreifacher Weltmeister – 1978, 1986 (mit Diego Maradona) und 2022 (mit Lionel Messi)', text_en: 'Three-time world champions – 1978, 1986 (with Diego Maradona) and 2022 (with Lionel Messi)' }
+- { year: '1921–2024', text: 'Rekord-Copa-América-Sieger mit 16 Titeln (zuletzt 2021 und 2024)', text_en: 'Record 16-time Copa América winners (most recently 2021 and 2024)' }
+- { year: '2022', text: 'Sieger der Finalissima gegen Europameister Italien', text_en: 'Winners of the 2022 Finalissima against European champions Italy' }

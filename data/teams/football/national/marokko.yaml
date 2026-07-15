@@ -21,6 +21,6 @@ kit_suppliers:
 
 # Erfolge (größte zuerst). Quelle: Wikipedia „Marokkanische Fußballnationalmannschaft".
 achievements:
-- { year: '2022', text: 'WM-Halbfinale in Katar (4. Platz) – erste afrikanische und arabische Mannschaft im WM-Halbfinale' }
-- { year: '1976', text: 'Afrika-Cup-Sieger in Äthiopien' }
-- { year: '1986', text: 'Erste afrikanische Mannschaft mit Gruppensieg bei einer WM (Achtelfinale in Mexiko)' }
+- { year: '2022', text: 'WM-Halbfinale in Katar (4. Platz) – erste afrikanische und arabische Mannschaft im WM-Halbfinale', text_en: 'World Cup semi-final in Qatar (4th place) – first African and Arab team to reach a World Cup semi-final' }
+- { year: '1976', text: 'Afrika-Cup-Sieger in Äthiopien', text_en: 'Africa Cup of Nations winners in Ethiopia' }
+- { year: '1986', text: 'Erste afrikanische Mannschaft mit Gruppensieg bei einer WM (Achtelfinale in Mexiko)', text_en: 'First African team to top a World Cup group (round of 16 in Mexico)' }

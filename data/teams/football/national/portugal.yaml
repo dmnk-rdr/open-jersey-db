@@ -13,3 +13,9 @@ kit_suppliers:
 - { manufacturer: Olympic Sportswear, from: 1994, to: 1996 }
 - { manufacturer: adidas, from: 1976, to: 1994 }
 - { manufacturer: In-House, to: 1976 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Portugiesische Fußballnationalmannschaft".
+achievements:
+- { year: '2016', text: 'Europameister in Frankreich (1:0 n. V. gegen Gastgeber Frankreich) – erster großer Titel', text_en: 'European champions in France (1–0 a.e.t. against hosts France) – first major title' }
+- { year: '2019, 2025', text: 'Zweifacher Sieger der UEFA Nations League (2019 gegen die Niederlande, 2025 i. E. gegen Spanien)', text_en: 'Two-time UEFA Nations League winners (2019 vs the Netherlands, 2025 on penalties vs Spain)' }
+- { year: '1966', text: 'WM-Dritter in England – lange die beste WM-Platzierung', text_en: 'World Cup third place in England – long their best World Cup result' }

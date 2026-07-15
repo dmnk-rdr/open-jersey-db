@@ -16,3 +16,8 @@ kit_suppliers:
 - { manufacturer: Topper, from: 1981, to: 1991 }
 - { manufacturer: adidas, from: 1977, to: 1981 }
 - { manufacturer: Athleta, from: 1954, to: 1977 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Brasilianische Fußballnationalmannschaft".
+achievements:
+- { year: '1958–2002', text: 'Rekord-Weltmeister mit fünf Titeln (1958, 1962, 1970, 1994, 2002) – einziges Team bei allen WM-Endrunden', text_en: 'Record five-time world champions (1958, 1962, 1970, 1994, 2002) – the only team to appear at every World Cup' }
+- { year: '1919–2019', text: 'Neunfacher Copa-América-Sieger (zuletzt 2019 im eigenen Land)', text_en: 'Nine-time Copa América winners (most recently 2019 at home)' }

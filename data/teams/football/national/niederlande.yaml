@@ -20,6 +20,6 @@ kit_suppliers:
 
 # Erfolge (größte zuerst). Quelle: Wikipedia „Niederländische Fußballnationalmannschaft".
 achievements:
-- { year: '1988', text: 'Europameister in Deutschland (2:0 gegen die UdSSR) – bislang einziger großer Titel' }
-- { year: '1974, 1978, 2010', text: 'Dreimal WM-Finalist – u. a. mit dem „totalen Fußball" um Johan Cruyff 1974' }
-- { year: '2014', text: 'WM-Dritter in Brasilien' }
+- { year: '1988', text: 'Europameister in Deutschland (2:0 gegen die UdSSR) – bislang einziger großer Titel', text_en: 'European champions in West Germany (2–0 vs the USSR) – so far their only major title' }
+- { year: '1974, 1978, 2010', text: 'Dreimal WM-Finalist – u. a. mit dem „totalen Fußball" um Johan Cruyff 1974', text_en: 'Three-time World Cup runners-up – incl. the ''Total Football'' side around Johan Cruyff in 1974' }
+- { year: '2014', text: 'WM-Dritter in Brasilien', text_en: 'World Cup third place in Brazil' }

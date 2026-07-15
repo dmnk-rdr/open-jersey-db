@@ -21,5 +21,5 @@ kit_suppliers:
 
 # Erfolge/Besonderheiten. Quelle: Wikipedia „Venezolanische Fußballnationalmannschaft".
 achievements:
-- { text: 'Einzige CONMEBOL-Nation, die sich noch nie für eine WM-Endrunde qualifiziert hat – die „Vinotinto" gilt traditionell als Baseball-, nicht Fußball-Land' }
-- { year: '2011', text: 'Copa-América-Halbfinale (4. Platz) in Argentinien – beste Turnierplatzierung' }
+- { text: 'Einzige CONMEBOL-Nation, die sich noch nie für eine WM-Endrunde qualifiziert hat – die „Vinotinto" gilt traditionell als Baseball-, nicht Fußball-Land', text_en: 'The only CONMEBOL nation never to have qualified for a World Cup – La Vinotinto has traditionally been a baseball rather than football country' }
+- { year: '2011', text: 'Copa-América-Halbfinale (4. Platz) in Argentinien – beste Turnierplatzierung', text_en: 'Copa América semi-final (4th place) in Argentina – their best tournament finish' }

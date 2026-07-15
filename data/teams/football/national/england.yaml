@@ -16,3 +16,8 @@ kit_suppliers:
 - { manufacturer: Bukta, from: 1959, to: 1965 }
 - { manufacturer: Umbro, from: 1954, to: 1959 }
 - { manufacturer: St. Blaize and Hope Brothers, from: 1949, to: 1954 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Englische Fußballnationalmannschaft".
+achievements:
+- { year: '1966', text: 'Weltmeister im eigenen Land (4:2 n. V. gegen Deutschland, Hattrick von Geoff Hurst)', text_en: 'World champions at home (4–2 a.e.t. vs West Germany, a Geoff Hurst hat-trick)' }
+- { year: '2021, 2024', text: 'Zweimal in Folge EM-Finalist (2021 i. E. gegen Italien, 2024 1:2 gegen Spanien)', text_en: 'European Championship runners-up in two consecutive tournaments (2021 on penalties vs Italy, 2024 1–2 vs Spain)' }

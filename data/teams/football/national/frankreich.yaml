@@ -17,6 +17,6 @@ kit_suppliers:
 
 # Erfolge (größte zuerst). Quelle: Wikipedia „Französische Fußballnationalmannschaft".
 achievements:
-- { year: '1998, 2018', text: 'Zweifacher Weltmeister – 1998 im eigenen Land (3:0 gegen Brasilien), 2018 in Russland (4:2 gegen Kroatien)' }
-- { year: '1984, 2000', text: 'Zweifacher Europameister – 1984 als Gastgeber, 2000 als amtierender Weltmeister' }
-- { year: '2021', text: 'Sieger der UEFA Nations League' }
+- { year: '1998, 2018', text: 'Zweifacher Weltmeister – 1998 im eigenen Land (3:0 gegen Brasilien), 2018 in Russland (4:2 gegen Kroatien)', text_en: 'Two-time world champions – 1998 at home (3–0 vs Brazil), 2018 in Russia (4–2 vs Croatia)' }
+- { year: '1984, 2000', text: 'Zweifacher Europameister – 1984 als Gastgeber, 2000 als amtierender Weltmeister', text_en: 'Two-time European champions – 1984 as hosts, 2000 as reigning world champions' }
+- { year: '2021', text: 'Sieger der UEFA Nations League', text_en: 'UEFA Nations League winners' }

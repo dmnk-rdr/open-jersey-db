@@ -19,6 +19,6 @@ kit_suppliers:
 
 # Erfolge (größte zuerst). Quelle: Wikipedia „Schweizer Fussballnationalmannschaft".
 achievements:
-- { year: '2021', text: 'EM-Viertelfinale nach Sieg i. E. gegen Weltmeister Frankreich im Achtelfinale – Höhepunkt der jüngeren Geschichte' }
-- { year: '1934, 1938, 1954', text: 'Dreimal WM-Viertelfinale – 1954 als Gastgeber' }
-- { year: '1924', text: 'Olympia-Silber in Paris' }
+- { year: '2021', text: 'EM-Viertelfinale nach Sieg i. E. gegen Weltmeister Frankreich im Achtelfinale – Höhepunkt der jüngeren Geschichte', text_en: 'European Championship quarter-final after beating world champions France on penalties in the last 16 – a highlight of their recent history' }
+- { year: '1934, 1938, 1954', text: 'Dreimal WM-Viertelfinale – 1954 als Gastgeber', text_en: 'Three World Cup quarter-finals – 1954 as hosts' }
+- { year: '1924', text: 'Olympia-Silber in Paris', text_en: 'Olympic silver in Paris' }

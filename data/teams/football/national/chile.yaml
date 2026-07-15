@@ -30,6 +30,6 @@ kit_suppliers:
 
 # Erfolge (größte zuerst). Quelle: Wikipedia „Chilenische Fußballnationalmannschaft".
 achievements:
-- { year: '2015', text: 'Copa-América-Sieger im eigenen Land – erster großer Titel der „La Roja" (Finalsieg i. E. gegen Argentinien)' }
-- { year: '2016', text: 'Copa América Centenario: erneut Titel gegen Argentinien (wieder im Elfmeterschießen)' }
-- { year: '1962', text: 'WM-Dritter als Gastgeber – beste WM-Platzierung' }
+- { year: '2015', text: 'Copa-América-Sieger im eigenen Land – erster großer Titel der „La Roja" (Finalsieg i. E. gegen Argentinien)', text_en: 'Copa América winners at home – La Roja''s first major title (final won on penalties vs Argentina)' }
+- { year: '2016', text: 'Copa América Centenario: erneut Titel gegen Argentinien (wieder im Elfmeterschießen)', text_en: 'Copa América Centenario: the title again over Argentina (again on penalties)' }
+- { year: '1962', text: 'WM-Dritter als Gastgeber – beste WM-Platzierung', text_en: 'World Cup third place as hosts – best World Cup result' }

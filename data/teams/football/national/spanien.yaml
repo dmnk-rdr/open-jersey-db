@@ -20,6 +20,6 @@ kit_suppliers:
 
 # Erfolge (größte zuerst). Quelle: Wikipedia „Spanische Fußballnationalmannschaft".
 achievements:
-- { year: '2010', text: 'Weltmeister in Südafrika (1:0 n. V. gegen die Niederlande) – erster WM-Titel' }
-- { year: '1964, 2008, 2012, 2024', text: 'Rekord-Europameister mit vier EM-Titeln' }
-- { year: '2023', text: 'Sieger der UEFA Nations League (i. E. gegen Kroatien)' }
+- { year: '2010', text: 'Weltmeister in Südafrika (1:0 n. V. gegen die Niederlande) – erster WM-Titel', text_en: 'World champions in South Africa (1–0 a.e.t. vs the Netherlands) – first World Cup title' }
+- { year: '1964, 2008, 2012, 2024', text: 'Rekord-Europameister mit vier EM-Titeln', text_en: 'Record European champions with four Euro titles' }
+- { year: '2023', text: 'Sieger der UEFA Nations League (i. E. gegen Kroatien)', text_en: 'UEFA Nations League winners (on penalties vs Croatia)' }

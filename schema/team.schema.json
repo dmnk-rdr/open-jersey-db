@@ -79,7 +79,12 @@
             "type": ["string", "null"],
             "description": "Jahr oder Zeitraum, z. B. '2016' oder '1983–1990'."
           },
-          "text": { "type": "string", "minLength": 1 }
+          "text": { "type": "string", "minLength": 1 },
+          "text_en": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Optionale kuratierte englische Fassung von `text` (EN-Ansicht). Fehlt sie, dient `text` als Fallback."
+          }
         }
       }
     },
