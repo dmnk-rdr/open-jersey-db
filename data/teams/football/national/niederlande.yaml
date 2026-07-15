@@ -17,3 +17,9 @@ kit_suppliers:
 - { manufacturer: Jansen & Tilanus, from: 1969, to: 1974 }
 - { manufacturer: Umbro, from: 1966, to: 1969 }
 - { manufacturer: Tweka, from: 1938, to: 1966 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Niederländische Fußballnationalmannschaft".
+achievements:
+- { year: '1988', text: 'Europameister in Deutschland (2:0 gegen die UdSSR) – bislang einziger großer Titel' }
+- { year: '1974, 1978, 2010', text: 'Dreimal WM-Finalist – u. a. mit dem „totalen Fußball" um Johan Cruyff 1974' }
+- { year: '2014', text: 'WM-Dritter in Brasilien' }

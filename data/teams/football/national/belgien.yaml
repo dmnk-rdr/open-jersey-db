@@ -19,3 +19,9 @@ kit_suppliers:
 - { manufacturer: Admiral, from: 1981, to: 1982 }
 - { manufacturer: adidas, from: 1974, to: 1980 }
 - { manufacturer: Umbro, from: 1970, to: 1973 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Belgische Fußballnationalmannschaft".
+achievements:
+- { year: '2018', text: 'WM-Dritter in Russland – beste WM-Platzierung der „Roten Teufel"' }
+- { year: '2015–2022', text: 'Mehrfach Platz 1 der FIFA-Weltrangliste (Nov 2015–Apr 2016 und Sep 2018–Mär 2022)' }
+- { year: '1980', text: 'EM-Finalist in Italien (0:2 gegen Deutschland) – beste EM-Platzierung' }

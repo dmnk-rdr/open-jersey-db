@@ -16,3 +16,9 @@ kit_suppliers:
 - { manufacturer: Kappa, from: 1994, to: 1994 }
 - { manufacturer: Lotto, from: 1992, to: 1994 }
 - { manufacturer: Uhlsport, from: 1990, to: 1991 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Kroatische Fußballnationalmannschaft".
+achievements:
+- { year: '2018', text: 'WM-Finalist in Russland (2:4 gegen Frankreich) – größter Erfolg des Landes' }
+- { year: '2022', text: 'WM-Dritter in Katar (Sieg im Spiel um Platz 3 gegen Marokko)' }
+- { year: '1998', text: 'WM-Dritter bei der ersten Endrundenteilnahme als eigenständige Nation' }

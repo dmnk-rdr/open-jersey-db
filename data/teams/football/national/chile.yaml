@@ -27,3 +27,9 @@ kit_suppliers:
 - { manufacturer: Puma, from: 1985, to: 1985 }
 - { manufacturer: Penalty, from: 1984, to: 1984 }
 - { manufacturer: adidas, from: 1979, to: 1983 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Chilenische Fußballnationalmannschaft".
+achievements:
+- { year: '2015', text: 'Copa-América-Sieger im eigenen Land – erster großer Titel der „La Roja" (Finalsieg i. E. gegen Argentinien)' }
+- { year: '2016', text: 'Copa América Centenario: erneut Titel gegen Argentinien (wieder im Elfmeterschießen)' }
+- { year: '1962', text: 'WM-Dritter als Gastgeber – beste WM-Platzierung' }

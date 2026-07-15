@@ -18,3 +18,8 @@ kit_suppliers:
 - { manufacturer: Score, from: 1995, to: 1996 }
 - { manufacturer: Forte, from: 1992, to: 1995 }
 - { manufacturer: adidas, from: 1981, to: 1991 }
+
+# Erfolge/Besonderheiten. Quelle: Wikipedia „Venezolanische Fußballnationalmannschaft".
+achievements:
+- { text: 'Einzige CONMEBOL-Nation, die sich noch nie für eine WM-Endrunde qualifiziert hat – die „Vinotinto" gilt traditionell als Baseball-, nicht Fußball-Land' }
+- { year: '2011', text: 'Copa-América-Halbfinale (4. Platz) in Argentinien – beste Turnierplatzierung' }

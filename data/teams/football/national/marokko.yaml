@@ -18,3 +18,9 @@ kit_suppliers:
 - { manufacturer: Puma, from: 1998, to: 2002 }
 - { manufacturer: Lotto, from: 1994, to: 1997 }
 - { manufacturer: adidas, from: 1976, to: 1993 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Marokkanische Fußballnationalmannschaft".
+achievements:
+- { year: '2022', text: 'WM-Halbfinale in Katar (4. Platz) – erste afrikanische und arabische Mannschaft im WM-Halbfinale' }
+- { year: '1976', text: 'Afrika-Cup-Sieger in Äthiopien' }
+- { year: '1986', text: 'Erste afrikanische Mannschaft mit Gruppensieg bei einer WM (Achtelfinale in Mexiko)' }

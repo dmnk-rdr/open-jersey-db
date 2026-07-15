@@ -17,3 +17,9 @@ kit_suppliers:
 - { manufacturer: Umbro, from: 1966, to: 1966 }
 - { manufacturer: Deportes Cóndor, from: 1935, to: 1966 }
 - { manufacturer: In-House, to: 1935 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Spanische Fußballnationalmannschaft".
+achievements:
+- { year: '2010', text: 'Weltmeister in Südafrika (1:0 n. V. gegen die Niederlande) – erster WM-Titel' }
+- { year: '1964, 2008, 2012, 2024', text: 'Rekord-Europameister mit vier EM-Titeln' }
+- { year: '2023', text: 'Sieger der UEFA Nations League (i. E. gegen Kroatien)' }
