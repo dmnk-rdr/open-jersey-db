@@ -9,3 +9,7 @@ aliases:
 wikidata: Q191477
 founded: 1933
 city: Pittsburgh
+
+# Erfolge. Quelle: Wikipedia „Pittsburgh Steelers".
+achievements:
+- { year: '1974–2008', text: 'Sechs Super-Bowl-Titel (Rekord gemeinsam mit New England) – zuletzt nach der Saison 2008', text_en: 'Six Super Bowl titles (a record shared with New England) – most recently after the 2008 season' }

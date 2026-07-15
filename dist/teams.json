@@ -115,6 +115,13 @@
         "from": 2012
       }
     ],
+    "achievements": [
+      {
+        "year": "1981, 1988, 2021",
+        "text": "Dreimal Super-Bowl-Finalist, noch ohne Titel (zuletzt 2021 knapp gegen die L. A. Rams)",
+        "text_en": "Three-time Super Bowl runners-up, still without a title (most recently 2021, narrowly to the L. A. Rams)"
+      }
+    ],
     "wikidata": "Q223511"
   },
   {
@@ -144,6 +151,13 @@
     "founded": 1960,
     "city": "Arlington",
     "stadium": "AT&T Stadium",
+    "achievements": [
+      {
+        "year": "1971–1995",
+        "text": "Fünf Super-Bowl-Titel (1971, 1977, 1992, 1993, 1995)",
+        "text_en": "Five Super Bowl titles (1971, 1977, 1992, 1993, 1995)"
+      }
+    ],
     "wikidata": "Q204862"
   },
   {
@@ -246,6 +260,13 @@
     ],
     "founded": 1960,
     "city": "Kansas City",
+    "achievements": [
+      {
+        "year": "1969, 2019, 2022, 2023",
+        "text": "Vier Super-Bowl-Titel – zuletzt nach der Saison 2023 (SB LVIII gegen San Francisco)",
+        "text_en": "Four Super Bowl titles – most recently after the 2023 season (SB LVIII vs San Francisco)"
+      }
+    ],
     "wikidata": "Q223522"
   },
   {
@@ -431,6 +452,13 @@
     ],
     "founded": 1933,
     "city": "Pittsburgh",
+    "achievements": [
+      {
+        "year": "1974–2008",
+        "text": "Sechs Super-Bowl-Titel (Rekord gemeinsam mit New England) – zuletzt nach der Saison 2008",
+        "text_en": "Six Super Bowl titles (a record shared with New England) – most recently after the 2008 season"
+      }
+    ],
     "wikidata": "Q191477"
   },
   {
@@ -825,6 +853,13 @@
     "founded": 1962,
     "city": "New York",
     "stadium": "Citi Field",
+    "achievements": [
+      {
+        "year": "1969, 1986",
+        "text": "Zwei World-Series-Titel – 1969 gegen Baltimore, 1986 gegen Boston",
+        "text_en": "Two World Series titles – 1969 vs Baltimore, 1986 vs Boston"
+      }
+    ],
     "wikidata": "Q692417"
   },
   {
@@ -1082,6 +1117,13 @@
     ],
     "founded": 1966,
     "city": "Chicago",
+    "achievements": [
+      {
+        "year": "1991–1998",
+        "text": "Sechs NBA-Titel in acht Jahren (zwei Three-Peats) – die Ära Michael Jordan und Scottie Pippen",
+        "text_en": "Six NBA championships in eight years (two three-peats) – the Michael Jordan and Scottie Pippen era"
+      }
+    ],
     "wikidata": "Q128109"
   },
   {
@@ -1152,6 +1194,13 @@
     ],
     "founded": 1946,
     "city": "San Francisco",
+    "achievements": [
+      {
+        "year": "1947–2022",
+        "text": "Sieben NBA-Titel (u. a. 2015, 2017, 2018, 2022) – die Dynastie um Stephen Curry",
+        "text_en": "Seven NBA championships (incl. 2015, 2017, 2018, 2022) – the dynasty around Stephen Curry"
+      }
+    ],
     "wikidata": "Q157376"
   },
   {
@@ -1208,6 +1257,13 @@
     ],
     "founded": 1946,
     "city": "Los Angeles",
+    "achievements": [
+      {
+        "year": "1949–2020",
+        "text": "17 NBA-Titel (zuletzt 2020) – zweitmeiste der Liga, nur die Boston Celtics haben mehr",
+        "text_en": "17 NBA championships (most recently 2020) – second most in the league, behind only the Boston Celtics"
+      }
+    ],
     "wikidata": "Q121783"
   },
   {

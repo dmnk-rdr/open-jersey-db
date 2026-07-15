@@ -10,3 +10,7 @@ wikidata: Q204862
 founded: 1960
 city: Arlington
 stadium: AT&T Stadium
+
+# Erfolge. Quelle: Wikipedia „Dallas Cowboys".
+achievements:
+- { year: '1971–1995', text: 'Fünf Super-Bowl-Titel (1971, 1977, 1992, 1993, 1995)', text_en: 'Five Super Bowl titles (1971, 1977, 1992, 1993, 1995)' }

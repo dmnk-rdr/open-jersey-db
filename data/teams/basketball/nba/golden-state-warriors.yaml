@@ -9,3 +9,7 @@ aliases:
 wikidata: Q157376
 founded: 1946
 city: San Francisco
+
+# Erfolge. Quelle: Wikipedia „Golden State Warriors".
+achievements:
+- { year: '1947–2022', text: 'Sieben NBA-Titel (u. a. 2015, 2017, 2018, 2022) – die Dynastie um Stephen Curry', text_en: 'Seven NBA championships (incl. 2015, 2017, 2018, 2022) – the dynasty around Stephen Curry' }

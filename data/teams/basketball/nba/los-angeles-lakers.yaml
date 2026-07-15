@@ -9,3 +9,7 @@ aliases:
 wikidata: Q121783
 founded: 1946
 city: Los Angeles
+
+# Erfolge. Quelle: Wikipedia „Los Angeles Lakers".
+achievements:
+- { year: '1949–2020', text: '17 NBA-Titel (zuletzt 2020) – zweitmeiste der Liga, nur die Boston Celtics haben mehr', text_en: '17 NBA championships (most recently 2020) – second most in the league, behind only the Boston Celtics' }

@@ -14,3 +14,7 @@ stadium: Paycor Stadium
 # (ligaweiter Deal, kein teamspezifischer). Quelle: NFL.com/ESPN.
 kit_suppliers:
 - { manufacturer: Nike, from: 2012 }
+
+# Erfolge. Quelle: Wikipedia „Cincinnati Bengals".
+achievements:
+- { year: '1981, 1988, 2021', text: 'Dreimal Super-Bowl-Finalist, noch ohne Titel (zuletzt 2021 knapp gegen die L. A. Rams)', text_en: 'Three-time Super Bowl runners-up, still without a title (most recently 2021, narrowly to the L. A. Rams)' }

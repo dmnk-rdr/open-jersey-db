@@ -9,3 +9,7 @@ aliases:
 wikidata: Q223522
 founded: 1960
 city: Kansas City
+
+# Erfolge. Quelle: Wikipedia „Kansas City Chiefs".
+achievements:
+- { year: '1969, 2019, 2022, 2023', text: 'Vier Super-Bowl-Titel – zuletzt nach der Saison 2023 (SB LVIII gegen San Francisco)', text_en: 'Four Super Bowl titles – most recently after the 2023 season (SB LVIII vs San Francisco)' }

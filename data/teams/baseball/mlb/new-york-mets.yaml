@@ -10,3 +10,7 @@ wikidata: Q692417
 founded: 1962
 stadium: Citi Field
 city: New York
+
+# Erfolge. Quelle: Wikipedia „New York Mets".
+achievements:
+- { year: '1969, 1986', text: 'Zwei World-Series-Titel – 1969 gegen Baltimore, 1986 gegen Boston', text_en: 'Two World Series titles – 1969 vs Baltimore, 1986 vs Boston' }

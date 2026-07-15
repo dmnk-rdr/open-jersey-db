@@ -9,3 +9,7 @@ aliases:
 wikidata: Q128109
 founded: 1966
 city: Chicago
+
+# Erfolge. Quelle: Wikipedia „Chicago Bulls".
+achievements:
+- { year: '1991–1998', text: 'Sechs NBA-Titel in acht Jahren (zwei Three-Peats) – die Ära Michael Jordan und Scottie Pippen', text_en: 'Six NBA championships in eight years (two three-peats) – the Michael Jordan and Scottie Pippen era' }
