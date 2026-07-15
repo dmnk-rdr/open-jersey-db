@@ -16,3 +16,9 @@ kit_suppliers:
 - { manufacturer: Blacky, from: 1990, to: 1992 }
 - { manufacturer: adidas, from: 1976, to: 1989 }
 - { manufacturer: Le Coq Sportif, from: 1970, to: 1975 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Schweizer Fussballnationalmannschaft".
+achievements:
+- { year: '2021', text: 'EM-Viertelfinale nach Sieg i. E. gegen Weltmeister Frankreich im Achtelfinale – Höhepunkt der jüngeren Geschichte' }
+- { year: '1934, 1938, 1954', text: 'Dreimal WM-Viertelfinale – 1954 als Gastgeber' }
+- { year: '1924', text: 'Olympia-Silber in Paris' }

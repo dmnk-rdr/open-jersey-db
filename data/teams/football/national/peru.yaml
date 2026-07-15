@@ -25,3 +25,9 @@ kit_suppliers:
 - { manufacturer: adidas, from: 1983, to: 1985 }
 - { manufacturer: Penalty, from: 1981, to: 1982 }
 - { manufacturer: adidas, from: 1978, to: 1978 }
+
+# Erfolge (größte zuerst). Quelle: Wikipedia „Peruanische Fußballnationalmannschaft".
+achievements:
+- { year: '1939, 1975', text: 'Zweifacher Copa-América-Sieger' }
+- { year: '1970', text: 'WM-Viertelfinale in Mexiko mit der „goldenen Generation" um Teófilo Cubillas – beste WM-Platzierung' }
+- { year: '2019', text: 'Copa-América-Finalist (0:3 gegen Brasilien)' }
