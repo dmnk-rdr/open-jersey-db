@@ -1606,6 +1606,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Schwarz / Sedona Rot",
     "design": "Grau mit schwarzem Piping, 'Arizona' in Sedona-Rot mit Teal/Schwarz-Outline",
+    "design_en": "Gray with black piping, 'Arizona' in Sedona Red with a teal/black outline",
     "colors": [
       "Grau",
       "Schwarz",
@@ -1631,6 +1632,7 @@
     "main_sponsor": null,
     "colorway": "Creme / Schwarz",
     "design": "Cream-Base mit schwarzem Piping, 'A'-Logo linke Brust",
+    "design_en": "Cream base with black piping, 'A' logo on the left chest",
     "colors": [
       "Creme",
       "Schwarz"
@@ -1655,6 +1657,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Dunkelgrün / Gold",
     "design": "Grau, gleiches Schriftbild wie Heimtrikot",
+    "design_en": "Gray, same lettering as the home jersey",
     "colors": [
       "Grau",
       "Dunkelgrün",
@@ -1680,6 +1683,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Dunkelgrün / Gold",
     "design": "Weiß, Schriftzug 'Athletics' dunkelgrün mit Gold-Outline",
+    "design_en": "White, 'Athletics' wordmark in dark green with a gold outline",
     "colors": [
       "Weiß",
       "Dunkelgrün",
@@ -1705,6 +1709,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Marineblau / Rot",
     "design": "Grau, Schriftzug 'Atlanta' navy mit rotem Tomahawk-Unterstrich",
+    "design_en": "Gray, 'Atlanta' wordmark in navy with a red tomahawk underline",
     "colors": [
       "Grau",
       "Marineblau",
@@ -1730,6 +1735,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot / Marineblau",
     "design": "Weiß, Schriftzug 'Atlanta' rot mit Navy-Tomahawk-Unterstrich",
+    "design_en": "White, 'Atlanta' wordmark in red with a navy tomahawk underline",
     "colors": [
       "Weiß",
       "Rot",
@@ -1755,6 +1761,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Orange / Schwarz",
     "design": "Grau, Schriftzug 'Baltimore'",
+    "design_en": "Gray, 'Baltimore' wordmark",
     "colors": [
       "Grau",
       "Orange",
@@ -1780,6 +1787,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Orange / Schwarz",
     "design": "Weiß, Schriftzug 'Orioles' traditionell orange mit schwarzem Trim",
+    "design_en": "White, 'Orioles' wordmark in traditional orange with black trim",
     "colors": [
       "Weiß",
       "Orange",
@@ -1805,6 +1813,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Rot",
     "design": "Grau, 'BOSTON' in Rot (seit 2014)",
+    "design_en": "Gray, 'BOSTON' in red (since 2014)",
     "colors": [
       "Grau",
       "Rot"
@@ -1829,6 +1838,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot",
     "design": "Weiß mit rotem Piping, 'RED SOX' rot mit blauer Outline",
+    "design_en": "White with red piping, 'RED SOX' in red with a blue outline",
     "colors": [
       "Weiß",
       "Rot"
@@ -1853,6 +1863,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Blau / Rot",
     "design": "Grau, 'Chicago' blau mit weißer Outline, rote Nummern",
+    "design_en": "Gray, 'Chicago' in blue with a white outline, red numbers",
     "colors": [
       "Grau",
       "Blau",
@@ -1878,6 +1889,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Blau",
     "design": "Weiß mit blauen Pinstripes, blaue Nummern",
+    "design_en": "White with blue pinstripes, blue numbers",
     "colors": [
       "Weiß",
       "Blau"
@@ -1902,6 +1914,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Schwarz / Silber",
     "design": "Grau, gleiches Schwarz-Silber-Farbschema",
+    "design_en": "Gray, same black-and-silver colour scheme",
     "colors": [
       "Grau",
       "Schwarz",
@@ -1927,6 +1940,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Schwarz / Silber",
     "design": "Weiß mit schwarzen Pinstripes, 'SOX'-Schriftzug schwarz/silber",
+    "design_en": "White with black pinstripes, 'SOX' wordmark in black/silver",
     "colors": [
       "Weiß",
       "Schwarz",
@@ -1952,6 +1966,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Rot / Schwarz",
     "design": "Grau, 'CINCINNATI' im Bogen, Schwarz seit 1999 als weitere Akzentfarbe",
+    "design_en": "Gray, 'CINCINNATI' in an arch, black added as an accent colour since 1999",
     "colors": [
       "Grau",
       "Rot",
@@ -1977,6 +1992,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot",
     "design": "Weiß mit roten Pinstripes, 'C-REDS'-Logo rot",
+    "design_en": "White with red pinstripes, red 'C-REDS' logo",
     "colors": [
       "Weiß",
       "Rot"
@@ -2001,6 +2017,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Marineblau / Rot",
     "design": "Grau, 'Cleveland' in Navy-'diamond C'-Schrift mit rotem Trim",
+    "design_en": "Gray, 'Cleveland' in navy 'diamond C' script with red trim",
     "colors": [
       "Grau",
       "Marineblau",
@@ -2026,6 +2043,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot / Marineblau",
     "design": "Weiß mit rot-navyfarbenem Piping an den Ärmeln, Schriftzug 'Guardians' rot mit Navy-Outline",
+    "design_en": "White with red-and-navy piping on the sleeves, 'Guardians' wordmark in red with a navy outline",
     "colors": [
       "Weiß",
       "Rot",
@@ -2051,6 +2069,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Lila",
     "design": "Grau mit lila Piping",
+    "design_en": "Gray with purple piping",
     "colors": [
       "Grau",
       "Lila"
@@ -2075,6 +2094,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Lila",
     "design": "Weiß mit lila Pinstripes, 'Rockies' silber mit schwarzem Trim",
+    "design_en": "White with purple pinstripes, 'Rockies' in silver with black trim",
     "colors": [
       "Weiß",
       "Lila"
@@ -2099,6 +2119,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Orange / Marineblau",
     "design": "Grau mit Navy-Piping, Schriftzug 'Detroit' – einziges Team mit Orange auf dem Roadtrikot ohne Orange im Heimtrikot",
+    "design_en": "Gray with navy piping, 'Detroit' wordmark — the only team with orange on the road jersey but none on the home jersey",
     "colors": [
       "Grau",
       "Orange",
@@ -2124,6 +2145,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Marineblau",
     "design": "Weiß mit Navy-Piping, Old English 'D' navy",
+    "design_en": "White with navy piping, navy Old English 'D'",
     "colors": [
       "Weiß",
       "Marineblau"
@@ -2148,6 +2170,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Marineblau / Orange",
     "design": "Grau, 'Houston' in Navy-Blockbuchstaben mit orangem Trim",
+    "design_en": "Gray, 'Houston' in navy block letters with orange trim",
     "colors": [
       "Grau",
       "Marineblau",
@@ -2173,6 +2196,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Marineblau / Orange",
     "design": "Weiß, 'Astros' in Navy-Blockbuchstaben mit orangem Trim",
+    "design_en": "White, 'Astros' in navy block letters with orange trim",
     "colors": [
       "Weiß",
       "Marineblau",
@@ -2198,6 +2222,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Blau",
     "design": "Grau, 'Kansas City' in blockigen Buchstaben (seit 2022)",
+    "design_en": "Gray, 'Kansas City' in blocky lettering (since 2022)",
     "colors": [
       "Grau",
       "Blau"
@@ -2222,6 +2247,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Blau",
     "design": "Weiß, Schriftzug 'Royals' in Blau (Script)",
+    "design_en": "White, 'Royals' script wordmark in blue",
     "colors": [
       "Weiß",
       "Blau"
@@ -2246,6 +2272,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Rot / Dunkelblau",
     "design": "Grau, Team-/Stadtname rot mit Navy-Trim",
+    "design_en": "Gray, team/city name in red with navy trim",
     "colors": [
       "Grau",
       "Rot",
@@ -2271,6 +2298,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot / Dunkelblau",
     "design": "Weiß, 'Angels' rot mit Navy-Trim",
+    "design_en": "White, 'Angels' in red with navy trim",
     "colors": [
       "Weiß",
       "Rot",
@@ -2296,6 +2324,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Dodger Blue / Rot",
     "design": "Grau, Schriftzug 'Los Angeles' in Royal-Blue-Script, rote Rückennummer",
+    "design_en": "Gray, 'Los Angeles' script wordmark in royal blue, red back number",
     "colors": [
       "Grau",
       "Dodger Blue",
@@ -2321,6 +2350,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Dodger Blue",
     "design": "Weiß, Schriftzug 'Dodgers' in Royal-/Dodger-Blue-Script",
+    "design_en": "White, 'Dodgers' script wordmark in royal/Dodger blue",
     "colors": [
       "Weiß",
       "Dodger Blue"
@@ -2345,6 +2375,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Schwarz / Rot",
     "design": "Grau, gleiches Farbschema wie Heimtrikot",
+    "design_en": "Gray, same colour scheme as the home jersey",
     "colors": [
       "Grau",
       "Schwarz",
@@ -2370,6 +2401,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Schwarz / Rot",
     "design": "Weiß, 'Miami' schwarz mit rotem Drop-Shadow, blaue Akzente (Miami Blue)",
+    "design_en": "White, 'Miami' in black with a red drop shadow, blue accents (Miami Blue)",
     "colors": [
       "Weiß",
       "Schwarz",
@@ -2395,6 +2427,7 @@
     "main_sponsor": null,
     "colorway": "Hellblau / Marineblau / Senfgold",
     "design": "Powder Blue ab 2026 als primäres Roadtrikot (zuvor Grau), 'Milwaukee' Blockschrift",
+    "design_en": "Powder blue as the primary road jersey from 2026 (previously gray), 'Milwaukee' in block lettering",
     "colors": [
       "Hellblau",
       "Marineblau",
@@ -2420,6 +2453,7 @@
     "main_sponsor": null,
     "colorway": "Creme / Marineblau / Senfgold",
     "design": "Creme-Base ('Cream City'), 'Brewers' in stilisierten Blockbuchstaben, Navy/Senfgold",
+    "design_en": "Cream base ('Cream City'), 'Brewers' in stylized block letters, navy/mustard gold",
     "colors": [
       "Creme",
       "Marineblau",
@@ -2445,6 +2479,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Marineblau / Rot",
     "design": "Grau, 'MINNESOTA' navy mit roten Nummern, Navy-Pinstripes",
+    "design_en": "Gray, 'MINNESOTA' in navy with red numbers, navy pinstripes",
     "colors": [
       "Grau",
       "Marineblau",
@@ -2470,6 +2505,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot / Marineblau",
     "design": "Weiß, 'Twins'-Script rot mit Navy-Nummern (seit 2023)",
+    "design_en": "White, red 'Twins' script with navy numbers (since 2023)",
     "colors": [
       "Weiß",
       "Rot",
@@ -2495,6 +2531,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Blau / Orange",
     "design": "Grau, 'NEW YORK' im Bogen blau mit orangem Outline (aktuelles Design seit 2025)",
+    "design_en": "Gray, 'NEW YORK' in an arch, blue with an orange outline (current design since 2025)",
     "colors": [
       "Grau",
       "Blau",
@@ -2520,6 +2557,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Blau / Orange",
     "design": "Weiß mit blauen Pinstripes, 'Mets'-Script blau mit orangem Outline",
+    "design_en": "White with blue pinstripes, blue 'Mets' script with an orange outline",
     "colors": [
       "Weiß",
       "Blau",
@@ -2545,6 +2583,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Marineblau",
     "design": "Grau, 'NEW YORK' navy",
+    "design_en": "Gray, 'NEW YORK' in navy",
     "colors": [
       "Grau",
       "Marineblau"
@@ -2569,6 +2608,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Marineblau",
     "design": "Weiß mit Pinstripes, navyfarbenes 'NY'-Interlocking-Logo",
+    "design_en": "White with pinstripes, navy interlocking 'NY' logo",
     "colors": [
       "Weiß",
       "Marineblau"
@@ -2593,6 +2633,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Rot",
     "design": "Grau, 'Phillies'-Script rot",
+    "design_en": "Gray, red 'Phillies' script",
     "colors": [
       "Grau",
       "Rot"
@@ -2617,6 +2658,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot",
     "design": "Weiß mit roten Pinstripes, 'Phillies'-Script rot",
+    "design_en": "White with red pinstripes, red 'Phillies' script",
     "colors": [
       "Weiß",
       "Rot"
@@ -2641,6 +2683,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Schwarz / Gold",
     "design": "Grau, Schriftzug 'Pittsburgh' (Script, seit 2020 wiederbelebt)",
+    "design_en": "Gray, 'Pittsburgh' script wordmark (revived since 2020)",
     "colors": [
       "Grau",
       "Schwarz",
@@ -2666,6 +2709,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Schwarz / Gold",
     "design": "Weiß, Schwarz-Gold-Farbschema seit 1948",
+    "design_en": "White, black-and-gold colour scheme in use since 1948",
     "colors": [
       "Weiß",
       "Schwarz",
@@ -2691,6 +2735,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Braun",
     "design": "Grau mit braunen Streifen ('San Diego'); daneben ein durchgängig brauens Alternativtrikot ('Friar Brown'), das NICHT als home/away kuratiert wurde",
+    "design_en": "Gray with brown lettering ('San Diego'); there is also an all-brown alternate jersey ('Friar Brown') that is NOT curated as a home/away kit here",
     "colors": [
       "Grau",
       "Braun"
@@ -2715,6 +2760,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Braun / Gold",
     "design": "Weiß mit braunen Pinstripes, 'Padres' braun mit Gold-Outline (Rückkehr zu Braun/Gold seit 2020)",
+    "design_en": "White with brown pinstripes, 'Padres' in brown with a gold outline (brown/gold returned as the scheme since 2020)",
     "colors": [
       "Weiß",
       "Braun",
@@ -2740,6 +2786,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Orange / Schwarz",
     "design": "Grau, 'San Francisco'-Wordmark mit Gold-Drop-Shadow und schwarzem Piping",
+    "design_en": "Gray, 'San Francisco' wordmark with a gold drop shadow and black piping",
     "colors": [
       "Grau",
       "Orange",
@@ -2765,6 +2812,7 @@
     "main_sponsor": null,
     "colorway": "Creme / Orange / Schwarz",
     "design": "Creme-Base, 'Giants'-Wordmark orange mit schwarzem Outline, Gold-Drop-Shadow",
+    "design_en": "Cream base, 'Giants' wordmark in orange with a black outline, gold drop shadow",
     "colors": [
       "Creme",
       "Orange",
@@ -2790,6 +2838,7 @@
     "main_sponsor": null,
     "colorway": "Marineblau",
     "design": "Navy-Blau als primäres Roadtrikot seit 2023 (kein Grau mehr)",
+    "design_en": "Navy blue as the primary road jersey since 2023 (gray retired)",
     "colors": [
       "Marineblau"
     ],
@@ -2813,6 +2862,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Marineblau",
     "design": "Weiß, 'Mariners' navy mit Northwest-Green-Trim, Silber-Inline seit 2015",
+    "design_en": "White, 'Mariners' in navy with Northwest Green trim, silver inline since 2015",
     "colors": [
       "Weiß",
       "Marineblau"
@@ -2837,6 +2887,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Rot",
     "design": "Grau, kardinalrote Akzente",
+    "design_en": "Gray, cardinal-red accents",
     "colors": [
       "Grau",
       "Rot"
@@ -2861,6 +2912,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot",
     "design": "Weiß, 'birds on the bat'-Logo, kardinalrote Akzente",
+    "design_en": "White, 'birds on the bat' logo, cardinal-red accents",
     "colors": [
       "Weiß",
       "Rot"
@@ -2885,6 +2937,7 @@
     "main_sponsor": null,
     "colorway": "Marineblau",
     "design": "Navy-Blau als Roadtrikot seit 2023 (Graues Trikot abgeschafft; alterniert mit Columbia-Blue)",
+    "design_en": "Navy blue as the road jersey since 2023 (gray retired; alternates with Columbia blue)",
     "colors": [
       "Marineblau"
     ],
@@ -2908,6 +2961,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Dunkelblau / Gelb",
     "design": "Weiß, 'Rays' dunkelblau mit gelbem 'Sunburst' im 'R'",
+    "design_en": "White, 'Rays' in dark blue with a yellow 'sunburst' in the 'R'",
     "colors": [
       "Weiß",
       "Dunkelblau",
@@ -2933,6 +2987,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Blau / Rot",
     "design": "Grau, 'TEXAS' blau mit rotem Trim",
+    "design_en": "Gray, 'TEXAS' in blue with red trim",
     "colors": [
       "Grau",
       "Blau",
@@ -2958,6 +3013,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Blau / Rot",
     "design": "Weiß, 'Rangers'-Script blau mit weißem/rotem Trim",
+    "design_en": "White, blue 'Rangers' script with white/red trim",
     "colors": [
       "Weiß",
       "Blau",
@@ -2983,6 +3039,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Blau",
     "design": "Grau, geteilte Blau/Weiß/Blau-Buchstaben",
+    "design_en": "Gray, split blue/white/blue lettering",
     "colors": [
       "Grau",
       "Blau"
@@ -3007,6 +3064,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Blau",
     "design": "Weiß, geteilte Blau/Weiß/Blau-Buchstaben (Design 1989–1996 seit 2012 wiederbelebt)",
+    "design_en": "White, split blue/white/blue lettering (the 1989–1996 design, revived since 2012)",
     "colors": [
       "Weiß",
       "Blau"
@@ -3031,6 +3089,7 @@
     "main_sponsor": null,
     "colorway": "Grau / Marineblau / Rot",
     "design": "Grau, 'Washington' in Blockbuchstaben navy mit weißem/rotem Trim (seit 2024)",
+    "design_en": "Gray, 'Washington' in navy block letters with white/red trim (since 2024)",
     "colors": [
       "Grau",
       "Marineblau",
@@ -3056,6 +3115,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Marineblau / Rot",
     "design": "Weiß, 'Nationals'-Script navy mit rotem Trim (seit 2022 primäres Heimtrikot)",
+    "design_en": "White, navy 'Nationals' script with red trim (primary home jersey since 2022)",
     "colors": [
       "Weiß",
       "Marineblau",
@@ -3102,6 +3162,7 @@
     "main_sponsor": null,
     "colorway": "Rot / Weiß / Gold",
     "design": "Icon Edition: Torch Red als Basis mit weißer Schrift und Legacy-Gold-Outline; dient als primäres Heim-Trikot der Hawks",
+    "design_en": "Icon Edition: Torch Red base with white lettering and a Legacy Gold outline; serves as the Hawks' primary home jersey",
     "colors": [
       "Rot",
       "Weiß",
@@ -3127,6 +3188,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot / Gold",
     "design": "Association Edition: Weiß mit Torch-Red-Nummern/Schrift und Legacy-Gold-Outline",
+    "design_en": "Association Edition: white with Torch Red numbers/lettering and a Legacy Gold outline",
     "colors": [
       "Weiß",
       "Rot",
@@ -3152,6 +3214,7 @@
     "main_sponsor": null,
     "colorway": "Grün / Weiß",
     "design": "Icon Edition: grüne Basis mit weißem Trim, Schriftzug 'Boston'",
+    "design_en": "Icon Edition: green base with white trim, 'Boston' wordmark",
     "colors": [
       "Grün",
       "Weiß"
@@ -3176,6 +3239,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -3199,6 +3263,7 @@
     "main_sponsor": null,
     "colorway": "Schwarz",
     "design": "Icon Edition, schwarz",
+    "design_en": "Icon Edition, black",
     "colors": [
       "Schwarz"
     ],
@@ -3222,6 +3287,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -3245,6 +3311,7 @@
     "main_sponsor": null,
     "colorway": "Türkis",
     "design": "Icon Edition, teal/türkis, Schriftzug 'Hornets'",
+    "design_en": "Icon Edition, teal/turquoise, 'Hornets' wordmark",
     "colors": [
       "Türkis"
     ],
@@ -3268,6 +3335,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß, Schriftzug 'Hornets'",
+    "design_en": "Association Edition, white, 'Hornets' wordmark",
     "colors": [
       "Weiß"
     ],
@@ -3291,6 +3359,7 @@
     "main_sponsor": null,
     "colorway": "Rot",
     "design": "Icon Edition, rot",
+    "design_en": "Icon Edition, red",
     "colors": [
       "Rot"
     ],
@@ -3314,6 +3383,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß (seit 2021–22 wieder primäres Heimtrikot)",
+    "design_en": "Association Edition, white (primary home jersey again since 2021–22)",
     "colors": [
       "Weiß"
     ],
@@ -3337,6 +3407,7 @@
     "main_sponsor": null,
     "colorway": "Weinrot / Gold / Marineblau",
     "design": "Icon Edition, weinrote Basis, 'Cleveland' in Gold, Navy-Nummern",
+    "design_en": "Icon Edition, wine-red base, 'Cleveland' in gold, navy numbers",
     "colors": [
       "Weinrot",
       "Gold",
@@ -3362,6 +3433,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß, 'Cavs'-Schriftzug in Wine",
+    "design_en": "Association Edition, white, 'Cavs' wordmark in wine",
     "colors": [
       "Weiß"
     ],
@@ -3385,6 +3457,7 @@
     "main_sponsor": null,
     "colorway": "Blau",
     "design": "Icon Edition, royal blau",
+    "design_en": "Icon Edition, royal blue",
     "colors": [
       "Blau"
     ],
@@ -3408,6 +3481,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -3431,6 +3505,7 @@
     "main_sponsor": null,
     "colorway": "Marineblau / Gelb / Rot",
     "design": "Icon Edition, Mitternachtsblau ('midnight blue') mit 'Denver' in Sunshine-Gelb, Flatirons-Rot-Trim",
+    "design_en": "Icon Edition, midnight blue with 'Denver' in Sunshine Yellow, Flatirons Red trim",
     "colors": [
       "Marineblau",
       "Gelb",
@@ -3456,6 +3531,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot / Gelb",
     "design": "Association Edition, weiß mit 'Nuggets' in Flatirons-Rot, Sunshine-Gelb-Trim, Nummern in Mitternachtsblau",
+    "design_en": "Association Edition, white with 'Nuggets' in Flatirons Red, Sunshine Yellow trim, numbers in midnight blue",
     "colors": [
       "Weiß",
       "Rot",
@@ -3481,6 +3557,7 @@
     "main_sponsor": null,
     "colorway": "Blau",
     "design": "Icon Edition, blau",
+    "design_en": "Icon Edition, blue",
     "colors": [
       "Blau"
     ],
@@ -3504,6 +3581,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß, klassisches Rot-Weiß-Blau-Farbschema",
+    "design_en": "Association Edition, white, classic red-white-blue colour scheme",
     "colors": [
       "Weiß"
     ],
@@ -3527,6 +3605,7 @@
     "main_sponsor": null,
     "colorway": "Anthrazit / Rot / Gold",
     "design": "Anthrazit mit schwarzem Punktmuster (Basketball-Struktur), rote Paspel an V-Ausschnitt/Armausschnitten, seitliche 3-Streifen in Gold",
+    "design_en": "Anthracite with a black dot pattern (basketball texture), red piping on the V-neck/armholes, gold 3-Stripes down the sides",
     "colors": [
       "Anthrazit",
       "Rot",
@@ -3549,6 +3628,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Schwarz / Rot / Gold",
     "design": "Feine Nadelstreifen, schwarze Paspel an V-Ausschnitt/Armausschnitten, seitliche 3-Streifen in Schwarz/Rot/Gold, Deutschland-Schriftzug + Bundesadler auf der Brust",
+    "design_en": "Fine pinstripes, black piping on the V-neck/armholes, side 3-Stripes in black/red/gold, 'Deutschland' wordmark plus federal eagle on the chest",
     "colors": [
       "Weiß",
       "Schwarz",
@@ -3572,6 +3652,7 @@
     "main_sponsor": null,
     "colorway": "Blau / Karminrot",
     "design": "Nike Dri-FIT ADV, blaugrana Vereinsfarben",
+    "design_en": "Nike Dri-FIT ADV, blaugrana club colours",
     "colors": [
       "Blau",
       "Karminrot"
@@ -3615,6 +3696,7 @@
     "main_sponsor": null,
     "colorway": "Blau",
     "design": "Icon Edition, royal-/'The City'-Blau mit Bay-Bridge-Logo",
+    "design_en": "Icon Edition, royal/'The City' blue with the Bay Bridge logo",
     "colors": [
       "Blau"
     ],
@@ -3638,6 +3720,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -3661,6 +3744,7 @@
     "main_sponsor": null,
     "colorway": "Rot",
     "design": "Icon Edition, rot",
+    "design_en": "Icon Edition, red",
     "colors": [
       "Rot"
     ],
@@ -3684,6 +3768,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -3707,6 +3792,7 @@
     "main_sponsor": null,
     "colorway": "Marineblau",
     "design": "Icon Edition, navy blau",
+    "design_en": "Icon Edition, navy blue",
     "colors": [
       "Marineblau"
     ],
@@ -3730,6 +3816,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -3753,6 +3840,7 @@
     "main_sponsor": null,
     "colorway": "Marineblau / Rot / Weiß",
     "design": "Icon Edition, navy blau mit 'Clippers'-Script in Rot und weißen Nummern",
+    "design_en": "Icon Edition, navy blue with 'Clippers' script in red and white numbers",
     "colors": [
       "Marineblau",
       "Rot",
@@ -3778,6 +3866,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Marineblau / Rot",
     "design": "Association Edition, weiß mit 'Clippers'-Script in Navy und roten Nummern (Design seit 2024–25)",
+    "design_en": "Association Edition, white with 'Clippers' script in navy and red numbers (design in use since 2024–25)",
     "colors": [
       "Weiß",
       "Marineblau",
@@ -3803,6 +3892,7 @@
     "main_sponsor": null,
     "colorway": "Gold",
     "design": "Icon Edition, Gold – NICHT Lila (das ist das separate 'Statement'-Trikot)",
+    "design_en": "Icon Edition, gold — NOT purple (that is the separate 'Statement' jersey)",
     "colors": [
       "Gold"
     ],
@@ -3826,6 +3916,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -3849,6 +3940,7 @@
     "main_sponsor": null,
     "colorway": "Marineblau",
     "design": "Icon Edition, navy blau",
+    "design_en": "Icon Edition, navy blue",
     "colors": [
       "Marineblau"
     ],
@@ -3872,6 +3964,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -3895,6 +3988,7 @@
     "main_sponsor": null,
     "colorway": "Schwarz",
     "design": "Icon Edition, schwarz",
+    "design_en": "Icon Edition, black",
     "colors": [
       "Schwarz"
     ],
@@ -3918,6 +4012,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -3941,6 +4036,7 @@
     "main_sponsor": null,
     "colorway": "Grün",
     "design": "Icon Edition, grün",
+    "design_en": "Icon Edition, green",
     "colors": [
       "Grün"
     ],
@@ -3964,6 +4060,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -3987,6 +4084,7 @@
     "main_sponsor": null,
     "colorway": "Marineblau / Weiß",
     "design": "Icon Edition (Saison 2025/26), Navy-Körper mit weißen Streifen und Schrift",
+    "design_en": "Icon Edition (2025/26 season), navy body with white stripes and lettering",
     "colors": [
       "Marineblau",
       "Weiß"
@@ -4011,6 +4109,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Marineblau / Blau",
     "design": "Association Edition (Saison 2025/26, vor dem Redesign zur Saison 2026/27): weiß mit Navy-/Blau-Streifen und -Schrift",
+    "design_en": "Association Edition (2025/26 season, ahead of the 2026/27 redesign): white with navy/blue stripes and lettering",
     "colors": [
       "Weiß",
       "Marineblau",
@@ -4036,6 +4135,7 @@
     "main_sponsor": null,
     "colorway": "Marineblau",
     "design": "Icon Edition, navy blau",
+    "design_en": "Icon Edition, navy blue",
     "colors": [
       "Marineblau"
     ],
@@ -4059,6 +4159,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -4082,6 +4183,7 @@
     "main_sponsor": null,
     "colorway": "Blau",
     "design": "Icon Edition, blau",
+    "design_en": "Icon Edition, blue",
     "colors": [
       "Blau"
     ],
@@ -4105,6 +4207,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -4128,6 +4231,7 @@
     "main_sponsor": null,
     "colorway": "Blau",
     "design": "Icon Edition, blau, Teamname vorn mit 'OKC'-Kürzel am Bund",
+    "design_en": "Icon Edition, blue, team name on the front with the 'OKC' abbreviation on the waistband",
     "colors": [
       "Blau"
     ],
@@ -4151,6 +4255,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß, mit Umriss von Oklahoma",
+    "design_en": "Association Edition, white, with an outline of Oklahoma",
     "colors": [
       "Weiß"
     ],
@@ -4174,6 +4279,7 @@
     "main_sponsor": null,
     "colorway": "Blau",
     "design": "Icon Edition, blau (zur Saison 2025/26 als Icon-Grundfarbe zurückgekehrt; zwischenzeitlich 2019–2025 war Schwarz die Icon-Farbe)",
+    "design_en": "Icon Edition, blue (returned as the Icon base colour for the 2025/26 season; black had been the Icon colour from 2019 to 2025)",
     "colors": [
       "Blau"
     ],
@@ -4197,6 +4303,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß, Pinstripe-Look (Redesign zur Saison 2025/26)",
+    "design_en": "Association Edition, white, pinstripe look (redesigned for the 2025/26 season)",
     "colors": [
       "Weiß"
     ],
@@ -4220,6 +4327,7 @@
     "main_sponsor": null,
     "colorway": "Blau",
     "design": "Icon Edition, blau, 'PHILA'-Schriftzug",
+    "design_en": "Icon Edition, blue, 'PHILA' wordmark",
     "colors": [
       "Blau"
     ],
@@ -4243,6 +4351,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß, 'PHILA'-Schriftzug",
+    "design_en": "Association Edition, white, 'PHILA' wordmark",
     "colors": [
       "Weiß"
     ],
@@ -4266,6 +4375,7 @@
     "main_sponsor": null,
     "colorway": "Lila / Grau / Orange",
     "design": "Icon Edition, lila, 'Phoenix' in Grau, Nummern in Orange",
+    "design_en": "Icon Edition, purple, 'Phoenix' in gray, numbers in orange",
     "colors": [
       "Lila",
       "Grau",
@@ -4291,6 +4401,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Orange / Lila",
     "design": "Association Edition, weiß, 'Suns' in Orange, Nummern in Lila",
+    "design_en": "Association Edition, white, 'Suns' in orange, numbers in purple",
     "colors": [
       "Weiß",
       "Orange",
@@ -4316,6 +4427,7 @@
     "main_sponsor": null,
     "colorway": "Schwarz / Rot / Weiß",
     "design": "Icon Edition (ab Saison 2025/26): schwarz mit Rot-Weiß-Schärpe",
+    "design_en": "Icon Edition (from the 2025/26 season): black with a red-and-white sash",
     "colors": [
       "Schwarz",
       "Rot",
@@ -4341,6 +4453,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Rot / Schwarz",
     "design": "Association Edition (ab Saison 2025/26): weiß mit diagonaler Rot-Schwarz-Schärpe",
+    "design_en": "Association Edition (from the 2025/26 season): white with a diagonal red-and-black sash",
     "colors": [
       "Weiß",
       "Rot",
@@ -4386,6 +4499,7 @@
     "main_sponsor": null,
     "colorway": "Schwarz / Weiß / Lila",
     "design": "Icon Edition (seit 2023–24): schwarze Basis mit weißer Schrift und lila Trim – Schwarz löste Lila als Hauptfarbe ab",
+    "design_en": "Icon Edition (since 2023–24): black base with white lettering and purple trim — black replaced purple as the primary colour",
     "colors": [
       "Schwarz",
       "Weiß",
@@ -4411,6 +4525,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Schwarz / Lila",
     "design": "Association Edition (seit 2023–24): weiß mit schwarzer Schrift und lila Trim",
+    "design_en": "Association Edition (since 2023–24): white with black lettering and purple trim",
     "colors": [
       "Weiß",
       "Schwarz",
@@ -4436,6 +4551,7 @@
     "main_sponsor": null,
     "colorway": "Schwarz",
     "design": "Icon Edition, schwarz",
+    "design_en": "Icon Edition, black",
     "colors": [
       "Schwarz"
     ],
@@ -4459,6 +4575,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -4482,6 +4599,7 @@
     "main_sponsor": null,
     "colorway": "Rot",
     "design": "Icon Edition, rot",
+    "design_en": "Icon Edition, red",
     "colors": [
       "Rot"
     ],
@@ -4505,6 +4623,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -4528,6 +4647,7 @@
     "main_sponsor": null,
     "colorway": "Lila / Weiß / Hellblau",
     "design": "Icon Edition (ab Saison 2025/26): lila Basis ('Mountain Purple') mit Bergmotiv, weißen und hellblauen ('Sky Blue') Akzenten",
+    "design_en": "Icon Edition (from the 2025/26 season): purple base ('Mountain Purple') with a mountain motif, white and light-blue ('Sky Blue') accents",
     "colors": [
       "Lila",
       "Weiß",
@@ -4553,6 +4673,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Lila",
     "design": "Association Edition (ab Saison 2025/26): weiß mit lila Berg-Gradient ('Mountain Basketball'-Redesign)",
+    "design_en": "Association Edition (from the 2025/26 season): white with a purple mountain gradient (the 'Mountain Basketball' redesign)",
     "colors": [
       "Weiß",
       "Lila"
@@ -4577,6 +4698,7 @@
     "main_sponsor": null,
     "colorway": "Rot",
     "design": "Icon Edition, rot",
+    "design_en": "Icon Edition, red",
     "colors": [
       "Rot"
     ],
@@ -4600,6 +4722,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Association Edition, weiß",
+    "design_en": "Association Edition, white",
     "colors": [
       "Weiß"
     ],
@@ -4815,6 +4938,7 @@
     "main_sponsor": null,
     "colorway": "Grün / Dunkelgrün",
     "design": "Zweifarbiges Grün: heller grüner Trikotkörper mit dunkelgrünen Ärmeln, weiße Logos und rote Applikationen. Rote Einfassung an V-Kragen und Ärmelbündchen, weiße adidas-Schulterstreifen. Wie das Heimtrikot mit der Nationalflagge statt des Verbandswappens.",
+    "design_en": "Two-tone green: light-green jersey body with dark-green sleeves, white logos and red applications. Red trim on the V-neck and sleeve cuffs, white adidas shoulder stripes. Like the home jersey, it carries the national flag instead of the federation crest.",
     "colors": [
       "Grün",
       "Dunkelgrün",
@@ -4842,6 +4966,7 @@
     "main_sponsor": null,
     "colorway": "Chalk White / Grün",
     "design": "Von den Sanddünen und Felsen der Sahara inspiriertes Trikot: cremefarbene (\"Chalk White\") Basis mit dezenten goldenen, traditionell gemusterten Vertikalstreifen, abgerundeter Kragen mit rotem Rand und grünen Schulterstreifen. Erstmals seit der WM-Qualifikation 2018 wieder mit der Nationalflagge statt des Verbandswappens auf der Brust.",
+    "design_en": "A jersey inspired by the sand dunes and rock formations of the Sahara: cream (\"Chalk White\") base with subtle gold, traditionally patterned vertical stripes, a rounded collar with a red trim and green shoulder stripes. For the first time since the 2018 World Cup qualifiers, it again carries the national flag instead of the federation crest on the chest.",
     "colors": [
       "Chalk White (Creme)",
       "Rot",
@@ -5133,6 +5258,7 @@
     "main_sponsor": null,
     "colorway": "Frozen Blue / Rosa",
     "design": "Vom belgischen Surrealisten René Magritte inspiriertes Trikot: hellblaue (\"Robin's Egg Blue\") Basis mit wiederkehrendem Muster aus rosa/blauen Fußball-Motiven, angelehnt an Magrittes runde Bildmotive (Äpfel, Monde, Sonnen). Schwarzer V-Kragen, Ärmelbündchen und adidas-Schulterstreifen. Im Innenkragen der Schriftzug \"Ceci n'est pas un maillot\" - eine direkte Anspielung auf Magrittes Werk \"La Trahison des Images\".",
+    "design_en": "A jersey inspired by Belgian surrealist René Magritte: light-blue (\"Robin's Egg Blue\") base with a recurring pattern of pink/blue football motifs, echoing Magritte's round pictorial motifs (apples, moons, suns). Black V-neck, sleeve cuffs and adidas shoulder stripes. The inner collar bears the words \"Ceci n'est pas un maillot\" — a direct nod to Magritte's work \"La Trahison des Images\".",
     "colors": [
       "Hellblau",
       "Rosa",
@@ -5159,6 +5285,7 @@
     "main_sponsor": null,
     "colorway": "Rot / Schwarz / Gelb",
     "design": "Roter Grundton mit ganzflächigem Muster aus Buntglas-Grafiken, inspiriert von belgischer Gotik-Architektur; wiederkehrende Symbole der Red Devils und Red Flames als kulturelles Detail. Schwarz-gelbe Einfassung an Schultern und Ärmelbündchen (Flaggenfarben). Transfer-Knit-Jacquard mit adidas-Climacool+-Technologie, perforiertes 3-Streifen-Tape.",
+    "design_en": "Red base tone with an all-over pattern of stained-glass graphics, inspired by Belgian Gothic architecture; recurring Red Devils and Red Flames symbols as a cultural detail. Black-and-yellow trim on the shoulders and sleeve cuffs (flag colours). Transfer-knit jacquard with adidas Climacool+ technology, perforated 3-Stripes tape.",
     "colors": [
       "Rot",
       "Schwarz",
@@ -5389,6 +5516,7 @@
     "main_sponsor": null,
     "colorway": "Chalky Brown",
     "design": "Erstmals kein weißes Auswärtstrikot: sandfarbene (\"Chalky Brown\") Basis mit dunkelbraunen Akzenten, abstraktes Muster inspiriert vom \"desierto florido\" der Atacama-Wüste.",
+    "design_en": "For the first time, not a white away jersey: sand-coloured (\"Chalky Brown\") base with dark-brown accents, an abstract pattern inspired by the \"desierto florido\" of the Atacama Desert.",
     "colors": [
       "Chalky Brown",
       "Dunkelbraun"
@@ -5413,6 +5541,7 @@
     "main_sponsor": null,
     "colorway": "Rot / Weiß / Blau",
     "design": "Roter Grundton mit chevron-artigem, vom Kondor inspiriertem Federmuster, das Bewegung und Textur ins Design bringt; weißer V-Kragen mit blauem Rand, größere adidas-Schulterstreifen.",
+    "design_en": "Red base tone with a chevron-like feather pattern inspired by the condor, bringing movement and texture to the design; white V-neck with a blue trim, larger adidas shoulder stripes.",
     "colors": [
       "Rot",
       "Weiß",
@@ -5438,6 +5567,7 @@
     "main_sponsor": null,
     "colorway": "Hellblau / Lavendel / Creme",
     "design": "Dschungel-inspiriertes Trikot in Hellblau, Lavendel und Creme; dynamisches, ganzflächiges Blau-Fuchsia-Grafikmuster mit Elementen des Tukans und Regenwaldblättern. Dunkelblauer V-Kragen mit passenden adidas-Streifen. Rückenspruch \"Pura Vida\" am Nackenkragen.",
+    "design_en": "A jungle-inspired jersey in light blue, lavender and cream; a dynamic, all-over blue-and-fuchsia graphic pattern featuring toucan elements and rainforest leaves. Dark-blue V-neck with matching adidas stripes. The phrase \"Pura Vida\" appears on the back of the neck.",
     "colors": [
       "Hellblau",
       "Lavendel",
@@ -5463,6 +5593,7 @@
     "main_sponsor": null,
     "colorway": "Rot / Marineblau",
     "design": "Roter Grundton mit ganzflächigem, von der costa-ricanischen Natur inspiriertem Muster (u. a. Blätter und Tukane) in dunkleren und helleren Rottönen, marineblauer Kragen; Rückenspruch \"Pura Vida\".",
+    "design_en": "Red base tone with an all-over pattern inspired by Costa Rican nature (including leaves and toucans) in darker and lighter shades of red, navy-blue collar; the phrase \"Pura Vida\" on the back.",
     "colors": [
       "Rot",
       "Marineblau"
@@ -5583,6 +5714,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Schwarz / Rot",
     "design": "V-förmig",
+    "design_en": "V-shaped",
     "colors": [
       "Weiß",
       "Schwarz",
@@ -6361,6 +6493,7 @@
     "main_sponsor": null,
     "colorway": "Igloo (Mint) / Monarch (Kupfer)",
     "design": "Mintgrünes (\"Igloo\") Trikot mit kupferfarbenen (\"Monarch\") Logos und französischer Trikolore an den Ärmelbündchen. Design von der Freiheitsstatue inspiriert - Anspielung auf die historische Verbindung zwischen Frankreich und den USA als WM-2026-Gastgeber. Sowohl Nike-Swoosh als auch FFF-Wappen in Kupfer-Optik; die 2026-Austragungsorte sind in distressed-Schrift über die Trikotpaneele gedruckt.",
+    "design_en": "Mint-green (\"Igloo\") jersey with copper-toned (\"Monarch\") logos and the French tricolour on the sleeve cuffs. The design is inspired by the Statue of Liberty — a nod to the historic bond between France and the USA as 2026 World Cup host. Both the Nike swoosh and the FFF crest appear in a copper finish; the 2026 host cities are printed in distressed lettering across the jersey panels.",
     "colors": [
       "Mintgrün",
       "Kupfer"
@@ -6386,6 +6519,7 @@
     "main_sponsor": null,
     "colorway": "Game Royal / Metallic Copper",
     "design": "Ganzflächiges, tonales Muster mit FFF-Grafiken; moderner Polokragen (vorne Weiß, hinten in Marineblau auslaufend) mit Trikolore-Details. Kupferfarbene Logos als Anspielung auf das Ursprungsmaterial der Freiheitsstatue - Hommage an die historische Verbindung zwischen Frankreich und den USA als WM-Gastgeber.",
+    "design_en": "An all-over, tonal pattern with FFF graphics; a modern polo collar (white at the front, fading into navy blue at the back) with tricolour details. Copper-toned logos reference the Statue of Liberty's original material — a tribute to the historic bond between France and the USA as World Cup host.",
     "colors": [
       "Game Royal (Blau)",
       "Metallic Copper",
@@ -6556,6 +6690,7 @@
     "main_sponsor": null,
     "colorway": "Grau",
     "design": "Muster inspiriert von vulkanischem Gestein und Gletschereis",
+    "design_en": "Pattern inspired by volcanic rock and glacial ice",
     "colors": [
       "Grau"
     ],
@@ -6782,6 +6917,7 @@
     "main_sponsor": null,
     "colorway": "Team Navy Blue / Myspet",
     "design": "Kombiniert \"Team Navy Blue\" als Hauptfarbe mit einem Muster in dunklerem Mintblau (\"Myspet\") – eine Hommage an Kolumbiens Biodiversität zwischen Karibikküste und Pazifik. Logos in kräftigem Gelb.",
+    "design_en": "Combines 'Team Navy Blue' as the main colour with a pattern in a darker mint blue ('Myspet') — a tribute to Colombia's biodiversity between the Caribbean coast and the Pacific. Logos in bold yellow.",
     "colors": [
       "Marineblau",
       "Mintblau",
@@ -6808,6 +6944,7 @@
     "main_sponsor": null,
     "colorway": "Gelb / Blau / Rot",
     "design": "Gelbe Basis mit blauen und roten Akzenten (Flaggenfarben) und einem einzigartigen Schmetterlingsmuster als Hommage an den Schriftsteller Gabriel García Márquez – die gelben Schmetterlinge stehen für Hoffnung, Wandel und Liebe.",
+    "design_en": "Yellow base with blue and red accents (flag colours) and a unique butterfly pattern as a tribute to writer Gabriel García Márquez — the yellow butterflies represent hope, change and love.",
     "colors": [
       "Gelb",
       "Blau",
@@ -6858,6 +6995,7 @@
     "main_sponsor": null,
     "colorway": "Blau / Rot",
     "design": "Tiefblaue Basis mit dezentem, zweifarbigem Karo-Muster über die gesamte Front.",
+    "design_en": "Deep-blue base with a subtle, two-tone checkerboard pattern across the entire front.",
     "colors": [
       "Blau",
       "Rot"
@@ -6883,6 +7021,7 @@
     "main_sponsor": null,
     "colorway": "Rot / Weiß",
     "design": "Klassische rot-weiße Schachbrett-Karos, vertikal über die Mitte laufend; die Ärmel sind einfarbig Rot, Seitenteile und Kragenbereich setzen blaue Akzente. Design inspiriert vom historischen Spiel gegen die USA 1990.",
+    "design_en": "Classic red-and-white checkerboard pattern running vertically down the centre; the sleeves are solid red, while the side panels and collar area add blue accents. The design is inspired by the historic 1990 match against the USA.",
     "colors": [
       "Rot",
       "Weiß",
@@ -7005,6 +7144,7 @@
     "main_sponsor": "Aon",
     "colorway": "Rot / Weiß / Schwarz",
     "design": "Traditionelles Rot mit weißem, gerippten Rundkragen und zentralem schwarzen Streifen, angelehnt an den historischen „Bar Scarf\" der 1977er/1985er FA-Cup-Sieger; weiße Shorts mit schwarz-weißem Schal-Streifen am Saum.",
+    "design_en": "Traditional red with a white ribbed crew neck and a central black stripe, echoing the historic \"Bar Scarf\" worn by the 1977 and 1985 FA Cup winners; white shorts with a black-and-white scarf stripe on the hem.",
     "colors": [
       "Rot",
       "Weiß",
@@ -7032,6 +7172,7 @@
     "main_sponsor": "TeamViewer",
     "colorway": "Cloud White / Rot",
     "design": "Cremeweißes (\"Cloud White\") Trikot mit weißen adidas-Streifen an den Ärmeln und rotem geripptem Rundkragen; erstmals in der Vereinsgeschichte ziert allein der „Red Devil\" statt des Vereinswappens die Brust — Anspielung auf das Trikot der FA-Cup-Saison 1908/09.",
+    "design_en": "Cream-white (\"Cloud White\") jersey with white adidas stripes on the sleeves and a red ribbed crew neck; for the first time in the club's history, the \"Red Devil\" alone — rather than the club crest — adorns the chest, a nod to the jersey worn in the 1908/09 FA Cup season.",
     "colors": [
       "Cloud White (Creme)",
       "Rot"
@@ -7106,6 +7247,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Gold",
     "design": "Weiße Basis mit gold-/sandfarbenen geometrischen Mustern über Brust und Rücken sowie rot-grünem Rand an V-Kragen und Ärmelbündchen (Farben der Nationalflagge). Roter Tifinagh-Schriftzug im oberen Rücken als kulturelles Detail.",
+    "design_en": "White base with gold/sand-coloured geometric patterns across the chest and back, plus a red-and-green trim on the V-neck and sleeve cuffs (national flag colours). Red Tifinagh lettering on the upper back as a cultural detail.",
     "colors": [
       "Weiß",
       "Gold",
@@ -7133,6 +7275,7 @@
     "main_sponsor": null,
     "colorway": "Rot / Grün",
     "design": "Dominante rote Basis, treu zur Tradition der Atlas-Löwen, mit grünen Akzentflächen an den Seiten. Kragen und Ärmelbündchen tragen dekorative Muster, die von marokkanischem Kunsthandwerk und dem Amazigh-Erbe inspiriert sind.",
+    "design_en": "A dominant red base, true to the Atlas Lions' tradition, with green accent panels on the sides. The collar and sleeve cuffs feature decorative patterns inspired by Moroccan craftsmanship and Amazigh heritage.",
     "colors": [
       "Rot",
       "Grün"
@@ -7277,6 +7420,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Grün",
     "design": "Weiße Basis mit einem von Motocross-/Dirtbike-Grafiken inspirierten Flammenmuster in verschiedenen Grüntönen; dunkelgrüner Kragen und Ärmelbündchen, Verbandswappen und Nike-Swoosh zentral platziert.",
+    "design_en": "White base with a flame pattern in various shades of green, inspired by motocross/dirt-bike graphics; dark-green collar and sleeve cuffs, with the federation crest and Nike swoosh placed centrally.",
     "colors": [
       "Weiß",
       "Grün"
@@ -7301,6 +7445,7 @@
     "main_sponsor": null,
     "colorway": "Nigeria Green",
     "design": "Kräftiger grüner Farbton (\"Nigeria Green\") als Basis; rüstungsartige Seitenpanels sollen Stärke und Kampfbereitschaft symbolisieren.",
+    "design_en": "A bold shade of green ('Nigeria Green') as the base; armour-like side panels are meant to symbolize strength and readiness for battle.",
     "colors": [
       "Grün",
       "Weiß"
@@ -7397,6 +7542,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Mint",
     "design": "Von Wiener Kaffeehäusern inspiriertes Muster mit goldenen Linien sowie Türkis-/Magenta-Akzenten (Colorway „PUMA White–Mint Melt“)",
+    "design_en": "A pattern inspired by Vienna's coffeehouses, with gold lines and turquoise/magenta accents (colourway 'PUMA White–Mint Melt')",
     "colors": [
       "Weiß",
       "Mint"
@@ -7424,6 +7570,7 @@
     "main_sponsor": null,
     "colorway": "Rot / Schwarz",
     "design": "Erstmals schwarze Ärmel in der Vereinsgeschichte, Ärmelbündchen in den Flaggenfarben, Rückenspruch „Immer wieder Österreich“",
+    "design_en": "Black sleeves for the first time in the team's history, sleeve cuffs in the flag colours, the phrase 'Immer wieder Österreich' on the back",
     "colors": [
       "Rot",
       "Schwarz",
@@ -7649,6 +7796,7 @@
     "main_sponsor": null,
     "colorway": "Aquamarin / Weiß",
     "design": "Aquamarinfarbenes Trikot (\"Connecting Heroes\"): V-förmige, von Superhelden-Anzügen inspirierte Schnitte an Brust und Bauch, ozeanisches Grafikmuster, Name/Nummern in Dunkelrot, weißer V-Kragen.",
+    "design_en": "Aquamarine jersey ('Connecting Heroes'): V-shaped cuts across the chest and stomach inspired by superhero suits, an oceanic graphic pattern, name/numbers in dark red, white V-neck.",
     "colors": [
       "Aquamarin",
       "Weiß",
@@ -7675,6 +7823,7 @@
     "main_sponsor": null,
     "colorway": "Rot / Grün",
     "design": "Vorwiegend rotes Trikot mit grünen Akzenten an Kragen und Ärmelbündchen; dezentes, wellenförmiges Grafikmuster über die gesamte Front als Hommage an Portugals maritime Geschichte, dazu ein kompassartiges Detail im Innenkragen.",
+    "design_en": "A predominantly red jersey with green accents on the collar and sleeve cuffs; a subtle, wave-shaped graphic pattern across the entire front pays tribute to Portugal's maritime history, along with a compass-like detail on the inner collar.",
     "colors": [
       "Rot",
       "Grün"
@@ -7820,6 +7969,7 @@
     "main_sponsor": "Teka",
     "colorway": "Lila / Weiß",
     "design": "Violettes (lila) Auswärtstrikot mit geschwungenen weißen Seitenpanels, schwarzem Kragen mit weißem Rand und dem Kelme-„Pfoten\"-Muster auf den Schulterstreifen.",
+    "design_en": "Purple away jersey with sweeping white side panels, a black collar with a white trim, and Kelme's \"paw\" pattern on the shoulder stripes.",
     "colors": [
       "Lila",
       "Weiß"
@@ -7845,6 +7995,7 @@
     "main_sponsor": "Fly Emirates",
     "colorway": "Schwarz / Aero Reef (Hellblau)",
     "design": "Schwarze Basis (Erinnerung an das Champions-League-Siegertrikot von 2000) mit neonhellblauen (\"Aero Reef\") adidas-Streifen an den Seiten und Ärmelabschlüssen, inspiriert vom Blau des Madrider Stadtwappens; Rundkragen, weißer Sponsor-Schriftzug.",
+    "design_en": "Black base (a nod to the 2000 Champions League-winning jersey) with neon light-blue (\"Aero Reef\") adidas stripes on the sides and sleeve cuffs, inspired by the blue in Madrid's city coat of arms; crew neck, white sponsor lettering.",
     "colors": [
       "Schwarz",
       "Aero Reef (Hellblau)"
@@ -8110,6 +8261,7 @@
     "main_sponsor": null,
     "colorway": "Sea Glass / Dark Indigo",
     "design": "Offizielle Puma-Colorway \"Sea Glass–Dark Indigo\": hellblaue Basis mit dunkelblauen Akzenten, dazu ein topografisches Muster in Weiß und Gelbgrün, das das Pass-Thema des Heimtrikots fortführt. Erstmals mit nachleuchtendem (\"glow in the dark\") Druck.",
+    "design_en": "Official Puma colourway 'Sea Glass–Dark Indigo': light-blue base with dark-blue accents, plus a topographic pattern in white and yellow-green that continues the passport theme of the home jersey. Featuring glow-in-the-dark printing for the first time.",
     "colors": [
       "Hellblau",
       "Dunkelblau"
@@ -8135,6 +8287,7 @@
     "main_sponsor": null,
     "colorway": "Rot / Weiß",
     "design": "Roter Grundton mit weißen Akzenten und topografischem Grafikmuster, angelehnt an die Infoseite des Schweizer Passes (Landkarten, Grenzen, Gelände). Erinnert an das Heimtrikot von 2018.",
+    "design_en": "Red base tone with white accents and a topographic graphic pattern, inspired by the information page of the Swiss passport (maps, borders, terrain). Reminiscent of the 2018 home jersey.",
     "colors": [
       "Rot",
       "Weiß"
@@ -8256,6 +8409,7 @@
     "main_sponsor": null,
     "colorway": "Off-White / Bordeaux",
     "design": "Off-White-Basis mit Spiralmotiven, die von spanischen Literatur- manuskripten inspiriert sind. Kragen und Ärmelbündchen in Bordeaux mit goldenen Details, Trefoil-Logo statt des üblichen Performance- Logos.",
+    "design_en": "Off-white base with spiral motifs inspired by Spanish literary manuscripts. Collar and sleeve cuffs in Bordeaux with gold details, featuring the Trefoil logo instead of the usual Performance logo.",
     "colors": [
       "Off-White",
       "Bordeaux",
@@ -8282,6 +8436,7 @@
     "main_sponsor": null,
     "colorway": "Rot / Marineblau",
     "design": "Tiefroter Trikotkörper mit dunkelblauen Ärmeln; die adidas-Schulter- streifen sind in Rot-Gelb-Rot gehalten (Flaggenfarben), dazu dünne, gepunktete gelbe Vertikalstreifen. \"España\"-Schriftzug am Nackenkragen.",
+    "design_en": "Deep-red jersey body with dark-blue sleeves; the adidas shoulder stripes are in red-yellow-red (flag colours), plus thin, dotted yellow vertical stripes. \"España\" lettering on the back of the neck.",
     "colors": [
       "Rot",
       "Gelb",
@@ -8415,6 +8570,7 @@
     "main_sponsor": null,
     "colorway": "Weiß",
     "design": "Vertikale Ton-in-Ton-Streifen, weiße Ärmel; angelehnt an das Bundesliga-Trikot 1999/2000",
+    "design_en": "Vertical tone-on-tone stripes, white sleeves; inspired by the 1999/2000 Bundesliga jersey",
     "colors": [
       "Weiß"
     ],
@@ -8582,6 +8738,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Marine",
     "design": "Weiße Basis mit marineblauen Akzenten",
+    "design_en": "White base with navy-blue accents",
     "colors": [
       "Weiß",
       "Marineblau"
@@ -8606,6 +8763,7 @@
     "main_sponsor": null,
     "colorway": "Schwarz / Blau",
     "design": "Schwarze Basis mit vertikalen blauen Streifen",
+    "design_en": "Black base with vertical blue stripes",
     "colors": [
       "Schwarz",
       "Blau"
@@ -8635,6 +8793,7 @@
     "main_sponsor": null,
     "colorway": "Steingrau",
     "design": "Trikot in Steingrau",
+    "design_en": "Jersey in stone gray",
     "colors": [
       "Steingrau"
     ],
@@ -8958,6 +9117,7 @@
     "main_sponsor": null,
     "colorway": "Off-White / Gold",
     "design": "Retro-inspiriert, cremefarbene Basis; statt Wappen ein geschwungener \"Venezuela\"-Schriftzug, angelehnt an das Verbandswappen der 1960er. Goldene Details am V-Kragen und den Ärmelbündchen.",
+    "design_en": "Retro-inspired, cream-coloured base; instead of a crest, a flowing 'Venezuela' script inspired by the federation crest of the 1960s. Gold details on the V-neck and sleeve cuffs.",
     "colors": [
       "Off-White",
       "Gold"
@@ -8982,6 +9142,7 @@
     "main_sponsor": null,
     "colorway": "Vinotinto / Gold",
     "design": "Ganzflächiges geometrisches Muster inspiriert von Venezuelas Tepui- Tafelbergen, goldene Akzente an V-Kragen, Schulterstreifen und Ärmelbündchen; die drei Streifen in den Landesfarben (Gelb/Blau/Rot) als Hommage an die Flagge.",
+    "design_en": "An all-over geometric pattern inspired by Venezuela's tepui table mountains, gold accents on the V-neck, shoulder stripes and sleeve cuffs; the three stripes in the national colours (yellow/blue/red) pay tribute to the flag.",
     "colors": [
       "Vinotinto",
       "Gold"
@@ -9078,6 +9239,7 @@
     "main_sponsor": null,
     "colorway": null,
     "design": "Erstmals unterschiedliche Designs für Heim- und Auswärtstrikot; PUMA-eigene Technologie, nachhaltige Materialien. Vorgestellt zum WM-Jahr 2025.",
+    "design_en": "Different designs for the home and away jerseys for the first time; Puma's proprietary technology, sustainable materials. Unveiled for the 2025 World Championship year.",
     "colors": [
       "Weiß",
       "Schwarz"
@@ -9105,6 +9267,7 @@
     "main_sponsor": null,
     "colorway": "Power Green",
     "design": "Stylisches, modernes Design in Grün (\"Powergreen\"); letzte Saison mit Puma vor dem Wechsel zu adidas ab 2026/27.",
+    "design_en": "Stylish, modern design in green ('Powergreen'); the last season with Puma before the switch to adidas from 2026/27.",
     "colors": [
       "Grün"
     ],
@@ -9130,6 +9293,7 @@
     "main_sponsor": null,
     "colorway": "Blau / Rot / Weiß",
     "design": "Rundhalsausschnitt, gerader Schnitt, Sublimationsdruck; aus recyceltem Polyester (\"FOR THE PLANET\"-Nachhaltigkeitslinie).",
+    "design_en": "Crew neck, straight cut, sublimation print; made from recycled polyester ('FOR THE PLANET' sustainability line).",
     "colors": [
       "Blau",
       "Rot",
@@ -9176,6 +9340,7 @@
     "main_sponsor": null,
     "colorway": null,
     "design": "Retro-Design zum 20-jährigen Jubiläum des Bundesliga-Aufstiegs 2005/06; ERIMA 6-Wings-Design an den Schultern, Wappen von Kassel und Melsungen am Kragen, Jubiläums-Nummern auf Vorder- und Rückseite.",
+    "design_en": "Retro design marking the 20th anniversary of the 2005/06 Bundesliga promotion; ERIMA 6-Wings design on the shoulders, the crests of Kassel and Melsungen on the collar, anniversary numbers on the front and back.",
     "colors": [
       "Rot"
     ],
@@ -9201,6 +9366,7 @@
     "main_sponsor": null,
     "colorway": null,
     "design": "Verschiedene Gelbtöne, die die Löwenmähne symbolisieren; 100 % recyceltes Polyester.",
+    "design_en": "Various shades of yellow symbolizing the lion's mane; 100% recycled polyester.",
     "colors": [
       "Gelb"
     ],
@@ -9224,6 +9390,7 @@
     "main_sponsor": null,
     "colorway": "Jelly Bean",
     "design": "Grün mit Rot-Grün-Kontrastgrafik an Ärmeln und Seitenteilen, V-Ausschnitt; hummel BEECOOL-Technologie, recyceltes Polyester.",
+    "design_en": "Green with a red-and-green contrast graphic on the sleeves and side panels, V-neck; hummel BEECOOL technology, recycled polyester.",
     "colors": [
       "Grün",
       "Rot"
@@ -9250,6 +9417,7 @@
     "main_sponsor": null,
     "colorway": "True Red",
     "design": "Kräftiges, tiefes Rot (\"Hölle Nord\"-Motiv der Fankurve); dritte gemeinsame Saison von SG und Ausrüster hummel.",
+    "design_en": "A bold, deep red (a nod to the 'Hölle Nord' fan-terrace motif); the third joint season for SG and kit supplier hummel.",
     "colors": [
       "Rot"
     ],
@@ -9273,6 +9441,7 @@
     "main_sponsor": null,
     "colorway": "Weiß / Schwarz",
     "design": "Schwarz-weiße Streifen (Rückkehr zum \"Zebra\"-Look, dem Ursprung des THW-Spitznamens), farbliche Akzente verbinden Feldspieler- und Torwarttrikot; PUMA dryCELL-Technologie, 100 % recyceltes Polyester.",
+    "design_en": "Black-and-white stripes (a return to the 'zebra' look that gave THW its nickname), colour accents link the outfield and goalkeeper jerseys; PUMA dryCELL technology, 100% recycled polyester.",
     "colors": [
       "Weiß",
       "Schwarz"
