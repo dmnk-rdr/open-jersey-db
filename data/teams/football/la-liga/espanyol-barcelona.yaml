@@ -18,3 +18,8 @@ aliases:
 founded: 1900
 wikidata: Q8780
 city: Barcelona
+# Ausrüster — nur der aktuelle, gut belegte Ausrüster; ältere Historie (Kappa/Umbro/
+# Reebok-Ära) in den geprüften Quellen nicht zuverlässig datiert, daher weggelassen.
+# Quelle: Kit-Historie-Seiten (footballkitarchive/uksoccershop).
+kit_suppliers:
+- { manufacturer: Joma, from: 2015 }

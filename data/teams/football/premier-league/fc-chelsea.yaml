@@ -17,3 +17,11 @@ founded: 1905
 wikidata: Q9616
 city: London
 stadium: Stamford Bridge
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Chelsea F.C.", Kit-Historie-Seiten
+# (casualfootballshirts). „The Chelsea Collection" (1986-87, klubeigen) ausgelassen.
+kit_suppliers:
+- { manufacturer: Nike, from: 2017 }
+- { manufacturer: adidas, from: 2006, to: 2017 }
+- { manufacturer: Umbro, from: 1987, to: 2006 }
+- { manufacturer: Le Coq Sportif, from: 1981, to: 1986 }
+- { manufacturer: Umbro, from: 1975, to: 1981 }

@@ -16,3 +16,11 @@ founded: 1899
 wikidata: Q132885
 stadium: Stade Vélodrome
 city: Marseille
+# Ausrüster (jüngste zuerst, LÜCKENHAFT — nur die sicher datierten adidas/Puma-Perioden;
+# Quelle: Footy Headlines, footballkitarchive-Suchtreffer). Zwischenzeit 1994-1996
+# (vor der adidas-Rückkehr) uneinheitlich berichtet (Le Coq Sportif/Diadora), daher
+# weggelassen.
+kit_suppliers:
+- { manufacturer: Puma, from: 2018 }
+- { manufacturer: adidas, from: 1996, to: 2018 }
+- { manufacturer: adidas, from: 1974, to: 1994 }

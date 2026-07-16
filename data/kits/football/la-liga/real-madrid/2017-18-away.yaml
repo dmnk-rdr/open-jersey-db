@@ -1,0 +1,25 @@
+team: real-madrid
+sport: football
+league: la-liga
+season: '2017/18'
+kit_type: away
+manufacturer: adidas
+main_sponsor: Fly Emirates
+colorway: Schwarz / Aero Reef (Hellblau)
+design: >-
+  Schwarze Basis (Erinnerung an das Champions-League-Siegertrikot von
+  2000) mit neonhellblauen ("Aero Reef") adidas-Streifen an den Seiten
+  und Ärmelabschlüssen, inspiriert vom Blau des Madrider Stadtwappens;
+  Rundkragen, weißer Sponsor-Schriftzug.
+colors:
+- Schwarz
+- Aero Reef (Hellblau)
+competitions:
+- La Liga
+- UEFA Champions League
+skus: null
+release_date: '2017-06-14'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Football Fashion (\"Real Madrid 2017/18 adidas Home and Away Kits\", 2017-06-14), SoccerBible/nss sports. Ausrüster adidas gemäß team kit_suppliers-Zeitleiste (seit 1998)."

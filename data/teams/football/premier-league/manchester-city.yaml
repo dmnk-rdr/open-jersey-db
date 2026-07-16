@@ -20,3 +20,14 @@ founded: 1894
 wikidata: Q50602
 city: Manchester
 stadium: City of Manchester Stadium
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Manchester City F.C.", Kit-Historie-
+# Seiten (casualfootballshirts/footykitsbattle).
+kit_suppliers:
+- { manufacturer: Puma, from: 2019 }
+- { manufacturer: Nike, from: 2013, to: 2019 }
+- { manufacturer: Umbro, from: 2009, to: 2013 }
+- { manufacturer: Le Coq Sportif, from: 2007, to: 2009 }
+- { manufacturer: Reebok, from: 2003, to: 2007 }
+- { manufacturer: Le Coq Sportif, from: 1999, to: 2003 }
+- { manufacturer: Kappa, from: 1997, to: 1999 }
+- { manufacturer: Umbro, from: 1967, to: 1997 }

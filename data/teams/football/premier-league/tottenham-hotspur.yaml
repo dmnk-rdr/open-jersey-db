@@ -15,3 +15,17 @@ aliases:
 founded: 1882
 wikidata: Q18741
 city: London
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Tottenham Hotspur F.C.", spurs.fandom
+# (Kit-Historie-Seiten der einzelnen Marken).
+kit_suppliers:
+- { manufacturer: Nike, from: 2017 }
+- { manufacturer: Under Armour, from: 2012, to: 2017 }
+- { manufacturer: Puma, from: 2006, to: 2012 }
+- { manufacturer: Kappa, from: 2002, to: 2006 }
+- { manufacturer: adidas, from: 1999, to: 2002 }
+- { manufacturer: Pony, from: 1995, to: 1999 }
+- { manufacturer: Umbro, from: 1991, to: 1995 }
+- { manufacturer: Hummel, from: 1985, to: 1991 }
+- { manufacturer: Le Coq Sportif, from: 1980, to: 1985 }
+- { manufacturer: Admiral, from: 1977, to: 1980 }
+- { manufacturer: Umbro, from: 1935, to: 1977 }

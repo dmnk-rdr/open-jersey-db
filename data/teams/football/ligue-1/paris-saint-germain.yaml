@@ -17,3 +17,11 @@ founded: 1970
 wikidata: Q483020
 city: Paris
 stadium: Parc des Princes
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Paris Saint-Germain F.C.", Footy
+# Headlines Kit-Historie. Kopa (1975/76) und Pony (1977/78) waren nur je 1 Saison
+# zwischen den Le-Coq-Sportif-Perioden — der Übersicht halber weggelassen.
+kit_suppliers:
+- { manufacturer: Nike, from: 1989 }
+- { manufacturer: adidas, from: 1986, to: 1989 }
+- { manufacturer: Le Coq Sportif, from: 1978, to: 1986 }
+- { manufacturer: Le Coq Sportif, from: 1970, to: 1975 }

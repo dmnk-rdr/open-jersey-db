@@ -18,3 +18,10 @@ founded: 1926
 wikidata: Q2641
 city: Neapel
 stadium: Stadio Diego Armando Maradona
+# Ausrüster (jüngste zuerst, LÜCKENHAFT — nur die sicher datierten Perioden ab Macron;
+# ältere Ära (Ennerre/Umbro/Diadora/Lotto/Nike) uneinheitlich datiert, daher weggelassen.
+# Quelle: SSC-Napoli-News/Kit-Historie-Seiten.
+kit_suppliers:
+- { manufacturer: EA7, from: 2020 }
+- { manufacturer: Kappa, from: 2015, to: 2020 }
+- { manufacturer: Macron, from: 2009, to: 2015 }

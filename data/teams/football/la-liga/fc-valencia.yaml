@@ -21,3 +21,13 @@ founded: 1919
 wikidata: Q10333
 city: Valencia
 stadium: Estadio Mestalla
+# Ausrüster (jüngste zuerst). Quelle: Kit-Historie-Seiten (footballkitarchive/
+# classic11), Valencia-CF-eigene Kit-Launch-Meldungen.
+kit_suppliers:
+- { manufacturer: Puma, from: 2019 }
+- { manufacturer: adidas, from: 2014, to: 2019 }
+- { manufacturer: Joma, from: 2011, to: 2014 }
+- { manufacturer: Kappa, from: 2009, to: 2011 }
+- { manufacturer: Nike, from: 2000, to: 2009 }
+- { manufacturer: Luanvi, from: 1993, to: 2000 }
+- { manufacturer: Puma, from: 1990, to: 1993 }

@@ -14,3 +14,12 @@ founded: 1892
 wikidata: Q18716
 city: Newcastle upon Tyne
 stadium: St James' Park
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Newcastle United F.C.", salaryleaks/
+# casualfootballshirts Kit-Historie.
+kit_suppliers:
+- { manufacturer: adidas, from: 2024 }
+- { manufacturer: Castore, from: 2021, to: 2024 }
+- { manufacturer: Puma, from: 2010, to: 2021 }
+- { manufacturer: adidas, from: 1995, to: 2010 }
+- { manufacturer: Asics, from: 1993, to: 1995 }
+- { manufacturer: Umbro, from: 1980, to: 1993 }

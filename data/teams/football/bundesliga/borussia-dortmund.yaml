@@ -13,3 +13,12 @@ founded: 1909
 wikidata: Q41420
 city: Dortmund
 stadium: Signal Iduna Park
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Borussia Dortmund", Kit-Historie-
+# Seiten (classicshirtfind/footyheadlines).
+kit_suppliers:
+- { manufacturer: Puma, from: 2012 }
+- { manufacturer: Kappa, from: 2009, to: 2012 }
+- { manufacturer: Nike, from: 2004, to: 2009 }
+- { manufacturer: Goool.de, from: 2000, to: 2004 }
+- { manufacturer: Nike, from: 1990, to: 2000 }
+- { manufacturer: adidas, to: 1990 }

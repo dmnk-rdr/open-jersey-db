@@ -19,3 +19,16 @@ founded: 1905
 wikidata: Q10329
 city: Sevilla
 stadium: Estadio Ramón Sánchez Pizjuán
+# Ausrüster (jüngste zuerst). Quelle: Kit-Historie-Seiten (footballkitarchive/
+# footballshirtculture), Sevilla-eigene Vertrags-Meldungen (adidas seit Juni 2025,
+# 10-Jahres-Vertrag).
+kit_suppliers:
+- { manufacturer: adidas, from: 2025 }
+- { manufacturer: Castore, from: 2022, to: 2025 }
+- { manufacturer: Nike, from: 2018, to: 2022 }
+- { manufacturer: New Balance, from: 2015, to: 2018 }
+- { manufacturer: Warrior, from: 2013, to: 2015 }
+- { manufacturer: Umbro, from: 2012, to: 2013 }
+- { manufacturer: Li-Ning, from: 2011, to: 2012 }
+- { manufacturer: Joma, from: 2001, to: 2011 }
+- { manufacturer: Umbro, from: 1994, to: 2001 }

@@ -16,3 +16,10 @@ aliases:
 founded: 1897
 wikidata: Q1422
 city: Turin
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Juventus F.C.", jofcabudhabi/Footy-
+# Headlines Kit-Historie.
+kit_suppliers:
+- { manufacturer: adidas, from: 2015 }
+- { manufacturer: Nike, from: 2003, to: 2015 }
+- { manufacturer: Lotto, from: 2000, to: 2003 }
+- { manufacturer: Kappa, from: 1979, to: 2000 }

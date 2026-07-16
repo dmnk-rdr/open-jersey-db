@@ -17,3 +17,12 @@ founded: 1899
 wikidata: Q1543
 city: Mailand
 stadium: Stadio Giuseppe Meazza
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „AC Milan", Kit-Historie-Seiten
+# (casualfootballshirts/nss sports), cross-verifiziert über 3 Suchen (Lotto-Interimsjahre
+# 1993-98 innerhalb der adidas-Ära bestätigt).
+kit_suppliers:
+- { manufacturer: Puma, from: 2018 }
+- { manufacturer: adidas, from: 1998, to: 2018 }
+- { manufacturer: Lotto, from: 1993, to: 1998 }
+- { manufacturer: adidas, from: 1990, to: 1993 }
+- { manufacturer: Kappa, from: 1986, to: 1990 }

@@ -24,3 +24,9 @@ aliases:
 founded: 1903
 wikidata: Q8701
 city: Madrid
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Atlético Madrid", Kit-Historie-Seiten
+# (footyheadlines/footballlegendstoday).
+kit_suppliers:
+- { manufacturer: Nike, from: 2001 }
+- { manufacturer: Reebok, from: 1998, to: 2001 }
+- { manufacturer: Puma, from: 1983, to: 1998 }

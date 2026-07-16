@@ -17,3 +17,13 @@ founded: 1895
 wikidata: Q18747
 stadium: Londoner Stadion
 city: London
+# Ausrüster (jüngste zuerst, LÜCKENHAFT — nur die sicher datierten Perioden; ältere
+# 2000er/frühe 2010er (u.a. Reebok/Macron) uneinheitlich berichtet, daher weggelassen.
+# Quelle: casualfootballshirts/hammers.news Kit-Historie.
+kit_suppliers:
+- { manufacturer: Umbro, from: 2015 }
+- { manufacturer: Fila, from: 1999, to: 2003 }
+- { manufacturer: Pony, from: 1993, to: 1999 }
+- { manufacturer: Bukta, from: 1989, to: 1993 }
+- { manufacturer: adidas, from: 1980, to: 1987 }
+- { manufacturer: Admiral, from: 1976, to: 1980 }

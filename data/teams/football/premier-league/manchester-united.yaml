@@ -23,3 +23,12 @@ founded: 1878
 wikidata: Q18656
 city: Manchester
 stadium: Old Trafford
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Manchester United F.C.", Abschnitt
+# „Kit manufacturers and shirt sponsors", cross-checked mit unitedkits.com.
+kit_suppliers:
+- { manufacturer: adidas, from: 2015 }
+- { manufacturer: Nike, from: 2002, to: 2015 }
+- { manufacturer: Umbro, from: 1992, to: 2002 }
+- { manufacturer: adidas, from: 1980, to: 1992 }
+- { manufacturer: Admiral, from: 1975, to: 1980 }
+- { manufacturer: Umbro, from: 1945, to: 1975 }

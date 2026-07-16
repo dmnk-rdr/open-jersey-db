@@ -1,0 +1,27 @@
+team: manchester-united
+sport: football
+league: premier-league
+season: '2011/12'
+kit_type: home
+manufacturer: Nike
+main_sponsor: Aon
+colorway: Rot / Weiß / Schwarz
+design: >-
+  Traditionelles Rot mit weißem, gerippten Rundkragen und zentralem
+  schwarzen Streifen, angelehnt an den historischen „Bar Scarf" der
+  1977er/1985er FA-Cup-Sieger; weiße Shorts mit schwarz-weißem
+  Schal-Streifen am Saum.
+colors:
+- Rot
+- Weiß
+- Schwarz
+competitions:
+- Premier League
+- UEFA Champions League
+- FA Cup
+skus: null
+release_date: '2011-06-03'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: SoccerBible/Football Fashion (\"Manchester United Home Kit 2011-2012 - Nike\", 2011-05/06), footballkitarchive.com. Ausrüster Nike gemäß team kit_suppliers-Zeitleiste (2002-2015)."

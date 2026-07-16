@@ -16,3 +16,9 @@ aliases:
 founded: 1900
 wikidata: Q3907390
 city: Rom
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „S.S. Lazio", Kit-Historie-Seiten.
+kit_suppliers:
+- { manufacturer: Mizuno, from: 2022 }
+- { manufacturer: Macron, from: 2012, to: 2022 }
+- { manufacturer: Puma, from: 1998, to: 2012 }
+- { manufacturer: Umbro, from: 1989, to: 1998 }

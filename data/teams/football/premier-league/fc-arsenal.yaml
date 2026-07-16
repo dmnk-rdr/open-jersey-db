@@ -16,3 +16,11 @@ aliases:
 founded: 1886
 wikidata: Q9617
 city: London
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Arsenal F.C.", casualfootballshirts/
+# salaryleaks Kit-Historie.
+kit_suppliers:
+- { manufacturer: adidas, from: 2019 }
+- { manufacturer: Puma, from: 2014, to: 2019 }
+- { manufacturer: Nike, from: 1994, to: 2014 }
+- { manufacturer: adidas, from: 1986, to: 1994 }
+- { manufacturer: Umbro, from: 1977, to: 1986 }

@@ -1,0 +1,24 @@
+team: real-madrid
+sport: football
+league: la-liga
+season: '1997/98'
+kit_type: away
+manufacturer: Kelme
+main_sponsor: Teka
+colorway: Lila / Weiß
+design: >-
+  Violettes (lila) Auswärtstrikot mit geschwungenen weißen Seitenpanels,
+  schwarzem Kragen mit weißem Rand und dem Kelme-„Pfoten"-Muster auf den
+  Schulterstreifen.
+colors:
+- Lila
+- Weiß
+competitions:
+- La Liga
+- UEFA Champions League
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Kit-Historie-Seiten (footballkitarchive.com \"Real Madrid 1997-98 Away Kit\", cultkits.com/classic11.com Retro-Angebote \"1997/98 Real Madrid Away Shirt … Kelme\"), cross-verifiziert mit der allgemeinen Ausrüster-Zeitleiste (Kelme 1994-1998, siehe team kit_suppliers). Saison, in der Real Madrid seine 7. Champions League gewann (1-0 gegen Juventus)."

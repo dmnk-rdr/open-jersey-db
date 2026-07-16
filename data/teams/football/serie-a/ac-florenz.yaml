@@ -19,3 +19,10 @@ founded: 1926
 wikidata: Q2052
 city: Florenz
 stadium: Stadio Artemio Franchi
+# Ausrüster (jüngste zuerst, LÜCKENHAFT — nur die sicher datierten Perioden;
+# Quelle: Footy Headlines/Kit-Historie-Seiten). Aktuell (2026/27) Joma nach Ende der
+# Kappa-Ära; genaues Kappa-Startjahr uneinheitlich berichtet, daher weggelassen.
+kit_suppliers:
+- { manufacturer: Joma, from: 2026 }
+- { manufacturer: Joma, from: 2012, to: 2015 }
+- { manufacturer: Lotto, from: 2005, to: 2012 }

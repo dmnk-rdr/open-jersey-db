@@ -15,3 +15,16 @@ founded: 1878
 wikidata: Q5794
 city: Liverpool
 stadium: Everton Stadium
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Everton F.C.", casualfootballshirts
+# Kit-Historie (Umbro war vier separate Perioden Ausrüster).
+kit_suppliers:
+- { manufacturer: Castore, from: 2024 }
+- { manufacturer: Hummel, from: 2020, to: 2024 }
+- { manufacturer: Umbro, from: 2014, to: 2020 }
+- { manufacturer: Nike, from: 2012, to: 2014 }
+- { manufacturer: Le Coq Sportif, from: 2009, to: 2012 }
+- { manufacturer: Umbro, from: 2004, to: 2009 }
+- { manufacturer: Puma, from: 2000, to: 2004 }
+- { manufacturer: Umbro, from: 1986, to: 2000 }
+- { manufacturer: Le Coq Sportif, from: 1983, to: 1986 }
+- { manufacturer: Umbro, from: 1974, to: 1983 }

@@ -15,3 +15,14 @@ founded: 1892
 wikidata: Q1130849
 city: Liverpool
 stadium: Anfield
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „Liverpool F.C.", Kit-Historie-Seiten
+# (footykitsbattle/casualfootballshirts).
+kit_suppliers:
+- { manufacturer: adidas, from: 2025 }
+- { manufacturer: Nike, from: 2020, to: 2025 }
+- { manufacturer: New Balance, from: 2015, to: 2020 }
+- { manufacturer: Warrior, from: 2012, to: 2015 }
+- { manufacturer: adidas, from: 2006, to: 2012 }
+- { manufacturer: Reebok, from: 1996, to: 2006 }
+- { manufacturer: adidas, from: 1985, to: 1996 }
+- { manufacturer: Umbro, from: 1973, to: 1985 }

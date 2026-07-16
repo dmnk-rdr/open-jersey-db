@@ -3253,6 +3253,36 @@
     "founded": 1909,
     "city": "Dortmund",
     "stadium": "Signal Iduna Park",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 2012
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 2009,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2004,
+        "to": 2009
+      },
+      {
+        "manufacturer": "Goool.de",
+        "from": 2000,
+        "to": 2004
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 1990,
+        "to": 2000
+      },
+      {
+        "manufacturer": "adidas",
+        "to": 1990
+      }
+    ],
     "wikidata": "Q41420"
   },
   {
@@ -3907,6 +3937,37 @@
     "founded": 1895,
     "city": "London",
     "stadium": "Londoner Stadion",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Umbro",
+        "from": 2015
+      },
+      {
+        "manufacturer": "Fila",
+        "from": 1999,
+        "to": 2003
+      },
+      {
+        "manufacturer": "Pony",
+        "from": 1993,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Bukta",
+        "from": 1989,
+        "to": 1993
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1980,
+        "to": 1987
+      },
+      {
+        "manufacturer": "Admiral",
+        "from": 1976,
+        "to": 1980
+      }
+    ],
     "wikidata": "Q18747"
   },
   {
@@ -4188,6 +4249,22 @@
     ],
     "founded": 1903,
     "city": "Madrid",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2001
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 1998,
+        "to": 2001
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1983,
+        "to": 1998
+      }
+    ],
     "wikidata": "Q8701"
   },
   {
@@ -4299,6 +4376,12 @@
     ],
     "founded": 1900,
     "city": "Barcelona",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Joma",
+        "from": 2015
+      }
+    ],
     "wikidata": "Q8780"
   },
   {
@@ -4380,6 +4463,52 @@
     "founded": 1905,
     "city": "Sevilla",
     "stadium": "Estadio Ramón Sánchez Pizjuán",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2025
+      },
+      {
+        "manufacturer": "Castore",
+        "from": 2022,
+        "to": 2025
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2018,
+        "to": 2022
+      },
+      {
+        "manufacturer": "New Balance",
+        "from": 2015,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Warrior",
+        "from": 2013,
+        "to": 2015
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2012,
+        "to": 2013
+      },
+      {
+        "manufacturer": "Li-Ning",
+        "from": 2011,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Joma",
+        "from": 2001,
+        "to": 2011
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1994,
+        "to": 2001
+      }
+    ],
     "wikidata": "Q10329"
   },
   {
@@ -4406,6 +4535,42 @@
     "founded": 1919,
     "city": "Valencia",
     "stadium": "Estadio Mestalla",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 2019
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2014,
+        "to": 2019
+      },
+      {
+        "manufacturer": "Joma",
+        "from": 2011,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 2009,
+        "to": 2011
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2000,
+        "to": 2009
+      },
+      {
+        "manufacturer": "Luanvi",
+        "from": 1993,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1990,
+        "to": 1993
+      }
+    ],
     "wikidata": "Q10333"
   },
   {
@@ -4449,6 +4614,22 @@
     ],
     "founded": 1899,
     "city": "Barcelona",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 1998
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1992,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Meyba",
+        "from": 1980,
+        "to": 1992
+      }
+    ],
     "wikidata": "Q3091261"
   },
   {
@@ -4538,6 +4719,27 @@
     "founded": 1902,
     "city": "Madrid",
     "stadium": "Bernabéu",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 1998
+      },
+      {
+        "manufacturer": "Kelme",
+        "from": 1994,
+        "to": 1998
+      },
+      {
+        "manufacturer": "Hummel",
+        "from": 1985,
+        "to": 1994
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1982,
+        "to": 1985
+      }
+    ],
     "wikidata": "Q8682"
   },
   {
@@ -4774,6 +4976,22 @@
     "founded": 1899,
     "city": "Marseille",
     "stadium": "Stade Vélodrome",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 2018
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1996,
+        "to": 2018
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 1994
+      }
+    ],
     "wikidata": "Q132885"
   },
   {
@@ -4831,6 +5049,27 @@
     "founded": 1970,
     "city": "Paris",
     "stadium": "Parc des Princes",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 1989
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1986,
+        "to": 1989
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1978,
+        "to": 1986
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1970,
+        "to": 1975
+      }
+    ],
     "wikidata": "Q483020"
   },
   {
@@ -5604,6 +5843,32 @@
     ],
     "founded": 1886,
     "city": "London",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2019
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2014,
+        "to": 2019
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 1994,
+        "to": 2014
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1986,
+        "to": 1994
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1977,
+        "to": 1986
+      }
+    ],
     "wikidata": "Q9617"
   },
   {
@@ -5645,6 +5910,32 @@
     "founded": 1905,
     "city": "London",
     "stadium": "Stamford Bridge",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2017
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2006,
+        "to": 2017
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1987,
+        "to": 2006
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1981,
+        "to": 1986
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1975,
+        "to": 1981
+      }
+    ],
     "wikidata": "Q9616"
   },
   {
@@ -5665,6 +5956,57 @@
     "founded": 1878,
     "city": "Liverpool",
     "stadium": "Everton Stadium",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Castore",
+        "from": 2024
+      },
+      {
+        "manufacturer": "Hummel",
+        "from": 2020,
+        "to": 2024
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2014,
+        "to": 2020
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2012,
+        "to": 2014
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 2009,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2004,
+        "to": 2009
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2000,
+        "to": 2004
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1986,
+        "to": 2000
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1983,
+        "to": 1986
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1974,
+        "to": 1983
+      }
+    ],
     "wikidata": "Q5794"
   },
   {
@@ -5704,6 +6046,47 @@
     "founded": 1892,
     "city": "Liverpool",
     "stadium": "Anfield",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2025
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2020,
+        "to": 2025
+      },
+      {
+        "manufacturer": "New Balance",
+        "from": 2015,
+        "to": 2020
+      },
+      {
+        "manufacturer": "Warrior",
+        "from": 2012,
+        "to": 2015
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2006,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 1996,
+        "to": 2006
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1985,
+        "to": 1996
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1973,
+        "to": 1985
+      }
+    ],
     "wikidata": "Q1130849"
   },
   {
@@ -5775,6 +6158,47 @@
     "founded": 1894,
     "city": "Manchester",
     "stadium": "City of Manchester Stadium",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 2019
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2013,
+        "to": 2019
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 2009,
+        "to": 2013
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 2007,
+        "to": 2009
+      },
+      {
+        "manufacturer": "Reebok",
+        "from": 2003,
+        "to": 2007
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1999,
+        "to": 2003
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1997,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1967,
+        "to": 1997
+      }
+    ],
     "wikidata": "Q50602"
   },
   {
@@ -5803,6 +6227,37 @@
     "founded": 1878,
     "city": "Manchester",
     "stadium": "Old Trafford",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2015
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2002,
+        "to": 2015
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1992,
+        "to": 2002
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1980,
+        "to": 1992
+      },
+      {
+        "manufacturer": "Admiral",
+        "from": 1975,
+        "to": 1980
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1945,
+        "to": 1975
+      }
+    ],
     "wikidata": "Q18656"
   },
   {
@@ -5822,6 +6277,37 @@
     "founded": 1892,
     "city": "Newcastle upon Tyne",
     "stadium": "St James' Park",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2024
+      },
+      {
+        "manufacturer": "Castore",
+        "from": 2021,
+        "to": 2024
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2010,
+        "to": 2021
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1995,
+        "to": 2010
+      },
+      {
+        "manufacturer": "Asics",
+        "from": 1993,
+        "to": 1995
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1980,
+        "to": 1993
+      }
+    ],
     "wikidata": "Q18716"
   },
   {
@@ -5877,6 +6363,62 @@
     ],
     "founded": 1882,
     "city": "London",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2017
+      },
+      {
+        "manufacturer": "Under Armour",
+        "from": 2012,
+        "to": 2017
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 2006,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 2002,
+        "to": 2006
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1999,
+        "to": 2002
+      },
+      {
+        "manufacturer": "Pony",
+        "from": 1995,
+        "to": 1999
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1991,
+        "to": 1995
+      },
+      {
+        "manufacturer": "Hummel",
+        "from": 1985,
+        "to": 1991
+      },
+      {
+        "manufacturer": "Le Coq Sportif",
+        "from": 1980,
+        "to": 1985
+      },
+      {
+        "manufacturer": "Admiral",
+        "from": 1977,
+        "to": 1980
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1935,
+        "to": 1977
+      }
+    ],
     "wikidata": "Q18741"
   },
   {
@@ -7477,6 +8019,22 @@
     "founded": 1926,
     "city": "Florenz",
     "stadium": "Stadio Artemio Franchi",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Joma",
+        "from": 2026
+      },
+      {
+        "manufacturer": "Joma",
+        "from": 2012,
+        "to": 2015
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 2005,
+        "to": 2012
+      }
+    ],
     "wikidata": "Q2052"
   },
   {
@@ -7499,6 +8057,32 @@
     "founded": 1899,
     "city": "Mailand",
     "stadium": "Stadio Giuseppe Meazza",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 2018
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1998,
+        "to": 2018
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 1993,
+        "to": 1998
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 1990,
+        "to": 1993
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1986,
+        "to": 1990
+      }
+    ],
     "wikidata": "Q1543"
   },
   {
@@ -7740,6 +8324,27 @@
     ],
     "founded": 1897,
     "city": "Turin",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2015
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2003,
+        "to": 2015
+      },
+      {
+        "manufacturer": "Lotto",
+        "from": 2000,
+        "to": 2003
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 1979,
+        "to": 2000
+      }
+    ],
     "wikidata": "Q1422"
   },
   {
@@ -7819,6 +8424,27 @@
     ],
     "founded": 1900,
     "city": "Rom",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Mizuno",
+        "from": 2022
+      },
+      {
+        "manufacturer": "Macron",
+        "from": 2012,
+        "to": 2022
+      },
+      {
+        "manufacturer": "Puma",
+        "from": 1998,
+        "to": 2012
+      },
+      {
+        "manufacturer": "Umbro",
+        "from": 1989,
+        "to": 1998
+      }
+    ],
     "wikidata": "Q3907390"
   },
   {
@@ -7842,6 +8468,22 @@
     "founded": 1926,
     "city": "Neapel",
     "stadium": "Stadio Diego Armando Maradona",
+    "kit_suppliers": [
+      {
+        "manufacturer": "EA7",
+        "from": 2020
+      },
+      {
+        "manufacturer": "Kappa",
+        "from": 2015,
+        "to": 2020
+      },
+      {
+        "manufacturer": "Macron",
+        "from": 2009,
+        "to": 2015
+      }
+    ],
     "wikidata": "Q2641"
   },
   {

@@ -13,3 +13,9 @@ aliases:
 founded: 1899
 wikidata: Q3091261
 city: Barcelona
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia „FC Barcelona", Footy Headlines Kit-
+# Historie-Artikel.
+kit_suppliers:
+- { manufacturer: Nike, from: 1998 }
+- { manufacturer: Kappa, from: 1992, to: 1998 }
+- { manufacturer: Meyba, from: 1980, to: 1992 }

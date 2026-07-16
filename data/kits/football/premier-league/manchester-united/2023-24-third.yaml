@@ -1,0 +1,26 @@
+team: manchester-united
+sport: football
+league: premier-league
+season: '2023/24'
+kit_type: third
+manufacturer: adidas
+main_sponsor: TeamViewer
+colorway: Cloud White / Rot
+design: >-
+  Cremeweißes ("Cloud White") Trikot mit weißen adidas-Streifen an den
+  Ärmeln und rotem geripptem Rundkragen; erstmals in der Vereinsgeschichte
+  ziert allein der „Red Devil" statt des Vereinswappens die Brust —
+  Anspielung auf das Trikot der FA-Cup-Saison 1908/09.
+colors:
+- Cloud White (Creme)
+- Rot
+competitions:
+- Premier League
+- UEFA Champions League
+- FA Cup
+skus: null
+release_date: '2023-08-08'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: adidas News (\"adidas and Manchester United Reveal 2023/24 Third Kit – Inspired by The Iconic Red Devil\"), manutd.com Offizial-Meldung. Ausrüster adidas gemäß team kit_suppliers-Zeitleiste (seit 2015)."

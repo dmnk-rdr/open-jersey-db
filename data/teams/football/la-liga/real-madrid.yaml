@@ -22,3 +22,11 @@ founded: 1902
 wikidata: Q8682
 city: Madrid
 stadium: Bernabéu
+# Ausrüster (jüngste zuerst). Quelle: Wikipedia/Kit-Historie-Seiten (adidas seit 1998;
+# Kelme 1994-1998, Hummel 1985-1994, adidas 1982-1985 — mehrfach cross-verifiziert,
+# u.a. footballkitarchive/Retro-Händler für die Kelme-Ära 1997/98).
+kit_suppliers:
+- { manufacturer: adidas, from: 1998 }
+- { manufacturer: Kelme, from: 1994, to: 1998 }
+- { manufacturer: Hummel, from: 1985, to: 1994 }
+- { manufacturer: adidas, from: 1982, to: 1985 }
