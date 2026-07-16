@@ -1512,11 +1512,40 @@
     ]
   },
   {
+    "slug": "la-vuelta",
+    "name": "La Vuelta a España",
+    "sport": "cycling",
+    "type": "club",
+    "league": "la-vuelta",
+    "country": "ES",
+    "aliases": [
+      "la vuelta",
+      "vuelta a españa",
+      "vuelta a espana",
+      "maillot rojo",
+      "maglia roja"
+    ]
+  },
+  {
+    "slug": "alpecin-deceuninck",
+    "name": "Alpecin-Deceuninck",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "BE",
+    "aliases": [
+      "alpecin-deceuninck",
+      "alpecin deceuninck",
+      "fenix-deceuninck",
+      "alpecin-fenix"
+    ]
+  },
+  {
     "slug": "astana-qazaqstan",
     "name": "Astana Qazaqstan Team",
     "sport": "cycling",
     "type": "club",
-    "league": "tour-de-france",
+    "league": "profi-teams",
     "country": "KZ",
     "aliases": [
       "astana qazaqstan",
@@ -1528,7 +1557,7 @@
     "name": "Team Bahrain Victorious",
     "sport": "cycling",
     "type": "club",
-    "league": "tour-de-france",
+    "league": "profi-teams",
     "country": "BH",
     "aliases": [
       "bahrain victorious",
@@ -1537,11 +1566,76 @@
     ]
   },
   {
+    "slug": "bardiani-vf-group",
+    "name": "VF Group-Bardiani CSF-Faizanè",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "IT",
+    "aliases": [
+      "bardiani",
+      "vf group",
+      "faizanè",
+      "faizane"
+    ]
+  },
+  {
+    "slug": "decathlon-ag2r",
+    "name": "Decathlon AG2R La Mondiale",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "FR",
+    "aliases": [
+      "decathlon ag2r",
+      "ag2r la mondiale",
+      "ag2r citroën",
+      "ag2r"
+    ]
+  },
+  {
+    "slug": "ef-education-easypost",
+    "name": "EF Education-EasyPost",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "US",
+    "aliases": [
+      "ef education",
+      "ef education-easypost",
+      "ef pro cycling"
+    ]
+  },
+  {
+    "slug": "euskaltel-euskadi",
+    "name": "Euskaltel-Euskadi",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "ES",
+    "aliases": [
+      "euskadi",
+      "euskaltel"
+    ]
+  },
+  {
+    "slug": "groupama-fdj",
+    "name": "Groupama-FDJ",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "FR",
+    "aliases": [
+      "groupama",
+      "groupama-fdj"
+    ]
+  },
+  {
     "slug": "ineos-grenadiers",
     "name": "INEOS Grenadiers",
     "sport": "cycling",
     "type": "club",
-    "league": "tour-de-france",
+    "league": "profi-teams",
     "country": "GB",
     "aliases": [
       "ineos grenadiers",
@@ -1550,11 +1644,38 @@
     ]
   },
   {
+    "slug": "intermarche-wanty",
+    "name": "Intermarché-Wanty",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "BE",
+    "aliases": [
+      "intermarché",
+      "intermarche",
+      "wanty"
+    ]
+  },
+  {
+    "slug": "jayco-alula",
+    "name": "Team Jayco AlUla",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "AU",
+    "aliases": [
+      "jayco alula",
+      "jayco-alula",
+      "team bikeexchange",
+      "bikeexchange-jayco"
+    ]
+  },
+  {
     "slug": "lidl-trek",
     "name": "Lidl–Trek",
     "sport": "cycling",
     "type": "club",
-    "league": "tour-de-france",
+    "league": "profi-teams",
     "country": "US",
     "aliases": [
       "lidl-trek",
@@ -1562,11 +1683,25 @@
     ]
   },
   {
+    "slug": "lotto",
+    "name": "Lotto",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "BE",
+    "aliases": [
+      "lotto dstny",
+      "lotto-soudal",
+      "lotto soudal",
+      "lotto cycling"
+    ]
+  },
+  {
     "slug": "movistar-team",
     "name": "Movistar Team",
     "sport": "cycling",
     "type": "club",
-    "league": "tour-de-france",
+    "league": "profi-teams",
     "country": "ES",
     "aliases": [
       "movistar team",
@@ -1574,11 +1709,39 @@
     ]
   },
   {
+    "slug": "picnic-postnl",
+    "name": "Team Picnic PostNL",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "NL",
+    "aliases": [
+      "picnic postnl",
+      "picnic-postnl",
+      "team dsm",
+      "dsm-firmenich",
+      "dsm-firmenich postnl"
+    ]
+  },
+  {
+    "slug": "q36-5-pro-cycling",
+    "name": "Q36.5 Pro Cycling Team",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "CH",
+    "aliases": [
+      "q36.5 pro cycling",
+      "pinarello-q36.5",
+      "nibali shark"
+    ]
+  },
+  {
     "slug": "red-bull-bora-hansgrohe",
     "name": "Red Bull–BORA–hansgrohe",
     "sport": "cycling",
     "type": "club",
-    "league": "tour-de-france",
+    "league": "profi-teams",
     "country": "DE",
     "aliases": [
       "red bull-bora-hansgrohe",
@@ -1593,7 +1756,7 @@
     "name": "Soudal Quick-Step",
     "sport": "cycling",
     "type": "club",
-    "league": "tour-de-france",
+    "league": "profi-teams",
     "country": "BE",
     "aliases": [
       "soudal quick-step",
@@ -1601,6 +1764,56 @@
       "quick-step alpha vinyl",
       "quick-step",
       "quick step"
+    ]
+  },
+  {
+    "slug": "team-totalenergies",
+    "name": "Team TotalEnergies",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "FR",
+    "aliases": [
+      "totalenergies",
+      "total energies"
+    ]
+  },
+  {
+    "slug": "tudor-pro-cycling",
+    "name": "Tudor Pro Cycling Team",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "CH",
+    "aliases": [
+      "tudor pro",
+      "tudor cycling"
+    ]
+  },
+  {
+    "slug": "uae-team-emirates",
+    "name": "UAE Team Emirates",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "AE",
+    "aliases": [
+      "uae team emirates",
+      "uae emirates",
+      "uae team emirates xrg"
+    ]
+  },
+  {
+    "slug": "visma-lease-a-bike",
+    "name": "Visma–Lease a Bike",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "NL",
+    "aliases": [
+      "team lease a bike",
+      "visma-lease a bike",
+      "visma"
     ]
   },
   {
@@ -1617,29 +1830,30 @@
     ]
   },
   {
-    "slug": "uae-team-emirates",
-    "name": "UAE Team Emirates",
+    "slug": "tour-de-suisse",
+    "name": "Tour de Suisse",
     "sport": "cycling",
     "type": "club",
-    "league": "tour-de-france",
-    "country": "AE",
+    "league": "tour-de-suisse",
+    "country": "CH",
     "aliases": [
-      "uae team emirates",
-      "uae emirates",
-      "uae team emirates xrg"
+      "tour de suisse",
+      "tour of switzerland",
+      "tour de suiza"
     ]
   },
   {
-    "slug": "visma-lease-a-bike",
-    "name": "Visma–Lease a Bike",
+    "slug": "uci-world-championship",
+    "name": "UCI Straßen-Weltmeisterschaft",
     "sport": "cycling",
     "type": "club",
-    "league": "tour-de-france",
-    "country": "NL",
+    "league": "uci-world-championship",
+    "country": null,
     "aliases": [
-      "team lease a bike",
-      "visma-lease a bike",
-      "visma"
+      "uci world",
+      "maglia iridata",
+      "rainbow jersey",
+      "regenbogentrikot"
     ]
   },
   {
