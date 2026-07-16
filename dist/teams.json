@@ -1857,6 +1857,86 @@
     ]
   },
   {
+    "slug": "belgien-radsport",
+    "name": "Belgien",
+    "sport": "cycling",
+    "type": "national",
+    "league": null,
+    "country": "BE",
+    "aliases": [
+      "belgische nationalmannschaft"
+    ]
+  },
+  {
+    "slug": "daenemark-radsport",
+    "name": "Dänemark",
+    "sport": "cycling",
+    "type": "national",
+    "league": null,
+    "country": "DK",
+    "aliases": [
+      "dänische nationalmannschaft"
+    ]
+  },
+  {
+    "slug": "deutschland-radsport",
+    "name": "Deutschland",
+    "sport": "cycling",
+    "type": "national",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "bdr nationalmannschaft",
+      "deutsche nationalmannschaft"
+    ]
+  },
+  {
+    "slug": "frankreich-radsport",
+    "name": "Frankreich",
+    "sport": "cycling",
+    "type": "national",
+    "league": null,
+    "country": "FR",
+    "aliases": [
+      "französische nationalmannschaft",
+      "franz. nationalmannschaft",
+      "franz nationalmannschaft"
+    ]
+  },
+  {
+    "slug": "grossbritannien-radsport",
+    "name": "Großbritannien",
+    "sport": "cycling",
+    "type": "national",
+    "league": null,
+    "country": "GB",
+    "aliases": [
+      "britische nationalmannschaft"
+    ]
+  },
+  {
+    "slug": "slowenien-radsport",
+    "name": "Slowenien",
+    "sport": "cycling",
+    "type": "national",
+    "league": null,
+    "country": "SI",
+    "aliases": [
+      "slowenische nationalmannschaft"
+    ]
+  },
+  {
+    "slug": "spanien-radsport",
+    "name": "Spanien",
+    "sport": "cycling",
+    "type": "national",
+    "league": null,
+    "country": "ES",
+    "aliases": [
+      "spanische nationalmannschaft"
+    ]
+  },
+  {
     "slug": "1-fc-heidenheim",
     "name": "1. FC Heidenheim",
     "sport": "football",
