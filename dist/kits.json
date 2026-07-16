@@ -8940,6 +8940,58 @@
     "source": "community"
   },
   {
+    "team": "deutschland-handball",
+    "sport": "handball",
+    "league": null,
+    "season": "2025",
+    "kit_type": "home",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": null,
+    "design": "Erstmals unterschiedliche Designs für Heim- und Auswärtstrikot; PUMA-eigene Technologie, nachhaltige Materialien. Vorgestellt zum WM-Jahr 2025.",
+    "colors": [
+      "Weiß",
+      "Schwarz"
+    ],
+    "competitions": [
+      "International",
+      "World Championship"
+    ],
+    "skus": {
+      "replica": "946356-01"
+    },
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: offizieller DHB-Fanshop shop.dhb.de, Produktseite \"DHB Trikot 2025 Home Puma, weiss\" (Artikelnr. 946356-01) und handball.net-Artikel zur Trikotpräsentation \"Die Kunst des Spiels\" (PUMA x DHB, 2025)."
+  },
+  {
+    "team": "fuechse-berlin",
+    "sport": "handball",
+    "league": "handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": "Power Green",
+    "design": "Stylisches, modernes Design in Grün (\"Powergreen\"); letzte Saison mit Puma vor dem Wechsel zu adidas ab 2026/27.",
+    "colors": [
+      "Grün"
+    ],
+    "competitions": [
+      "Handball-Bundesliga"
+    ],
+    "skus": {
+      "home": "948961-01"
+    },
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: offizieller Fanshop fuechseshop.de, Produktseite \"Füchse Berlin Heim Trikot 2025/2026 Puma, grün\" (Artikelnr. 948961-01)."
+  },
+  {
     "team": "hbw-balingen-weilstetten",
     "sport": "handball",
     "league": "handball-bundesliga",
@@ -8984,6 +9036,127 @@
     "aliases": [],
     "source": "community",
     "notes": "Ausrüster Kempa bestätigt (eigener Fanshop-Bereich für die isländische Nationalmannschaft auf kempa-sports.com). Design/Farben des aktuellen Trikots nicht zuverlässig belegt gefunden -> bewusst weggelassen statt geraten."
+  },
+  {
+    "team": "mt-melsungen",
+    "sport": "handball",
+    "league": "handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Erima",
+    "main_sponsor": null,
+    "colorway": null,
+    "design": "Retro-Design zum 20-jährigen Jubiläum des Bundesliga-Aufstiegs 2005/06; ERIMA 6-Wings-Design an den Schultern, Wappen von Kassel und Melsungen am Kragen, Jubiläums-Nummern auf Vorder- und Rückseite.",
+    "colors": [
+      "Rot"
+    ],
+    "competitions": [
+      "Handball-Bundesliga"
+    ],
+    "skus": {
+      "home": "652002"
+    },
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: offizielle Vereinsseite, Artikel \"Neues MT-Trikot mit vielen Details\" (mt-melsungen.de), und erima.de-Produktseite \"MT Melsungen Heimtrikot 2025/2026 Erwachsene\" (Artikelnr. 652002)."
+  },
+  {
+    "team": "rhein-neckar-loewen",
+    "sport": "handball",
+    "league": "handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Erima",
+    "main_sponsor": null,
+    "colorway": null,
+    "design": "Verschiedene Gelbtöne, die die Löwenmähne symbolisieren; 100 % recyceltes Polyester.",
+    "colors": [
+      "Gelb"
+    ],
+    "competitions": [
+      "Handball-Bundesliga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: offizieller Fanshop shop.rhein-neckar-loewen.de, Produktseite \"Heimtrikot 2025/26 Erwachsene\" (Erima, gelb, Shop-Artikelnr. 6510020.1 -- kein bestätigter Erima-Style-Code, daher nicht in skus übernommen)."
+  },
+  {
+    "team": "sc-magdeburg",
+    "sport": "handball",
+    "league": "handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "hummel",
+    "main_sponsor": null,
+    "colorway": "Jelly Bean",
+    "design": "Grün mit Rot-Grün-Kontrastgrafik an Ärmeln und Seitenteilen, V-Ausschnitt; hummel BEECOOL-Technologie, recyceltes Polyester.",
+    "colors": [
+      "Grün",
+      "Rot"
+    ],
+    "competitions": [
+      "Handball-Bundesliga"
+    ],
+    "skus": {
+      "home": "233598-6235"
+    },
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: hummelsport.de, Produktseite \"hummel SCM 25/26 BL HOME JERSEY S/S - JELLY BEAN\" (Artikel-/Farbcode 233598-6235)."
+  },
+  {
+    "team": "sg-flensburg-handewitt",
+    "sport": "handball",
+    "league": "handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "hummel",
+    "main_sponsor": null,
+    "colorway": "True Red",
+    "design": "Kräftiges, tiefes Rot (\"Hölle Nord\"-Motiv der Fankurve); dritte gemeinsame Saison von SG und Ausrüster hummel.",
+    "colors": [
+      "Rot"
+    ],
+    "competitions": [
+      "Handball-Bundesliga"
+    ],
+    "skus": null,
+    "release_date": "2025-07-19",
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: offizielle SG-Vereinsseite, Artikel \"DENN MAN TAU! - das SG Trikot\" (sg-flensburg-handewitt.de) und indoortrends.de-Produktseite \"SG Flensburg-Handewitt 25/26 Home Trikot\" (Farbe TRUE RED, verfügbar ab 19.07.2025)."
+  },
+  {
+    "team": "thw-kiel",
+    "sport": "handball",
+    "league": "handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Puma",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz",
+    "design": "Schwarz-weiße Streifen (Rückkehr zum \"Zebra\"-Look, dem Ursprung des THW-Spitznamens), farbliche Akzente verbinden Feldspieler- und Torwarttrikot; PUMA dryCELL-Technologie, 100 % recyceltes Polyester.",
+    "colors": [
+      "Weiß",
+      "Schwarz"
+    ],
+    "competitions": [
+      "Handball-Bundesliga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: offizieller THW-Kiel-Fanshop, Produktseite \"THW Kiel 25-26 Home Jersey PUMA White\" (thw-fanshop.de), sowie PUMA-Produktseite \"THW Kiel 25/26 Heimtrikot Herren\" (eu.puma.com)."
   },
   {
     "team": "anaheim-ducks",

@@ -1,0 +1,18 @@
+slug: deutschland-handball
+name: Deutschland
+sport: handball
+type: national
+country: DE
+aliases:
+- deutschland handball
+- germany handball
+- dhb
+- dhb team
+# Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „Deutsche Handballnationalmannschaft
+# der Männer", Abschnitt „Trikots, Ausrüster und Sponsoren". Die Phase 1980–2004 (Puma/Hummel/
+# Nike) ist im Artikel ohne belastbare Einzeljahre benannt -> bewusst weggelassen statt geraten.
+kit_suppliers:
+- { manufacturer: Puma, from: 2020 }
+- { manufacturer: adidas, from: 2008, to: 2013 }
+- { manufacturer: Kempa, from: 2004, to: 2008 }
+- { manufacturer: adidas, to: 1980 }

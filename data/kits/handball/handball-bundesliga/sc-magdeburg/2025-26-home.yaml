@@ -1,0 +1,23 @@
+team: sc-magdeburg
+sport: handball
+league: handball-bundesliga
+season: '2025/26'
+kit_type: home
+manufacturer: hummel
+main_sponsor: null
+colorway: Jelly Bean
+design: >-
+  Grün mit Rot-Grün-Kontrastgrafik an Ärmeln und Seitenteilen, V-Ausschnitt;
+  hummel BEECOOL-Technologie, recyceltes Polyester.
+colors:
+- Grün
+- Rot
+competitions:
+- Handball-Bundesliga
+skus:
+  home: '233598-6235'
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: hummelsport.de, Produktseite \"hummel SCM 25/26 BL HOME JERSEY S/S - JELLY BEAN\" (Artikel-/Farbcode 233598-6235)."

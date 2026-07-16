@@ -1,0 +1,23 @@
+team: mt-melsungen
+sport: handball
+league: handball-bundesliga
+season: '2025/26'
+kit_type: home
+manufacturer: Erima
+main_sponsor: null
+colorway: null
+design: >-
+  Retro-Design zum 20-jährigen Jubiläum des Bundesliga-Aufstiegs 2005/06; ERIMA
+  6-Wings-Design an den Schultern, Wappen von Kassel und Melsungen am Kragen,
+  Jubiläums-Nummern auf Vorder- und Rückseite.
+colors:
+- Rot
+competitions:
+- Handball-Bundesliga
+skus:
+  home: '652002'
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: offizielle Vereinsseite, Artikel \"Neues MT-Trikot mit vielen Details\" (mt-melsungen.de), und erima.de-Produktseite \"MT Melsungen Heimtrikot 2025/2026 Erwachsene\" (Artikelnr. 652002)."

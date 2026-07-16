@@ -454,6 +454,10 @@
   "Belgrano": [
     "belgrano"
   ],
+  "Bergischer HC": [
+    "bergischer hc",
+    "bhc"
+  ],
   "Betis Sevilla": [
     "balompédicos",
     "beticos, verdiblancos",
@@ -870,10 +874,10 @@
     "detroit tigers"
   ],
   "Deutschland": [
-    "deutschland",
-    "dfb team",
-    "germany",
-    "nationalmannschaft deutschland"
+    "deutschland handball",
+    "dhb",
+    "dhb team",
+    "germany handball"
   ],
   "Dundee FC": [
     "dundee fc"
@@ -890,9 +894,9 @@
     "sg dynamo dresden"
   ],
   "Dänemark": [
-    "daenemark",
-    "danemark",
-    "denmark"
+    "daenemark handball",
+    "danemark handball",
+    "denmark handball"
   ],
   "EA Guingamp": [
     "ea guingamp"
@@ -1389,9 +1393,15 @@
     "xv von frankreich"
   ],
   "Frankreich": [
-    "france",
-    "frankreich",
-    "les bleus"
+    "france handball",
+    "frankreich handball",
+    "les experts"
+  ],
+  "Frisch Auf Göppingen": [
+    "frisch auf goeppingen",
+    "frisch auf göppingen",
+    "goeppingen",
+    "göppingen"
   ],
   "Frosinone": [
     "frosinone"
@@ -1402,6 +1412,17 @@
     "barça",
     "fc barcelone",
     "futbol"
+  ],
+  "Füchse Berlin": [
+    "fuechse",
+    "fuechse berlin",
+    "füchse",
+    "füchse berlin"
+  ],
+  "GWD Minden": [
+    "gruen-weiss dankersen",
+    "gwd minden",
+    "minden"
   ],
   "Galatasaray": [
     "galatasaray",
@@ -1494,6 +1515,20 @@
     "hbw",
     "hbw balingen",
     "hbw balingen weilstetten"
+  ],
+  "HC Erlangen": [
+    "erlangen",
+    "hc erlangen",
+    "hce"
+  ],
+  "HSG Wetzlar": [
+    "hsg wetzlar",
+    "wetzlar"
+  ],
+  "HSV Hamburg": [
+    "handball sport verein hamburg",
+    "hsv hamburg",
+    "hsv handball"
   ],
   "HUS Agadir": [
     "hus agadir"
@@ -1770,9 +1805,8 @@
     "konyaspor"
   ],
   "Kroatien": [
-    "croatia",
-    "kroatien",
-    "vatreni"
+    "croatia handball",
+    "kroatien handball"
   ],
   "LA Clippers": [
     "la clippers"
@@ -1888,6 +1922,11 @@
   ],
   "MSV Duisburg": [
     "msv duisburg"
+  ],
+  "MT Melsungen": [
+    "melsungen",
+    "melsunger turngemeinde",
+    "mt melsungen"
   ],
   "Magesi FC": [
     "magesi fc"
@@ -2114,8 +2153,8 @@
     "northern ireland national team"
   ],
   "Norwegen": [
-    "norway",
-    "norwegen"
+    "norway handball",
+    "norwegen handball"
   ],
   "Norwich City": [
     "norwich city"
@@ -2470,6 +2509,13 @@
   "Remo": [
     "remo"
   ],
+  "Rhein-Neckar Löwen": [
+    "loewen",
+    "löwen",
+    "rhein neckar loewen",
+    "rhein-neckar löwen",
+    "rnl"
+  ],
   "Richards Bay FC": [
     "richards bay fc"
   ],
@@ -2514,6 +2560,11 @@
     "s.c. corinthians",
     "sc corinthians"
   ],
+  "SC DHfK Leipzig": [
+    "dhfk",
+    "dhfk leipzig",
+    "sc dhfk leipzig"
+  ],
   "SC Fortuna Köln": [
     "sc fortuna koln",
     "sc fortuna köln"
@@ -2524,6 +2575,11 @@
   ],
   "SC Heerenveen": [
     "sc heerenveen"
+  ],
+  "SC Magdeburg": [
+    "magdeburg",
+    "sc magdeburg",
+    "scm"
   ],
   "SC Paderborn 07": [
     "paderborn",
@@ -2549,6 +2605,12 @@
   "SE Palmeiras": [
     "palmeiras",
     "se palmeiras"
+  ],
+  "SG Flensburg-Handewitt": [
+    "flensburg",
+    "flensburg-handewitt",
+    "sg flensburg",
+    "sg flensburg-handewitt"
   ],
   "SG Sonnenhof Großaspach": [
     "sg sonnenhof groaspach",
@@ -2699,8 +2761,8 @@
     "scotland"
   ],
   "Schweden": [
-    "schweden",
-    "sweden"
+    "schweden handball",
+    "sweden handball"
   ],
   "Schweiz": [
     "nati",
@@ -2757,9 +2819,8 @@
     "siwelele fc"
   ],
   "Slowenien": [
-    "slovenia",
-    "slovenia national team",
-    "slowenien"
+    "slovenia handball",
+    "slowenien handball"
   ],
   "Soudal Quick-Step": [
     "quick step",
@@ -2783,9 +2844,9 @@
     "spain rugby"
   ],
   "Spanien": [
-    "espana",
-    "spain",
-    "spanien"
+    "los hispanos",
+    "spain handball",
+    "spanien handball"
   ],
   "Sparta Rotterdam": [
     "sparta rotterdam"
@@ -2917,6 +2978,17 @@
     "sudtirol",
     "südtirol"
   ],
+  "TBV Lemgo Lippe": [
+    "lemgo",
+    "tbv lemgo",
+    "tbv lemgo lippe"
+  ],
+  "THW Kiel": [
+    "thw",
+    "thw handball",
+    "thw kiel",
+    "turnverein hassee-winterbek"
+  ],
   "TSG 1899 Hoffenheim": [
     "hoffenheim",
     "tsg 1899 hoffenheim",
@@ -2926,11 +2998,21 @@
     "balingen",
     "tsg balingen"
   ],
+  "TSV Hannover-Burgdorf": [
+    "die recken",
+    "hannover-burgdorf",
+    "tsv hannover-burgdorf"
+  ],
   "TSV Hartberg": [
     "tsv hartberg"
   ],
   "TSV Havelse": [
     "tsv havelse"
+  ],
+  "TVB 1898 Stuttgart": [
+    "tv bittenfeld",
+    "tvb 1898 stuttgart",
+    "tvb stuttgart"
   ],
   "Talleres Córdoba": [
     "talleres cordoba",
@@ -3115,9 +3197,8 @@
     "ukraine national team"
   ],
   "Ungarn": [
-    "hungary",
-    "hungary national team",
-    "ungarn"
+    "hungary handball",
+    "ungarn handball"
   ],
   "Union Bordeaux-Bègles": [
     "bordeaux begles",
@@ -3182,6 +3263,10 @@
   "VfL Bochum": [
     "bochum",
     "vfl bochum"
+  ],
+  "VfL Gummersbach": [
+    "gummersbach",
+    "vfl gummersbach"
   ],
   "VfL Osnabrück": [
     "osnabrück",
@@ -3297,9 +3382,9 @@
     "zulte waregem"
   ],
   "Ägypten": [
-    "aegypten",
-    "egypt",
-    "ägypten"
+    "aegypten handball",
+    "egypt handball",
+    "ägypten handball"
   ],
   "Çaykur Rizespor": [
     "caykur rizespor",

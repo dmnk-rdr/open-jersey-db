@@ -1,0 +1,22 @@
+team: fuechse-berlin
+sport: handball
+league: handball-bundesliga
+season: '2025/26'
+kit_type: home
+manufacturer: Puma
+main_sponsor: null
+colorway: Power Green
+design: >-
+  Stylisches, modernes Design in Grün ("Powergreen"); letzte Saison mit Puma vor dem
+  Wechsel zu adidas ab 2026/27.
+colors:
+- Grün
+competitions:
+- Handball-Bundesliga
+skus:
+  home: '948961-01'
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: offizieller Fanshop fuechseshop.de, Produktseite \"Füchse Berlin Heim Trikot 2025/2026 Puma, grün\" (Artikelnr. 948961-01)."

@@ -13357,6 +13357,71 @@
     ]
   },
   {
+    "slug": "bergischer-hc",
+    "name": "Bergischer HC",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "bergischer hc",
+      "bhc"
+    ],
+    "founded": 2006,
+    "city": "Wuppertal / Solingen",
+    "stadium": "Uni-Halle Wuppertal"
+  },
+  {
+    "slug": "frisch-auf-goeppingen",
+    "name": "Frisch Auf Göppingen",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "frisch auf goeppingen",
+      "frisch auf göppingen",
+      "göppingen",
+      "goeppingen"
+    ],
+    "founded": 1896,
+    "city": "Göppingen",
+    "stadium": "EWS Arena"
+  },
+  {
+    "slug": "fuechse-berlin",
+    "name": "Füchse Berlin",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "fuechse berlin",
+      "füchse berlin",
+      "fuechse",
+      "füchse"
+    ],
+    "founded": 1891,
+    "city": "Berlin",
+    "stadium": "Max-Schmeling-Halle"
+  },
+  {
+    "slug": "gwd-minden",
+    "name": "GWD Minden",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "gwd minden",
+      "minden",
+      "gruen-weiss dankersen"
+    ],
+    "founded": 1924,
+    "city": "Minden",
+    "stadium": "Kampa-Halle"
+  },
+  {
     "slug": "hbw-balingen-weilstetten",
     "name": "HBW Balingen-Weilstetten",
     "sport": "handball",
@@ -13379,6 +13444,152 @@
     ]
   },
   {
+    "slug": "hc-erlangen",
+    "name": "HC Erlangen",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hc erlangen",
+      "hce",
+      "erlangen"
+    ],
+    "founded": 2001,
+    "city": "Erlangen",
+    "stadium": "PSD Bank Nürnberg Arena"
+  },
+  {
+    "slug": "hsg-wetzlar",
+    "name": "HSG Wetzlar",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hsg wetzlar",
+      "wetzlar"
+    ],
+    "founded": 1992,
+    "city": "Wetzlar",
+    "stadium": "Buderus Arena Wetzlar"
+  },
+  {
+    "slug": "hsv-hamburg",
+    "name": "HSV Hamburg",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hsv hamburg",
+      "hsv handball",
+      "handball sport verein hamburg"
+    ],
+    "founded": 1999,
+    "city": "Hamburg",
+    "stadium": "Barclays Arena"
+  },
+  {
+    "slug": "mt-melsungen",
+    "name": "MT Melsungen",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "mt melsungen",
+      "melsungen",
+      "melsunger turngemeinde"
+    ],
+    "founded": 1861,
+    "city": "Melsungen",
+    "stadium": "Rothenbach-Halle (Kassel)"
+  },
+  {
+    "slug": "rhein-neckar-loewen",
+    "name": "Rhein-Neckar Löwen",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "rhein neckar loewen",
+      "rhein-neckar löwen",
+      "rnl",
+      "loewen",
+      "löwen"
+    ],
+    "founded": 2002,
+    "city": "Mannheim",
+    "stadium": "SAP Arena"
+  },
+  {
+    "slug": "sc-dhfk-leipzig",
+    "name": "SC DHfK Leipzig",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "sc dhfk leipzig",
+      "dhfk",
+      "dhfk leipzig"
+    ],
+    "founded": 1954,
+    "city": "Leipzig",
+    "stadium": "Quarterback Immobilien Arena"
+  },
+  {
+    "slug": "sc-magdeburg",
+    "name": "SC Magdeburg",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "scm",
+      "sc magdeburg",
+      "magdeburg"
+    ],
+    "founded": 1955,
+    "city": "Magdeburg",
+    "stadium": "GETEC Arena"
+  },
+  {
+    "slug": "sg-flensburg-handewitt",
+    "name": "SG Flensburg-Handewitt",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "sg flensburg",
+      "flensburg",
+      "flensburg-handewitt",
+      "sg flensburg-handewitt"
+    ],
+    "founded": 1990,
+    "city": "Flensburg",
+    "stadium": "GP JOULE Arena"
+  },
+  {
+    "slug": "tbv-lemgo-lippe",
+    "name": "TBV Lemgo Lippe",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "tbv lemgo lippe",
+      "tbv lemgo",
+      "lemgo"
+    ],
+    "founded": 1911,
+    "city": "Lemgo",
+    "stadium": "Phoenix Contact Arena"
+  },
+  {
     "slug": "thsv-eisenach",
     "name": "ThSV Eisenach",
     "sport": "handball",
@@ -13394,6 +13605,70 @@
     "stadium": "Werner-Aßmann-Halle"
   },
   {
+    "slug": "thw-kiel",
+    "name": "THW Kiel",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "thw",
+      "thw kiel",
+      "thw handball",
+      "turnverein hassee-winterbek"
+    ],
+    "founded": 1904,
+    "city": "Kiel",
+    "stadium": "MERKUR Ostseehalle"
+  },
+  {
+    "slug": "tsv-hannover-burgdorf",
+    "name": "TSV Hannover-Burgdorf",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "tsv hannover-burgdorf",
+      "hannover-burgdorf",
+      "die recken"
+    ],
+    "founded": 2005,
+    "city": "Hannover",
+    "stadium": "ZAG Arena"
+  },
+  {
+    "slug": "tvb-stuttgart",
+    "name": "TVB 1898 Stuttgart",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "tvb stuttgart",
+      "tvb 1898 stuttgart",
+      "tv bittenfeld"
+    ],
+    "founded": 1898,
+    "city": "Stuttgart",
+    "stadium": "Porsche-Arena"
+  },
+  {
+    "slug": "vfl-gummersbach",
+    "name": "VfL Gummersbach",
+    "sport": "handball",
+    "type": "club",
+    "league": "handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "vfl gummersbach",
+      "gummersbach"
+    ],
+    "founded": 1861,
+    "city": "Gummersbach",
+    "stadium": "Schwalbe-Arena"
+  },
+  {
     "slug": "vfl-potsdam",
     "name": "VfL Potsdam",
     "sport": "handball",
@@ -13406,6 +13681,75 @@
     "founded": 1990,
     "city": "Potsdam",
     "stadium": "MBS Arena Potsdam"
+  },
+  {
+    "slug": "aegypten-handball",
+    "name": "Ägypten",
+    "sport": "handball",
+    "type": "national",
+    "country": "EG",
+    "aliases": [
+      "ägypten handball",
+      "aegypten handball",
+      "egypt handball"
+    ]
+  },
+  {
+    "slug": "daenemark-handball",
+    "name": "Dänemark",
+    "sport": "handball",
+    "type": "national",
+    "country": "DK",
+    "aliases": [
+      "daenemark handball",
+      "danemark handball",
+      "denmark handball"
+    ]
+  },
+  {
+    "slug": "deutschland-handball",
+    "name": "Deutschland",
+    "sport": "handball",
+    "type": "national",
+    "country": "DE",
+    "aliases": [
+      "deutschland handball",
+      "germany handball",
+      "dhb",
+      "dhb team"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 2020
+      },
+      {
+        "manufacturer": "adidas",
+        "from": 2008,
+        "to": 2013
+      },
+      {
+        "manufacturer": "Kempa",
+        "from": 2004,
+        "to": 2008
+      },
+      {
+        "manufacturer": "adidas",
+        "to": 1980
+      }
+    ]
+  },
+  {
+    "slug": "frankreich-handball",
+    "name": "Frankreich",
+    "sport": "handball",
+    "type": "national",
+    "country": "FR",
+    "aliases": [
+      "frankreich handball",
+      "france handball",
+      "les experts"
+    ]
   },
   {
     "slug": "island-handball",
@@ -13428,6 +13772,28 @@
       "figh",
       "figh player",
       "italien handball"
+    ]
+  },
+  {
+    "slug": "kroatien-handball",
+    "name": "Kroatien",
+    "sport": "handball",
+    "type": "national",
+    "country": "HR",
+    "aliases": [
+      "kroatien handball",
+      "croatia handball"
+    ]
+  },
+  {
+    "slug": "norwegen-handball",
+    "name": "Norwegen",
+    "sport": "handball",
+    "type": "national",
+    "country": "NO",
+    "aliases": [
+      "norwegen handball",
+      "norway handball"
     ]
   },
   {
@@ -13463,6 +13829,51 @@
       "romania",
       "rumaenien",
       "rumänien"
+    ]
+  },
+  {
+    "slug": "schweden-handball",
+    "name": "Schweden",
+    "sport": "handball",
+    "type": "national",
+    "country": "SE",
+    "aliases": [
+      "schweden handball",
+      "sweden handball"
+    ]
+  },
+  {
+    "slug": "slowenien-handball",
+    "name": "Slowenien",
+    "sport": "handball",
+    "type": "national",
+    "country": "SI",
+    "aliases": [
+      "slowenien handball",
+      "slovenia handball"
+    ]
+  },
+  {
+    "slug": "spanien-handball",
+    "name": "Spanien",
+    "sport": "handball",
+    "type": "national",
+    "country": "ES",
+    "aliases": [
+      "spanien handball",
+      "spain handball",
+      "los hispanos"
+    ]
+  },
+  {
+    "slug": "ungarn-handball",
+    "name": "Ungarn",
+    "sport": "handball",
+    "type": "national",
+    "country": "HU",
+    "aliases": [
+      "ungarn handball",
+      "hungary handball"
     ]
   },
   {

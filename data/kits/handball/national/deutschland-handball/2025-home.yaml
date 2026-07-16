@@ -1,0 +1,24 @@
+team: deutschland-handball
+sport: handball
+league: null
+season: '2025'
+kit_type: home
+manufacturer: Puma
+main_sponsor: null
+colorway: null
+design: >-
+  Erstmals unterschiedliche Designs für Heim- und Auswärtstrikot; PUMA-eigene
+  Technologie, nachhaltige Materialien. Vorgestellt zum WM-Jahr 2025.
+colors:
+- Weiß
+- Schwarz
+competitions:
+- International
+- World Championship
+skus:
+  replica: '946356-01'
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: offizieller DHB-Fanshop shop.dhb.de, Produktseite \"DHB Trikot 2025 Home Puma, weiss\" (Artikelnr. 946356-01) und handball.net-Artikel zur Trikotpräsentation \"Die Kunst des Spiels\" (PUMA x DHB, 2025)."
