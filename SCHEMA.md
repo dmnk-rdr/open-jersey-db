@@ -42,6 +42,8 @@ GTIN for that design.
 | `manufacturer` |     | string \| null | `adidas`, `Nike`, `Puma`, … |
 | `main_sponsor` |     | string \| null | |
 | `colorway`     |     | string \| null | Free-text, e.g. `Scarlet / Gold`. |
+| `design`       |     | string \| null | Short design descriptor, curated German prose (community source). |
+| `design_en`    |     | string \| null | Faithful English translation of `design`. Only set when `design` is non-null; a pure translation, never a new source of facts. |
 | `colors`       |     | string[] \| null | Primary colours of the design. **`colors[0]` is the shirt's base colour** — see below. |
 | `gtins`        |     | string[]       | GTIN-8/12/13/14, **mod-10 check-digit validated**. The golden matching key. |
 | `aliases`      |     | string[]       | Free-text product-name variants from shops. |

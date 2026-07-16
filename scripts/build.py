@@ -27,9 +27,9 @@ TEAM_FIELDS = ["slug", "name", "sport", "type", "league", "country",
                "aliases", "founded", "city", "stadium", "kit_suppliers",
                "achievements", "wikidata", "logo_url"]
 KIT_FIELDS = ["team", "sport", "league", "season", "kit_type", "player_name",
-              "manufacturer", "main_sponsor", "colorway", "design", "colors",
-              "competitions", "skus", "release_date", "gtins", "aliases",
-              "source", "verified_by", "notes"]
+              "manufacturer", "main_sponsor", "colorway", "design", "design_en",
+              "colors", "competitions", "skus", "release_date", "gtins",
+              "aliases", "source", "verified_by", "notes"]
 
 
 def load_all(subdir: str) -> list[dict]:

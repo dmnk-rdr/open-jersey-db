@@ -41,6 +41,10 @@
       "type": ["string", "null"],
       "description": "Short design descriptor, e.g. 'V-neck', 'geometric'."
     },
+    "design_en": {
+      "type": ["string", "null"],
+      "description": "Faithful English translation of `design`. Only set when `design` is non-null; never a source of new facts."
+    },
     "colors": {
       "type": ["array", "null"],
       "items": { "type": "string" },
