@@ -1,0 +1,15 @@
+slug: alba-berlin
+name: ALBA Berlin
+sport: basketball
+type: club
+league: basketball-bundesliga
+country: DE
+city: Berlin
+stadium: Uber Arena
+aliases:
+- alba berlin basketball
+founded: 1991
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Alba_Berlin (Infobox "Kit manufacturer: Adidas AG",
+# "Shirt sponsor: bett1").
+kit_suppliers:
+- { manufacturer: adidas }

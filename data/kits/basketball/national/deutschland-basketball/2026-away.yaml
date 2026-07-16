@@ -1,0 +1,22 @@
+team: deutschland-basketball
+sport: basketball
+league: null
+season: '2026'
+kit_type: away
+manufacturer: adidas
+main_sponsor: null
+colorway: Anthrazit / Rot / Gold
+design: Anthrazit mit schwarzem Punktmuster (Basketball-Struktur), rote Paspel an
+  V-Ausschnitt/Armausschnitten, seitliche 3-Streifen in Gold
+colors:
+- Anthrazit
+- Rot
+- Gold
+competitions:
+- International
+gtins: []
+aliases: []
+# Quelle: offizielle DBB-Pressemitteilung "GERMANY GOT GAME – adidas und der DBB verkünden
+# langfristige Partnerschaft" (basketball-bund.de, 2025-12); Debüt beim WM-Qualifikationsspiel
+# gegen Kroatien am 27. Februar 2026 (Auswärts). adidas löst Peak ab.
+source: community

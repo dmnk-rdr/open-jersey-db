@@ -1,0 +1,19 @@
+slug: deutschland-basketball
+name: Deutschland
+sport: basketball
+type: national
+league: null
+country: DE
+aliases:
+- deutschland basketball
+- germany basketball
+- dbb team
+- basketball nationalmannschaft deutschland
+# Ausrüster. Quelle: offizielle DBB-Pressemitteilung "GERMANY GOT GAME – adidas und der DBB
+# verkünden langfristige Partnerschaft" (basketball-bund.de, 2025-12) + basketball-world.news.
+# adidas löst Peak als DBB-Ausrüster ab (alle 23 DBB-Nationalteams); genaues Startjahr der
+# Peak-Ära ist in den Quellen widersprüchlich ("mehr als 70 Jahre" bezieht sich vermutlich auf
+# die DBB-Vereinsgeschichte, nicht auf Peak selbst) -> bewusst ohne 'from' gelassen statt geraten.
+kit_suppliers:
+- { manufacturer: adidas, from: 2026 }
+- { manufacturer: Peak, to: 2026 }

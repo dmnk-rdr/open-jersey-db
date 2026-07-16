@@ -1,0 +1,18 @@
+slug: fc-bayern-basketball
+name: FC Bayern München Basketball
+sport: basketball
+type: club
+league: euroleague
+country: DE
+city: München
+stadium: BMW Park
+aliases:
+- fc bayern basketball
+- bayern munich basketball
+- fc bayern munchen basketball
+- fcbb
+founded: 1946
+# Ausrüster. Quelle: en.wikipedia.org/wiki/FC_Bayern_Munich_(basketball) (Farben) + adidas.de
+# ("Fc Bayern Muenchen Basketball – Basketball – Trikots | adidas DE", dediziertes Kategorie-URL).
+kit_suppliers:
+- { manufacturer: adidas }

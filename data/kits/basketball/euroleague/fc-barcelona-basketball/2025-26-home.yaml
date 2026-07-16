@@ -1,0 +1,19 @@
+team: fc-barcelona-basketball
+sport: basketball
+league: euroleague
+season: '2025/26'
+kit_type: home
+manufacturer: Nike
+main_sponsor: null
+colorway: Blau / Karminrot
+design: Nike Dri-FIT ADV, blaugrana Vereinsfarben
+colors:
+- Blau
+- Karminrot
+competitions:
+- EuroLeague
+gtins: []
+aliases: []
+# Quelle: store.fcbarcelona.com, Produktseite "FC Barcelona Home Basketball Shirt 25/26"
+# (Farbe "blue and scarlet", Nike Dri-FIT ADV-Technologie).
+source: community

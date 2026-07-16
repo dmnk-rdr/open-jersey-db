@@ -3072,6 +3072,27 @@
     "notes": "Quelle: Wikipedia \"Washington Nationals\" (Abschnitt Uniforms, 2018–present): \"a white version was added, with the script version of the team name in navy with red trim ... Starting in 2022, the white alternate uniform with the 'Nationals' script became the primary home uniform.\""
   },
   {
+    "team": "alba-berlin",
+    "sport": "basketball",
+    "league": "basketball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": "bett1",
+    "colorway": "Gelb / Blau",
+    "design": null,
+    "colors": [
+      "Gelb",
+      "Blau"
+    ],
+    "competitions": [
+      "Basketball-Bundesliga"
+    ],
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
     "team": "atlanta-hawks",
     "sport": "basketball",
     "league": "nba",
@@ -3495,6 +3516,94 @@
     "aliases": [],
     "source": "community",
     "notes": "Quelle: Web-Recherche (Pistons-Teamshop/Fanatics-Produktbeschreibungen): \"The four Pistons jerseys available are the Association (white), Icon (blue), Statement (light grey) and City Edition (red).\" Wikipedia \"Detroit Pistons\" nennt nur die Logo-/Farbhistorie ohne Edition-Detailfarben."
+  },
+  {
+    "team": "deutschland-basketball",
+    "sport": "basketball",
+    "league": null,
+    "season": "2026",
+    "kit_type": "away",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Anthrazit / Rot / Gold",
+    "design": "Anthrazit mit schwarzem Punktmuster (Basketball-Struktur), rote Paspel an V-Ausschnitt/Armausschnitten, seitliche 3-Streifen in Gold",
+    "colors": [
+      "Anthrazit",
+      "Rot",
+      "Gold"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "deutschland-basketball",
+    "sport": "basketball",
+    "league": null,
+    "season": "2026",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Weiß / Schwarz / Rot / Gold",
+    "design": "Feine Nadelstreifen, schwarze Paspel an V-Ausschnitt/Armausschnitten, seitliche 3-Streifen in Schwarz/Rot/Gold, Deutschland-Schriftzug + Bundesadler auf der Brust",
+    "colors": [
+      "Weiß",
+      "Schwarz",
+      "Rot",
+      "Gold"
+    ],
+    "competitions": [
+      "International"
+    ],
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "fc-barcelona-basketball",
+    "sport": "basketball",
+    "league": "euroleague",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Nike",
+    "main_sponsor": null,
+    "colorway": "Blau / Karminrot",
+    "design": "Nike Dri-FIT ADV, blaugrana Vereinsfarben",
+    "colors": [
+      "Blau",
+      "Karminrot"
+    ],
+    "competitions": [
+      "EuroLeague"
+    ],
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
+  },
+  {
+    "team": "fc-bayern-basketball",
+    "sport": "basketball",
+    "league": "euroleague",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": null,
+    "colorway": "Rot / Weiß",
+    "design": null,
+    "colors": [
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "EuroLeague",
+      "Basketball-Bundesliga"
+    ],
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
   },
   {
     "team": "golden-state-warriors",
@@ -4246,6 +4355,26 @@
     "aliases": [],
     "source": "community",
     "notes": "Quelle: Web-Recherche (Rip City Clothing/Fanatics-Produktbeschreibungen zum 2025-26-Redesign): \"predominantly white with the iconic diagonal sash in red and black.\" Wikipedia \"Portland Trail Blazers\" enthielt zum Redaktionszeitpunkt keinen eigenen Uniforms-Fließtext."
+  },
+  {
+    "team": "real-madrid-basketball",
+    "sport": "basketball",
+    "league": "euroleague",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": "Emirates",
+    "colorway": "Weiß",
+    "design": null,
+    "colors": [
+      "Weiß"
+    ],
+    "competitions": [
+      "EuroLeague"
+    ],
+    "gtins": [],
+    "aliases": [],
+    "source": "community"
   },
   {
     "team": "sacramento-kings",

@@ -1,0 +1,19 @@
+team: alba-berlin
+sport: basketball
+league: basketball-bundesliga
+season: '2025/26'
+kit_type: home
+manufacturer: adidas
+main_sponsor: bett1
+colorway: Gelb / Blau
+design: null
+colors:
+- Gelb
+- Blau
+competitions:
+- Basketball-Bundesliga
+gtins: []
+aliases: []
+# Quelle: en.wikipedia.org/wiki/Alba_Berlin (Infobox: Kit manufacturer "Adidas AG", Shirt
+# sponsor "bett1", Teamfarben Gelb/Marineblau/Blau).
+source: community

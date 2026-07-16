@@ -1,0 +1,17 @@
+slug: fc-barcelona-basketball
+name: FC Barcelona Bàsquet
+sport: basketball
+type: club
+league: euroleague
+country: ES
+city: Barcelona
+stadium: Palau Blaugrana
+aliases:
+- fc barcelona basquet
+- barcelona basketball
+- fc barcelona baloncesto
+founded: 1926
+# Ausrüster. Quelle: en.wikipedia.org/wiki/FC_Barcelona_Bàsquet (Farben) + offizieller Store
+# (store.fcbarcelona.com, "FC Barcelona Home Basketball Shirt 25/26" mit Nike Dri-FIT ADV).
+kit_suppliers:
+- { manufacturer: Nike }

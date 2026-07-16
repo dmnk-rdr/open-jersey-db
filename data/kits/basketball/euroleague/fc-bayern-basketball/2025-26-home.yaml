@@ -1,0 +1,22 @@
+team: fc-bayern-basketball
+sport: basketball
+league: euroleague
+season: '2025/26'
+kit_type: home
+manufacturer: adidas
+main_sponsor: null
+colorway: Rot / Weiß
+design: null
+colors:
+- Rot
+- Weiß
+competitions:
+- EuroLeague
+- Basketball-Bundesliga
+gtins: []
+aliases: []
+# Quelle: en.wikipedia.org/wiki/FC_Bayern_Munich_(basketball) (Teamfarben Rot/Weiß) +
+# adidas.de (dedizierte Kategorie "Fc Bayern Muenchen Basketball – Basketball – Trikots").
+# Spielt sowohl EuroLeague als auch Basketball-Bundesliga (ein Team, zwei Wettbewerbe) ->
+# Team-Datei liegt unter euroleague/ (kein zweiter Team-Eintrag), competitions listet beide.
+source: community

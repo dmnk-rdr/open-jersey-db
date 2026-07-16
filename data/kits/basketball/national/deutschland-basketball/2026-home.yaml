@@ -1,0 +1,25 @@
+team: deutschland-basketball
+sport: basketball
+league: null
+season: '2026'
+kit_type: home
+manufacturer: adidas
+main_sponsor: null
+colorway: Weiß / Schwarz / Rot / Gold
+design: Feine Nadelstreifen, schwarze Paspel an V-Ausschnitt/Armausschnitten, seitliche
+  3-Streifen in Schwarz/Rot/Gold, Deutschland-Schriftzug + Bundesadler auf der Brust
+colors:
+- Weiß
+- Schwarz
+- Rot
+- Gold
+competitions:
+- International
+gtins: []
+aliases: []
+# Quelle: offizielle DBB-Pressemitteilung "GERMANY GOT GAME – adidas und der DBB verkünden
+# langfristige Partnerschaft" (basketball-bund.de, 2025-12); Debüt beim WM-Qualifikationsspiel
+# gegen Kroatien am 1. März 2026 (Heim) in Bonn. adidas löst Peak ab. Kein SKU/GTIN übernommen
+# (adidas-Style-Codes aus Suchtreffern konnten nicht zweifelsfrei von den DFB-Fußball-Trikots
+# unterschieden werden -> bewusst weggelassen statt eines Fehlmatches).
+source: community

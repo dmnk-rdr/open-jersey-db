@@ -124,6 +124,9 @@
     "auxerre",
     "les icaunais"
   ],
+  "ALBA Berlin": [
+    "alba berlin basketball"
+  ],
   "AS FAR": [
     "as far"
   ],
@@ -145,6 +148,10 @@
     "asmonaco",
     "association sportive de monaco football club",
     "monaco"
+  ],
+  "AS Monaco Basket": [
+    "as monaco basketball",
+    "monaco basketball"
   ],
   "AS Nancy": [
     "as nancy"
@@ -289,6 +296,10 @@
   ],
   "Amiens SC": [
     "amiens sc"
+  ],
+  "Anadolu Efes Istanbul": [
+    "anadolu efes",
+    "efes istanbul"
   ],
   "Anaheim Ducks": [
     "anaheim ducks"
@@ -435,6 +446,10 @@
   "Barracas Central": [
     "barracas central"
   ],
+  "Basketball Löwen Braunschweig": [
+    "basketball lowen braunschweig",
+    "loewen braunschweig"
+  ],
   "Bayer 04 Leverkusen": [
     "bayer 04",
     "bayer 04 leverkusen",
@@ -557,6 +572,10 @@
   ],
   "Brooklyn Nets": [
     "brooklyn nets"
+  ],
+  "Brose Bamberg": [
+    "bamberg baskets",
+    "brose bamberg"
   ],
   "Brøndby IF": [
     "brndby if",
@@ -879,6 +898,9 @@
     "dhb team",
     "germany handball"
   ],
+  "Dubai Basketball": [
+    "dubai bc"
+  ],
   "Dundee FC": [
     "dundee fc"
   ],
@@ -901,6 +923,11 @@
   "EA Guingamp": [
     "ea guingamp"
   ],
+  "EA7 Emporio Armani Milano": [
+    "ea7 emporio armani milan",
+    "milano basketball",
+    "olimpia milano"
+  ],
   "EF Education-EasyPost": [
     "ef education",
     "ef education-easypost",
@@ -915,6 +942,9 @@
   ],
   "ESTAC Troyes": [
     "estac troyes"
+  ],
+  "EWE Baskets Oldenburg": [
+    "baskets oldenburg"
   ],
   "Ecuador": [
     "ecuador",
@@ -1009,6 +1039,11 @@
     "augsburg",
     "fc augsburg"
   ],
+  "FC Barcelona Bàsquet": [
+    "barcelona basketball",
+    "fc barcelona baloncesto",
+    "fc barcelona basquet"
+  ],
   "FC Basel": [
     "basel",
     "fc basel",
@@ -1021,6 +1056,12 @@
     "fc bayern",
     "fc bayern munchen",
     "fcb"
+  ],
+  "FC Bayern München Basketball": [
+    "bayern munich basketball",
+    "fc bayern basketball",
+    "fc bayern munchen basketball",
+    "fcbb"
   ],
   "FC Bologna": [
     "bfc1909",
@@ -1360,6 +1401,10 @@
     "fenerbahce sk",
     "fenerbahçe"
   ],
+  "Fenerbahçe Beko": [
+    "fenerbahce basketball",
+    "fenerbahce beko"
+  ],
   "Feyenoord Rotterdam": [
     "feyenoord",
     "feyenoord rotterdam"
@@ -1556,6 +1601,10 @@
   "Hansa Rostock": [
     "hansa rostock"
   ],
+  "Hapoel Tel Aviv B.C.": [
+    "hapoel ibi tel aviv",
+    "hapoel tel aviv basketball"
+  ],
   "Heart of Midlothian": [
     "heart of midlothian"
   ],
@@ -1744,6 +1793,17 @@
   "KAC Marrakech": [
     "kac marrakech"
   ],
+  "KK Crvena zvezda": [
+    "crvena zvezda basketball",
+    "crvena zvezda meridianbet",
+    "red star belgrade basketball",
+    "roter stern belgrad basketball"
+  ],
+  "KK Partizan": [
+    "kk partizan belgrade",
+    "partizan basketball",
+    "partizan mozzart bet"
+  ],
   "KRC Genk": [
     "krc genk"
   ],
@@ -1818,6 +1878,10 @@
   "LASK": [
     "lask"
   ],
+  "LDLC ASVEL Villeurbanne": [
+    "asvel basket",
+    "ldlc asvel"
+  ],
   "La Louvière": [
     "la louviere",
     "la louvière"
@@ -1889,6 +1953,10 @@
     "lidl trek",
     "lidl-trek"
   ],
+  "Litauen": [
+    "litauen basketball",
+    "lithuania basketball"
+  ],
   "Livingston": [
     "livingston"
   ],
@@ -1920,6 +1988,12 @@
     "lotto soudal",
     "lotto-soudal"
   ],
+  "MHP Riesen Ludwigsburg": [
+    "riesen ludwigsburg"
+  ],
+  "MLP Academics Heidelberg": [
+    "academics heidelberg"
+  ],
   "MSV Duisburg": [
     "msv duisburg"
   ],
@@ -1927,6 +2001,10 @@
     "melsungen",
     "melsunger turngemeinde",
     "mt melsungen"
+  ],
+  "Maccabi Tel Aviv B.C.": [
+    "maccabi rapyd tel aviv",
+    "maccabi tel aviv basketball"
   ],
   "Magesi FC": [
     "magesi fc"
@@ -2147,6 +2225,9 @@
     "nigeria",
     "super eagles"
   ],
+  "Niners Chemnitz": [
+    "niners chemnitz basketball"
+  ],
   "Nordirland": [
     "nordirland",
     "northern ireland",
@@ -2201,6 +2282,10 @@
   ],
   "Oklahoma City Thunder": [
     "oklahoma city thunder"
+  ],
+  "Olympiacos": [
+    "olympiacos basketball",
+    "olympiakos basketball"
   ],
   "Olympiacos Piräus": [
     "olympiacos",
@@ -2275,6 +2360,10 @@
     "panathinaikos",
     "panathinaikos athen"
   ],
+  "Panathinaikos AKTOR": [
+    "panathinaikos aktor athens",
+    "panathinaikos basketball"
+  ],
   "Panetolikos": [
     "panetolikos"
   ],
@@ -2283,6 +2372,9 @@
   ],
   "Paraguay": [
     "paraguay"
+  ],
+  "Paris Basketball": [
+    "paris basketball club"
   ],
   "Paris FC": [
     "paris",
@@ -2464,6 +2556,10 @@
     "royal madrid",
     "royal madrid football club"
   ],
+  "Real Madrid Baloncesto": [
+    "real madrid baloncesto",
+    "real madrid basketball"
+  ],
   "Real Oviedo": [
     "oviedo",
     "real oviedo s.a.d."
@@ -2532,6 +2628,9 @@
   "Rosario Central": [
     "rosario central"
   ],
+  "Rostock Seawolves": [
+    "seawolves rostock"
+  ],
   "Rot-Weiss Essen": [
     "rot weiss essen",
     "rot-weiss essen"
@@ -2585,6 +2684,9 @@
     "paderborn",
     "sc paderborn",
     "scp"
+  ],
+  "SC Rasta Vechta": [
+    "rasta vechta basketball"
   ],
   "SC Rheindorf Altach": [
     "sc rheindorf altach"
@@ -2751,6 +2853,10 @@
     "sarmiento junin",
     "sarmiento junín"
   ],
+  "Saski Baskonia": [
+    "baskonia vitoria-gasteiz",
+    "kosner baskonia"
+  ],
   "Saudi-Arabien": [
     "saudi arabia",
     "saudi arabien",
@@ -2769,6 +2875,9 @@
     "schweiz",
     "suisse",
     "switzerland"
+  ],
+  "Science City Jena": [
+    "scj basketball"
   ],
   "Scotland": [
     "scotland rugby"
@@ -2817,6 +2926,9 @@
   ],
   "Siwelele FC": [
     "siwelele fc"
+  ],
+  "Skyliners Frankfurt": [
+    "frankfurt skyliners"
   ],
   "Slowenien": [
     "slovenia handball",
@@ -2953,6 +3065,10 @@
   "Swansea City": [
     "swansea city"
   ],
+  "Syntainics MBC": [
+    "mbc weissenfels",
+    "mitteldeutscher basketball club"
+  ],
   "São Paulo FC": [
     "sao paulo",
     "sao paulo fc",
@@ -3048,6 +3164,9 @@
   "Team TotalEnergies": [
     "total energies",
     "totalenergies"
+  ],
+  "Telekom Baskets Bonn": [
+    "baskets bonn"
   ],
   "Tennessee Titans": [
     "tennessee titans"
@@ -3235,6 +3354,9 @@
     "faizanè",
     "vf group"
   ],
+  "Valencia Basket": [
+    "valencia basket club"
+  ],
   "Vancouver Canucks": [
     "vancouver canucks"
   ],
@@ -3254,6 +3376,13 @@
   "Venezuela": [
     "venezuela",
     "venezuela national team"
+  ],
+  "Veolia Towers Hamburg": [
+    "hamburg towers",
+    "veolia towers hamburg"
+  ],
+  "Vet-Concept Gladiators Trier": [
+    "gladiators trier"
   ],
   "VfB Stuttgart": [
     "stuttgart",
@@ -3284,6 +3413,10 @@
   ],
   "Virtus Entella": [
     "virtus entella"
+  ],
+  "Virtus Segafredo Bologna": [
+    "pallacanestro virtus bologna",
+    "virtus bologna"
   ],
   "Visma–Lease a Bike": [
     "team lease a bike",
@@ -3371,6 +3504,10 @@
     "wydad ac",
     "wydad casablanca"
   ],
+  "Würzburg Baskets": [
+    "fitness first wurzburg baskets",
+    "s.oliver baskets"
+  ],
   "Würzburger Kickers": [
     "wurzburger kickers",
     "würzburger kickers"
@@ -3380,6 +3517,9 @@
   ],
   "Zulte Waregem": [
     "zulte waregem"
+  ],
+  "ratiopharm Ulm": [
+    "ratiopharm ulm basketball"
   ],
   "Ägypten": [
     "aegypten handball",
@@ -3399,5 +3539,9 @@
     "oehb",
     "öhb",
     "österreich handball"
+  ],
+  "Žalgiris Kaunas": [
+    "bc zalgiris",
+    "zalgiris kaunas"
   ]
 }

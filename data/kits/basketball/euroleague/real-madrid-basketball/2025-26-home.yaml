@@ -1,0 +1,19 @@
+team: real-madrid-basketball
+sport: basketball
+league: euroleague
+season: '2025/26'
+kit_type: home
+manufacturer: adidas
+main_sponsor: Emirates
+colorway: Weiß
+design: null
+colors:
+- Weiß
+competitions:
+- EuroLeague
+gtins: []
+aliases: []
+# Quelle: en.wikipedia.org/wiki/Real_Madrid_Baloncesto (Teamfarben Weiß/Lila/Grau, Sponsor
+# Emirates) + offizieller Store (us.shop.realmadrid.com, adidas-Kategorie "Home Basketball
+# Shirt"). Design-Details der 25/26-Ausführung nicht eigenständig verifiziert -> weggelassen.
+source: community

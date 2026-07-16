@@ -1043,6 +1043,540 @@
     "wikidata": "Q825838"
   },
   {
+    "slug": "alba-berlin",
+    "name": "ALBA Berlin",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "alba berlin basketball"
+    ],
+    "founded": 1991,
+    "city": "Berlin",
+    "stadium": "Uber Arena",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
+    ]
+  },
+  {
+    "slug": "bamberg-baskets",
+    "name": "Brose Bamberg",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "bamberg baskets",
+      "brose bamberg"
+    ],
+    "city": "Bamberg",
+    "stadium": "Brose Arena"
+  },
+  {
+    "slug": "basketball-loewen-braunschweig",
+    "name": "Basketball Löwen Braunschweig",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "loewen braunschweig",
+      "basketball lowen braunschweig"
+    ],
+    "city": "Braunschweig",
+    "stadium": "Volkswagen Halle"
+  },
+  {
+    "slug": "ewe-baskets-oldenburg",
+    "name": "EWE Baskets Oldenburg",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "baskets oldenburg"
+    ],
+    "city": "Oldenburg",
+    "stadium": "Große EWE Arena"
+  },
+  {
+    "slug": "gladiators-trier",
+    "name": "Vet-Concept Gladiators Trier",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "gladiators trier"
+    ],
+    "city": "Trier",
+    "stadium": "SWT-Arena Trier"
+  },
+  {
+    "slug": "hamburg-towers",
+    "name": "Veolia Towers Hamburg",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hamburg towers",
+      "veolia towers hamburg"
+    ],
+    "city": "Hamburg",
+    "stadium": "Inselpark Arena"
+  },
+  {
+    "slug": "mhp-riesen-ludwigsburg",
+    "name": "MHP Riesen Ludwigsburg",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "riesen ludwigsburg"
+    ],
+    "city": "Ludwigsburg",
+    "stadium": "MHP Arena Ludwigsburg"
+  },
+  {
+    "slug": "mlp-academics-heidelberg",
+    "name": "MLP Academics Heidelberg",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "academics heidelberg"
+    ],
+    "city": "Heidelberg",
+    "stadium": "SNP Dome"
+  },
+  {
+    "slug": "niners-chemnitz",
+    "name": "Niners Chemnitz",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "niners chemnitz basketball"
+    ],
+    "city": "Chemnitz",
+    "stadium": "Chemnitz Arena"
+  },
+  {
+    "slug": "rasta-vechta",
+    "name": "SC Rasta Vechta",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "rasta vechta basketball"
+    ],
+    "city": "Vechta",
+    "stadium": "Rasta Dome"
+  },
+  {
+    "slug": "ratiopharm-ulm",
+    "name": "ratiopharm Ulm",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "ratiopharm ulm basketball"
+    ],
+    "city": "Neu-Ulm",
+    "stadium": "ratiopharm arena"
+  },
+  {
+    "slug": "rostock-seawolves",
+    "name": "Rostock Seawolves",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "seawolves rostock"
+    ],
+    "city": "Rostock",
+    "stadium": "Stadthalle Rostock"
+  },
+  {
+    "slug": "science-city-jena",
+    "name": "Science City Jena",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "scj basketball"
+    ],
+    "city": "Jena",
+    "stadium": "Sparkassen-Arena Jena"
+  },
+  {
+    "slug": "skyliners-frankfurt",
+    "name": "Skyliners Frankfurt",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "frankfurt skyliners"
+    ],
+    "city": "Frankfurt am Main",
+    "stadium": "Süwag Energie Arena"
+  },
+  {
+    "slug": "syntainics-mbc",
+    "name": "Syntainics MBC",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "mitteldeutscher basketball club",
+      "mbc weissenfels"
+    ],
+    "city": "Weißenfels",
+    "stadium": "Stadthalle Weißenfels"
+  },
+  {
+    "slug": "telekom-baskets-bonn",
+    "name": "Telekom Baskets Bonn",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "baskets bonn"
+    ],
+    "city": "Bonn",
+    "stadium": "Telekom Dome"
+  },
+  {
+    "slug": "wuerzburg-baskets",
+    "name": "Würzburg Baskets",
+    "sport": "basketball",
+    "type": "club",
+    "league": "basketball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "fitness first wurzburg baskets",
+      "s.oliver baskets"
+    ],
+    "city": "Würzburg",
+    "stadium": "Tectake Arena"
+  },
+  {
+    "slug": "anadolu-efes",
+    "name": "Anadolu Efes Istanbul",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "TR",
+    "aliases": [
+      "anadolu efes",
+      "efes istanbul"
+    ],
+    "city": "Istanbul",
+    "stadium": "Türkcell Basketball Development Center"
+  },
+  {
+    "slug": "as-monaco-basketball",
+    "name": "AS Monaco Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "MC",
+    "aliases": [
+      "as monaco basketball",
+      "monaco basketball"
+    ],
+    "city": "Monaco",
+    "stadium": "Salle Gaston Médecin"
+  },
+  {
+    "slug": "asvel-villeurbanne",
+    "name": "LDLC ASVEL Villeurbanne",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "FR",
+    "aliases": [
+      "ldlc asvel",
+      "asvel basket"
+    ],
+    "city": "Villeurbanne",
+    "stadium": "LDLC Arena"
+  },
+  {
+    "slug": "baskonia",
+    "name": "Saski Baskonia",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "ES",
+    "aliases": [
+      "baskonia vitoria-gasteiz",
+      "kosner baskonia"
+    ],
+    "city": "Vitoria-Gasteiz",
+    "stadium": "Fernando Buesa Arena"
+  },
+  {
+    "slug": "dubai-basketball",
+    "name": "Dubai Basketball",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "AE",
+    "aliases": [
+      "dubai bc"
+    ],
+    "city": "Dubai",
+    "stadium": "Coca-Cola Arena"
+  },
+  {
+    "slug": "fc-barcelona-basketball",
+    "name": "FC Barcelona Bàsquet",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "ES",
+    "aliases": [
+      "fc barcelona basquet",
+      "barcelona basketball",
+      "fc barcelona baloncesto"
+    ],
+    "founded": 1926,
+    "city": "Barcelona",
+    "stadium": "Palau Blaugrana",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike"
+      }
+    ]
+  },
+  {
+    "slug": "fc-bayern-basketball",
+    "name": "FC Bayern München Basketball",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "DE",
+    "aliases": [
+      "fc bayern basketball",
+      "bayern munich basketball",
+      "fc bayern munchen basketball",
+      "fcbb"
+    ],
+    "founded": 1946,
+    "city": "München",
+    "stadium": "BMW Park",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
+    ]
+  },
+  {
+    "slug": "fenerbahce-basketball",
+    "name": "Fenerbahçe Beko",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "TR",
+    "aliases": [
+      "fenerbahce basketball",
+      "fenerbahce beko"
+    ],
+    "city": "Istanbul",
+    "stadium": "Ülker Sports and Event Hall"
+  },
+  {
+    "slug": "hapoel-tel-aviv-basketball",
+    "name": "Hapoel Tel Aviv B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "IL",
+    "aliases": [
+      "hapoel ibi tel aviv",
+      "hapoel tel aviv basketball"
+    ],
+    "city": "Tel Aviv",
+    "stadium": "Menora Mivtachim Arena"
+  },
+  {
+    "slug": "maccabi-tel-aviv-basketball",
+    "name": "Maccabi Tel Aviv B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "IL",
+    "aliases": [
+      "maccabi rapyd tel aviv",
+      "maccabi tel aviv basketball"
+    ],
+    "city": "Tel Aviv",
+    "stadium": "Menora Mivtachim Arena"
+  },
+  {
+    "slug": "olimpia-milano-basketball",
+    "name": "EA7 Emporio Armani Milano",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "IT",
+    "aliases": [
+      "olimpia milano",
+      "ea7 emporio armani milan",
+      "milano basketball"
+    ],
+    "city": "Mailand",
+    "stadium": "Unipol Forum"
+  },
+  {
+    "slug": "olympiacos-basketball",
+    "name": "Olympiacos",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "GR",
+    "aliases": [
+      "olympiacos basketball",
+      "olympiakos basketball"
+    ],
+    "city": "Piräus",
+    "stadium": "Peace and Friendship Stadium"
+  },
+  {
+    "slug": "panathinaikos-basketball",
+    "name": "Panathinaikos AKTOR",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "GR",
+    "aliases": [
+      "panathinaikos basketball",
+      "panathinaikos aktor athens"
+    ],
+    "city": "Athen",
+    "stadium": "Telekom Center Athens"
+  },
+  {
+    "slug": "paris-basketball",
+    "name": "Paris Basketball",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "FR",
+    "aliases": [
+      "paris basketball club"
+    ],
+    "city": "Paris",
+    "stadium": "Adidas Arena"
+  },
+  {
+    "slug": "partizan-belgrad-basketball",
+    "name": "KK Partizan",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "RS",
+    "aliases": [
+      "partizan basketball",
+      "partizan mozzart bet",
+      "kk partizan belgrade"
+    ],
+    "city": "Belgrad",
+    "stadium": "Belgrade Arena"
+  },
+  {
+    "slug": "real-madrid-basketball",
+    "name": "Real Madrid Baloncesto",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "ES",
+    "aliases": [
+      "real madrid baloncesto",
+      "real madrid basketball"
+    ],
+    "founded": 1931,
+    "city": "Madrid",
+    "stadium": "Movistar Arena",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
+    ]
+  },
+  {
+    "slug": "roter-stern-belgrad-basketball",
+    "name": "KK Crvena zvezda",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "RS",
+    "aliases": [
+      "crvena zvezda basketball",
+      "red star belgrade basketball",
+      "roter stern belgrad basketball",
+      "crvena zvezda meridianbet"
+    ],
+    "city": "Belgrad",
+    "stadium": "Belgrade Arena"
+  },
+  {
+    "slug": "valencia-basket",
+    "name": "Valencia Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "ES",
+    "aliases": [
+      "valencia basket club"
+    ],
+    "city": "Valencia",
+    "stadium": "Roig Arena"
+  },
+  {
+    "slug": "virtus-bologna",
+    "name": "Virtus Segafredo Bologna",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "IT",
+    "aliases": [
+      "virtus bologna",
+      "pallacanestro virtus bologna"
+    ],
+    "city": "Bologna",
+    "stadium": "Virtus Segafredo Arena"
+  },
+  {
+    "slug": "zalgiris-kaunas",
+    "name": "Žalgiris Kaunas",
+    "sport": "basketball",
+    "type": "club",
+    "league": "euroleague",
+    "country": "LT",
+    "aliases": [
+      "zalgiris kaunas",
+      "bc zalgiris"
+    ],
+    "city": "Kaunas",
+    "stadium": "Žalgiris Arena"
+  },
+  {
     "slug": "atlanta-hawks",
     "name": "Atlanta Hawks",
     "sport": "basketball",
@@ -1496,6 +2030,140 @@
     "founded": 1961,
     "city": "Washington, D.C.",
     "wikidata": "Q169165"
+  },
+  {
+    "slug": "australien-basketball",
+    "name": "Australien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "AU",
+    "aliases": [
+      "australien basketball",
+      "australia basketball",
+      "boomers"
+    ]
+  },
+  {
+    "slug": "deutschland-basketball",
+    "name": "Deutschland",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "deutschland basketball",
+      "germany basketball",
+      "dbb team",
+      "basketball nationalmannschaft deutschland"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2026
+      },
+      {
+        "manufacturer": "Peak",
+        "to": 2026
+      }
+    ]
+  },
+  {
+    "slug": "frankreich-basketball",
+    "name": "Frankreich",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "FR",
+    "aliases": [
+      "frankreich basketball",
+      "france basketball"
+    ]
+  },
+  {
+    "slug": "griechenland-basketball",
+    "name": "Griechenland",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "GR",
+    "aliases": [
+      "griechenland basketball",
+      "greece basketball"
+    ]
+  },
+  {
+    "slug": "kanada-basketball",
+    "name": "Kanada",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "CA",
+    "aliases": [
+      "kanada basketball",
+      "canada basketball"
+    ]
+  },
+  {
+    "slug": "litauen-basketball",
+    "name": "Litauen",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "LT",
+    "aliases": [
+      "litauen basketball",
+      "lithuania basketball"
+    ]
+  },
+  {
+    "slug": "serbien-basketball",
+    "name": "Serbien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "RS",
+    "aliases": [
+      "serbien basketball",
+      "serbia basketball"
+    ]
+  },
+  {
+    "slug": "slowenien-basketball",
+    "name": "Slowenien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "SI",
+    "aliases": [
+      "slowenien basketball",
+      "slovenia basketball"
+    ]
+  },
+  {
+    "slug": "spanien-basketball",
+    "name": "Spanien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "ES",
+    "aliases": [
+      "spanien basketball",
+      "spain basketball"
+    ]
+  },
+  {
+    "slug": "usa-basketball",
+    "name": "USA",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "US",
+    "aliases": [
+      "usa basketball",
+      "team usa basketball",
+      "united states basketball"
+    ]
   },
   {
     "slug": "giro-d-italia",

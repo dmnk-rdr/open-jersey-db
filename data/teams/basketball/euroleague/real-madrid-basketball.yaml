@@ -1,0 +1,16 @@
+slug: real-madrid-basketball
+name: Real Madrid Baloncesto
+sport: basketball
+type: club
+league: euroleague
+country: ES
+city: Madrid
+stadium: Movistar Arena
+aliases:
+- real madrid baloncesto
+- real madrid basketball
+founded: 1931
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Real_Madrid_Baloncesto (Team-Farben) + offizieller
+# Store (us.shop.realmadrid.com, adidas-Markenkategorie) — adidas rüstet den gesamten Verein aus.
+kit_suppliers:
+- { manufacturer: adidas }
