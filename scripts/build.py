@@ -61,12 +61,22 @@ def main() -> None:
     write_json("teams.json", [ordered(t, TEAM_FIELDS) for t in teams])
     write_json("kits.json", [ordered(k, KIT_FIELDS) for k in kits])
 
-    aliases = {t["name"]: sorted(set(t.get("aliases") or []))
-               for t in sorted(teams, key=lambda t: t["name"])}
-    write_json("aliases.json", aliases)
+    # UNION aliases of all teams sharing the same canonical `name` — a name can be a
+    # national team across MULTIPLE sports (e.g. "Dänemark" exists as football AND
+    # handball AND cycling). A dict comprehension keyed only by name would silently
+    # OVERWRITE with whichever team sorts last, dropping e.g. all football-specific
+    # English aliases ("denmark") once a handball entry of the same name exists. The
+    # consumer disambiguates WHICH physical team an alias resolves to via sport
+    # scoping downstream (name+sport composite key) — merging aliases here is safe,
+    # it never makes a name resolve to the wrong sport, only keeps it resolvable at all.
+    aliases: dict[str, set[str]] = {}
+    for t in teams:
+        aliases.setdefault(t["name"], set()).update(t.get("aliases") or [])
+    aliases_sorted = {name: sorted(aliases[name]) for name in sorted(aliases)}
+    write_json("aliases.json", aliases_sorted)
 
     print(f"✓ built dist/ — {len(teams)} teams, {len(kits)} kits, "
-          f"{len(aliases)} alias groups")
+          f"{len(aliases_sorted)} alias groups")
 
 
 if __name__ == "__main__":

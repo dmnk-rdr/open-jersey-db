@@ -414,7 +414,10 @@
   ],
   "Australien": [
     "australia",
+    "australia basketball",
     "australien",
+    "australien basketball",
+    "boomers",
     "socceroos"
   ],
   "Austria Wien": [
@@ -462,6 +465,7 @@
   ],
   "Belgien": [
     "belgien",
+    "belgische nationalmannschaft",
     "belgium",
     "red devils",
     "rote teufel"
@@ -893,10 +897,20 @@
     "detroit tigers"
   ],
   "Deutschland": [
+    "basketball nationalmannschaft deutschland",
+    "bdr nationalmannschaft",
+    "dbb team",
+    "deutsche nationalmannschaft",
+    "deutschland",
+    "deutschland basketball",
     "deutschland handball",
+    "dfb team",
     "dhb",
     "dhb team",
-    "germany handball"
+    "germany",
+    "germany basketball",
+    "germany handball",
+    "nationalmannschaft deutschland"
   ],
   "Dubai Basketball": [
     "dubai bc"
@@ -916,9 +930,13 @@
     "sg dynamo dresden"
   ],
   "Dänemark": [
+    "daenemark",
     "daenemark handball",
+    "danemark",
     "danemark handball",
-    "denmark handball"
+    "denmark",
+    "denmark handball",
+    "dänische nationalmannschaft"
   ],
   "EA Guingamp": [
     "ea guingamp"
@@ -979,7 +997,9 @@
   ],
   "England": [
     "angleterre",
-    "england rugby"
+    "england",
+    "england rugby",
+    "three lions"
   ],
   "Espanyol Barcelona": [
     "espanyol",
@@ -1438,8 +1458,16 @@
     "xv von frankreich"
   ],
   "Frankreich": [
+    "france",
+    "france basketball",
     "france handball",
+    "frankreich",
+    "frankreich basketball",
     "frankreich handball",
+    "franz nationalmannschaft",
+    "franz. nationalmannschaft",
+    "französische nationalmannschaft",
+    "les bleus",
     "les experts"
   ],
   "Frisch Auf Göppingen": [
@@ -1528,8 +1556,10 @@
   ],
   "Griechenland": [
     "greece",
+    "greece basketball",
     "greece national team",
-    "griechenland"
+    "griechenland",
+    "griechenland basketball"
   ],
   "Groupama-FDJ": [
     "groupama",
@@ -1745,12 +1775,17 @@
   ],
   "Island": [
     "iceland",
+    "iceland national team",
     "island"
   ],
   "Italien": [
+    "azzurri",
     "figh",
     "figh player",
-    "italien handball"
+    "italia",
+    "italien",
+    "italien handball",
+    "italy"
   ],
   "JS El Omrane": [
     "js el omrane"
@@ -1821,7 +1856,9 @@
   ],
   "Kanada": [
     "canada",
-    "kanada"
+    "canada basketball",
+    "kanada",
+    "kanada basketball"
   ],
   "Kansas City Chiefs": [
     "kansas city chiefs"
@@ -1865,8 +1902,11 @@
     "konyaspor"
   ],
   "Kroatien": [
+    "croatia",
     "croatia handball",
-    "kroatien handball"
+    "kroatien",
+    "kroatien handball",
+    "vatreni"
   ],
   "LA Clippers": [
     "la clippers"
@@ -2234,7 +2274,9 @@
     "northern ireland national team"
   ],
   "Norwegen": [
+    "norway",
     "norway handball",
+    "norwegen",
     "norwegen handball"
   ],
   "Norwich City": [
@@ -2452,6 +2494,7 @@
     "portsmouth"
   ],
   "Portugal": [
+    "portugal",
     "portugal handball"
   ],
   "Preston North End": [
@@ -2867,7 +2910,9 @@
     "scotland"
   ],
   "Schweden": [
+    "schweden",
     "schweden handball",
+    "sweden",
     "sweden handball"
   ],
   "Schweiz": [
@@ -2904,7 +2949,9 @@
   ],
   "Serbien": [
     "serbia",
-    "serbien"
+    "serbia basketball",
+    "serbien",
+    "serbien basketball"
   ],
   "Servette FC": [
     "servette",
@@ -2931,8 +2978,14 @@
     "frankfurt skyliners"
   ],
   "Slowenien": [
+    "slovenia",
+    "slovenia basketball",
     "slovenia handball",
-    "slowenien handball"
+    "slovenia national team",
+    "slowenien",
+    "slowenien basketball",
+    "slowenien handball",
+    "slowenische nationalmannschaft"
   ],
   "Soudal Quick-Step": [
     "quick step",
@@ -2956,9 +3009,15 @@
     "spain rugby"
   ],
   "Spanien": [
+    "espana",
     "los hispanos",
+    "spain",
+    "spain basketball",
     "spain handball",
-    "spanien handball"
+    "spanien",
+    "spanien basketball",
+    "spanien handball",
+    "spanische nationalmannschaft"
   ],
   "Sparta Rotterdam": [
     "sparta rotterdam"
@@ -3288,8 +3347,11 @@
   ],
   "USA": [
     "stars and stripes",
+    "team usa basketball",
     "united states",
+    "united states basketball",
     "usa",
+    "usa basketball",
     "usmnt",
     "vereinigte staaten"
   ],
@@ -3316,7 +3378,10 @@
     "ukraine national team"
   ],
   "Ungarn": [
+    "hungary",
     "hungary handball",
+    "hungary national team",
+    "ungarn",
     "ungarn handball"
   ],
   "Union Bordeaux-Bègles": [
@@ -3443,6 +3508,8 @@
   ],
   "Wales": [
     "pays de galles",
+    "wales",
+    "wales national team",
     "wales rugby"
   ],
   "Washington Capitals": [
@@ -3522,8 +3589,11 @@
     "ratiopharm ulm basketball"
   ],
   "Ägypten": [
+    "aegypten",
     "aegypten handball",
+    "egypt",
     "egypt handball",
+    "ägypten",
     "ägypten handball"
   ],
   "Çaykur Rizespor": [
@@ -3537,6 +3607,8 @@
   "Österreich": [
     "austria",
     "oehb",
+    "oesterreich",
+    "osterreich",
     "öhb",
     "österreich handball"
   ],
