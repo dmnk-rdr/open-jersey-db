@@ -13357,6 +13357,42 @@
     ]
   },
   {
+    "slug": "hbw-balingen-weilstetten",
+    "name": "HBW Balingen-Weilstetten",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "balingen",
+      "hbw",
+      "hbw balingen",
+      "hbw balingen weilstetten"
+    ],
+    "founded": 2002,
+    "city": "Balingen",
+    "stadium": "Mey-Generalbau-Arena",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Kempa"
+      }
+    ]
+  },
+  {
+    "slug": "vfl-potsdam",
+    "name": "VfL Potsdam",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "vfl potsdam"
+    ],
+    "founded": 1990,
+    "city": "Potsdam",
+    "stadium": "MBS Arena Potsdam"
+  },
+  {
     "slug": "bergischer-hc",
     "name": "Bergischer HC",
     "sport": "handball",
@@ -13420,28 +13456,6 @@
     "founded": 1924,
     "city": "Minden",
     "stadium": "Kampa-Halle"
-  },
-  {
-    "slug": "hbw-balingen-weilstetten",
-    "name": "HBW Balingen-Weilstetten",
-    "sport": "handball",
-    "type": "club",
-    "league": "handball-bundesliga",
-    "country": "DE",
-    "aliases": [
-      "balingen",
-      "hbw",
-      "hbw balingen",
-      "hbw balingen weilstetten"
-    ],
-    "founded": 2002,
-    "city": "Balingen",
-    "stadium": "Mey-Generalbau-Arena",
-    "kit_suppliers": [
-      {
-        "manufacturer": "Kempa"
-      }
-    ]
   },
   {
     "slug": "hc-erlangen",
@@ -13667,20 +13681,6 @@
     "founded": 1861,
     "city": "Gummersbach",
     "stadium": "Schwalbe-Arena"
-  },
-  {
-    "slug": "vfl-potsdam",
-    "name": "VfL Potsdam",
-    "sport": "handball",
-    "type": "club",
-    "league": "handball-bundesliga",
-    "country": "DE",
-    "aliases": [
-      "vfl potsdam"
-    ],
-    "founded": 1990,
-    "city": "Potsdam",
-    "stadium": "MBS Arena Potsdam"
   },
   {
     "slug": "aegypten-handball",
