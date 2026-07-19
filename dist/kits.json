@@ -4814,11 +4814,12 @@
     "league": "serie-a",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Kappa",
+    "main_sponsor": "Mediacom",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Serie A, Personnel-and-kits-Tabelle) — Kappa Ausrüster, Mediacom Haupt-/Trikotsponsor (Ärmelsponsor Betway Scores, nicht erfasst)."
   },
   {
     "team": "ac-florenz",
@@ -4826,11 +4827,12 @@
     "league": "serie-a",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Kappa",
+    "main_sponsor": "Mediacom",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Serie A, Personnel-and-kits-Tabelle) — Kappa Ausrüster, Mediacom Haupt-/Trikotsponsor (Ärmelsponsor Betway Scores, nicht erfasst)."
   },
   {
     "team": "ac-milan",
@@ -6043,11 +6045,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Nike",
+    "main_sponsor": "IFS",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Premier League, Personnel-and-kits-Tabelle) — Nike Ausrüster, IFS Haupt-/Brustsponsor (Ärmelsponsor FPT, nicht erfasst)."
   },
   {
     "team": "fc-chelsea",
@@ -6055,11 +6058,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Nike",
+    "main_sponsor": "IFS",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Premier League, Personnel-and-kits-Tabelle) — Nike Ausrüster, IFS Haupt-/Brustsponsor (Ärmelsponsor FPT, nicht erfasst)."
   },
   {
     "team": "fc-elche",
@@ -6556,11 +6560,12 @@
     "league": "la-liga",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Nike",
+    "main_sponsor": "Spotify",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 La Liga, Personnel-and-sponsorship-Tabelle)."
   },
   {
     "team": "futbol-club-barcelona",
@@ -6568,11 +6573,12 @@
     "league": "la-liga",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Nike",
+    "main_sponsor": "Spotify",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 La Liga, Personnel-and-sponsorship-Tabelle)."
   },
   {
     "team": "ghana",
@@ -6831,11 +6837,12 @@
     "league": "serie-a",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Jeep",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Serie A, Personnel-and-kits-Tabelle) — Adidas Ausrüster, Jeep Haupt-/Trikotsponsor (Rückensponsor Cygames, Ärmelsponsor WhiteBIT, nicht erfasst)."
   },
   {
     "team": "juventus-turin",
@@ -6843,11 +6850,12 @@
     "league": "serie-a",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Jeep",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Serie A, Personnel-and-kits-Tabelle) — Adidas Ausrüster, Jeep Haupt-/Trikotsponsor (Rückensponsor Cygames, Ärmelsponsor WhiteBIT, nicht erfasst)."
   },
   {
     "team": "kamerun",
@@ -7130,11 +7138,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Puma",
+    "main_sponsor": "Etihad Airways",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Premier League, Personnel-and-kits-Tabelle) — Puma Ausrüster, Etihad Airways Haupt-/Brustsponsor (Ärmelsponsor OKX, nicht erfasst)."
   },
   {
     "team": "manchester-city",
@@ -7142,11 +7151,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Puma",
+    "main_sponsor": "Etihad Airways",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Premier League, Personnel-and-kits-Tabelle) — Puma Ausrüster, Etihad Airways Haupt-/Brustsponsor (Ärmelsponsor OKX, nicht erfasst)."
   },
   {
     "team": "manchester-united",
@@ -7209,11 +7219,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Qualcomm Snapdragon",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Premier League, Personnel-and-kits-Tabelle) — Adidas Ausrüster, Qualcomm Snapdragon Haupt-/Brustsponsor (Ärmelsponsor DXC Technology, nicht erfasst)."
   },
   {
     "team": "manchester-united",
@@ -7221,11 +7232,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Qualcomm Snapdragon",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Premier League, Personnel-and-kits-Tabelle) — Adidas Ausrüster, Qualcomm Snapdragon Haupt-/Brustsponsor (Ärmelsponsor DXC Technology, nicht erfasst)."
   },
   {
     "team": "marokko",
@@ -7335,11 +7347,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Sela",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Premier League, Personnel-and-kits-Tabelle) — Adidas Ausrüster, Sela Haupt-/Brustsponsor (Ärmelsponsor Noon, nicht erfasst)."
   },
   {
     "team": "newcastle-united",
@@ -7347,11 +7360,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Sela",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Premier League, Personnel-and-kits-Tabelle) — Adidas Ausrüster, Sela Haupt-/Brustsponsor (Ärmelsponsor Noon, nicht erfasst)."
   },
   {
     "team": "niederlande",
@@ -8035,11 +8049,12 @@
     "league": "la-liga",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Emirates",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 La Liga, Personnel-and-sponsorship-Tabelle)."
   },
   {
     "team": "real-madrid",
@@ -8047,11 +8062,12 @@
     "league": "la-liga",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Emirates",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 La Liga, Personnel-and-sponsorship-Tabelle)."
   },
   {
     "team": "real-oviedo",
@@ -8560,11 +8576,12 @@
     "league": "serie-a",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "EA7",
+    "main_sponsor": "MSC Cruises",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Serie A, Personnel-and-kits-Tabelle) — EA7 (Armani) Ausrüster, MSC Cruises Haupt-/Trikotsponsor (Rückensponsor Acqua Sorgesana, Ärmelsponsor Dongfeng, nicht erfasst)."
   },
   {
     "team": "ssc-neapel",
@@ -8572,11 +8589,12 @@
     "league": "serie-a",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "EA7",
+    "main_sponsor": "MSC Cruises",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Serie A, Personnel-and-kits-Tabelle) — EA7 (Armani) Ausrüster, MSC Cruises Haupt-/Trikotsponsor (Rückensponsor Acqua Sorgesana, Ärmelsponsor Dongfeng, nicht erfasst)."
   },
   {
     "team": "ssv-ulm-1846",
@@ -8857,11 +8875,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Nike",
+    "main_sponsor": "AIA",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Premier League, Personnel-and-kits-Tabelle) — Nike Ausrüster, AIA Haupt-/Brustsponsor (Ärmelsponsor Kraken, nicht erfasst)."
   },
   {
     "team": "tottenham-hotspur",
@@ -8869,11 +8888,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Nike",
+    "main_sponsor": "AIA",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Premier League, Personnel-and-kits-Tabelle) — Nike Ausrüster, AIA Haupt-/Brustsponsor (Ärmelsponsor Kraken, nicht erfasst)."
   },
   {
     "team": "tsg-1899-hoffenheim",
