@@ -4838,11 +4838,12 @@
     "league": "serie-a",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Puma",
+    "main_sponsor": "Emirates",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Serie A, Kader-/Ausrüster-Übersicht)."
   },
   {
     "team": "ac-milan",
@@ -4850,11 +4851,12 @@
     "league": "serie-a",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Puma",
+    "main_sponsor": "Emirates",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Serie A, Kader-/Ausrüster-Übersicht)."
   },
   {
     "team": "ac-monza",
@@ -5158,11 +5160,12 @@
     "league": "la-liga",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Nike",
+    "main_sponsor": "Riyadh Air",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 La Liga, Kader-/Ausrüster-Übersicht)."
   },
   {
     "team": "atl-tico-madrid",
@@ -5170,11 +5173,12 @@
     "league": "la-liga",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Nike",
+    "main_sponsor": "Riyadh Air",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 La Liga, Kader-/Ausrüster-Übersicht)."
   },
   {
     "team": "australien",
@@ -5344,11 +5348,12 @@
     "league": "bundesliga",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Puma",
+    "main_sponsor": "Vodafone",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (Borussia Dortmund; 2025–26 Bundesliga) — Puma Ausrüster seit der Saison 2012/13. Vodafone ist ab 2025/26 neuer alleiniger Hauptsponsor (löst die bisherige 1&1/Evonik-Doppellösung ab)."
   },
   {
     "team": "borussia-dortmund",
@@ -5356,11 +5361,12 @@
     "league": "bundesliga",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Puma",
+    "main_sponsor": "Vodafone",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (Borussia Dortmund; 2025–26 Bundesliga) — Puma Ausrüster seit der Saison 2012/13. Vodafone ist ab 2025/26 neuer alleiniger Hauptsponsor (löst die bisherige 1&1/Evonik-Doppellösung ab)."
   },
   {
     "team": "borussia-moenchengladbach",
@@ -5901,11 +5907,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Emirates",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (Arsenal F.C.; English football sponsorship) — Adidas Ausrüster seit der Saison 2019/20, Emirates Hauptsponsor seit 2006."
   },
   {
     "team": "fc-arsenal",
@@ -5913,11 +5920,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Emirates",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (Arsenal F.C.; English football sponsorship) — Adidas Ausrüster seit der Saison 2019/20, Emirates Hauptsponsor seit 2006."
   },
   {
     "team": "fc-augsburg",
@@ -5961,11 +5969,12 @@
     "league": "bundesliga",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "adidas",
+    "main_sponsor": "Deutsche Telekom",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Bundesliga, Kader-/Ausrüster-Übersicht) — adidas und Deutsche Telekom sind langjährige, unverändert fortlaufende Partner."
   },
   {
     "team": "fc-bayern-muenchen",
@@ -5973,11 +5982,12 @@
     "league": "bundesliga",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "adidas",
+    "main_sponsor": "Deutsche Telekom",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Bundesliga, Kader-/Ausrüster-Übersicht) — adidas und Deutsche Telekom sind langjährige, unverändert fortlaufende Partner."
   },
   {
     "team": "fc-bologna",
@@ -6105,11 +6115,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Castore",
+    "main_sponsor": "Stake",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (Everton F.C.; English football sponsorship) — Castore Ausrüster seit 2024, Stake Hauptsponsor 2022–2026 (ab 2026/27 löst CMC Markets ab, Stake wandert auf den Ärmel)."
   },
   {
     "team": "fc-everton",
@@ -6117,11 +6128,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Castore",
+    "main_sponsor": "Stake",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (Everton F.C.; English football sponsorship) — Castore Ausrüster seit 2024, Stake Hauptsponsor 2022–2026 (ab 2026/27 löst CMC Markets ab, Stake wandert auf den Ärmel)."
   },
   {
     "team": "fc-fulham",
@@ -6201,11 +6213,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Standard Chartered",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (Liverpool F.C.; English football sponsorship) — Adidas seit 2025 (neuer 10-Jahres-Vertrag, Ablösung von Nike), Standard Chartered Hauptsponsor seit 2010."
   },
   {
     "team": "fc-liverpool",
@@ -6213,11 +6226,12 @@
     "league": "premier-league",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Adidas",
+    "main_sponsor": "Standard Chartered",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (Liverpool F.C.; English football sponsorship) — Adidas seit 2025 (neuer 10-Jahres-Vertrag, Ablösung von Nike), Standard Chartered Hauptsponsor seit 2010."
   },
   {
     "team": "fc-lorient",
@@ -7648,11 +7662,12 @@
     "league": "ligue-1",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Puma",
+    "main_sponsor": "CMA CGM",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (Olympique de Marseille, Kit-suppliers-Tabelle) — Puma Ausrüster seit 2018, CMA CGM Hauptsponsor seit 2023."
   },
   {
     "team": "olympique-marseille",
@@ -7660,11 +7675,12 @@
     "league": "ligue-1",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Puma",
+    "main_sponsor": "CMA CGM",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (Olympique de Marseille, Kit-suppliers-Tabelle) — Puma Ausrüster seit 2018, CMA CGM Hauptsponsor seit 2023."
   },
   {
     "team": "osc-lille",
@@ -7893,11 +7909,12 @@
     "league": "bundesliga",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Puma",
+    "main_sponsor": "Red Bull",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Bundesliga, Kader-/Ausrüster-Übersicht) — Puma löste Nike zur Saison 2024/25 als Ausrüster ab."
   },
   {
     "team": "rb-leipzig",
@@ -7905,11 +7922,12 @@
     "league": "bundesliga",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Puma",
+    "main_sponsor": "Red Bull",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Bundesliga, Kader-/Ausrüster-Übersicht) — Puma löste Nike zur Saison 2024/25 als Ausrüster ab."
   },
   {
     "team": "rc-lens",
@@ -8813,11 +8831,12 @@
     "league": "bundesliga",
     "season": "2025/26",
     "kit_type": "away",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Hummel",
+    "main_sponsor": "Matthäi",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Bundesliga, Kader-/Ausrüster-Übersicht) — Matthäi Hauptsponsor seit der Saison 2023/24."
   },
   {
     "team": "sv-werder-bremen",
@@ -8825,11 +8844,12 @@
     "league": "bundesliga",
     "season": "2025/26",
     "kit_type": "home",
-    "manufacturer": null,
-    "main_sponsor": null,
+    "manufacturer": "Hummel",
+    "main_sponsor": "Matthäi",
     "gtins": [],
     "aliases": [],
-    "source": "community"
+    "source": "community",
+    "notes": "Quelle: Wikipedia (2025–26 Bundesliga, Kader-/Ausrüster-Übersicht) — Matthäi Hauptsponsor seit der Saison 2023/24."
   },
   {
     "team": "tottenham-hotspur",

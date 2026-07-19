@@ -4022,6 +4022,12 @@
     ],
     "founded": 1900,
     "city": "München",
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 1974
+      }
+    ],
     "wikidata": "Q15789"
   },
   {
