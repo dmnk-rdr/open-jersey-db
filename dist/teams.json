@@ -2248,6 +2248,20 @@
     ]
   },
   {
+    "slug": "cofidis",
+    "name": "Cofidis",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "FR",
+    "aliases": [
+      "cofidis",
+      "team cofidis",
+      "cofidis solutions credits"
+    ],
+    "founded": 1996
+  },
+  {
     "slug": "decathlon-ag2r",
     "name": "Decathlon AG2R La Mondiale",
     "sport": "cycling",
@@ -2335,7 +2349,8 @@
       "jayco alula",
       "jayco-alula",
       "team bikeexchange",
-      "bikeexchange-jayco"
+      "bikeexchange-jayco",
+      "hagens berman jayco"
     ]
   },
   {
@@ -2459,6 +2474,19 @@
     ]
   },
   {
+    "slug": "uae-team-adq",
+    "name": "UAE Team ADQ",
+    "sport": "cycling",
+    "type": "club",
+    "league": "profi-teams",
+    "country": "AE",
+    "aliases": [
+      "uae team adq",
+      "uae adq"
+    ],
+    "founded": 2011
+  },
+  {
     "slug": "uae-team-emirates",
     "name": "UAE Team Emirates",
     "sport": "cycling",
@@ -2468,7 +2496,8 @@
     "aliases": [
       "uae team emirates",
       "uae emirates",
-      "uae team emirates xrg"
+      "uae team emirates xrg",
+      "uae team"
     ]
   },
   {
