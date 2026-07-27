@@ -1,0 +1,15 @@
+slug: pallacanestro-brescia
+name: Pallacanestro Brescia
+sport: basketball
+type: club
+league: lega-basket-serie-a
+country: IT
+city: Brescia
+stadium: PalaLeonessa
+aliases:
+- basket brescia leonessa
+- germani brescia
+founded: 1957
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Basket_Brescia_Leonessa (Kit-Sektion, "2017–present Erreà").
+kit_suppliers:
+- { manufacturer: Erreà }

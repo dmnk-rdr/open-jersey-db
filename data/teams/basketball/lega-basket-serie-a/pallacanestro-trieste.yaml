@@ -1,0 +1,14 @@
+slug: pallacanestro-trieste
+name: Pallacanestro Trieste 2004
+sport: basketball
+type: club
+league: lega-basket-serie-a
+country: IT
+city: Trieste
+stadium: PalaTrieste
+aliases:
+- pallacanestro trieste
+founded: 1975
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Pallacanestro_Trieste (Kit-manufacturer-Sektion, "2024–present Nike").
+kit_suppliers:
+- { manufacturer: Nike }

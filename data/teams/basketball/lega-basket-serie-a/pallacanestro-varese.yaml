@@ -1,0 +1,14 @@
+slug: pallacanestro-varese
+name: Pallacanestro Varese
+sport: basketball
+type: club
+league: lega-basket-serie-a
+country: IT
+city: Varese
+stadium: Palasport Lino Oldrini
+aliases:
+- openjobmetis varese
+founded: 1945
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Pallacanestro_Varese (Kit-manufacturer-Sektion, "2018–present Macron").
+kit_suppliers:
+- { manufacturer: Macron }

@@ -1,0 +1,15 @@
+slug: le-mans-sarthe-basket
+name: Le Mans Sarthe Basket
+sport: basketball
+type: club
+league: lnb-elite
+country: FR
+city: Le Mans
+stadium: Antarès
+aliases:
+- le mans sarthe basket
+- msb
+founded: 1939
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Le_Mans_Sarthe_Basket (Infobox).
+kit_suppliers:
+- { manufacturer: Puma }

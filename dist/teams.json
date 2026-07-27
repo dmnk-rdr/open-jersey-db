@@ -1577,6 +1577,390 @@
     "stadium": "Žalgiris Arena"
   },
   {
+    "slug": "aek-bc",
+    "name": "AEK B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "aek athens basketball",
+      "kae aek"
+    ],
+    "founded": 1924,
+    "city": "Athens",
+    "stadium": "SUNEL Arena"
+  },
+  {
+    "slug": "aris-bc",
+    "name": "Aris B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "aris thessaloniki",
+      "aris b.s.a."
+    ],
+    "founded": 1922,
+    "city": "Thessaloniki",
+    "stadium": "Alexandreio Melathron"
+  },
+  {
+    "slug": "ask-karditsas-bc",
+    "name": "ASK Karditsas B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "as karditsas",
+      "athlitikos syllogos karditsas"
+    ],
+    "founded": 2006,
+    "city": "Karditsa",
+    "stadium": "Giannis Bourousis Karditsa New Indoor Arena"
+  },
+  {
+    "slug": "iraklis-bc",
+    "name": "G.S. Iraklis Thessaloniki",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "iraklis thessaloniki",
+      "iraklis bc"
+    ],
+    "founded": 1921,
+    "city": "Thessaloniki",
+    "stadium": "Ivanofeio Sports Arena"
+  },
+  {
+    "slug": "kolossos-rodou-bc",
+    "name": "Kolossos Rodou B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "kolossos rodou",
+      "kolossos h hotels"
+    ],
+    "founded": 1963,
+    "city": "Rhodes",
+    "stadium": "Kallithea Palais des Sports"
+  },
+  {
+    "slug": "maroussi-bc",
+    "name": "Maroussi B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "gs maroussi",
+      "g.s. maroussi b.c."
+    ],
+    "founded": 1950,
+    "city": "Marousi",
+    "stadium": "Maroussi Saint Thomas Indoor Hall"
+  },
+  {
+    "slug": "mykonos-bc",
+    "name": "Mykonos B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "mykonos betsson"
+    ],
+    "founded": 1981,
+    "city": "Mykonos",
+    "stadium": "P. Chanioti Ano Mera Indoor Hall"
+  },
+  {
+    "slug": "panionios-bc",
+    "name": "Panionios B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "panionios gymnastikos syllogos smyrnis"
+    ],
+    "founded": 1919,
+    "city": "Nea Smyrni",
+    "stadium": "National Athletic Center Glyfada Makis Liougas"
+  },
+  {
+    "slug": "paok-bc",
+    "name": "PAOK BC",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "paok thessaloniki"
+    ],
+    "founded": 1928,
+    "city": "Thessaloniki",
+    "stadium": "PAOK Sports Arena"
+  },
+  {
+    "slug": "peristeri-bc",
+    "name": "Peristeri B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "gymnastikos syllogos peristeriou",
+      "peristeri betsson"
+    ],
+    "founded": 1971,
+    "city": "Peristeri",
+    "stadium": "Peristeri Indoor Hall Andreas Papandreou"
+  },
+  {
+    "slug": "promitheas-patras-bc",
+    "name": "Promitheas Patras B.C.",
+    "sport": "basketball",
+    "type": "club",
+    "league": "greek-basket-league",
+    "country": "GR",
+    "aliases": [
+      "as promitheas patras",
+      "promitheas patras"
+    ],
+    "founded": 1986,
+    "city": "Patras",
+    "stadium": "Dimitris Tofalos Arena"
+  },
+  {
+    "slug": "apu-udine",
+    "name": "APU Udine",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "amici pallacanestro udinese",
+      "apu old wild west udine"
+    ],
+    "founded": 2011,
+    "city": "Udine",
+    "stadium": "PalaCarnera"
+  },
+  {
+    "slug": "aquila-basket-trento",
+    "name": "Aquila Basket Trento",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "dolomiti energia trento"
+    ],
+    "founded": 1995,
+    "city": "Trento",
+    "stadium": "PalaTrento"
+  },
+  {
+    "slug": "derthona-basket",
+    "name": "Derthona Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "bertram derthona tortona",
+      "bertram derthona basket"
+    ],
+    "founded": 1955,
+    "city": "Tortona",
+    "stadium": "Nova Arena"
+  },
+  {
+    "slug": "dinamo-sassari",
+    "name": "Dinamo Sassari",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "polisportiva dinamo",
+      "banco di sardegna sassari",
+      "dinamo banco di sardegna sassari"
+    ],
+    "founded": 1960,
+    "city": "Sassari",
+    "stadium": "Palasport Roberta Serradimigni"
+  },
+  {
+    "slug": "napoli-basket",
+    "name": "Napoli Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "napoli basketball",
+      "guerri napoli"
+    ],
+    "founded": 2016,
+    "city": "Naples",
+    "stadium": "PalaBarbuto"
+  },
+  {
+    "slug": "pallacanestro-brescia",
+    "name": "Pallacanestro Brescia",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "basket brescia leonessa",
+      "germani brescia"
+    ],
+    "founded": 1957,
+    "city": "Brescia",
+    "stadium": "PalaLeonessa",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Erreà"
+      }
+    ]
+  },
+  {
+    "slug": "pallacanestro-cantu",
+    "name": "Pallacanestro Cantù",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "pallacanestro cantu",
+      "acqua s.bernardo cantù",
+      "acqua s.bernardo cantu"
+    ],
+    "founded": 1936,
+    "city": "Cantù",
+    "stadium": "Palasport Pianella"
+  },
+  {
+    "slug": "pallacanestro-reggiana",
+    "name": "Pallacanestro Reggiana",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "una hotels reggio emilia",
+      "unahotels reggio emilia"
+    ],
+    "founded": 1974,
+    "city": "Reggio Emilia",
+    "stadium": "PalaBigi"
+  },
+  {
+    "slug": "pallacanestro-trieste",
+    "name": "Pallacanestro Trieste 2004",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "pallacanestro trieste"
+    ],
+    "founded": 1975,
+    "city": "Trieste",
+    "stadium": "PalaTrieste",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike"
+      }
+    ]
+  },
+  {
+    "slug": "pallacanestro-varese",
+    "name": "Pallacanestro Varese",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "openjobmetis varese"
+    ],
+    "founded": 1945,
+    "city": "Varese",
+    "stadium": "Palasport Lino Oldrini",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Macron"
+      }
+    ]
+  },
+  {
+    "slug": "reyer-venezia",
+    "name": "Reyer Venezia Mestre",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "reyer venezia",
+      "umana reyer venezia"
+    ],
+    "founded": 1925,
+    "city": "Venice",
+    "stadium": "Palasport Giuseppe Taliercio"
+  },
+  {
+    "slug": "trapani-shark",
+    "name": "Trapani Shark",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "trapani shark basket"
+    ],
+    "founded": 2023,
+    "city": "Trapani",
+    "stadium": "PalaIlio"
+  },
+  {
+    "slug": "treviso-basket",
+    "name": "Universo Treviso Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "nutribullet treviso",
+      "nutribullet treviso basket"
+    ],
+    "founded": 2012,
+    "city": "Treviso",
+    "stadium": "PalaVerde"
+  },
+  {
+    "slug": "vanoli-cremona",
+    "name": "Guerino Vanoli Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lega-basket-serie-a",
+    "country": "IT",
+    "aliases": [
+      "vanoli cremona"
+    ],
+    "founded": 1999,
+    "city": "Cremona",
+    "stadium": "PalaRadi"
+  },
+  {
     "slug": "baloncesto-malaga",
     "name": "Baloncesto Málaga",
     "sport": "basketball",
@@ -1796,6 +2180,203 @@
     "founded": 1985,
     "city": "Murcia",
     "stadium": "Palacio de Deportes de Murcia"
+  },
+  {
+    "slug": "bcm-gravelines-dunkerque",
+    "name": "BCM Gravelines-Dunkerque",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "basket club maritime gravelines-dunkerque",
+      "bcm gravelines dunkerque"
+    ],
+    "founded": 1984,
+    "city": "Gravelines"
+  },
+  {
+    "slug": "boulazac-basket-dordogne",
+    "name": "Boulazac Basket Dordogne",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "boulazac basket dordogne",
+      "bbd"
+    ],
+    "founded": 1992,
+    "city": "Boulazac",
+    "stadium": "Le Palio"
+  },
+  {
+    "slug": "cholet-basket",
+    "name": "Cholet Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "cholet basket"
+    ],
+    "founded": 1975,
+    "city": "Cholet",
+    "stadium": "La Meilleraie"
+  },
+  {
+    "slug": "elan-chalon",
+    "name": "Élan Sportif Chalonnais",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "elan chalon",
+      "élan chalon"
+    ],
+    "founded": 1955,
+    "city": "Chalon-sur-Saône",
+    "stadium": "Le Colisée"
+  },
+  {
+    "slug": "essm-le-portel",
+    "name": "Étoile Sportive Saint-Michel Le Portel Côte d'Opale",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "essm le portel",
+      "le portel"
+    ],
+    "founded": 1931,
+    "city": "Le Portel",
+    "stadium": "Le Chaudron"
+  },
+  {
+    "slug": "jda-dijon",
+    "name": "JDA Dijon Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "jda dijon",
+      "jeanne d'arc dijon basket"
+    ],
+    "city": "Dijon",
+    "stadium": "Palais des Sports Jean-Michel Geoffroy"
+  },
+  {
+    "slug": "jl-bourg",
+    "name": "JL Bourg Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "jl bourg",
+      "jeunesse laïque de bourg-en-bresse"
+    ],
+    "founded": 1910,
+    "city": "Bourg-en-Bresse",
+    "stadium": "Ekinox"
+  },
+  {
+    "slug": "le-mans-sarthe-basket",
+    "name": "Le Mans Sarthe Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "le mans sarthe basket",
+      "msb"
+    ],
+    "founded": 1939,
+    "city": "Le Mans",
+    "stadium": "Antarès",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma"
+      }
+    ]
+  },
+  {
+    "slug": "limoges-csp",
+    "name": "Limoges CSP",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "limoges csp",
+      "limoges cercle saint-pierre"
+    ],
+    "founded": 1929,
+    "city": "Limoges",
+    "stadium": "Palais des Sports de Beaublanc"
+  },
+  {
+    "slug": "nanterre-92",
+    "name": "Nanterre 92",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "nanterre 92",
+      "jsf nanterre"
+    ],
+    "founded": 1927,
+    "city": "Nanterre",
+    "stadium": "Palais des Sports Maurice Thorez"
+  },
+  {
+    "slug": "saint-quentin-basket-ball",
+    "name": "Saint-Quentin Basket-Ball",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "saint-quentin basket-ball",
+      "sqbb"
+    ],
+    "founded": 1973,
+    "city": "Saint-Quentin",
+    "stadium": "Palais des Sports Pierre Ratte"
+  },
+  {
+    "slug": "sig-strasbourg",
+    "name": "SIG Strasbourg",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "sig strasbourg",
+      "strasbourg illkirch-graffenstaden basket"
+    ],
+    "founded": 1929,
+    "city": "Strasbourg",
+    "stadium": "Rhenus Sport"
+  },
+  {
+    "slug": "sluc-nancy",
+    "name": "SLUC Nancy Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "lnb-elite",
+    "country": "FR",
+    "aliases": [
+      "sluc nancy",
+      "stade lorrain université club nancy basket"
+    ],
+    "founded": 1967,
+    "city": "Nancy",
+    "stadium": "Palais des Sports Jean Weille"
   },
   {
     "slug": "atlanta-hawks",
@@ -9148,6 +9729,164 @@
     ]
   },
   {
+    "slug": "1-fc-nuernberg-ii",
+    "name": "1. FC Nürnberg II",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "1. fc nürnberg ii",
+      "1 fc nuernberg ii",
+      "fcn ii",
+      "nürnberg ii",
+      "club ii"
+    ],
+    "city": "Nürnberg",
+    "stadium": "Max-Morlock-Platz"
+  },
+  {
+    "slug": "djk-vilzing",
+    "name": "DJK Vilzing",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "djk vilzing",
+      "vilzing"
+    ],
+    "founded": 1967,
+    "city": "Vilzing",
+    "stadium": "Manfred-Zollner-Stadion"
+  },
+  {
+    "slug": "fc-augsburg-ii",
+    "name": "FC Augsburg II",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "fc augsburg ii",
+      "augsburg ii",
+      "fca ii"
+    ],
+    "city": "Augsburg"
+  },
+  {
+    "slug": "fc-bayern-muenchen-ii",
+    "name": "FC Bayern München II",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "fc bayern münchen ii",
+      "fc bayern muenchen ii",
+      "bayern münchen ii",
+      "bayern ii",
+      "fcb ii",
+      "bayern-amateure"
+    ],
+    "city": "München",
+    "stadium": "Grünwalder Stadion"
+  },
+  {
+    "slug": "fc-memmingen",
+    "name": "FC Memmingen",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "fc memmingen",
+      "memmingen"
+    ],
+    "founded": 1907,
+    "city": "Memmingen",
+    "stadium": "Memminger Arena"
+  },
+  {
+    "slug": "fv-illertissen",
+    "name": "FV Illertissen",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "fv illertissen",
+      "illertissen"
+    ],
+    "founded": 1921,
+    "city": "Illertissen",
+    "stadium": "Vöhlinstadion"
+  },
+  {
+    "slug": "spvgg-ansbach-09",
+    "name": "SpVgg Ansbach 09",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "spvgg ansbach 09",
+      "spvgg ansbach",
+      "ansbach"
+    ],
+    "founded": 1909,
+    "city": "Ansbach",
+    "stadium": "Xaver-Bertsch-Sportpark"
+  },
+  {
+    "slug": "spvgg-bayreuth",
+    "name": "SpVgg Bayreuth",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "spvgg bayreuth",
+      "bayreuth"
+    ],
+    "founded": 1921,
+    "city": "Bayreuth",
+    "stadium": "Hans-Walter-Wild-Stadion"
+  },
+  {
+    "slug": "spvgg-greuther-fuerth-ii",
+    "name": "SpVgg Greuther Fürth II",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "spvgg greuther fürth ii",
+      "spvgg greuther fuerth ii",
+      "greuther fürth ii",
+      "greuther fuerth ii"
+    ],
+    "city": "Fürth",
+    "stadium": "Konrad-Ammon-Platz"
+  },
+  {
+    "slug": "spvgg-hankofen-hailing",
+    "name": "SpVgg Hankofen-Hailing",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "spvgg hankofen-hailing",
+      "spvgg hankofen hailing",
+      "hankofen-hailing",
+      "hankofen hailing"
+    ],
+    "founded": 1968,
+    "city": "Leiblfing",
+    "stadium": "Maierhofer-Bau-Stadion"
+  },
+  {
     "slug": "spvgg-unterhaching",
     "name": "SpVgg Unterhaching",
     "sport": "football",
@@ -9192,6 +9931,270 @@
     "founded": 1860
   },
   {
+    "slug": "tsv-aubstadt",
+    "name": "TSV Aubstadt",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "tsv aubstadt",
+      "aubstadt"
+    ],
+    "founded": 1921,
+    "city": "Aubstadt",
+    "stadium": "NGN-Arena"
+  },
+  {
+    "slug": "tsv-buchbach",
+    "name": "TSV Buchbach",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "tsv buchbach",
+      "buchbach"
+    ],
+    "founded": 1913,
+    "city": "Buchbach",
+    "stadium": "SMR-Arena"
+  },
+  {
+    "slug": "tsv-schwaben-augsburg",
+    "name": "TSV Schwaben Augsburg",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "tsv schwaben augsburg",
+      "schwaben augsburg"
+    ],
+    "founded": 1847,
+    "city": "Augsburg",
+    "stadium": "Rosenaustadion"
+  },
+  {
+    "slug": "vfb-eichstaett",
+    "name": "VfB Eichstätt",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "vfb eichstätt",
+      "vfb eichstaett",
+      "eichstätt",
+      "eichstaett"
+    ],
+    "founded": 1920,
+    "city": "Eichstätt",
+    "stadium": "Hirsch-Sportpark"
+  },
+  {
+    "slug": "viktoria-aschaffenburg",
+    "name": "Viktoria Aschaffenburg",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "viktoria aschaffenburg",
+      "sv viktoria aschaffenburg",
+      "aschaffenburg"
+    ],
+    "founded": 1901,
+    "city": "Aschaffenburg",
+    "stadium": "Stadion am Schönbusch"
+  },
+  {
+    "slug": "wacker-burghausen",
+    "name": "Wacker Burghausen",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "wacker burghausen",
+      "sv wacker burghausen",
+      "burghausen"
+    ],
+    "founded": 1930,
+    "city": "Burghausen",
+    "stadium": "Wacker-Arena"
+  },
+  {
+    "slug": "1-fsv-mainz-05-ii",
+    "name": "1. FSV Mainz 05 II",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "1. fsv mainz 05 ii",
+      "1 fsv mainz 05 ii",
+      "mainz 05 ii",
+      "mainz ii"
+    ],
+    "city": "Mainz"
+  },
+  {
+    "slug": "bahlinger-sc",
+    "name": "Bahlinger SC",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "bahlinger sc",
+      "bahlingen"
+    ],
+    "founded": 1929,
+    "city": "Bahlingen am Kaiserstuhl",
+    "stadium": "Kaiserstuhlstadion"
+  },
+  {
+    "slug": "fc-08-homburg",
+    "name": "FC 08 Homburg",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "fc 08 homburg",
+      "fc homburg",
+      "homburg"
+    ],
+    "founded": 1908,
+    "city": "Homburg",
+    "stadium": "Waldstadion Homburg"
+  },
+  {
+    "slug": "fc-astoria-walldorf",
+    "name": "FC-Astoria Walldorf",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "fc-astoria walldorf",
+      "fc astoria walldorf",
+      "astoria walldorf",
+      "walldorf"
+    ],
+    "city": "Walldorf",
+    "stadium": "Dietmar-Hopp-Sportpark"
+  },
+  {
+    "slug": "fc-bayern-alzenau",
+    "name": "FC Bayern Alzenau",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "fc bayern alzenau",
+      "bayern alzenau",
+      "alzenau"
+    ],
+    "founded": 1920,
+    "city": "Alzenau",
+    "stadium": "Sportzentrum am Prischoß"
+  },
+  {
+    "slug": "fsv-frankfurt",
+    "name": "FSV Frankfurt",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "fsv frankfurt",
+      "fsv frankfurt 1899"
+    ],
+    "founded": 1899,
+    "city": "Frankfurt am Main",
+    "stadium": "PSD Bank Arena"
+  },
+  {
+    "slug": "kickers-offenbach",
+    "name": "Kickers Offenbach",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "kickers offenbach",
+      "ofc kickers",
+      "offenbach"
+    ],
+    "founded": 1901,
+    "city": "Offenbach am Main",
+    "stadium": "Stadion am Bieberer Berg"
+  },
+  {
+    "slug": "ksv-hessen-kassel",
+    "name": "KSV Hessen Kassel",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "ksv hessen kassel",
+      "hessen kassel",
+      "kassel"
+    ],
+    "city": "Kassel",
+    "stadium": "Auestadion"
+  },
+  {
+    "slug": "sc-freiburg-ii",
+    "name": "SC Freiburg II",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "sc freiburg ii",
+      "freiburg ii"
+    ],
+    "city": "Freiburg im Breisgau",
+    "stadium": "Dreisamstadion"
+  },
+  {
+    "slug": "sg-barockstadt-fulda-lehnerz",
+    "name": "SG Barockstadt Fulda-Lehnerz",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "sg barockstadt fulda-lehnerz",
+      "sg barockstadt fulda lehnerz",
+      "barockstadt fulda-lehnerz"
+    ],
+    "founded": 1965,
+    "city": "Fulda",
+    "stadium": "Sportpark Johannisau"
+  },
+  {
+    "slug": "sgv-heilbronn-freiberg",
+    "name": "SGV Heilbronn-Freiberg",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "sgv heilbronn-freiberg",
+      "sgv heilbronn freiberg",
+      "sgv freiberg"
+    ],
+    "founded": 2010,
+    "city": "Freiberg am Neckar",
+    "stadium": "Frankenstadion Heilbronn"
+  },
+  {
     "slug": "stuttgarter-kickers",
     "name": "Stuttgarter Kickers",
     "sport": "football",
@@ -9217,6 +10220,38 @@
         "text": "DFB-Pokal-Finalist, 1:3 gegen den Hamburger SV im Olympiastadion Berlin"
       }
     ]
+  },
+  {
+    "slug": "sv-eintracht-trier",
+    "name": "SV Eintracht Trier 05",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "sv eintracht trier",
+      "sv eintracht-trier 05",
+      "eintracht trier",
+      "trier"
+    ],
+    "founded": 1905,
+    "city": "Trier",
+    "stadium": "Moselstadion"
+  },
+  {
+    "slug": "sv-sandhausen",
+    "name": "SV Sandhausen",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "sv sandhausen",
+      "sandhausen"
+    ],
+    "founded": 1916,
+    "city": "Sandhausen",
+    "stadium": "Hardtwaldstadion"
   },
   {
     "slug": "tsg-balingen",
@@ -9247,6 +10282,36 @@
         "text": "Erfolgreichste Saison der Vereinsgeschichte: Platz 8 in der Regionalliga Südwest"
       }
     ]
+  },
+  {
+    "slug": "tsv-schott-mainz",
+    "name": "TSV Schott Mainz",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "tsv schott mainz",
+      "schott mainz"
+    ],
+    "founded": 1953,
+    "city": "Mainz",
+    "stadium": "Otto-Schott-Sportzentrum"
+  },
+  {
+    "slug": "tsv-steinbach-haiger",
+    "name": "TSV Steinbach Haiger",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "tsv steinbach haiger",
+      "steinbach haiger"
+    ],
+    "founded": 1921,
+    "city": "Haiger-Steinbach",
+    "stadium": "Sportzentrum Haarwasen Haiger"
   },
   {
     "slug": "al-ahli",
@@ -15698,6 +16763,38 @@
     ]
   },
   {
+    "slug": "dessau-rosslauer-hv",
+    "name": "Dessau-Roßlauer HV",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "dessau-rosslauer hv",
+      "dessau-rosslau",
+      "drhv 06"
+    ],
+    "founded": 2006,
+    "city": "Dessau-Roßlau",
+    "stadium": "Anhalt-Arena"
+  },
+  {
+    "slug": "die-eulen-ludwigshafen",
+    "name": "Die Eulen Ludwigshafen",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "eulen ludwigshafen",
+      "tsg friesenheim",
+      "tsg ludwigshafen-friesenheim"
+    ],
+    "founded": 1881,
+    "city": "Ludwigshafen am Rhein",
+    "stadium": "Friedrich-Ebert-Halle"
+  },
+  {
     "slug": "hbw-balingen-weilstetten",
     "name": "HBW Balingen-Weilstetten",
     "sport": "handball",
@@ -15718,6 +16815,221 @@
         "manufacturer": "Kempa"
       }
     ]
+  },
+  {
+    "slug": "hc-elbflorenz",
+    "name": "HC Elbflorenz",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hc elbflorenz dresden",
+      "elbflorenz",
+      "elbflorenz dresden"
+    ],
+    "founded": 2006,
+    "city": "Dresden",
+    "stadium": "BallsportArena Dresden"
+  },
+  {
+    "slug": "hc-oppenweiler-backnang",
+    "name": "HC Oppenweiler/Backnang",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hc oppenweiler backnang",
+      "hcob"
+    ],
+    "founded": 2014,
+    "city": "Backnang",
+    "stadium": "Murrtal-Arena"
+  },
+  {
+    "slug": "hsc-2000-coburg",
+    "name": "HSC 2000 Coburg",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hsc 2000 coburg",
+      "hsc coburg"
+    ],
+    "founded": 2000,
+    "city": "Coburg",
+    "stadium": "HUK-Coburg arena"
+  },
+  {
+    "slug": "hsg-krefeld-niederrhein",
+    "name": "HSG Krefeld Niederrhein",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hsg krefeld niederrhein",
+      "hsg krefeld"
+    ],
+    "founded": 2013,
+    "city": "Krefeld",
+    "stadium": "Sporthalle Glockenspitz"
+  },
+  {
+    "slug": "hsg-nordhorn-lingen",
+    "name": "HSG Nordhorn-Lingen",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "hsg nordhorn lingen",
+      "nordhorn-lingen",
+      "nordhorn"
+    ],
+    "founded": 1981,
+    "city": "Nordhorn",
+    "stadium": "Euregium"
+  },
+  {
+    "slug": "sg-bbm-bietigheim",
+    "name": "SG BBM Bietigheim",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "sg bbm bietigheim",
+      "bbm bietigheim",
+      "bietigheim"
+    ],
+    "founded": 1997,
+    "city": "Bietigheim-Bissingen",
+    "stadium": "EgeTrans Arena"
+  },
+  {
+    "slug": "tsv-bayer-dormagen",
+    "name": "TSV Bayer Dormagen",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "tsv bayer dormagen",
+      "dormagen",
+      "dhc rheinland"
+    ],
+    "founded": 1920,
+    "city": "Dormagen",
+    "stadium": "TSV Bayer Sportcenter"
+  },
+  {
+    "slug": "tus-ferndorf",
+    "name": "TuS Ferndorf",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "tus ferndorf"
+    ],
+    "founded": 1888,
+    "city": "Kreuztal",
+    "stadium": "Sporthalle Stählerwiese"
+  },
+  {
+    "slug": "tus-n-luebbecke",
+    "name": "TuS N-Lübbecke",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "tus n luebbecke",
+      "tus nettelstedt-luebbecke",
+      "luebbecke"
+    ],
+    "city": "Lübbecke",
+    "stadium": "Merkur Arena"
+  },
+  {
+    "slug": "tusem-essen",
+    "name": "TUSEM Essen",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "tusem essen",
+      "tusem"
+    ],
+    "founded": 1926,
+    "city": "Essen",
+    "stadium": "Sportpark Am Hallo"
+  },
+  {
+    "slug": "tv-grosswallstadt",
+    "name": "TV Großwallstadt",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "tv grosswallstadt",
+      "tvg"
+    ],
+    "founded": 1888,
+    "city": "Großwallstadt",
+    "stadium": "Untermainhalle"
+  },
+  {
+    "slug": "tv-huettenberg",
+    "name": "TV Hüttenberg",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "tv 05/07 huettenberg",
+      "tv huettenberg"
+    ],
+    "founded": 1969,
+    "city": "Hüttenberg",
+    "stadium": "Sportzentrum Hüttenberg"
+  },
+  {
+    "slug": "vfl-eintracht-hagen",
+    "name": "VfL Eintracht Hagen",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "vfl eintracht hagen",
+      "eintracht hagen"
+    ],
+    "founded": 1920,
+    "city": "Hagen",
+    "stadium": "Ischelandhalle"
+  },
+  {
+    "slug": "vfl-luebeck-schwartau",
+    "name": "VfL Lübeck-Schwartau",
+    "sport": "handball",
+    "type": "club",
+    "league": "2-handball-bundesliga",
+    "country": "DE",
+    "aliases": [
+      "vfl luebeck-schwartau",
+      "vfl lübeck schwartau",
+      "vfl bad schwartau",
+      "luebeck-schwartau"
+    ],
+    "founded": 1863,
+    "city": "Lübeck",
+    "stadium": "Hansehalle"
   },
   {
     "slug": "vfl-potsdam",
@@ -16022,6 +17334,493 @@
     "founded": 1861,
     "city": "Gummersbach",
     "stadium": "Schwalbe-Arena"
+  },
+  {
+    "slug": "ad-ciudad-de-guadalajara",
+    "name": "AD Ciudad de Guadalajara",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "sanicentro bm guadalajara",
+      "ciudad de guadalajara",
+      "guadalajara balonmano"
+    ],
+    "founded": 2007,
+    "city": "Guadalajara",
+    "stadium": "Pabellón David Santamaría"
+  },
+  {
+    "slug": "balonmano-torrelavega",
+    "name": "Balonmano Torrelavega",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "bathco bm torrelavega",
+      "bathco torrelavega",
+      "torrelavega"
+    ],
+    "founded": 2002,
+    "city": "Torrelavega",
+    "stadium": "Pabellón Municipal Vicente Trueba"
+  },
+  {
+    "slug": "bm-atletico-valladolid",
+    "name": "BM Atlético Valladolid",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "recoletas atletico valladolid",
+      "atletico valladolid",
+      "valladolid balonmano"
+    ],
+    "founded": 2014,
+    "city": "Valladolid",
+    "stadium": "Polideportivo Huerta del Rey"
+  },
+  {
+    "slug": "bm-ciudad-encantada",
+    "name": "BM Ciudad Encantada",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "rebi balonmano cuenca",
+      "ciudad encantada",
+      "bm cuenca"
+    ],
+    "founded": 1989,
+    "city": "Cuenca",
+    "stadium": "Pabellón Municipal El Sargal"
+  },
+  {
+    "slug": "bm-granollers",
+    "name": "BM Granollers",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "fraikin bm granollers",
+      "granollers"
+    ],
+    "founded": 1944,
+    "city": "Granollers",
+    "stadium": "Palau d'Esports de Granollers"
+  },
+  {
+    "slug": "bm-huesca",
+    "name": "BM Huesca",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "bada huesca",
+      "huesca balonmano"
+    ],
+    "founded": 1995,
+    "city": "Huesca",
+    "stadium": "Palacio Municipal de Huesca"
+  },
+  {
+    "slug": "bm-puente-genil",
+    "name": "BM Puente Genil",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "angel ximenez puente genil",
+      "puente genil"
+    ],
+    "founded": 1984,
+    "city": "Puente Genil",
+    "stadium": "Pabellón Municipal Alcalde Miguel Salas"
+  },
+  {
+    "slug": "bm-villa-de-aranda",
+    "name": "BM Villa de Aranda",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "tubos aranda villa de aranda",
+      "villa de aranda",
+      "aranda balonmano"
+    ],
+    "founded": 2000,
+    "city": "Aranda de Duero",
+    "stadium": "Pabellón Santiago Manguán"
+  },
+  {
+    "slug": "cb-ademar-leon",
+    "name": "CB Ademar León",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "ademar leon",
+      "abanca ademar leon",
+      "ademar"
+    ],
+    "founded": 1956,
+    "city": "León",
+    "stadium": "Palacio de los Deportes de León"
+  },
+  {
+    "slug": "cb-cangas",
+    "name": "CB Cangas",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "frigorificos del morrazo",
+      "cangas balonmano"
+    ],
+    "founded": 1961,
+    "city": "Cangas do Morrazo",
+    "stadium": "Pabellón Municipal de O Gatañal"
+  },
+  {
+    "slug": "cb-caserio-ciudad-real",
+    "name": "Club Balonmano Caserío Ciudad Real",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "bm caserio ciudad real",
+      "caserio ciudad real"
+    ],
+    "founded": 2011,
+    "city": "Ciudad Real",
+    "stadium": "Quijote Arena"
+  },
+  {
+    "slug": "cb-ciudad-de-logrono",
+    "name": "CB Ciudad de Logroño",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "bm logrono la rioja",
+      "logrono la rioja",
+      "ciudad de logrono"
+    ],
+    "founded": 2003,
+    "city": "Logroño",
+    "stadium": "Palacio de los Deportes de La Rioja"
+  },
+  {
+    "slug": "cb-eon-alicante",
+    "name": "Club Balonmano Eón Alicante",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "horneo eon alicante",
+      "eon alicante"
+    ],
+    "founded": 2017,
+    "city": "Alicante",
+    "stadium": "Pabellón Pitiu Rochel"
+  },
+  {
+    "slug": "cb-nava",
+    "name": "Club Balonmano Nava",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "viveros herol bm nava",
+      "bm nava"
+    ],
+    "founded": 1976,
+    "city": "Nava de la Asunción",
+    "stadium": "Pabellón Municipal Guerreros Naveros"
+  },
+  {
+    "slug": "cd-bidasoa",
+    "name": "CD Bidasoa",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "irudek bidasoa irun",
+      "bidasoa irun",
+      "bidasoa"
+    ],
+    "founded": 1962,
+    "city": "Irún",
+    "stadium": "Polideportivo Artaleku"
+  },
+  {
+    "slug": "fc-barcelona-handbol",
+    "name": "FC Barcelona Handbol",
+    "sport": "handball",
+    "type": "club",
+    "league": "liga-asobal",
+    "country": "ES",
+    "aliases": [
+      "fc barcelona",
+      "barcelona handbol",
+      "barca handbol"
+    ],
+    "founded": 1942,
+    "city": "Barcelona",
+    "stadium": "Palau Blaugrana"
+  },
+  {
+    "slug": "c-chartres-metropole-handball",
+    "name": "C' Chartres Métropole Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "c chartres metropole handball",
+      "c chartres mhb"
+    ],
+    "founded": 1969,
+    "city": "Chartres",
+    "stadium": "Halle Jean-Cochet"
+  },
+  {
+    "slug": "cesson-rennes-mhb",
+    "name": "Cesson Rennes MHB",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "cesson rennes mhb",
+      "cesson-rennes"
+    ],
+    "founded": 1968,
+    "city": "Cesson-Sévigné",
+    "stadium": "Glaz Arena"
+  },
+  {
+    "slug": "chambery-savoie-mont-blanc-handball",
+    "name": "Chambéry Savoie Mont-Blanc Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "chambery savoie handball",
+      "chambery smb hb",
+      "chambery savoie mont blanc handball"
+    ],
+    "founded": 1990,
+    "city": "Chambéry",
+    "stadium": "Le Phare"
+  },
+  {
+    "slug": "dijon-metropole-handball",
+    "name": "Dijon Métropole Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "dijon metropole handball",
+      "dmh dijon"
+    ],
+    "founded": 1942,
+    "city": "Dijon",
+    "stadium": "Palais des sports Jean-Michel-Geoffroy"
+  },
+  {
+    "slug": "dunkerque-handball-grand-littoral",
+    "name": "Dunkerque Handball Grand Littoral",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "dunkerque hgl",
+      "dunkerque handball grand littoral"
+    ],
+    "founded": 1958,
+    "city": "Dunkerque",
+    "stadium": "Stade des Flandres"
+  },
+  {
+    "slug": "fenix-toulouse-handball",
+    "name": "Fenix Toulouse Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "fenix toulouse"
+    ],
+    "founded": 1964,
+    "city": "Toulouse",
+    "stadium": "Palais des Sports André-Brouat"
+  },
+  {
+    "slug": "hbc-nantes",
+    "name": "HBC Nantes",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "hbc nantes"
+    ],
+    "founded": 1953,
+    "city": "Nantes",
+    "stadium": "Palais des Sports de Beaulieu"
+  },
+  {
+    "slug": "istres-provence-handball",
+    "name": "Istres Provence Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "istres provence handball",
+      "istres handball"
+    ],
+    "founded": 1970,
+    "city": "Istres",
+    "stadium": "Halle polyvalente"
+  },
+  {
+    "slug": "limoges-handball",
+    "name": "Limoges Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "limoges handball"
+    ],
+    "founded": 2005,
+    "city": "Limoges",
+    "stadium": "Palais des Sports de Beaublanc"
+  },
+  {
+    "slug": "montpellier-handball",
+    "name": "Montpellier Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "montpellier handball"
+    ],
+    "founded": 1982,
+    "city": "Montpellier",
+    "stadium": "FDI Stadium"
+  },
+  {
+    "slug": "paris-saint-germain-handball",
+    "name": "Paris Saint-Germain Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "psg handball",
+      "paris saint-germain handball"
+    ],
+    "founded": 1941,
+    "city": "Paris",
+    "stadium": "Stade Pierre de Coubertin"
+  },
+  {
+    "slug": "pays-daix-universite-club",
+    "name": "Pays d'Aix Université Club",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "pays daix uc",
+      "pays d'aix uc"
+    ],
+    "founded": 1955,
+    "city": "Aix-en-Provence",
+    "stadium": "Arena du Pays d'Aix"
+  },
+  {
+    "slug": "saint-raphael-var-handball",
+    "name": "Saint-Raphaël Var Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "saint-raphael vhb",
+      "srvhb",
+      "saint raphael var handball"
+    ],
+    "founded": 1963,
+    "city": "Saint-Raphaël",
+    "stadium": "Palais des Sports Jean-François Krakowski"
+  },
+  {
+    "slug": "selestat-alsace-handball",
+    "name": "Sélestat Alsace Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "sahb",
+      "selestat alsace handball"
+    ],
+    "founded": 1967,
+    "city": "Sélestat",
+    "stadium": "Centre Sportif Intercommunal"
+  },
+  {
+    "slug": "tremblay-handball",
+    "name": "Tremblay Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "tremblay-en-france handball",
+      "tremblay handball"
+    ],
+    "founded": 1972,
+    "city": "Tremblay-en-France",
+    "stadium": "Palais des Sports"
+  },
+  {
+    "slug": "usam-nimes-gard",
+    "name": "USAM Nîmes Gard",
+    "sport": "handball",
+    "type": "club",
+    "league": "starligue",
+    "country": "FR",
+    "aliases": [
+      "usam nimes",
+      "usam nimes gard"
+    ],
+    "founded": 1960,
+    "city": "Nîmes",
+    "stadium": "Le Parnasse"
   },
   {
     "slug": "aegypten-handball",
@@ -17875,6 +19674,223 @@
     ]
   },
   {
+    "slug": "bath-rugby",
+    "name": "Bath Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "premiership-rugby",
+    "country": "GB",
+    "aliases": [
+      "bath",
+      "bath rugby"
+    ],
+    "founded": 1865,
+    "city": "Bath",
+    "stadium": "The Recreation Ground"
+  },
+  {
+    "slug": "bristol-bears",
+    "name": "Bristol Bears",
+    "sport": "rugby",
+    "type": "club",
+    "league": "premiership-rugby",
+    "country": "GB",
+    "aliases": [
+      "bristol",
+      "bristol bears"
+    ],
+    "founded": 1888,
+    "city": "Bristol",
+    "stadium": "Ashton Gate"
+  },
+  {
+    "slug": "exeter-chiefs",
+    "name": "Exeter Chiefs",
+    "sport": "rugby",
+    "type": "club",
+    "league": "premiership-rugby",
+    "country": "GB",
+    "aliases": [
+      "exeter",
+      "exeter chiefs",
+      "exeter rugby club"
+    ],
+    "founded": 1871,
+    "city": "Exeter",
+    "stadium": "Sandy Park"
+  },
+  {
+    "slug": "gloucester-rugby",
+    "name": "Gloucester Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "premiership-rugby",
+    "country": "GB",
+    "aliases": [
+      "gloucester",
+      "gloucester rugby"
+    ],
+    "founded": 1873,
+    "city": "Gloucester",
+    "stadium": "Kingsholm Stadium"
+  },
+  {
+    "slug": "harlequins",
+    "name": "Harlequins",
+    "sport": "rugby",
+    "type": "club",
+    "league": "premiership-rugby",
+    "country": "GB",
+    "aliases": [
+      "harlequin fc",
+      "harlequins",
+      "quins"
+    ],
+    "founded": 1866,
+    "city": "Twickenham",
+    "stadium": "Twickenham Stoop"
+  },
+  {
+    "slug": "leicester-tigers",
+    "name": "Leicester Tigers",
+    "sport": "rugby",
+    "type": "club",
+    "league": "premiership-rugby",
+    "country": "GB",
+    "aliases": [
+      "leicester",
+      "leicester tigers"
+    ],
+    "founded": 1880,
+    "city": "Leicester",
+    "stadium": "Welford Road Stadium"
+  },
+  {
+    "slug": "newcastle-red-bulls",
+    "name": "Newcastle Red Bulls",
+    "sport": "rugby",
+    "type": "club",
+    "league": "premiership-rugby",
+    "country": "GB",
+    "aliases": [
+      "newcastle falcons",
+      "newcastle red bulls"
+    ],
+    "founded": 1877,
+    "city": "Newcastle upon Tyne",
+    "stadium": "Kingston Park"
+  },
+  {
+    "slug": "northampton-saints",
+    "name": "Northampton Saints",
+    "sport": "rugby",
+    "type": "club",
+    "league": "premiership-rugby",
+    "country": "GB",
+    "aliases": [
+      "northampton",
+      "northampton saints"
+    ],
+    "founded": 1880,
+    "city": "Northampton",
+    "stadium": "Franklin's Gardens"
+  },
+  {
+    "slug": "sale-sharks",
+    "name": "Sale Sharks",
+    "sport": "rugby",
+    "type": "club",
+    "league": "premiership-rugby",
+    "country": "GB",
+    "aliases": [
+      "sale",
+      "sale sharks"
+    ],
+    "founded": 1861,
+    "city": "Salford",
+    "stadium": "CorpAcq Stadium"
+  },
+  {
+    "slug": "saracens",
+    "name": "Saracens",
+    "sport": "rugby",
+    "type": "club",
+    "league": "premiership-rugby",
+    "country": "GB",
+    "aliases": [
+      "saracens",
+      "saracens rugby"
+    ],
+    "founded": 1876,
+    "city": "Hendon",
+    "stadium": "StoneX Stadium"
+  },
+  {
+    "slug": "as-beziers",
+    "name": "AS Béziers",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "as beziers",
+      "as béziers",
+      "beziers",
+      "béziers"
+    ],
+    "founded": 1911,
+    "city": "Béziers",
+    "stadium": "Stade Raoul-Barrière"
+  },
+  {
+    "slug": "biarritz-olympique",
+    "name": "Biarritz Olympique",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "biarritz",
+      "biarritz olympique",
+      "bo pays basque"
+    ],
+    "founded": 1913,
+    "city": "Biarritz",
+    "stadium": "Parc des Sports Aguiléra"
+  },
+  {
+    "slug": "ca-brive",
+    "name": "CA Brive",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "brive",
+      "ca brive",
+      "ca brive correze limousin"
+    ],
+    "founded": 1910,
+    "city": "Brive-la-Gaillarde",
+    "stadium": "Stade Amédée-Domenech"
+  },
+  {
+    "slug": "colomiers-rugby",
+    "name": "Colomiers Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "colomiers",
+      "colomiers rugby",
+      "us colomiers"
+    ],
+    "founded": 1915,
+    "city": "Colomiers",
+    "stadium": "Stade Michel Bendichou"
+  },
+  {
     "slug": "fc-grenoble",
     "name": "FC Grenoble",
     "sport": "rugby",
@@ -17887,6 +19903,182 @@
       "grenoble",
       "grenoble rugby"
     ]
+  },
+  {
+    "slug": "oyonnax-rugby",
+    "name": "Oyonnax Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "oyonnax",
+      "oyonnax rugby"
+    ],
+    "city": "Oyonnax",
+    "stadium": "Stade Charles-Mathon"
+  },
+  {
+    "slug": "provence-rugby",
+    "name": "Provence Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "provence",
+      "provence rugby"
+    ],
+    "founded": 1970,
+    "city": "Aix-en-Provence",
+    "stadium": "Stade Maurice David"
+  },
+  {
+    "slug": "rc-vannes",
+    "name": "RC Vannes",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "rc vannes",
+      "rugby club vannes",
+      "vannes"
+    ],
+    "founded": 1950,
+    "city": "Vannes",
+    "stadium": "Stade de la Rabine"
+  },
+  {
+    "slug": "soyaux-angouleme-xv",
+    "name": "Soyaux Angoulême XV",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "angouleme",
+      "angoulême",
+      "sa xv",
+      "soyaux angouleme",
+      "soyaux angoulême"
+    ],
+    "founded": 1910,
+    "city": "Angoulême",
+    "stadium": "Stade Chanzy"
+  },
+  {
+    "slug": "stade-aurillacois",
+    "name": "Stade Aurillacois",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "aurillac",
+      "stade aurillacois",
+      "stade aurillacois cantal auvergne"
+    ],
+    "founded": 1904,
+    "city": "Aurillac",
+    "stadium": "Stade Jean Alric"
+  },
+  {
+    "slug": "stade-montois",
+    "name": "Stade Montois",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "mont-de-marsan",
+      "mont de marsan",
+      "stade montois",
+      "stade montois rugby"
+    ],
+    "founded": 1908,
+    "city": "Mont-de-Marsan",
+    "stadium": "Stade Guy Boniface"
+  },
+  {
+    "slug": "su-agen",
+    "name": "SU Agen",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "agen",
+      "su agen",
+      "sualg"
+    ],
+    "founded": 1908,
+    "city": "Agen",
+    "stadium": "Stade Armandie"
+  },
+  {
+    "slug": "us-carcassonne",
+    "name": "US Carcassonne",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "carcassonne",
+      "us carcassonne",
+      "us carcassonnaise"
+    ],
+    "founded": 1899,
+    "city": "Carcassonne",
+    "stadium": "Stade Albert-Domec"
+  },
+  {
+    "slug": "us-dax",
+    "name": "US Dax",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "dax",
+      "us dax",
+      "us dax rugby landes"
+    ],
+    "founded": 1904,
+    "city": "Dax",
+    "stadium": "Stade Maurice Boyau"
+  },
+  {
+    "slug": "uson-nevers",
+    "name": "USON Nevers",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "nevers",
+      "uson nevers",
+      "uson nevers rugby"
+    ],
+    "founded": 1903,
+    "city": "Nevers",
+    "stadium": "Stade du Pré Fleuri"
+  },
+  {
+    "slug": "valence-romans-drome-rugby",
+    "name": "Valence Romans Drôme Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "pro-d2",
+    "country": "FR",
+    "aliases": [
+      "valence romans",
+      "valence romans drome rugby",
+      "valence romans drôme rugby"
+    ],
+    "founded": 1908,
+    "city": "Valence",
+    "stadium": "Stade Georges Pompidou"
   },
   {
     "slug": "castres-olympique",
@@ -17988,6 +20180,244 @@
       "usa perpignan",
       "usap"
     ]
+  },
+  {
+    "slug": "benetton-rugby",
+    "name": "Benetton Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "IT",
+    "aliases": [
+      "benetton",
+      "benetton rugby",
+      "benetton treviso"
+    ],
+    "founded": 1932,
+    "city": "Treviso",
+    "stadium": "Stadio Comunale di Monigo"
+  },
+  {
+    "slug": "bulls",
+    "name": "Bulls",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "ZA",
+    "aliases": [
+      "bulls",
+      "vodacom bulls"
+    ],
+    "founded": 1938,
+    "city": "Pretoria",
+    "stadium": "Loftus Versfeld Stadium"
+  },
+  {
+    "slug": "cardiff-rugby",
+    "name": "Cardiff Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "GB",
+    "aliases": [
+      "cardiff",
+      "cardiff blues",
+      "cardiff rugby"
+    ],
+    "founded": 1876,
+    "city": "Cardiff",
+    "stadium": "Cardiff Arms Park"
+  },
+  {
+    "slug": "connacht",
+    "name": "Connacht Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "IE",
+    "aliases": [
+      "connacht",
+      "connacht rugby"
+    ],
+    "founded": 1885,
+    "city": "Galway"
+  },
+  {
+    "slug": "dragons-rfc",
+    "name": "Dragons RFC",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "GB",
+    "aliases": [
+      "dragons",
+      "dragons rfc"
+    ],
+    "founded": 2003,
+    "city": "Newport",
+    "stadium": "Rodney Parade"
+  },
+  {
+    "slug": "edinburgh",
+    "name": "Edinburgh Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "GB",
+    "aliases": [
+      "edinburgh",
+      "edinburgh rugby"
+    ],
+    "founded": 1872,
+    "city": "Edinburgh",
+    "stadium": "Edinburgh Rugby Stadium"
+  },
+  {
+    "slug": "glasgow-warriors",
+    "name": "Glasgow Warriors",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "GB",
+    "aliases": [
+      "glasgow",
+      "glasgow warriors"
+    ],
+    "founded": 1872,
+    "city": "Glasgow",
+    "stadium": "Scotstoun Stadium"
+  },
+  {
+    "slug": "leinster",
+    "name": "Leinster Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "IE",
+    "aliases": [
+      "leinster",
+      "leinster rugby"
+    ],
+    "founded": 1879,
+    "city": "Dublin",
+    "stadium": "RDS Arena"
+  },
+  {
+    "slug": "lions",
+    "name": "Lions",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "ZA",
+    "aliases": [
+      "emirates lions",
+      "lions"
+    ],
+    "founded": 1889,
+    "city": "Johannesburg",
+    "stadium": "Ellis Park Stadium"
+  },
+  {
+    "slug": "munster",
+    "name": "Munster Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "IE",
+    "aliases": [
+      "munster",
+      "munster rugby"
+    ],
+    "founded": 1879,
+    "city": "Limerick",
+    "stadium": "Thomond Park"
+  },
+  {
+    "slug": "ospreys",
+    "name": "Ospreys",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "GB",
+    "aliases": [
+      "ospreys"
+    ],
+    "founded": 2003,
+    "city": "Swansea"
+  },
+  {
+    "slug": "scarlets",
+    "name": "Scarlets",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "GB",
+    "aliases": [
+      "llanelli scarlets",
+      "scarlets"
+    ],
+    "founded": 2003,
+    "city": "Llanelli",
+    "stadium": "Parc y Scarlets"
+  },
+  {
+    "slug": "sharks",
+    "name": "Sharks",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "ZA",
+    "aliases": [
+      "cell c sharks",
+      "sharks"
+    ],
+    "founded": 1890,
+    "city": "Durban",
+    "stadium": "Kings Park Stadium"
+  },
+  {
+    "slug": "stormers",
+    "name": "Stormers",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "ZA",
+    "aliases": [
+      "stormers"
+    ],
+    "founded": 1883,
+    "city": "Cape Town",
+    "stadium": "DHL Stadium"
+  },
+  {
+    "slug": "ulster",
+    "name": "Ulster Rugby",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "GB",
+    "aliases": [
+      "ulster",
+      "ulster rugby"
+    ],
+    "founded": 1879,
+    "city": "Belfast",
+    "stadium": "Ravenhill Stadium"
+  },
+  {
+    "slug": "zebre-parma",
+    "name": "Zebre Parma",
+    "sport": "rugby",
+    "type": "club",
+    "league": "united-rugby-championship",
+    "country": "IT",
+    "aliases": [
+      "zebre",
+      "zebre parma"
+    ],
+    "founded": 2012,
+    "city": "Parma",
+    "stadium": "Stadio Sergio Lanfranchi"
   },
   {
     "slug": "argentina-rugby",
