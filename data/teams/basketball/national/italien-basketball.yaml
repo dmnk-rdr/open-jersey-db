@@ -1,0 +1,14 @@
+slug: italien-basketball
+name: Italien
+sport: basketball
+type: national
+league: null
+country: IT
+aliases:
+- italien basketball
+- italy basketball
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Italy_men's_national_basketball_team ("Kit"-Sektion,
+# Manufacturer: 2023–present Macron, davor 2017–2023 Spalding).
+kit_suppliers:
+- { manufacturer: Macron, from: 2023 }
+- { manufacturer: Spalding, from: 2017, to: 2023 }

@@ -1,0 +1,14 @@
+slug: tuerkei-basketball
+name: Türkei
+sport: basketball
+type: national
+league: null
+country: TR
+aliases:
+- tuerkei basketball
+- turkei basketball
+- turkey basketball
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Turkey_men's_national_basketball_team ("Kit"-Sektion,
+# Manufacturer: 2020–present Puma).
+kit_suppliers:
+- { manufacturer: Puma, from: 2020 }

@@ -1,0 +1,14 @@
+slug: argentinien-basketball
+name: Argentinien
+sport: basketball
+type: national
+league: null
+country: AR
+aliases:
+- argentinien basketball
+- argentina basketball
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Argentina_men's_national_basketball_team ("Kit
+# manufacturer"-Tabelle: seit August 2025 Peak, Vertrag bis 2032, davor Nike/Air Jordan bis 2020).
+kit_suppliers:
+- { manufacturer: Peak, from: 2025 }
+- { manufacturer: Nike, to: 2020 }

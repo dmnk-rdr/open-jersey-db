@@ -1,0 +1,13 @@
+slug: georgien-basketball
+name: Georgien
+sport: basketball
+type: national
+league: null
+country: GE
+aliases:
+- georgien basketball
+- georgia basketball
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Georgia_men's_national_basketball_team ("Kit"-Sektion,
+# Manufacturer: 2015–present Spalding).
+kit_suppliers:
+- { manufacturer: Spalding, from: 2015 }

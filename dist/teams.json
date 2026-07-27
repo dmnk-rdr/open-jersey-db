@@ -1577,6 +1577,227 @@
     "stadium": "Žalgiris Arena"
   },
   {
+    "slug": "baloncesto-malaga",
+    "name": "Baloncesto Málaga",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "baloncesto malaga",
+      "unicaja",
+      "unicaja baloncesto"
+    ],
+    "founded": 1977,
+    "city": "Málaga",
+    "stadium": "Palacio de Deportes José María Martín Carpena"
+  },
+  {
+    "slug": "basket-zaragoza",
+    "name": "Basket Zaragoza",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "basket zaragoza",
+      "casademont zaragoza",
+      "cai zaragoza"
+    ],
+    "founded": 2002,
+    "city": "Zaragoza",
+    "stadium": "Pabellón Príncipe Felipe"
+  },
+  {
+    "slug": "basquet-girona",
+    "name": "Bàsquet Girona",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "basquet girona",
+      "basquet girona basketball"
+    ],
+    "founded": 2014,
+    "city": "Girona",
+    "stadium": "Fontajau"
+  },
+  {
+    "slug": "basquet-manresa",
+    "name": "Bàsquet Manresa",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "basquet manresa",
+      "baxi manresa"
+    ],
+    "founded": 1931,
+    "city": "Manresa",
+    "stadium": "Nou Congost"
+  },
+  {
+    "slug": "bc-andorra",
+    "name": "BC Andorra",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "AD",
+    "aliases": [
+      "bc andorra",
+      "morabanc andorra"
+    ],
+    "founded": 1970,
+    "city": "Andorra la Vella",
+    "stadium": "Poliesportiu d'Andorra"
+  },
+  {
+    "slug": "bilbao-basket",
+    "name": "Bilbao Basket",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "bilbao basket",
+      "surne bilbao",
+      "surne bilbao basket"
+    ],
+    "founded": 2000,
+    "city": "Bilbao",
+    "stadium": "Bilbao Arena"
+  },
+  {
+    "slug": "cb-breogan",
+    "name": "CB Breogán",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "cb breogan",
+      "rio breogan",
+      "río breogán"
+    ],
+    "founded": 1966,
+    "city": "Lugo",
+    "stadium": "Pazo dos Deportes"
+  },
+  {
+    "slug": "cb-canarias",
+    "name": "CB Canarias",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "cb canarias",
+      "la laguna tenerife",
+      "canarias basketball"
+    ],
+    "founded": 1939,
+    "city": "San Cristóbal de La Laguna",
+    "stadium": "Pabellón Insular Santiago Martín"
+  },
+  {
+    "slug": "cb-gran-canaria",
+    "name": "CB Gran Canaria",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "cb gran canaria",
+      "gran canaria",
+      "dreamland gran canaria"
+    ],
+    "founded": 1963,
+    "city": "Las Palmas",
+    "stadium": "Gran Canaria Arena"
+  },
+  {
+    "slug": "cb-san-pablo-burgos",
+    "name": "CB San Pablo Burgos",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "cb san pablo burgos",
+      "san pablo burgos",
+      "recoletas salud san pablo burgos"
+    ],
+    "founded": 1994,
+    "city": "Burgos",
+    "stadium": "Coliseum Burgos"
+  },
+  {
+    "slug": "forca-lleida-ce",
+    "name": "Força Lleida CE",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "forca lleida",
+      "força lleida",
+      "hiopos lleida"
+    ],
+    "founded": 2012,
+    "city": "Lleida",
+    "stadium": "Espai Fruita Barris Nord"
+  },
+  {
+    "slug": "fundacion-cb-granada",
+    "name": "Fundación CB Granada",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "fundacion cb granada",
+      "cb granada",
+      "coviran granada",
+      "covirán granada"
+    ],
+    "founded": 2006,
+    "city": "Granada",
+    "stadium": "Palacio Municipal de Deportes de Granada"
+  },
+  {
+    "slug": "joventut-badalona",
+    "name": "Joventut Badalona",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "joventut badalona",
+      "asisa joventut",
+      "badalona basket"
+    ],
+    "founded": 1930,
+    "city": "Badalona",
+    "stadium": "Palau Municipal d'Esports de Badalona"
+  },
+  {
+    "slug": "ucam-murcia-cb",
+    "name": "UCAM Murcia CB",
+    "sport": "basketball",
+    "type": "club",
+    "league": "liga-acb",
+    "country": "ES",
+    "aliases": [
+      "ucam murcia",
+      "ucam murcia cb"
+    ],
+    "founded": 1985,
+    "city": "Murcia",
+    "stadium": "Palacio de Deportes de Murcia"
+  },
+  {
     "slug": "atlanta-hawks",
     "name": "Atlanta Hawks",
     "sport": "basketball",
@@ -2032,6 +2253,28 @@
     "wikidata": "Q169165"
   },
   {
+    "slug": "argentinien-basketball",
+    "name": "Argentinien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "AR",
+    "aliases": [
+      "argentinien basketball",
+      "argentina basketball"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Peak",
+        "from": 2025
+      },
+      {
+        "manufacturer": "Nike",
+        "to": 2020
+      }
+    ]
+  },
+  {
     "slug": "australien-basketball",
     "name": "Australien",
     "sport": "basketball",
@@ -2042,6 +2285,44 @@
       "australien basketball",
       "australia basketball",
       "boomers"
+    ]
+  },
+  {
+    "slug": "bosnien-und-herzegowina-basketball",
+    "name": "Bosnien und Herzegowina",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "BA",
+    "aliases": [
+      "bosnien und herzegowina basketball",
+      "bosnien basketball",
+      "bosnia and herzegovina basketball"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "GB3",
+        "from": 2021
+      }
+    ]
+  },
+  {
+    "slug": "brasilien-basketball",
+    "name": "Brasilien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "BR",
+    "aliases": [
+      "brasilien basketball",
+      "brazil basketball",
+      "brasil basketball"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Nike",
+        "from": 2010
+      }
     ]
   },
   {
@@ -2070,6 +2351,18 @@
     ]
   },
   {
+    "slug": "finnland-basketball",
+    "name": "Finnland",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "FI",
+    "aliases": [
+      "finnland basketball",
+      "finland basketball"
+    ]
+  },
+  {
     "slug": "frankreich-basketball",
     "name": "Frankreich",
     "sport": "basketball",
@@ -2079,6 +2372,24 @@
     "aliases": [
       "frankreich basketball",
       "france basketball"
+    ]
+  },
+  {
+    "slug": "georgien-basketball",
+    "name": "Georgien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "GE",
+    "aliases": [
+      "georgien basketball",
+      "georgia basketball"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Spalding",
+        "from": 2015
+      }
     ]
   },
   {
@@ -2094,6 +2405,79 @@
     ]
   },
   {
+    "slug": "grossbritannien-basketball",
+    "name": "Großbritannien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "GB",
+    "aliases": [
+      "grossbritannien basketball",
+      "great britain basketball"
+    ]
+  },
+  {
+    "slug": "israel-basketball",
+    "name": "Israel",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "IL",
+    "aliases": [
+      "israel basketball"
+    ]
+  },
+  {
+    "slug": "italien-basketball",
+    "name": "Italien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "IT",
+    "aliases": [
+      "italien basketball",
+      "italy basketball"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Macron",
+        "from": 2023
+      },
+      {
+        "manufacturer": "Spalding",
+        "from": 2017,
+        "to": 2023
+      }
+    ]
+  },
+  {
+    "slug": "japan-basketball",
+    "name": "Japan",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "JP",
+    "aliases": [
+      "japan basketball"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Jordan Brand",
+        "from": 2022
+      },
+      {
+        "manufacturer": "Nike",
+        "from": 2021,
+        "to": 2022
+      },
+      {
+        "manufacturer": "Under Armour",
+        "from": 2015,
+        "to": 2019
+      }
+    ]
+  },
+  {
     "slug": "kanada-basketball",
     "name": "Kanada",
     "sport": "basketball",
@@ -2106,6 +2490,30 @@
     ]
   },
   {
+    "slug": "kroatien-basketball",
+    "name": "Kroatien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "HR",
+    "aliases": [
+      "kroatien basketball",
+      "croatia basketball"
+    ]
+  },
+  {
+    "slug": "lettland-basketball",
+    "name": "Lettland",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "LV",
+    "aliases": [
+      "lettland basketball",
+      "latvia basketball"
+    ]
+  },
+  {
     "slug": "litauen-basketball",
     "name": "Litauen",
     "sport": "basketball",
@@ -2115,6 +2523,68 @@
     "aliases": [
       "litauen basketball",
       "lithuania basketball"
+    ]
+  },
+  {
+    "slug": "montenegro-basketball",
+    "name": "Montenegro",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "ME",
+    "aliases": [
+      "montenegro basketball"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Dhika",
+        "from": 2023
+      },
+      {
+        "manufacturer": "Peak",
+        "from": 2011,
+        "to": 2023
+      }
+    ]
+  },
+  {
+    "slug": "nigeria-basketball",
+    "name": "Nigeria",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "NG",
+    "aliases": [
+      "nigeria basketball"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Peak",
+        "from": 2019
+      }
+    ]
+  },
+  {
+    "slug": "polen-basketball",
+    "name": "Polen",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "PL",
+    "aliases": [
+      "polen basketball",
+      "poland basketball"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 2026
+      },
+      {
+        "manufacturer": "4F",
+        "from": 2022,
+        "to": 2025
+      }
     ]
   },
   {
@@ -2151,6 +2621,38 @@
     "aliases": [
       "spanien basketball",
       "spain basketball"
+    ]
+  },
+  {
+    "slug": "tschechien-basketball",
+    "name": "Tschechien",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "CZ",
+    "aliases": [
+      "tschechien basketball",
+      "czech republic basketball",
+      "czechia basketball"
+    ]
+  },
+  {
+    "slug": "tuerkei-basketball",
+    "name": "Türkei",
+    "sport": "basketball",
+    "type": "national",
+    "league": null,
+    "country": "TR",
+    "aliases": [
+      "tuerkei basketball",
+      "turkei basketball",
+      "turkey basketball"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "Puma",
+        "from": 2020
+      }
     ]
   },
   {
@@ -3129,6 +3631,97 @@
     ]
   },
   {
+    "slug": "aso-chlef",
+    "name": "ASO Chlef",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "aso chlef",
+      "a.s.o. chlef",
+      "chlef"
+    ],
+    "city": "Chlef",
+    "stadium": "Mohamed Boumezrag Stadium"
+  },
+  {
+    "slug": "cr-belouizdad",
+    "name": "CR Belouizdad",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "cr belouizdad",
+      "chabab riadhi belouizdad",
+      "belouizdad"
+    ],
+    "founded": 1962,
+    "city": "Algiers",
+    "stadium": "Nelson Mandela Stadium"
+  },
+  {
+    "slug": "cs-constantine",
+    "name": "CS Constantine",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "cs constantine",
+      "csc constantine"
+    ],
+    "city": "Constantine",
+    "stadium": "Chahid Hamlaoui Stadium"
+  },
+  {
+    "slug": "es-ben-aknoun",
+    "name": "ES Ben Aknoun",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "es ben aknoun",
+      "etoile sportive ben aknoun",
+      "ben aknoun"
+    ],
+    "city": "Algiers",
+    "stadium": "20 August 1955 Stadium"
+  },
+  {
+    "slug": "es-mostaganem",
+    "name": "ES Mostaganem",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "es mostaganem",
+      "etoile sportive mostaganem",
+      "mostaganem"
+    ],
+    "city": "Mostaganem",
+    "stadium": "Mohamed Bensaïd Stadium"
+  },
+  {
+    "slug": "es-setif",
+    "name": "ES Sétif",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "es setif",
+      "entente sportive setif",
+      "setif"
+    ],
+    "founded": 1958,
+    "city": "Sétif",
+    "stadium": "8 May 1945 Stadium"
+  },
+  {
     "slug": "js-kabylie",
     "name": "JS Kabylie",
     "sport": "football",
@@ -3139,6 +3732,144 @@
       "js kabylie"
     ],
     "founded": 1946
+  },
+  {
+    "slug": "js-saoura",
+    "name": "JS Saoura",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "js saoura",
+      "jeunesse sportive saoura",
+      "saoura"
+    ],
+    "city": "Béchar",
+    "stadium": "20 August 1955 Stadium"
+  },
+  {
+    "slug": "mb-rouissat",
+    "name": "MB Rouissat",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "mb rouissat",
+      "mouloudia baladiat rouissat",
+      "rouissat"
+    ],
+    "city": "Rouissat",
+    "stadium": "18 February Stadium"
+  },
+  {
+    "slug": "mc-alger",
+    "name": "MC Alger",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "mc alger",
+      "mouloudia club d'alger",
+      "mouloudia alger",
+      "mca"
+    ],
+    "founded": 1921,
+    "city": "Algiers",
+    "stadium": "Ali La Pointe Stadium"
+  },
+  {
+    "slug": "mc-el-bayadh",
+    "name": "MC El Bayadh",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "mc el bayadh",
+      "mouloudia el bayadh",
+      "el bayadh"
+    ],
+    "city": "El Bayadh",
+    "stadium": "Zakaria Medjdoub Stadium"
+  },
+  {
+    "slug": "mc-oran",
+    "name": "MC Oran",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "mc oran",
+      "mouloudia club d'oran",
+      "mouloudia oran"
+    ],
+    "city": "Oran",
+    "stadium": "Miloud Hadefi Stadium"
+  },
+  {
+    "slug": "olympique-akbou",
+    "name": "Olympique Akbou",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "olympique akbou",
+      "o akbou",
+      "akbou"
+    ],
+    "city": "Akbou",
+    "stadium": "Maghrebi Unity Stadium"
+  },
+  {
+    "slug": "paradou-ac",
+    "name": "Paradou AC",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "paradou ac",
+      "paradou athletic club",
+      "paradou"
+    ],
+    "city": "Algiers",
+    "stadium": "20 August 1955 Stadium"
+  },
+  {
+    "slug": "usm-alger",
+    "name": "USM Alger",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "usm alger",
+      "union sportive medina d'alger",
+      "usma"
+    ],
+    "founded": 1937,
+    "city": "Algiers",
+    "stadium": "Stade du 5 Juillet"
+  },
+  {
+    "slug": "usm-khenchela",
+    "name": "USM Khenchela",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "usm khenchela",
+      "union sportive medina khenchela",
+      "khenchela"
+    ],
+    "city": "Khenchela",
+    "stadium": "Amar Hamam Stadium"
   },
   {
     "slug": "austria-wien",
@@ -4270,6 +5001,21 @@
     "founded": 1913
   },
   {
+    "slug": "1-fc-slovacko",
+    "name": "1. FC Slovácko",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "1. fc slovacko",
+      "fc slovacko",
+      "slovacko"
+    ],
+    "city": "Uherské Hradiště",
+    "stadium": "Městský fotbalový stadion Miroslava Valenty"
+  },
+  {
     "slug": "ac-sparta-praha",
     "name": "AC Sparta Praha",
     "sport": "football",
@@ -4285,6 +5031,219 @@
       "sparta de praga"
     ],
     "founded": 1893
+  },
+  {
+    "slug": "bohemians-1905",
+    "name": "Bohemians 1905",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "bohemians 1905",
+      "bohemians praha 1905",
+      "fk bohemians praha 1905",
+      "klokani"
+    ],
+    "founded": 1905,
+    "city": "Prague",
+    "stadium": "Ďolíček"
+  },
+  {
+    "slug": "fc-banik-ostrava",
+    "name": "FC Baník Ostrava",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "fc banik ostrava",
+      "banik ostrava",
+      "banik"
+    ],
+    "city": "Ostrava",
+    "stadium": "Městský stadion (Ostrava)"
+  },
+  {
+    "slug": "fc-hradec-kralove",
+    "name": "FC Hradec Králové",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "fc hradec kralove",
+      "hradec kralove",
+      "hradec"
+    ],
+    "city": "Hradec Králové",
+    "stadium": "Malšovická aréna"
+  },
+  {
+    "slug": "fc-slovan-liberec",
+    "name": "FC Slovan Liberec",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "fc slovan liberec",
+      "slovan liberec",
+      "liberec"
+    ],
+    "city": "Liberec",
+    "stadium": "Stadion u Nisy"
+  },
+  {
+    "slug": "fc-viktoria-plzen",
+    "name": "FC Viktoria Plzeň",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "fc viktoria plzen",
+      "viktoria plzen",
+      "plzen"
+    ],
+    "founded": 1911,
+    "city": "Plzeň",
+    "stadium": "Doosan Arena"
+  },
+  {
+    "slug": "fc-zlin",
+    "name": "FC Zlín",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "fc zlin",
+      "zlin"
+    ],
+    "city": "Zlín",
+    "stadium": "Letná Stadion"
+  },
+  {
+    "slug": "fk-dukla-praha",
+    "name": "FK Dukla Praha",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "fk dukla praha",
+      "dukla praha",
+      "dukla prague",
+      "fk dukla prague"
+    ],
+    "founded": 1948,
+    "city": "Prague",
+    "stadium": "Stadion Juliska"
+  },
+  {
+    "slug": "fk-jablonec",
+    "name": "FK Jablonec",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "fk jablonec",
+      "jablonec",
+      "jablonec nad nisou"
+    ],
+    "city": "Jablonec nad Nisou",
+    "stadium": "Stadion Střelnice"
+  },
+  {
+    "slug": "fk-mlada-boleslav",
+    "name": "FK Mladá Boleslav",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "fk mlada boleslav",
+      "mlada boleslav",
+      "boleslav"
+    ],
+    "city": "Mladá Boleslav",
+    "stadium": "Lokotrans Aréna"
+  },
+  {
+    "slug": "fk-pardubice",
+    "name": "FK Pardubice",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "fk pardubice",
+      "pardubice"
+    ],
+    "city": "Pardubice",
+    "stadium": "CFIG Arena"
+  },
+  {
+    "slug": "fk-teplice",
+    "name": "FK Teplice",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "fk teplice",
+      "teplice"
+    ],
+    "city": "Teplice",
+    "stadium": "Na Stínadlech"
+  },
+  {
+    "slug": "mfk-karvina",
+    "name": "MFK Karviná",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "mfk karvina",
+      "karvina"
+    ],
+    "city": "Karviná",
+    "stadium": "Městský stadion (Karviná)"
+  },
+  {
+    "slug": "sk-sigma-olomouc",
+    "name": "SK Sigma Olomouc",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "sk sigma olomouc",
+      "sigma olomouc",
+      "sigma"
+    ],
+    "city": "Olomouc",
+    "stadium": "Andrův stadion"
+  },
+  {
+    "slug": "sk-slavia-praha",
+    "name": "SK Slavia Praha",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "sk slavia praha",
+      "slavia praha",
+      "slavia prague",
+      "sk slavia prague"
+    ],
+    "founded": 1892,
+    "city": "Prague",
+    "stadium": "Fortuna Arena"
   },
   {
     "slug": "aalborg-bk",
@@ -5551,6 +6510,38 @@
     "wikidata": "Q10315"
   },
   {
+    "slug": "atlas-fc",
+    "name": "Atlas FC",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "atlas fc",
+      "club atlas",
+      "atlas"
+    ],
+    "founded": 1916,
+    "city": "Guadalajara, Jalisco",
+    "stadium": "Estadio Jalisco"
+  },
+  {
+    "slug": "atletico-san-luis",
+    "name": "Atlético San Luis",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "atletico san luis",
+      "club atletico de san luis",
+      "san luis"
+    ],
+    "founded": 2013,
+    "city": "San Luis Potosí",
+    "stadium": "Estadio Libertad Financiera"
+  },
+  {
     "slug": "cd-guadalajara",
     "name": "C.D. Guadalajara",
     "sport": "football",
@@ -5580,6 +6571,23 @@
     "founded": 1945
   },
   {
+    "slug": "cf-pachuca",
+    "name": "CF Pachuca",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "cf pachuca",
+      "club de futbol pachuca",
+      "pachuca",
+      "tuzos"
+    ],
+    "founded": 1892,
+    "city": "Pachuca, Hidalgo",
+    "stadium": "Estadio Hidalgo"
+  },
+  {
     "slug": "club-america",
     "name": "Club América",
     "sport": "football",
@@ -5593,6 +6601,133 @@
     "founded": 1916
   },
   {
+    "slug": "club-leon",
+    "name": "Club León",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "club leon",
+      "leon fc",
+      "leon"
+    ],
+    "founded": 1944,
+    "city": "León, Guanajuato",
+    "stadium": "Estadio León"
+  },
+  {
+    "slug": "club-necaxa",
+    "name": "Club Necaxa",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "club necaxa",
+      "necaxa"
+    ],
+    "founded": 1923,
+    "city": "Aguascalientes",
+    "stadium": "Estadio Victoria"
+  },
+  {
+    "slug": "club-puebla",
+    "name": "Club Puebla",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "club puebla",
+      "puebla fc",
+      "puebla"
+    ],
+    "founded": 1944,
+    "city": "Puebla",
+    "stadium": "Estadio Cuauhtémoc"
+  },
+  {
+    "slug": "club-tijuana",
+    "name": "Club Tijuana",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "club tijuana",
+      "tijuana",
+      "xolos"
+    ],
+    "founded": 2007,
+    "city": "Tijuana, Baja California",
+    "stadium": "Estadio Caliente"
+  },
+  {
+    "slug": "cruz-azul",
+    "name": "Cruz Azul",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "cruz azul",
+      "cruz azul fc",
+      "la maquina"
+    ],
+    "founded": 1927,
+    "city": "Mexico City"
+  },
+  {
+    "slug": "deportivo-toluca",
+    "name": "Deportivo Toluca",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "deportivo toluca",
+      "toluca fc",
+      "toluca"
+    ],
+    "founded": 1917,
+    "city": "Toluca, State of Mexico",
+    "stadium": "Estadio Nemesio Díez"
+  },
+  {
+    "slug": "fc-juarez",
+    "name": "FC Juárez",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "fc juarez",
+      "club de futbol juarez",
+      "juarez",
+      "bravos de juarez"
+    ],
+    "founded": 2015,
+    "city": "Ciudad Juárez, Chihuahua",
+    "stadium": "Estadio Olímpico Benito Juárez"
+  },
+  {
+    "slug": "mazatlan-fc",
+    "name": "Mazatlán FC",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "mazatlan fc",
+      "mazatlan futbol club",
+      "mazatlan"
+    ],
+    "founded": 2020,
+    "city": "Mazatlán, Sinaloa",
+    "stadium": "Estadio El Encanto"
+  },
+  {
     "slug": "pumas-unam",
     "name": "Pumas UNAM",
     "sport": "football",
@@ -5604,6 +6739,39 @@
       "club universidad nacional"
     ],
     "founded": 1954
+  },
+  {
+    "slug": "queretaro-fc",
+    "name": "Querétaro FC",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "queretaro fc",
+      "queretaro futbol club",
+      "queretaro",
+      "gallos blancos"
+    ],
+    "founded": 1950,
+    "city": "Querétaro",
+    "stadium": "Estadio Corregidora"
+  },
+  {
+    "slug": "santos-laguna",
+    "name": "Santos Laguna",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "santos laguna",
+      "club santos laguna",
+      "santos"
+    ],
+    "founded": 1983,
+    "city": "Torreón, Coahuila",
+    "stadium": "Estadio Corona"
   },
   {
     "slug": "tigres-uanl",
@@ -9799,6 +10967,36 @@
     ]
   },
   {
+    "slug": "anagennisi-karditsa",
+    "name": "Anagennisi Karditsa FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "anagennisi karditsa fc",
+      "anagennisi karditsa",
+      "karditsa"
+    ],
+    "city": "Karditsa",
+    "stadium": "Karditsa Municipal Stadium"
+  },
+  {
+    "slug": "asteras-tripolis-b",
+    "name": "Asteras Tripolis B",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "asteras tripolis b",
+      "asteras b",
+      "asteras tripolis reserves"
+    ],
+    "city": "Tripoli",
+    "stadium": "Theodoros Kolokotronis Stadium"
+  },
+  {
     "slug": "athens-kallithea",
     "name": "Athens Kallithea FC",
     "sport": "football",
@@ -9813,6 +11011,256 @@
       "gs kallithéa"
     ],
     "founded": 1919
+  },
+  {
+    "slug": "chania",
+    "name": "Chania FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "chania fc",
+      "chania"
+    ],
+    "city": "Chania",
+    "stadium": "Perivolia Municipal Stadium"
+  },
+  {
+    "slug": "egaleo",
+    "name": "Egaleo FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "egaleo fc",
+      "egaleo",
+      "gs egaleo"
+    ],
+    "city": "Aigaleo",
+    "stadium": "Stavros Mavrothalassitis Stadium"
+  },
+  {
+    "slug": "hellas-syros",
+    "name": "Hellas Syros FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "hellas syros fc",
+      "hellas syros"
+    ],
+    "city": "Ermoupoli",
+    "stadium": "Ermoupoli Municipal Stadium"
+  },
+  {
+    "slug": "ilioupoli",
+    "name": "GS Ilioupolis",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "gs ilioupolis",
+      "ilioupoli fc",
+      "ilioupoli"
+    ],
+    "city": "Ilioupoli",
+    "stadium": "Ilioupoli Municipal Stadium"
+  },
+  {
+    "slug": "iraklis",
+    "name": "Iraklis FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "iraklis fc",
+      "iraklis thessaloniki",
+      "iraklis"
+    ],
+    "founded": 1908,
+    "city": "Thessaloniki",
+    "stadium": "Kaftanzoglio Stadium"
+  },
+  {
+    "slug": "kalamata",
+    "name": "Kalamata FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "kalamata fc",
+      "kalamata"
+    ],
+    "city": "Kalamata",
+    "stadium": "Kalamata Municipal Stadium"
+  },
+  {
+    "slug": "kampaniakos",
+    "name": "Kampaniakos FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "kampaniakos fc",
+      "kampaniakos"
+    ],
+    "city": "Chalastra",
+    "stadium": "Chalastra Municipal Stadium"
+  },
+  {
+    "slug": "kavala",
+    "name": "Kavala FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "kavala fc",
+      "kavala"
+    ],
+    "founded": 1926,
+    "city": "Kavala",
+    "stadium": "Anthi Karagianni Stadium"
+  },
+  {
+    "slug": "makedonikos",
+    "name": "Makedonikos FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "makedonikos fc",
+      "makedonikos"
+    ],
+    "city": "Efkarpia",
+    "stadium": "Makedonikos Stadium"
+  },
+  {
+    "slug": "marko-1927",
+    "name": "Marko 1927 FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "marko 1927 fc",
+      "marko 1927",
+      "marko markopoulo"
+    ],
+    "city": "Markopoulo",
+    "stadium": "Markopoulo Municipal Stadium"
+  },
+  {
+    "slug": "nestos-chrysoupoli",
+    "name": "Nestos Chrysoupoli FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "nestos chrysoupoli fc",
+      "nestos chrysoupoli",
+      "nestos"
+    ],
+    "city": "Chrysoupoli",
+    "stadium": "Chrysoupoli Municipal Stadium"
+  },
+  {
+    "slug": "niki-volos",
+    "name": "Niki Volos FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "niki volos fc",
+      "niki volos"
+    ],
+    "city": "Volos",
+    "stadium": "Pantelis Magoulas Stadium"
+  },
+  {
+    "slug": "olympiacos-b",
+    "name": "Olympiacos FC B",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "olympiacos fc b",
+      "olympiacos b",
+      "olympiakos b"
+    ],
+    "city": "Piraeus",
+    "stadium": "Rentis Training Centre"
+  },
+  {
+    "slug": "panargiakos",
+    "name": "Panargiakos FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "panargiakos fc",
+      "panargiakos"
+    ],
+    "city": "Argos",
+    "stadium": "Argos Municipal Stadium"
+  },
+  {
+    "slug": "panionios",
+    "name": "Panionios FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "panionios fc",
+      "panionios nea smyrni"
+    ],
+    "founded": 1890,
+    "city": "Nea Smyrni",
+    "stadium": "Nea Smyrni Stadium"
+  },
+  {
+    "slug": "paok-b",
+    "name": "PAOK B",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "paok b",
+      "paok fc b",
+      "paok reserves"
+    ],
+    "city": "Kalamaria",
+    "stadium": "Kalamaria Stadium"
+  },
+  {
+    "slug": "pas-giannina",
+    "name": "PAS Giannina FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "pas giannina fc",
+      "pas giannina",
+      "giannina"
+    ],
+    "founded": 1966,
+    "city": "Ioannina",
+    "stadium": "Zosimades Stadium"
   },
   {
     "slug": "alanyaspor",

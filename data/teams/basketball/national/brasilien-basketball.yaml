@@ -1,0 +1,14 @@
+slug: brasilien-basketball
+name: Brasilien
+sport: basketball
+type: national
+league: null
+country: BR
+aliases:
+- brasilien basketball
+- brazil basketball
+- brasil basketball
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Brazil_men's_national_basketball_team ("Kit"-Sektion,
+# Manufacturer: 2010–present Nike).
+kit_suppliers:
+- { manufacturer: Nike, from: 2010 }

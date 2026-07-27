@@ -47,6 +47,11 @@
     "1 fc saarbrucken",
     "1. fc saarbrücken"
   ],
+  "1. FC Slovácko": [
+    "1. fc slovacko",
+    "fc slovacko",
+    "slovacko"
+  ],
   "1. FC Union Berlin": [
     "1 fc union berlin",
     "fc union berlin",
@@ -193,6 +198,11 @@
   "AS Soliman": [
     "as soliman"
   ],
+  "ASO Chlef": [
+    "a.s.o. chlef",
+    "aso chlef",
+    "chlef"
+  ],
   "AVS": [],
   "AZ Alkmaar": [
     "az alkmaar"
@@ -321,6 +331,11 @@
     "anadolu efes",
     "efes istanbul"
   ],
+  "Anagennisi Karditsa FC": [
+    "anagennisi karditsa",
+    "anagennisi karditsa fc",
+    "karditsa"
+  ],
   "Anaheim Ducks": [
     "anaheim ducks"
   ],
@@ -339,7 +354,9 @@
   "Argentinien": [
     "albiceleste",
     "argentina",
+    "argentina basketball",
     "argentinien",
+    "argentinien basketball",
     "argentinisches"
   ],
   "Argentinos Juniors": [
@@ -364,6 +381,11 @@
   ],
   "Asteras Tripolis": [
     "asteras tripolis"
+  ],
+  "Asteras Tripolis B": [
+    "asteras b",
+    "asteras tripolis b",
+    "asteras tripolis reserves"
   ],
   "Aston Villa": [
     "aston",
@@ -414,6 +436,11 @@
     "atlanta united",
     "atlanta united fc"
   ],
+  "Atlas FC": [
+    "atlas",
+    "atlas fc",
+    "club atlas"
+  ],
   "Atlético Madrid": [
     "atl. de madrid",
     "atleti de madrid",
@@ -435,6 +462,11 @@
   "Atlético Mineiro": [
     "atletico mineiro",
     "atlético mineiro"
+  ],
+  "Atlético San Luis": [
+    "atletico san luis",
+    "club atletico de san luis",
+    "san luis"
   ],
   "Atlético Tucumán": [
     "atletico tucuman",
@@ -469,6 +501,10 @@
   "Avellino": [
     "avellino"
   ],
+  "BC Andorra": [
+    "bc andorra",
+    "morabanc andorra"
+  ],
   "BK Mladá Boleslav": [
     "bk mlada boleslav",
     "mlada boleslav",
@@ -481,6 +517,11 @@
   ],
   "Bahia": [
     "bahia"
+  ],
+  "Baloncesto Málaga": [
+    "baloncesto malaga",
+    "unicaja",
+    "unicaja baloncesto"
   ],
   "Baltimore Orioles": [
     "baltimore orioles"
@@ -496,6 +537,11 @@
   ],
   "Barracas Central": [
     "barracas central"
+  ],
+  "Basket Zaragoza": [
+    "basket zaragoza",
+    "cai zaragoza",
+    "casademont zaragoza"
   ],
   "Basketball Löwen Braunschweig": [
     "basketball lowen braunschweig",
@@ -542,6 +588,11 @@
     "besiktas jk",
     "beşiktaş"
   ],
+  "Bilbao Basket": [
+    "bilbao basket",
+    "surne bilbao",
+    "surne bilbao basket"
+  ],
   "Birmingham City": [
     "birmingham city"
   ],
@@ -555,6 +606,12 @@
   "Boca Juniors": [
     "boca juniors",
     "ca boca juniors"
+  ],
+  "Bohemians 1905": [
+    "bohemians 1905",
+    "bohemians praha 1905",
+    "fk bohemians praha 1905",
+    "klokani"
   ],
   "Borussia Dortmund": [
     "borussia dortmund 09",
@@ -573,8 +630,11 @@
     "bosna i hercegovina",
     "bosnia",
     "bosnia and herzegovina",
+    "bosnia and herzegovina basketball",
     "bosnien",
-    "bosnien und herzegowina"
+    "bosnien basketball",
+    "bosnien und herzegowina",
+    "bosnien und herzegowina basketball"
   ],
   "Boston Bruins": [
     "boston bruins"
@@ -590,8 +650,11 @@
   ],
   "Brasilien": [
     "brasil",
+    "brasil basketball",
     "brasilien",
+    "brasilien basketball",
     "brazil",
+    "brazil basketball",
     "bresil",
     "brésil",
     "selecao"
@@ -648,6 +711,14 @@
   "Burgos": [
     "burgos"
   ],
+  "Bàsquet Girona": [
+    "basquet girona",
+    "basquet girona basketball"
+  ],
+  "Bàsquet Manresa": [
+    "basquet manresa",
+    "baxi manresa"
+  ],
   "C.D. Guadalajara": [
     "cd guadalajara",
     "chivas",
@@ -661,6 +732,26 @@
     "club atlético osasuna",
     "osasuna",
     "osasuna pamplona"
+  ],
+  "CB Breogán": [
+    "cb breogan",
+    "rio breogan",
+    "río breogán"
+  ],
+  "CB Canarias": [
+    "canarias basketball",
+    "cb canarias",
+    "la laguna tenerife"
+  ],
+  "CB Gran Canaria": [
+    "cb gran canaria",
+    "dreamland gran canaria",
+    "gran canaria"
+  ],
+  "CB San Pablo Burgos": [
+    "cb san pablo burgos",
+    "recoletas salud san pablo burgos",
+    "san pablo burgos"
   ],
   "CD Nacional": [
     "cd nacional"
@@ -679,9 +770,20 @@
     "cf montréal",
     "montreal impact"
   ],
+  "CF Pachuca": [
+    "cf pachuca",
+    "club de futbol pachuca",
+    "pachuca",
+    "tuzos"
+  ],
   "COD Meknès": [
     "cod meknes",
     "cod meknès"
+  ],
+  "CR Belouizdad": [
+    "belouizdad",
+    "chabab riadhi belouizdad",
+    "cr belouizdad"
   ],
   "CR Flamengo": [
     "clube de regatas do flamengo",
@@ -691,6 +793,10 @@
   "CR Vasco da Gama": [
     "cr vasco da gama",
     "vasco da gama"
+  ],
+  "CS Constantine": [
+    "cs constantine",
+    "csc constantine"
   ],
   "CS Sfaxien": [
     "cs sfaxien"
@@ -754,6 +860,10 @@
   ],
   "Ceuta": [
     "ceuta"
+  ],
+  "Chania FC": [
+    "chania",
+    "chania fc"
   ],
   "Chapecoense": [
     "chapecoense"
@@ -831,6 +941,25 @@
     "club brügge",
     "fc brügge"
   ],
+  "Club León": [
+    "club leon",
+    "leon",
+    "leon fc"
+  ],
+  "Club Necaxa": [
+    "club necaxa",
+    "necaxa"
+  ],
+  "Club Puebla": [
+    "club puebla",
+    "puebla",
+    "puebla fc"
+  ],
+  "Club Tijuana": [
+    "club tijuana",
+    "tijuana",
+    "xolos"
+  ],
   "Cofidis": [
     "cofidis",
     "cofidis solutions credits",
@@ -865,6 +994,11 @@
     "coventry",
     "coventry city",
     "coventry city fc"
+  ],
+  "Cruz Azul": [
+    "cruz azul",
+    "cruz azul fc",
+    "la maquina"
   ],
   "Cruzeiro EC": [
     "cruzeiro",
@@ -955,6 +1089,11 @@
   ],
   "Deportivo Riestra": [
     "deportivo riestra"
+  ],
+  "Deportivo Toluca": [
+    "deportivo toluca",
+    "toluca",
+    "toluca fc"
   ],
   "Derby County": [
     "derby county",
@@ -1070,9 +1209,24 @@
     "ingolstadt panthers",
     "panthers ingolstadt"
   ],
+  "ES Ben Aknoun": [
+    "ben aknoun",
+    "es ben aknoun",
+    "etoile sportive ben aknoun"
+  ],
+  "ES Mostaganem": [
+    "es mostaganem",
+    "etoile sportive mostaganem",
+    "mostaganem"
+  ],
   "ES Métlaoui": [
     "es metlaoui",
     "es métlaoui"
+  ],
+  "ES Sétif": [
+    "entente sportive setif",
+    "es setif",
+    "setif"
   ],
   "ES Zarzis": [
     "es zarzis"
@@ -1093,6 +1247,11 @@
   ],
   "Edmonton Oilers": [
     "edmonton oilers"
+  ],
+  "Egaleo FC": [
+    "egaleo",
+    "egaleo fc",
+    "gs egaleo"
   ],
   "Eibar": [
     "eibar"
@@ -1189,6 +1348,11 @@
   "FC Augsburg": [
     "augsburg",
     "fc augsburg"
+  ],
+  "FC Baník Ostrava": [
+    "banik",
+    "banik ostrava",
+    "fc banik ostrava"
   ],
   "FC Barcelona Bàsquet": [
     "barcelona basketball",
@@ -1312,8 +1476,19 @@
   "FC Groningen": [
     "fc groningen"
   ],
+  "FC Hradec Králové": [
+    "fc hradec kralove",
+    "hradec",
+    "hradec kralove"
+  ],
   "FC Ingolstadt 04": [
     "fc ingolstadt 04"
+  ],
+  "FC Juárez": [
+    "bravos de juarez",
+    "club de futbol juarez",
+    "fc juarez",
+    "juarez"
   ],
   "FC København": [
     "copenhagen",
@@ -1397,6 +1572,11 @@
   "FC Sion": [
     "fc sion"
   ],
+  "FC Slovan Liberec": [
+    "fc slovan liberec",
+    "liberec",
+    "slovan liberec"
+  ],
   "FC Southampton": [
     "s.f.c.",
     "sfc",
@@ -1471,6 +1651,11 @@
     "fc viktoria koln",
     "fc viktoria köln"
   ],
+  "FC Viktoria Plzeň": [
+    "fc viktoria plzen",
+    "plzen",
+    "viktoria plzen"
+  ],
   "FC Villarreal": [
     "vcf",
     "villarreal",
@@ -1490,12 +1675,27 @@
   "FC Winterthur": [
     "fc winterthur"
   ],
+  "FC Zlín": [
+    "fc zlin",
+    "zlin"
+  ],
   "FC Zürich": [
     "fc zurich",
     "fc zürich"
   ],
+  "FK Dukla Praha": [
+    "dukla prague",
+    "dukla praha",
+    "fk dukla prague",
+    "fk dukla praha"
+  ],
   "FK IMT": [
     "fk imt"
+  ],
+  "FK Jablonec": [
+    "fk jablonec",
+    "jablonec",
+    "jablonec nad nisou"
   ],
   "FK Javor": [
     "fk javor"
@@ -1503,11 +1703,20 @@
   "FK Mladost": [
     "fk mladost"
   ],
+  "FK Mladá Boleslav": [
+    "boleslav",
+    "fk mlada boleslav",
+    "mlada boleslav"
+  ],
   "FK Napredak": [
     "fk napredak"
   ],
   "FK Novi Pazar": [
     "fk novi pazar"
+  ],
+  "FK Pardubice": [
+    "fk pardubice",
+    "pardubice"
   ],
   "FK Partizan Belgrad": [
     "fk partizan belgrad",
@@ -1530,6 +1739,10 @@
   ],
   "FK TSC": [
     "fk tsc"
+  ],
+  "FK Teplice": [
+    "fk teplice",
+    "teplice"
   ],
   "FK Vojvodina": [
     "fk vojvodina"
@@ -1571,8 +1784,10 @@
   ],
   "Finnland": [
     "finland",
+    "finland basketball",
     "finland national team",
     "finnland",
+    "finnland basketball",
     "finnland eishockey",
     "suomi",
     "team finland"
@@ -1594,6 +1809,11 @@
   ],
   "Fortuna Sittard": [
     "fortuna sittard"
+  ],
+  "Força Lleida CE": [
+    "forca lleida",
+    "força lleida",
+    "hiopos lleida"
   ],
   "France": [
     "france rugby",
@@ -1632,6 +1852,12 @@
     "frolunda indians",
     "frölunda hc"
   ],
+  "Fundación CB Granada": [
+    "cb granada",
+    "coviran granada",
+    "covirán granada",
+    "fundacion cb granada"
+  ],
   "Futbol Club Barcelona": [
     "barcelona",
     "barcelone",
@@ -1649,6 +1875,11 @@
     "fuechse berlin",
     "füchse",
     "füchse berlin"
+  ],
+  "GS Ilioupolis": [
+    "gs ilioupolis",
+    "ilioupoli",
+    "ilioupoli fc"
   ],
   "GWD Minden": [
     "gruen-weiss dankersen",
@@ -1676,6 +1907,10 @@
     "geneve-servette",
     "genève-servette",
     "servette geneve"
+  ],
+  "Georgien": [
+    "georgia basketball",
+    "georgien basketball"
   ],
   "Ghana": [
     "black stars",
@@ -1734,7 +1969,9 @@
     "groupama-fdj"
   ],
   "Großbritannien": [
-    "britische nationalmannschaft"
+    "britische nationalmannschaft",
+    "great britain basketball",
+    "grossbritannien basketball"
   ],
   "Grêmio": [
     "gremio",
@@ -1897,6 +2134,10 @@
   "Heart of Midlothian": [
     "heart of midlothian"
   ],
+  "Hellas Syros FC": [
+    "hellas syros",
+    "hellas syros fc"
+  ],
   "Hellas Verona": [
     "h.v.f.c.",
     "hellas",
@@ -2027,6 +2268,11 @@
     "irak",
     "iraq"
   ],
+  "Iraklis FC": [
+    "iraklis",
+    "iraklis fc",
+    "iraklis thessaloniki"
+  ],
   "Iran": [
     "iran",
     "islamische republik iran"
@@ -2045,14 +2291,19 @@
     "iceland national team",
     "island"
   ],
+  "Israel": [
+    "israel basketball"
+  ],
   "Italien": [
     "azzurri",
     "figh",
     "figh player",
     "italia",
     "italien",
+    "italien basketball",
     "italien handball",
-    "italy"
+    "italy",
+    "italy basketball"
   ],
   "JS El Omrane": [
     "js el omrane"
@@ -2062,6 +2313,11 @@
   ],
   "JS Kairouan": [
     "js kairouan"
+  ],
+  "JS Saoura": [
+    "jeunesse sportive saoura",
+    "js saoura",
+    "saoura"
   ],
   "JYP Jyväskylä": [
     "jyp",
@@ -2078,11 +2334,17 @@
   ],
   "Japan": [
     "japan",
+    "japan basketball",
     "samurai blue"
   ],
   "Jordanien": [
     "jordan national team",
     "jordanien"
+  ],
+  "Joventut Badalona": [
+    "asisa joventut",
+    "badalona basket",
+    "joventut badalona"
   ],
   "Juve Stabia": [
     "juve stabia"
@@ -2128,10 +2390,18 @@
     "kalevan pallo",
     "kalpa"
   ],
+  "Kalamata FC": [
+    "kalamata",
+    "kalamata fc"
+  ],
   "Kamerun": [
     "cameroon",
     "indomitable lions",
     "kamerun"
+  ],
+  "Kampaniakos FC": [
+    "kampaniakos",
+    "kampaniakos fc"
   ],
   "Kanada": [
     "canada",
@@ -2170,6 +2440,10 @@
     "katar",
     "qatar"
   ],
+  "Kavala FC": [
+    "kavala",
+    "kavala fc"
+  ],
   "Kayserispor": [
     "kayserispor"
   ],
@@ -2196,8 +2470,10 @@
   ],
   "Kroatien": [
     "croatia",
+    "croatia basketball",
     "croatia handball",
     "kroatien",
+    "kroatien basketball",
     "kroatien handball",
     "vatreni"
   ],
@@ -2287,7 +2563,9 @@
     "leksands if"
   ],
   "Lettland": [
+    "latvia basketball",
     "latvia eishockey",
+    "lettland basketball",
     "lettland eishockey",
     "team latvia"
   ],
@@ -2364,6 +2642,31 @@
     "lowen frankfurt",
     "löwen frankfurt"
   ],
+  "MB Rouissat": [
+    "mb rouissat",
+    "mouloudia baladiat rouissat",
+    "rouissat"
+  ],
+  "MC Alger": [
+    "mc alger",
+    "mca",
+    "mouloudia alger",
+    "mouloudia club d'alger"
+  ],
+  "MC El Bayadh": [
+    "el bayadh",
+    "mc el bayadh",
+    "mouloudia el bayadh"
+  ],
+  "MC Oran": [
+    "mc oran",
+    "mouloudia club d'oran",
+    "mouloudia oran"
+  ],
+  "MFK Karviná": [
+    "karvina",
+    "mfk karvina"
+  ],
   "MHP Riesen Ludwigsburg": [
     "riesen ludwigsburg"
   ],
@@ -2388,6 +2691,10 @@
   "Maghreb Fès": [
     "maghreb fes",
     "maghreb fès"
+  ],
+  "Makedonikos FC": [
+    "makedonikos",
+    "makedonikos fc"
   ],
   "Malmö Redhawks": [
     "malmo redhawks",
@@ -2428,6 +2735,11 @@
   "Mantova": [
     "mantova"
   ],
+  "Marko 1927 FC": [
+    "marko 1927",
+    "marko 1927 fc",
+    "marko markopoulo"
+  ],
   "Marokko": [
     "atlas lions",
     "atlasloewen",
@@ -2436,6 +2748,11 @@
   ],
   "Marumo Gallants": [
     "marumo gallants"
+  ],
+  "Mazatlán FC": [
+    "mazatlan",
+    "mazatlan fc",
+    "mazatlan futbol club"
   ],
   "Memphis Grizzlies": [
     "memphis grizzlies"
@@ -2498,6 +2815,9 @@
   "Modena": [
     "modena"
   ],
+  "Montenegro": [
+    "montenegro basketball"
+  ],
   "Montpellier HSC": [
     "montpellier hsc"
   ],
@@ -2540,6 +2860,11 @@
   ],
   "Neom SC": [
     "neom sc"
+  ],
+  "Nestos Chrysoupoli FC": [
+    "nestos",
+    "nestos chrysoupoli",
+    "nestos chrysoupoli fc"
   ],
   "Neuseeland": [
     "neuseeland",
@@ -2617,7 +2942,12 @@
   ],
   "Nigeria": [
     "nigeria",
+    "nigeria basketball",
     "super eagles"
+  ],
+  "Niki Volos FC": [
+    "niki volos",
+    "niki volos fc"
   ],
   "Niners Chemnitz": [
     "niners chemnitz basketball"
@@ -2691,10 +3021,20 @@
     "olympiacos basketball",
     "olympiakos basketball"
   ],
+  "Olympiacos FC B": [
+    "olympiacos b",
+    "olympiacos fc b",
+    "olympiakos b"
+  ],
   "Olympiacos Piräus": [
     "olympiacos",
     "olympiacos piräus",
     "olympiakos"
+  ],
+  "Olympique Akbou": [
+    "akbou",
+    "o akbou",
+    "olympique akbou"
   ],
   "Olympique Béja": [
     "olympique beja",
@@ -2745,8 +3085,18 @@
   "Oxford United": [
     "oxford united"
   ],
+  "PAOK B": [
+    "paok b",
+    "paok fc b",
+    "paok reserves"
+  ],
   "PAOK Thessaloniki": [
     "paok thessaloniki"
+  ],
+  "PAS Giannina FC": [
+    "giannina",
+    "pas giannina",
+    "pas giannina fc"
   ],
   "PEC Zwolle": [
     "pec zwolle"
@@ -2766,6 +3116,10 @@
   "Panama": [
     "panama"
   ],
+  "Panargiakos FC": [
+    "panargiakos",
+    "panargiakos fc"
+  ],
   "Panathinaikos": [
     "panathinaikos",
     "panathinaikos athen"
@@ -2777,8 +3131,17 @@
   "Panetolikos": [
     "panetolikos"
   ],
+  "Panionios FC": [
+    "panionios fc",
+    "panionios nea smyrni"
+  ],
   "Panserraikos": [
     "panserraikos"
+  ],
+  "Paradou AC": [
+    "paradou",
+    "paradou ac",
+    "paradou athletic club"
   ],
   "Paraguay": [
     "paraguay"
@@ -2846,7 +3209,9 @@
   ],
   "Polen": [
     "poland",
+    "poland basketball",
     "polen",
+    "polen basketball",
     "polska"
   ],
   "Polokwane City": [
@@ -2889,6 +3254,12 @@
   ],
   "Queens Park Rangers": [
     "queens park rangers"
+  ],
+  "Querétaro FC": [
+    "gallos blancos",
+    "queretaro",
+    "queretaro fc",
+    "queretaro futbol club"
   ],
   "RB Leipzig": [
     "leipzig",
@@ -3166,6 +3537,17 @@
     "rapid wien",
     "sk rapid wien"
   ],
+  "SK Sigma Olomouc": [
+    "sigma",
+    "sigma olomouc",
+    "sk sigma olomouc"
+  ],
+  "SK Slavia Praha": [
+    "sk slavia prague",
+    "sk slavia praha",
+    "slavia prague",
+    "slavia praha"
+  ],
   "SL Benfica": [
     "benfica",
     "benfica lisbon",
@@ -3300,6 +3682,11 @@
   "Santos FC": [
     "santos",
     "santos fc"
+  ],
+  "Santos Laguna": [
+    "club santos laguna",
+    "santos",
+    "santos laguna"
   ],
   "Sarmiento Junín": [
     "sarmiento junin",
@@ -3733,12 +4120,15 @@
   ],
   "Tschechien": [
     "czech republic",
+    "czech republic basketball",
     "czech republic eishockey",
     "czechia",
+    "czechia basketball",
     "czechia eishockey",
     "team czech republic",
     "team czechia",
     "tschechien",
+    "tschechien basketball",
     "tschechien eishockey",
     "tschechische republik"
   ],
@@ -3753,8 +4143,11 @@
   ],
   "Türkei": [
     "tuerkei",
+    "tuerkei basketball",
     "turkei",
+    "turkei basketball",
     "turkey",
+    "turkey basketball",
     "turkiye"
   ],
   "U.S. Lecce": [
@@ -3783,6 +4176,10 @@
     "uae team",
     "uae team emirates",
     "uae team emirates xrg"
+  ],
+  "UCAM Murcia CB": [
+    "ucam murcia",
+    "ucam murcia cb"
   ],
   "UCI Straßen-Weltmeisterschaft": [
     "maglia iridata",
@@ -3833,6 +4230,16 @@
   ],
   "USL Dunkerque": [
     "usl dunkerque"
+  ],
+  "USM Alger": [
+    "union sportive medina d'alger",
+    "usm alger",
+    "usma"
+  ],
+  "USM Khenchela": [
+    "khenchela",
+    "union sportive medina khenchela",
+    "usm khenchela"
   ],
   "UTS Rabat": [
     "uts rabat"

@@ -1,0 +1,14 @@
+slug: polen-basketball
+name: Polen
+sport: basketball
+type: national
+league: null
+country: PL
+aliases:
+- polen basketball
+- poland basketball
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Poland_men's_national_basketball_team ("Kit"-Sektion,
+# Manufacturer: 2026–present adidas, davor 2022–2025 4F).
+kit_suppliers:
+- { manufacturer: adidas, from: 2026 }
+- { manufacturer: 4F, from: 2022, to: 2025 }

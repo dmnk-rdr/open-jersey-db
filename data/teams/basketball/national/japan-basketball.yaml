@@ -1,0 +1,14 @@
+slug: japan-basketball
+name: Japan
+sport: basketball
+type: national
+league: null
+country: JP
+aliases:
+- japan basketball
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Japan_men's_national_basketball_team ("Kit"-Sektion,
+# Manufacturer: 2022–present Jordan Brand, davor 2021–2022 Nike, 2015–2019 Under Armour).
+kit_suppliers:
+- { manufacturer: Jordan Brand, from: 2022 }
+- { manufacturer: Nike, from: 2021, to: 2022 }
+- { manufacturer: Under Armour, from: 2015, to: 2019 }

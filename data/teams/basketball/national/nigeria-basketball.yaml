@@ -1,0 +1,12 @@
+slug: nigeria-basketball
+name: Nigeria
+sport: basketball
+type: national
+league: null
+country: NG
+aliases:
+- nigeria basketball
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Nigeria_men's_national_basketball_team ("Kit"-Sektion,
+# Manufacturer: 2019–present Peak).
+kit_suppliers:
+- { manufacturer: Peak, from: 2019 }

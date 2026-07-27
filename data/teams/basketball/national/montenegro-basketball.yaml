@@ -1,0 +1,13 @@
+slug: montenegro-basketball
+name: Montenegro
+sport: basketball
+type: national
+league: null
+country: ME
+aliases:
+- montenegro basketball
+# Ausrüster. Quelle: en.wikipedia.org/wiki/Montenegro_men's_national_basketball_team ("Kit"-Sektion,
+# Manufacturer: 2023–present Dhika, davor 2011–2023 Peak).
+kit_suppliers:
+- { manufacturer: Dhika, from: 2023 }
+- { manufacturer: Peak, from: 2011, to: 2023 }
