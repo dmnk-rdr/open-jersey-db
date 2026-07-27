@@ -14770,6 +14770,799 @@
     ]
   },
   {
+    "slug": "bk-mlada-boleslav",
+    "name": "BK Mladá Boleslav",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "bk mlada boleslav",
+      "mlada boleslav",
+      "mladá boleslav"
+    ],
+    "city": "Mladá Boleslav"
+  },
+  {
+    "slug": "hc-bili-tygri-liberec",
+    "name": "HC Bílí Tygři Liberec",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "hc bili tygri liberec",
+      "bili tygri liberec",
+      "white tigers liberec",
+      "bílí tygři liberec"
+    ],
+    "city": "Liberec"
+  },
+  {
+    "slug": "hc-dynamo-pardubice",
+    "name": "HC Dynamo Pardubice",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "hc dynamo pardubice",
+      "dynamo pardubice"
+    ],
+    "city": "Pardubice"
+  },
+  {
+    "slug": "hc-energie-karlovy-vary",
+    "name": "HC Energie Karlovy Vary",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "hc energie karlovy vary",
+      "energie karlovy vary"
+    ],
+    "city": "Karlovy Vary"
+  },
+  {
+    "slug": "hc-kometa-brno",
+    "name": "HC Kometa Brno",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "hc kometa brno",
+      "kometa brno"
+    ],
+    "city": "Brno"
+  },
+  {
+    "slug": "hc-litvinov",
+    "name": "HC Litvínov",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "hc litvinov",
+      "litvínov"
+    ],
+    "city": "Litvínov"
+  },
+  {
+    "slug": "hc-ocelari-trinec",
+    "name": "HC Oceláři Třinec",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "hc ocelari trinec",
+      "oceláři třinec",
+      "trinec",
+      "třinec"
+    ],
+    "city": "Třinec"
+  },
+  {
+    "slug": "hc-olomouc",
+    "name": "HC Olomouc",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "hc olomouc",
+      "olomouc"
+    ],
+    "city": "Olomouc"
+  },
+  {
+    "slug": "hc-skoda-plzen",
+    "name": "HC Škoda Plzeň",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "hc skoda plzen",
+      "hc škoda plzeň",
+      "skoda plzen",
+      "škoda plzeň"
+    ],
+    "city": "Plzeň"
+  },
+  {
+    "slug": "hc-sparta-praha",
+    "name": "HC Sparta Praha",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "hc sparta praha",
+      "sparta praha eishockey",
+      "sparta prague hockey"
+    ],
+    "city": "Praha"
+  },
+  {
+    "slug": "hc-vitkovice-ridera",
+    "name": "HC Vítkovice Ridera",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "hc vitkovice ridera",
+      "vitkovice ridera",
+      "vítkovice ridera"
+    ],
+    "city": "Ostrava"
+  },
+  {
+    "slug": "motor-ceske-budejovice",
+    "name": "Motor České Budějovice",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "motor ceske budejovice",
+      "motor české budějovice"
+    ],
+    "city": "České Budějovice"
+  },
+  {
+    "slug": "mountfield-hk",
+    "name": "Mountfield HK",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "mountfield hk",
+      "hc hradec kralove"
+    ],
+    "city": "Hradec Králové"
+  },
+  {
+    "slug": "rytiri-kladno",
+    "name": "Rytíři Kladno",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "czech-extraliga",
+    "country": "CZ",
+    "aliases": [
+      "rytiri kladno",
+      "rytíři kladno"
+    ],
+    "city": "Kladno"
+  },
+  {
+    "slug": "adler-mannheim",
+    "name": "Adler Mannheim",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "adler mannheim",
+      "mannheim eagles"
+    ],
+    "city": "Mannheim"
+  },
+  {
+    "slug": "augsburger-panther",
+    "name": "Augsburger Panther",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "augsburger panther",
+      "panther augsburg",
+      "augsburg panther"
+    ],
+    "city": "Augsburg"
+  },
+  {
+    "slug": "dresdner-eisloewen",
+    "name": "Dresdner Eislöwen",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "dresdner eisloewen",
+      "dresdner eislöwen",
+      "eisloewen dresden",
+      "ice lions dresden"
+    ],
+    "city": "Dresden"
+  },
+  {
+    "slug": "ehc-red-bull-muenchen",
+    "name": "EHC Red Bull München",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "ehc red bull munchen",
+      "ehc red bull münchen",
+      "red bull munich",
+      "red bull münchen",
+      "ehc muenchen"
+    ],
+    "city": "München"
+  },
+  {
+    "slug": "eisbaeren-berlin",
+    "name": "Eisbären Berlin",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "eisbaren berlin",
+      "eisbären berlin",
+      "ice bears berlin"
+    ],
+    "city": "Berlin"
+  },
+  {
+    "slug": "erc-ingolstadt",
+    "name": "ERC Ingolstadt",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "erc ingolstadt",
+      "ingolstadt panthers",
+      "panthers ingolstadt"
+    ],
+    "city": "Ingolstadt"
+  },
+  {
+    "slug": "fischtown-pinguins",
+    "name": "Fischtown Pinguins",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "fischtown pinguins",
+      "fischtown pinguins bremerhaven",
+      "pinguins bremerhaven"
+    ],
+    "city": "Bremerhaven"
+  },
+  {
+    "slug": "grizzlys-wolfsburg",
+    "name": "Grizzlys Wolfsburg",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "grizzlys wolfsburg",
+      "wolfsburg grizzlys"
+    ],
+    "city": "Wolfsburg"
+  },
+  {
+    "slug": "iserlohn-roosters",
+    "name": "Iserlohn Roosters",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "iserlohn roosters",
+      "roosters iserlohn"
+    ],
+    "city": "Iserlohn"
+  },
+  {
+    "slug": "koelner-haie",
+    "name": "Kölner Haie",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "kolner haie",
+      "kölner haie",
+      "cologne sharks",
+      "haie koeln",
+      "koeln haie"
+    ],
+    "city": "Köln"
+  },
+  {
+    "slug": "loewen-frankfurt",
+    "name": "Löwen Frankfurt",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "lowen frankfurt",
+      "löwen frankfurt",
+      "frankfurt loewen",
+      "frankfurt lions"
+    ],
+    "city": "Frankfurt am Main"
+  },
+  {
+    "slug": "nuernberg-ice-tigers",
+    "name": "Nürnberg Ice Tigers",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "nurnberg ice tigers",
+      "nürnberg ice tigers",
+      "ice tigers nurnberg"
+    ],
+    "city": "Nürnberg"
+  },
+  {
+    "slug": "schwenninger-wild-wings",
+    "name": "Schwenninger Wild Wings",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "schwenninger wild wings",
+      "wild wings schwenningen"
+    ],
+    "city": "Villingen-Schwenningen"
+  },
+  {
+    "slug": "straubing-tigers",
+    "name": "Straubing Tigers",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "del",
+    "country": "DE",
+    "aliases": [
+      "straubing tigers"
+    ],
+    "city": "Straubing"
+  },
+  {
+    "slug": "assat",
+    "name": "Porin Ässät",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "assat",
+      "porin assat",
+      "ässät",
+      "porin ässät"
+    ],
+    "city": "Pori"
+  },
+  {
+    "slug": "hifk",
+    "name": "HIFK",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "hifk",
+      "hifk hockey",
+      "helsingin ifk",
+      "helsingfors ifk"
+    ],
+    "city": "Helsinki"
+  },
+  {
+    "slug": "hpk",
+    "name": "HPK",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "hpk",
+      "hameenlinnan pallokerho",
+      "hämeenlinnan pallokerho"
+    ],
+    "city": "Hämeenlinna"
+  },
+  {
+    "slug": "ilves",
+    "name": "Ilves",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "ilves",
+      "ilves tampere"
+    ],
+    "city": "Tampere"
+  },
+  {
+    "slug": "jukurit",
+    "name": "Mikkelin Jukurit",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "jukurit",
+      "mikkelin jukurit"
+    ],
+    "city": "Mikkeli"
+  },
+  {
+    "slug": "jyp",
+    "name": "JYP Jyväskylä",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "jyp",
+      "jyp jyvaskyla",
+      "jyp jyväskylä"
+    ],
+    "city": "Jyväskylä"
+  },
+  {
+    "slug": "kalpa",
+    "name": "KalPa",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "kalpa",
+      "kalevan pallo"
+    ],
+    "city": "Kuopio"
+  },
+  {
+    "slug": "karpat",
+    "name": "Oulun Kärpät",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "karpat",
+      "kärpät",
+      "oulun karpat",
+      "oulun kärpät"
+    ],
+    "city": "Oulu"
+  },
+  {
+    "slug": "kiekko-espoo",
+    "name": "Kiekko-Espoo",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "kiekko-espoo",
+      "kiekko espoo"
+    ],
+    "city": "Espoo"
+  },
+  {
+    "slug": "kookoo",
+    "name": "KooKoo",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "kookoo"
+    ],
+    "city": "Kouvola"
+  },
+  {
+    "slug": "lahti-pelicans",
+    "name": "Lahti Pelicans",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "lahti pelicans",
+      "pelicans lahti"
+    ],
+    "city": "Lahti"
+  },
+  {
+    "slug": "lukko",
+    "name": "Lukko",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "lukko",
+      "rauman lukko"
+    ],
+    "city": "Rauma"
+  },
+  {
+    "slug": "saipa",
+    "name": "SaiPa",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "saipa",
+      "lappeenrannan saipa"
+    ],
+    "city": "Lappeenranta"
+  },
+  {
+    "slug": "tappara",
+    "name": "Tappara",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "tappara",
+      "tappara tampere"
+    ],
+    "city": "Tampere"
+  },
+  {
+    "slug": "tps",
+    "name": "HC TPS",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "hc tps",
+      "tps",
+      "turun palloseura"
+    ],
+    "city": "Turku"
+  },
+  {
+    "slug": "vaasan-sport",
+    "name": "Vaasan Sport",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "liiga",
+    "country": "FI",
+    "aliases": [
+      "vaasan sport",
+      "sport vaasa"
+    ],
+    "city": "Vaasa"
+  },
+  {
+    "slug": "ehc-biel",
+    "name": "EHC Biel",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "ehc biel",
+      "ehc biel-bienne",
+      "biel-bienne",
+      "hc bienne"
+    ],
+    "city": "Biel/Bienne"
+  },
+  {
+    "slug": "ehc-kloten",
+    "name": "EHC Kloten",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "ehc kloten",
+      "kloten"
+    ],
+    "city": "Kloten"
+  },
+  {
+    "slug": "ev-zug",
+    "name": "EV Zug",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "ev zug",
+      "zug"
+    ],
+    "city": "Zug"
+  },
+  {
+    "slug": "geneve-servette-hc",
+    "name": "Genève-Servette HC",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "geneve-servette",
+      "genève-servette",
+      "servette geneve",
+      "geneve servette hc"
+    ],
+    "city": "Genève"
+  },
+  {
+    "slug": "hc-ajoie",
+    "name": "HC Ajoie",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "hc ajoie",
+      "ajoie"
+    ],
+    "city": "Porrentruy"
+  },
+  {
+    "slug": "hc-ambri-piotta",
+    "name": "HC Ambrì-Piotta",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "hc ambri-piotta",
+      "hc ambrì-piotta",
+      "ambri piotta",
+      "ambri-piotta"
+    ],
+    "city": "Ambrì"
+  },
+  {
+    "slug": "hc-davos",
+    "name": "HC Davos",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "hc davos"
+    ],
+    "city": "Davos"
+  },
+  {
+    "slug": "hc-fribourg-gotteron",
+    "name": "HC Fribourg-Gottéron",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "hc fribourg-gotteron",
+      "fribourg-gottéron",
+      "gotteron",
+      "gottéron"
+    ],
+    "city": "Fribourg"
+  },
+  {
+    "slug": "hc-lugano",
+    "name": "HC Lugano",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "hc lugano",
+      "lugano"
+    ],
+    "city": "Lugano"
+  },
+  {
+    "slug": "lausanne-hc",
+    "name": "Lausanne HC",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "lausanne hc",
+      "lhc lausanne"
+    ],
+    "city": "Lausanne"
+  },
+  {
+    "slug": "rapperswil-jona-lakers",
+    "name": "SC Rapperswil-Jona Lakers",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "rapperswil-jona lakers",
+      "sc rapperswil-jona lakers",
+      "rapperswil lakers"
+    ],
+    "city": "Rapperswil"
+  },
+  {
+    "slug": "sc-bern",
+    "name": "SC Bern",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "sc bern"
+    ],
+    "city": "Bern"
+  },
+  {
+    "slug": "scl-tigers",
+    "name": "SCL Tigers",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "scl tigers",
+      "langnau tigers"
+    ],
+    "city": "Langnau im Emmental"
+  },
+  {
+    "slug": "zsc-lions",
+    "name": "ZSC Lions",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "national-league",
+    "country": "CH",
+    "aliases": [
+      "zsc lions",
+      "zurich lions",
+      "zürich lions"
+    ],
+    "city": "Zürich"
+  },
+  {
     "slug": "anaheim-ducks",
     "name": "Anaheim Ducks",
     "sport": "ice-hockey",
@@ -15230,6 +16023,408 @@
     "city": "Winnipeg",
     "stadium": "Winnipeg Arena",
     "wikidata": "Q576406"
+  },
+  {
+    "slug": "brynas-if",
+    "name": "Brynäs IF",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "brynas if",
+      "brynäs if"
+    ],
+    "city": "Gävle"
+  },
+  {
+    "slug": "djurgardens-if",
+    "name": "Djurgårdens IF",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "djurgardens if",
+      "djurgårdens if",
+      "djurgarden"
+    ],
+    "city": "Stockholm"
+  },
+  {
+    "slug": "farjestad-bk",
+    "name": "Färjestad BK",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "farjestad bk",
+      "färjestad bk",
+      "farjestads bk"
+    ],
+    "city": "Karlstad"
+  },
+  {
+    "slug": "frolunda-hc",
+    "name": "Frölunda HC",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "frolunda hc",
+      "frölunda hc",
+      "frolunda indians"
+    ],
+    "city": "Göteborg"
+  },
+  {
+    "slug": "hv71",
+    "name": "HV71",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "hv71",
+      "hv 71"
+    ],
+    "city": "Jönköping"
+  },
+  {
+    "slug": "leksands-if",
+    "name": "Leksands IF",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "leksands if",
+      "leksand"
+    ],
+    "city": "Leksand"
+  },
+  {
+    "slug": "linkoping-hc",
+    "name": "Linköping HC",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "linkoping hc",
+      "linköping hc",
+      "linkopings hc"
+    ],
+    "city": "Linköping"
+  },
+  {
+    "slug": "lulea-hf",
+    "name": "Luleå HF",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "lulea hf",
+      "luleå hf"
+    ],
+    "city": "Luleå"
+  },
+  {
+    "slug": "malmo-redhawks",
+    "name": "Malmö Redhawks",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "malmo redhawks",
+      "malmö redhawks"
+    ],
+    "city": "Malmö"
+  },
+  {
+    "slug": "orebro-hk",
+    "name": "Örebro HK",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "orebro hk",
+      "örebro hk"
+    ],
+    "city": "Örebro"
+  },
+  {
+    "slug": "rogle-bk",
+    "name": "Rögle BK",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "rogle bk",
+      "rögle bk"
+    ],
+    "city": "Ängelholm"
+  },
+  {
+    "slug": "skelleftea-aik",
+    "name": "Skellefteå AIK",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "skelleftea aik",
+      "skellefteå aik"
+    ],
+    "city": "Skellefteå"
+  },
+  {
+    "slug": "timra-ik",
+    "name": "Timrå IK",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "timra ik",
+      "timrå ik"
+    ],
+    "city": "Timrå"
+  },
+  {
+    "slug": "vaxjo-lakers",
+    "name": "Växjö Lakers",
+    "sport": "ice-hockey",
+    "type": "club",
+    "league": "shl",
+    "country": "SE",
+    "aliases": [
+      "vaxjo lakers",
+      "växjö lakers"
+    ],
+    "city": "Växjö"
+  },
+  {
+    "slug": "daenemark-eishockey",
+    "name": "Dänemark",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "DK",
+    "aliases": [
+      "daenemark eishockey",
+      "dänemark eishockey",
+      "denmark eishockey",
+      "team denmark"
+    ]
+  },
+  {
+    "slug": "deutschland-eishockey",
+    "name": "Deutschland",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "deutschland eishockey",
+      "germany eishockey",
+      "team germany",
+      "nationalmannschaft eishockey"
+    ]
+  },
+  {
+    "slug": "finnland-eishockey",
+    "name": "Finnland",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "FI",
+    "aliases": [
+      "finnland eishockey",
+      "finland",
+      "suomi",
+      "team finland"
+    ]
+  },
+  {
+    "slug": "frankreich-eishockey",
+    "name": "Frankreich",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "FR",
+    "aliases": [
+      "frankreich eishockey",
+      "france eishockey",
+      "team france"
+    ]
+  },
+  {
+    "slug": "kanada-eishockey",
+    "name": "Kanada",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "CA",
+    "aliases": [
+      "kanada eishockey",
+      "canada",
+      "team canada"
+    ]
+  },
+  {
+    "slug": "kasachstan-eishockey",
+    "name": "Kasachstan",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "KZ",
+    "aliases": [
+      "kasachstan eishockey",
+      "kazakhstan eishockey",
+      "team kazakhstan"
+    ]
+  },
+  {
+    "slug": "lettland-eishockey",
+    "name": "Lettland",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "LV",
+    "aliases": [
+      "lettland eishockey",
+      "latvia eishockey",
+      "team latvia"
+    ]
+  },
+  {
+    "slug": "norwegen-eishockey",
+    "name": "Norwegen",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "NO",
+    "aliases": [
+      "norwegen eishockey",
+      "norway eishockey",
+      "team norway"
+    ]
+  },
+  {
+    "slug": "oesterreich-eishockey",
+    "name": "Österreich",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "AT",
+    "aliases": [
+      "oesterreich eishockey",
+      "österreich eishockey",
+      "austria eishockey",
+      "team austria"
+    ]
+  },
+  {
+    "slug": "schweden-eishockey",
+    "name": "Schweden",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "SE",
+    "aliases": [
+      "schweden eishockey",
+      "sweden",
+      "tre kronor",
+      "team sweden"
+    ]
+  },
+  {
+    "slug": "schweiz-eishockey",
+    "name": "Schweiz",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "CH",
+    "aliases": [
+      "schweiz eishockey",
+      "switzerland eishockey",
+      "team switzerland"
+    ]
+  },
+  {
+    "slug": "slowakei-eishockey",
+    "name": "Slowakei",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "SK",
+    "aliases": [
+      "slowakei eishockey",
+      "slovakia eishockey",
+      "team slovakia"
+    ]
+  },
+  {
+    "slug": "slowenien-eishockey",
+    "name": "Slowenien",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "SI",
+    "aliases": [
+      "slowenien eishockey",
+      "slovenia eishockey",
+      "team slovenia"
+    ]
+  },
+  {
+    "slug": "tschechien-eishockey",
+    "name": "Tschechien",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "CZ",
+    "aliases": [
+      "tschechien eishockey",
+      "czech republic eishockey",
+      "czechia eishockey",
+      "team czech republic",
+      "team czechia"
+    ]
+  },
+  {
+    "slug": "ungarn-eishockey",
+    "name": "Ungarn",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "HU",
+    "aliases": [
+      "ungarn eishockey",
+      "hungary eishockey",
+      "team hungary"
+    ]
+  },
+  {
+    "slug": "usa-eishockey",
+    "name": "USA",
+    "sport": "ice-hockey",
+    "type": "national",
+    "league": null,
+    "country": "US",
+    "aliases": [
+      "usa eishockey",
+      "team usa",
+      "vereinigte staaten eishockey",
+      "united states eishockey"
+    ]
   },
   {
     "slug": "fc-grenoble",
