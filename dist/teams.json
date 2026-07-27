@@ -2655,7 +2655,11 @@
     "aliases": [
       "1 fc nürnberg",
       "1. fc nürnberg",
+      "1. fc nuernberg",
+      "1. fc nuremberg",
       "fcn",
+      "nuernberg",
+      "nuremberg",
       "nürnberg"
     ]
   },
@@ -3093,6 +3097,18 @@
       "wurzburger kickers",
       "würzburger kickers"
     ]
+  },
+  {
+    "slug": "js-kabylie",
+    "name": "JS Kabylie",
+    "sport": "football",
+    "type": "club",
+    "league": "algerian-ligue-1",
+    "country": "DZ",
+    "aliases": [
+      "js kabylie"
+    ],
+    "founded": 1946
   },
   {
     "slug": "austria-wien",
@@ -3839,14 +3855,17 @@
     "country": "DE",
     "aliases": [
       "1. fc cologne",
+      "1. fc koeln",
       "1. fußball-club köln 01/07",
       "1. fußball-club köln 01/07 e. v.",
       "effzeh",
       "f.c. koln",
       "f.c. köln",
+      "fc koeln",
       "fc koln",
       "fc köln",
       "fckoln",
+      "koeln",
       "köln",
       "kölner bc 01",
       "spvgg sülz"
@@ -3982,6 +4001,8 @@
     "aliases": [
       "eintracht francfort",
       "eintracht frankfurt",
+      "eintracht fráncfort",
+      "eintracht fránkfort",
       "frankfurt",
       "sge"
     ],
@@ -4192,6 +4213,50 @@
     "wikidata": "Q4512"
   },
   {
+    "slug": "fc-versailles-78",
+    "name": "FC Versailles 78",
+    "sport": "football",
+    "type": "club",
+    "league": "championnat-national",
+    "country": "FR",
+    "aliases": [
+      "fc versailles 78",
+      "fc versailles"
+    ],
+    "founded": 2004
+  },
+  {
+    "slug": "sm-caen",
+    "name": "SM Caen",
+    "sport": "football",
+    "type": "club",
+    "league": "championnat-national",
+    "country": "FR",
+    "aliases": [
+      "sm caen",
+      "stade malherbe caen",
+      "stade malherbe de caen"
+    ],
+    "founded": 1913
+  },
+  {
+    "slug": "ac-sparta-praha",
+    "name": "AC Sparta Praha",
+    "sport": "football",
+    "type": "club",
+    "league": "czech-first-league",
+    "country": "CZ",
+    "aliases": [
+      "ac sparta praha",
+      "ac sparta prague",
+      "sparta praha",
+      "sparta prague",
+      "sparta prag",
+      "sparta de praga"
+    ],
+    "founded": 1893
+  },
+  {
     "slug": "aalborg-bk",
     "name": "Aalborg BK",
     "sport": "football",
@@ -4247,6 +4312,7 @@
     "country": "DK",
     "aliases": [
       "copenhagen",
+      "fc copenhague",
       "fc kopenhagen",
       "fc københavn",
       "kopenhagen"
@@ -5455,6 +5521,75 @@
     "wikidata": "Q10315"
   },
   {
+    "slug": "cd-guadalajara",
+    "name": "C.D. Guadalajara",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "chivas",
+      "cd guadalajara",
+      "club deportivo guadalajara"
+    ],
+    "founded": 1906
+  },
+  {
+    "slug": "cf-monterrey",
+    "name": "CF Monterrey",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "cf monterrey",
+      "club de futbol monterrey",
+      "club de fútbol monterrey",
+      "rayados"
+    ],
+    "founded": 1945
+  },
+  {
+    "slug": "club-america",
+    "name": "Club América",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "club america",
+      "club américa"
+    ],
+    "founded": 1916
+  },
+  {
+    "slug": "pumas-unam",
+    "name": "Pumas UNAM",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "pumas unam",
+      "club universidad nacional"
+    ],
+    "founded": 1954
+  },
+  {
+    "slug": "tigres-uanl",
+    "name": "Tigres UANL",
+    "sport": "football",
+    "type": "club",
+    "league": "liga-mx",
+    "country": "MX",
+    "aliases": [
+      "tigres uanl",
+      "club tigres",
+      "tigres de la unl"
+    ],
+    "founded": 1960
+  },
+  {
     "slug": "aj-auxerre",
     "name": "AJ Auxerre",
     "sport": "football",
@@ -5757,8 +5892,10 @@
       "racing club de strasbourg",
       "racing club de strasbourg alsace",
       "racing club strassburg",
+      "racing estrasburgo",
       "racing strasbourg",
       "racing strassburg",
+      "rc estrasburgo",
       "rc strasbourg",
       "rcsa",
       "strasbourg",
@@ -5874,7 +6011,8 @@
     "country": "FR",
     "aliases": [
       "as saint etienne",
-      "as saint-étienne"
+      "as saint-étienne",
+      "asse"
     ]
   },
   {
@@ -6257,7 +6395,8 @@
     "country": "US",
     "aliases": [
       "new york red bulls",
-      "ny red bulls"
+      "ny red bulls",
+      "red bull new york"
     ]
   },
   {
@@ -7837,6 +7976,24 @@
     ]
   },
   {
+    "slug": "tsv-1860-muenchen",
+    "name": "TSV 1860 München",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "tsv 1860 münchen",
+      "tsv 1860 muenchen",
+      "1860 münchen",
+      "1860 muenchen",
+      "münchen 1860",
+      "muenchen 1860",
+      "sechzig"
+    ],
+    "founded": 1860
+  },
+  {
     "slug": "stuttgarter-kickers",
     "name": "Stuttgarter Kickers",
     "sport": "football",
@@ -8837,6 +8994,18 @@
     "wikidata": "Q1886"
   },
   {
+    "slug": "como-1907",
+    "name": "Como 1907",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "como 1907"
+    ],
+    "founded": 1907
+  },
+  {
     "slug": "fc-bologna",
     "name": "FC Bologna",
     "sport": "football",
@@ -9600,6 +9769,22 @@
     ]
   },
   {
+    "slug": "athens-kallithea",
+    "name": "Athens Kallithea FC",
+    "sport": "football",
+    "type": "club",
+    "league": "super-league-greece-2",
+    "country": "GR",
+    "aliases": [
+      "athens kallithea fc",
+      "athens kallithea",
+      "kallithea fc",
+      "gs kallithea",
+      "gs kallithéa"
+    ],
+    "founded": 1919
+  },
+  {
     "slug": "alanyaspor",
     "name": "Alanyaspor",
     "sport": "football",
@@ -10055,6 +10240,7 @@
       "es tunis",
       "esperance tunis",
       "espérance sportive tunis",
+      "espérance sportive de tunis",
       "est"
     ]
   },

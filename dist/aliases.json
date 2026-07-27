@@ -13,14 +13,17 @@
   ],
   "1. FC Köln": [
     "1. fc cologne",
+    "1. fc koeln",
     "1. fußball-club köln 01/07",
     "1. fußball-club köln 01/07 e. v.",
     "effzeh",
     "f.c. koln",
     "f.c. köln",
+    "fc koeln",
     "fc koln",
     "fc köln",
     "fckoln",
+    "koeln",
     "köln",
     "kölner bc 01",
     "spvgg sülz"
@@ -32,8 +35,12 @@
   ],
   "1. FC Nürnberg": [
     "1 fc nürnberg",
+    "1. fc nuernberg",
+    "1. fc nuremberg",
     "1. fc nürnberg",
     "fcn",
+    "nuernberg",
+    "nuremberg",
     "nürnberg"
   ],
   "1. FC Saarbrücken": [
@@ -91,6 +98,14 @@
     "s.s. monza 1912 srl",
     "società sportiva monza 1912",
     "società sportiva monza 1912 srl"
+  ],
+  "AC Sparta Praha": [
+    "ac sparta prague",
+    "ac sparta praha",
+    "sparta de praga",
+    "sparta prag",
+    "sparta prague",
+    "sparta praha"
   ],
   "AE Kifisia": [
     "ae kifisia"
@@ -172,7 +187,8 @@
   ],
   "AS Saint-Étienne": [
     "as saint etienne",
-    "as saint-étienne"
+    "as saint-étienne",
+    "asse"
   ],
   "AS Soliman": [
     "as soliman"
@@ -354,6 +370,13 @@
     "atalantab.c.",
     "atalantabc",
     "bergamo"
+  ],
+  "Athens Kallithea FC": [
+    "athens kallithea",
+    "athens kallithea fc",
+    "gs kallithea",
+    "gs kallithéa",
+    "kallithea fc"
   ],
   "Athletic Bilbao": [
     "athletic club",
@@ -596,6 +619,11 @@
   "Burgos": [
     "burgos"
   ],
+  "C.D. Guadalajara": [
+    "cd guadalajara",
+    "chivas",
+    "club deportivo guadalajara"
+  ],
   "CA Bizertin": [
     "ca bizertin"
   ],
@@ -610,6 +638,12 @@
   ],
   "CD Tondela": [
     "cd tondela"
+  ],
+  "CF Monterrey": [
+    "cf monterrey",
+    "club de futbol monterrey",
+    "club de fútbol monterrey",
+    "rayados"
   ],
   "CF Montréal": [
     "cf montreal",
@@ -758,6 +792,10 @@
   "Club Africain": [
     "club africain"
   ],
+  "Club América": [
+    "club america",
+    "club américa"
+  ],
   "Club Brügge": [
     "club bruges",
     "club brugge",
@@ -778,6 +816,9 @@
   ],
   "Columbus Crew": [
     "columbus crew"
+  ],
+  "Como 1907": [
+    "como 1907"
   ],
   "Coritiba": [
     "coritiba"
@@ -983,6 +1024,8 @@
   "Eintracht Frankfurt": [
     "eintracht francfort",
     "eintracht frankfurt",
+    "eintracht fráncfort",
+    "eintracht fránkfort",
     "frankfurt",
     "sge"
   ],
@@ -1018,6 +1061,7 @@
   "Espérance Tunis": [
     "es tunis",
     "esperance tunis",
+    "espérance sportive de tunis",
     "espérance sportive tunis",
     "est"
   ],
@@ -1188,6 +1232,7 @@
   ],
   "FC København": [
     "copenhagen",
+    "fc copenhague",
     "fc kopenhagen",
     "fc københavn",
     "kopenhagen"
@@ -1332,6 +1377,10 @@
     "valenciac.f.",
     "valenciacf",
     "vcf"
+  ],
+  "FC Versailles 78": [
+    "fc versailles",
+    "fc versailles 78"
   ],
   "FC Viktoria Köln": [
     "fc viktoria koln",
@@ -1792,6 +1841,9 @@
   "JS El Omrane": [
     "js el omrane"
   ],
+  "JS Kabylie": [
+    "js kabylie"
+  ],
   "JS Kairouan": [
     "js kairouan"
   ],
@@ -2236,7 +2288,8 @@
   ],
   "New York Red Bulls": [
     "new york red bulls",
-    "ny red bulls"
+    "ny red bulls",
+    "red bull new york"
   ],
   "New York Yankees": [
     "new york yankees"
@@ -2506,6 +2559,10 @@
     "preuen munster",
     "preußen münster"
   ],
+  "Pumas UNAM": [
+    "club universidad nacional",
+    "pumas unam"
+  ],
   "Q36.5 Pro Cycling Team": [
     "nibali shark",
     "pinarello-q36.5",
@@ -2560,8 +2617,10 @@
     "racing club de strasbourg",
     "racing club de strasbourg alsace",
     "racing club strassburg",
+    "racing estrasburgo",
     "racing strasbourg",
     "racing strassburg",
+    "rc estrasburgo",
     "rc strasbourg",
     "rcsa",
     "strasbourg",
@@ -2774,6 +2833,11 @@
     "benfica lisbonne",
     "benfica lissabon",
     "sl benfica"
+  ],
+  "SM Caen": [
+    "sm caen",
+    "stade malherbe caen",
+    "stade malherbe de caen"
   ],
   "SS Lazio (multisports club)": [
     "(multisports",
@@ -3175,6 +3239,15 @@
     "balingen",
     "tsg balingen"
   ],
+  "TSV 1860 München": [
+    "1860 muenchen",
+    "1860 münchen",
+    "muenchen 1860",
+    "münchen 1860",
+    "sechzig",
+    "tsv 1860 muenchen",
+    "tsv 1860 münchen"
+  ],
   "TSV Hannover-Burgdorf": [
     "die recken",
     "hannover-burgdorf",
@@ -3241,6 +3314,11 @@
   ],
   "Tigre": [
     "tigre"
+  ],
+  "Tigres UANL": [
+    "club tigres",
+    "tigres de la unl",
+    "tigres uanl"
   ],
   "Toronto Blue Jays": [
     "toronto blue jays"
