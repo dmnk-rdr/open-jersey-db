@@ -326,10 +326,17 @@
   "Antalyaspor": [
     "antalyaspor"
   ],
+  "Argentina": [
+    "argentina rugby",
+    "argentinisches",
+    "los pumas",
+    "pumas argentina"
+  ],
   "Argentinien": [
     "albiceleste",
     "argentina",
-    "argentinien"
+    "argentinien",
+    "argentinisches"
   ],
   "Argentinos Juniors": [
     "argentinos juniors"
@@ -434,6 +441,10 @@
   ],
   "Austin FC": [
     "austin fc"
+  ],
+  "Australia": [
+    "australia rugby",
+    "wallabies"
   ],
   "Australien": [
     "australia",
@@ -947,6 +958,7 @@
   "Deutschland": [
     "basketball nationalmannschaft deutschland",
     "bdr nationalmannschaft",
+    "dbb",
     "dbb team",
     "deutsche nationalmannschaft",
     "deutschland",
@@ -1486,6 +1498,7 @@
     "feyenoord rotterdam"
   ],
   "Fiji": [
+    "fidschi",
     "fiji rugby"
   ],
   "Finnland": [
@@ -2301,6 +2314,7 @@
   ],
   "New Zealand": [
     "all blacks",
+    "black ferns",
     "neuseeland",
     "new zealand"
   ],

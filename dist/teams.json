@@ -2055,6 +2055,7 @@
       "deutschland basketball",
       "germany basketball",
       "dbb team",
+      "dbb",
       "basketball nationalmannschaft deutschland"
     ],
     "kit_suppliers": [
@@ -10526,7 +10527,8 @@
     "aliases": [
       "argentinien",
       "argentina",
-      "albiceleste"
+      "albiceleste",
+      "argentinisches"
     ],
     "kit_suppliers": [
       {
@@ -15345,6 +15347,32 @@
     ]
   },
   {
+    "slug": "argentina-rugby",
+    "name": "Argentina",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "AR",
+    "aliases": [
+      "los pumas",
+      "pumas argentina",
+      "argentina rugby",
+      "argentinisches"
+    ]
+  },
+  {
+    "slug": "australia-rugby",
+    "name": "Australia",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "AU",
+    "aliases": [
+      "wallabies",
+      "australia rugby"
+    ]
+  },
+  {
     "slug": "brazil-rugby",
     "name": "Brazil",
     "sport": "rugby",
@@ -15388,7 +15416,8 @@
     "league": null,
     "country": "FJ",
     "aliases": [
-      "fiji rugby"
+      "fiji rugby",
+      "fidschi"
     ]
   },
   {
@@ -15428,6 +15457,7 @@
     "country": "NZ",
     "aliases": [
       "all blacks",
+      "black ferns",
       "neuseeland",
       "new zealand"
     ]
