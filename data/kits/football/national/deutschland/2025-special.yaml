@@ -1,0 +1,36 @@
+team: deutschland
+sport: football
+league: null
+season: '2025'
+kit_type: special
+manufacturer: adidas
+main_sponsor: null
+colorway: Clear Blue / Schwarz
+design: "125-Jahre-Jubiläumstrikot (S1 Erwachsene / S2 Kinder)"
+design_en: "125th anniversary jersey (S1 adult / S2 kids)"
+colors:
+- Clear Blue
+- Schwarz
+competitions: null
+# adidas-Artikelnummern je Passform. S1 = Erwachsene, S2 = Kinder.
+skus:
+  adult: JY1315
+  kids: JY1317
+release_date: null
+# GTINs des Erwachsenen- (S1, JY1315) und Kinder-Grades (S2, JY1317), verifiziert
+# über die Retailer-Produktseite (2026-07-29). NICHT zu verwechseln mit dem
+# zweiten, eigenständigen "Anniversary"-Design (Cloud White/Schwarz, JY0244/46/47) —
+# gleicher Anlass (DFB 125 Jahre, 2025), andere Farbe, andere Style-Codes, eigenes Kit.
+gtins:
+- '4068801586938'
+- '4068801590560'
+- '4068801590584'
+- '4068801590607'
+- '4068801583111'
+- '4068801586730'
+- '4068801586747'
+aliases:
+- "Deutschland Jubiläumstrikot S1 2025"
+- "Deutschland 125-Jahre-Jubiläumstrikot S2 für Kinder 2025"
+source: community
+notes: "Style-Codes JY1315 (Erwachsene, S1) / JY1317 (Kinder, S2), Colorway Clear Blue/Black — verifiziert per Redirect zur Retailer-Produktseite (foot-store.de/jy1315-… bzw. …/jy1317-…, 2026-07-29). Bewusst NICHT das zweite 125-Jahre-Design (Cloud White, JY0244/JY0246/JY0247) — andere Farbe, andere Style-Codes, eigenes Kit."
