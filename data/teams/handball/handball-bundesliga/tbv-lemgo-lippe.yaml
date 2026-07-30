@@ -11,3 +11,7 @@ aliases:
 founded: 1911
 city: Lemgo
 stadium: Phoenix Contact Arena
+# Aktueller Ausrüster seit 2025/26 ("erstmals in Zusammenarbeit mit Kempa"). Quelle:
+# tbv-lemgo-lippe.de (offizielle Vereinsseite).
+kit_suppliers:
+- { manufacturer: Kempa, from: 2025 }

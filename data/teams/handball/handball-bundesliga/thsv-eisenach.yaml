@@ -10,3 +10,6 @@ aliases:
 founded: 1990
 city: Eisenach
 stadium: Werner-Aßmann-Halle
+# Aktueller Ausrüster. Quelle: kempa-sports.com (offizieller Kempa-Fanshop), Heimtrikot 2025/26.
+kit_suppliers:
+- { manufacturer: Kempa }

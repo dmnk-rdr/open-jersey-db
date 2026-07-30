@@ -1,0 +1,24 @@
+team: frisch-auf-goeppingen
+sport: handball
+league: handball-bundesliga
+season: '2025/26'
+kit_type: home
+manufacturer: Kempa
+main_sponsor: Salvia Gebäudetechnik
+colorway: Grün / Weiß
+design: >-
+  Klassisches Grün-Weiß mit dynamischen Mustern und feinen Linien; Vereinslogo erstmals
+  im hochwertigen 3D-Transferverfahren aufgebracht; Kempa "for the planet"-Nachhaltigkeitslinie
+  aus recyceltem Polyester.
+design_en: "Classic green and white with dynamic patterns and fine lines; club logo applied for the first time using a high-quality 3D transfer process; Kempa 'for the planet' sustainability line made from recycled polyester."
+colors:
+- Grün
+- Weiß
+competitions:
+- Handball-Bundesliga
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: frischauf-gp.de, Vereinsmeldung \"Heimisch. Heldisch. Heimtrikot 2025/26\"."

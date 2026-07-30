@@ -1,0 +1,19 @@
+team: vfl-potsdam
+sport: handball
+league: 2-handball-bundesliga
+season: '2025/26'
+kit_type: home
+manufacturer: Kempa
+main_sponsor: null
+colorway: null
+design: null
+design_en: null
+colors: null
+competitions:
+- 2. Handball-Bundesliga
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Ausrüster Kempa bestätigt über kempa-sports.com, Produktlisting \"VfL Potsdam Heimtrikot 25/26\" (offizieller Kempa-Fanshop). Konkrete Farbgebung textlich nicht bestätigt (nur Bildmaterial, generische \"FOR THE PLANET\"-Produktbeschreibung ohne Farbnamen); Vorjahr 2024/25 war bordeaux/rot -- daher colors/colorway bewusst null gelassen statt geraten."

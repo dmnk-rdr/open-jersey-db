@@ -6,3 +6,7 @@ league: 3-liga
 country: DE
 aliases:
 - msv duisburg
+# Aktueller Ausrüster. Quelle: msv-duisburg.de (Vereinsartikel „Traditionsstreifen vs.
+# Stahlherz"), Heim-/Auswärtstrikot 2025/26.
+kit_suppliers:
+- { manufacturer: adidas }

@@ -4010,6 +4010,11 @@
     "aliases": [
       "fortuna dusseldorf",
       "fortuna düsseldorf"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
     ]
   },
   {
@@ -4032,6 +4037,11 @@
     "country": "DE",
     "aliases": [
       "msv duisburg"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas"
+      }
     ]
   },
   {
@@ -10115,7 +10125,12 @@
     ],
     "founded": 1899,
     "city": "Frankfurt am Main",
-    "stadium": "PSD Bank Arena"
+    "stadium": "PSD Bank Arena",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Erima"
+      }
+    ]
   },
   {
     "slug": "kickers-offenbach",
@@ -17043,7 +17058,12 @@
     ],
     "founded": 1990,
     "city": "Potsdam",
-    "stadium": "MBS Arena Potsdam"
+    "stadium": "MBS Arena Potsdam",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Kempa"
+      }
+    ]
   },
   {
     "slug": "bergischer-hc",
@@ -17075,7 +17095,12 @@
     ],
     "founded": 1896,
     "city": "Göppingen",
-    "stadium": "EWS Arena"
+    "stadium": "EWS Arena",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Kempa"
+      }
+    ]
   },
   {
     "slug": "fuechse-berlin",
@@ -17254,7 +17279,13 @@
     ],
     "founded": 1911,
     "city": "Lemgo",
-    "stadium": "Phoenix Contact Arena"
+    "stadium": "Phoenix Contact Arena",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Kempa",
+        "from": 2025
+      }
+    ]
   },
   {
     "slug": "thsv-eisenach",
@@ -17269,7 +17300,12 @@
     ],
     "founded": 1990,
     "city": "Eisenach",
-    "stadium": "Werner-Aßmann-Halle"
+    "stadium": "Werner-Aßmann-Halle",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Kempa"
+      }
+    ]
   },
   {
     "slug": "thw-kiel",

@@ -6515,6 +6515,31 @@
     "source": "community"
   },
   {
+    "team": "fortuna-dusseldorf",
+    "sport": "football",
+    "league": "3-liga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": "Targobank",
+    "colorway": "Dunkelrot",
+    "design": "Dunkelrote Grundfarbe mit dünnen Querstreifen in hellerem Rot und Weiß; Schriftzug \"Fortuna für alle\" im Nacken, \"Düsseldorf\" in Fortuna Sans über den Rückennummern; adidas AEROREADY-Material.",
+    "design_en": "Dark red base colour with thin horizontal stripes in lighter red and white; 'Fortuna für alle' lettering on the neck, 'Düsseldorf' in Fortuna Sans above the squad numbers; adidas AEROREADY material.",
+    "colors": [
+      "Rot",
+      "Weiß"
+    ],
+    "competitions": [
+      "3. Liga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: shop.f95.de (offizieller F95-Onlineshop), Produktbeschreibung Heimtrikot 2025/26."
+  },
+  {
     "team": "frankreich",
     "sport": "football",
     "league": null,
@@ -6590,6 +6615,31 @@
     "aliases": [],
     "source": "community",
     "notes": "Quelle: Footy Headlines (\"France 2026 World Cup Home & Away Kits Released\", 2025-02) + FourFourTwo (\"The France World Cup 2026 home kit is out\"). Frankreich ist für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia)."
+  },
+  {
+    "team": "fsv-frankfurt",
+    "sport": "football",
+    "league": "regionalliga-suedwest",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Erima",
+    "main_sponsor": "Ludwig Hofmann",
+    "colorway": "Schwarzblau",
+    "design": null,
+    "design_en": null,
+    "colors": [
+      "Schwarz",
+      "Blau"
+    ],
+    "competitions": [
+      "Regionalliga Südwest"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: fsv-shop.de, Produktseite \"Heimtrikot 25/26\" (\"Das neue Trikot aus der Saison 25/26 von unserem Ausrüster Erima und dem Hauptsponsor Ludwig Hofmann\"); fsv-frankfurt.de, Artikel \"Neues Heimtrikot\" (\"Schwarzblau für Bornheim\")."
   },
   {
     "team": "futbol-club-barcelona",
@@ -7377,6 +7427,31 @@
     "gtins": [],
     "aliases": [],
     "source": "community"
+  },
+  {
+    "team": "msv-duisburg",
+    "sport": "football",
+    "league": "3-liga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "adidas",
+    "main_sponsor": "trinkgut",
+    "colorway": "Blau / Weiß",
+    "design": "Klassisches blau-weiß gestreiftes Heimtrikot (\"Traditionsstreifen\") in moderner Interpretation mit mehr Streifen; Rundhalsausschnitt, adidas AEROREADY-Material, 100 % recyceltes Polyester, adidas-Logo neben dem traditionellen MSV-Rundwappen.",
+    "design_en": "Classic blue-and-white striped home jersey ('Traditionsstreifen') in a modern take with more stripes; crew neck, adidas AEROREADY material, 100% recycled polyester, adidas logo alongside the traditional MSV round crest.",
+    "colors": [
+      "Blau",
+      "Weiß"
+    ],
+    "competitions": [
+      "3. Liga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: msv-duisburg.de, Vereinsartikel \"Traditionsstreifen vs. Stahlherz: Das neue Heim- und Auswärtstrikot des MSV Duisburg\" (Heim-/Auswärtstrikot-Präsentation 26.06.2025)."
   },
   {
     "team": "newcastle-united",
@@ -9393,6 +9468,31 @@
     "notes": "Quelle: offizieller DHB-Fanshop shop.dhb.de, Produktseite \"DHB Trikot 2025 Home Puma, weiss\" (Artikelnr. 946356-01) und handball.net-Artikel zur Trikotpräsentation \"Die Kunst des Spiels\" (PUMA x DHB, 2025)."
   },
   {
+    "team": "frisch-auf-goeppingen",
+    "sport": "handball",
+    "league": "handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Kempa",
+    "main_sponsor": "Salvia Gebäudetechnik",
+    "colorway": "Grün / Weiß",
+    "design": "Klassisches Grün-Weiß mit dynamischen Mustern und feinen Linien; Vereinslogo erstmals im hochwertigen 3D-Transferverfahren aufgebracht; Kempa \"for the planet\"-Nachhaltigkeitslinie aus recyceltem Polyester.",
+    "design_en": "Classic green and white with dynamic patterns and fine lines; club logo applied for the first time using a high-quality 3D transfer process; Kempa 'for the planet' sustainability line made from recycled polyester.",
+    "colors": [
+      "Grün",
+      "Weiß"
+    ],
+    "competitions": [
+      "Handball-Bundesliga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: frischauf-gp.de, Vereinsmeldung \"Heimisch. Heldisch. Heimtrikot 2025/26\"."
+  },
+  {
     "team": "fuechse-berlin",
     "sport": "handball",
     "league": "handball-bundesliga",
@@ -9567,6 +9667,55 @@
     "notes": "Quelle: offizielle SG-Vereinsseite, Artikel \"DENN MAN TAU! - das SG Trikot\" (sg-flensburg-handewitt.de) und indoortrends.de-Produktseite \"SG Flensburg-Handewitt 25/26 Home Trikot\" (Farbe TRUE RED, verfügbar ab 19.07.2025)."
   },
   {
+    "team": "tbv-lemgo-lippe",
+    "sport": "handball",
+    "league": "handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Kempa",
+    "main_sponsor": null,
+    "colorway": "Blau",
+    "design": "Vereinstypisches Blau mit dezent eingearbeiteter Stadtkarte von Lemgo auf der Vorderseite, als Symbol für die Verbundenheit des TBV mit seiner Heimatstadt; erste Saison mit neuem Ausrüster Kempa.",
+    "design_en": "The club's traditional blue with a subtle city map of Lemgo worked into the front, symbolising TBV's connection to its hometown; the first season with new kit supplier Kempa.",
+    "colors": [
+      "Blau"
+    ],
+    "competitions": [
+      "Handball-Bundesliga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: tbv-lemgo-lippe.de, Vereinsmeldung \"TBV Lemgo Lippe präsentiert neues Trikot für die Saison 2025/26 – Erstmals mit Ausrüster Kempa\"."
+  },
+  {
+    "team": "thsv-eisenach",
+    "sport": "handball",
+    "league": "handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Kempa",
+    "main_sponsor": null,
+    "colorway": "Blau / Weiß",
+    "design": null,
+    "design_en": null,
+    "colors": [
+      "Blau",
+      "Weiß"
+    ],
+    "competitions": [
+      "Handball-Bundesliga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Quelle: kempa-sports.com, Produktseite \"ThSV Eisenach Heimtrikot 25/26\" (Farbkombination \"blau/weiß\"); thsv-eisenach.de, Vereinsmeldung \"Kultklub in Blau: Unser Heimtrikot für die Bundesliga-Saison 2025/26\"."
+  },
+  {
     "team": "thw-kiel",
     "sport": "handball",
     "league": "handball-bundesliga",
@@ -9590,6 +9739,28 @@
     "aliases": [],
     "source": "community",
     "notes": "Quelle: offizieller THW-Kiel-Fanshop, Produktseite \"THW Kiel 25-26 Home Jersey PUMA White\" (thw-fanshop.de), sowie PUMA-Produktseite \"THW Kiel 25/26 Heimtrikot Herren\" (eu.puma.com)."
+  },
+  {
+    "team": "vfl-potsdam",
+    "sport": "handball",
+    "league": "2-handball-bundesliga",
+    "season": "2025/26",
+    "kit_type": "home",
+    "manufacturer": "Kempa",
+    "main_sponsor": null,
+    "colorway": null,
+    "design": null,
+    "design_en": null,
+    "colors": null,
+    "competitions": [
+      "2. Handball-Bundesliga"
+    ],
+    "skus": null,
+    "release_date": null,
+    "gtins": [],
+    "aliases": [],
+    "source": "community",
+    "notes": "Ausrüster Kempa bestätigt über kempa-sports.com, Produktlisting \"VfL Potsdam Heimtrikot 25/26\" (offizieller Kempa-Fanshop). Konkrete Farbgebung textlich nicht bestätigt (nur Bildmaterial, generische \"FOR THE PLANET\"-Produktbeschreibung ohne Farbnamen); Vorjahr 2024/25 war bordeaux/rot -- daher colors/colorway bewusst null gelassen statt geraten."
   },
   {
     "team": "anaheim-ducks",

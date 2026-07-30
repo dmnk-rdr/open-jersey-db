@@ -1,0 +1,23 @@
+team: tbv-lemgo-lippe
+sport: handball
+league: handball-bundesliga
+season: '2025/26'
+kit_type: home
+manufacturer: Kempa
+main_sponsor: null
+colorway: Blau
+design: >-
+  Vereinstypisches Blau mit dezent eingearbeiteter Stadtkarte von Lemgo auf der
+  Vorderseite, als Symbol für die Verbundenheit des TBV mit seiner Heimatstadt; erste
+  Saison mit neuem Ausrüster Kempa.
+design_en: "The club's traditional blue with a subtle city map of Lemgo worked into the front, symbolising TBV's connection to its hometown; the first season with new kit supplier Kempa."
+colors:
+- Blau
+competitions:
+- Handball-Bundesliga
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: tbv-lemgo-lippe.de, Vereinsmeldung \"TBV Lemgo Lippe präsentiert neues Trikot für die Saison 2025/26 – Erstmals mit Ausrüster Kempa\"."

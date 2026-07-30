@@ -10,3 +10,6 @@ founded: 1899
 aliases:
 - fsv frankfurt
 - fsv frankfurt 1899
+# Aktueller Ausrüster. Quelle: fsv-shop.de (offizieller Vereins-Onlineshop), Heimtrikot 2025/26.
+kit_suppliers:
+- { manufacturer: Erima }

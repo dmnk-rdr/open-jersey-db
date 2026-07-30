@@ -1,0 +1,24 @@
+team: fortuna-dusseldorf
+sport: football
+league: 3-liga
+season: '2025/26'
+kit_type: home
+manufacturer: adidas
+main_sponsor: Targobank
+colorway: Dunkelrot
+design: >-
+  Dunkelrote Grundfarbe mit dünnen Querstreifen in hellerem Rot und Weiß; Schriftzug
+  "Fortuna für alle" im Nacken, "Düsseldorf" in Fortuna Sans über den Rückennummern;
+  adidas AEROREADY-Material.
+design_en: "Dark red base colour with thin horizontal stripes in lighter red and white; 'Fortuna für alle' lettering on the neck, 'Düsseldorf' in Fortuna Sans above the squad numbers; adidas AEROREADY material."
+colors:
+- Rot
+- Weiß
+competitions:
+- 3. Liga
+skus: null
+release_date: null
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: shop.f95.de (offizieller F95-Onlineshop), Produktbeschreibung Heimtrikot 2025/26."

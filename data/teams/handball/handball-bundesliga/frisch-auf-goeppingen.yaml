@@ -12,3 +12,6 @@ aliases:
 founded: 1896
 city: Göppingen
 stadium: EWS Arena
+# Aktueller Ausrüster. Quelle: frischauf-gp.de (offizielle Vereinsseite), Heimtrikot 2025/26.
+kit_suppliers:
+- { manufacturer: Kempa }

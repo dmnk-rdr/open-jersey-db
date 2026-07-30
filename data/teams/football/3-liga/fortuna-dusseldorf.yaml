@@ -7,3 +7,6 @@ country: DE
 aliases:
 - fortuna dusseldorf
 - fortuna düsseldorf
+# Aktueller Ausrüster. Quelle: shop.f95.de (offizieller F95-Onlineshop), Heimtrikot 2025/26.
+kit_suppliers:
+- { manufacturer: adidas }
