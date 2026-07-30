@@ -1,0 +1,31 @@
+team: peru
+sport: football
+league: null
+season: '2026'
+kit_type: away
+manufacturer: adidas
+main_sponsor: null
+colorway: Schwarz / Koralle / Zitronengelb / Bordeaux
+design: >-
+  Schwarzer Grundton, inspiriert von den kräftigen Farben der "Chicha"-Kultur
+  (ein traditionelles peruanisches Getränk mit Ursprüngen bis ca. 5000 v.
+  Chr.); drei Akzentfarben - Koralle, Zitronengelb und helles Bordeaux -
+  prägen sowohl das Trefoil-Logo als auch die drei adidas-Streifen in einer
+  Tricolore-Optik. Dazu schwarze Shorts mit farblich passenden Streifen und
+  schwarze Socken mit Akzentstreifen.
+design_en: "Black base tone, inspired by the vibrant colours of Chicha culture (a traditional Peruvian drink dating back to roughly 5000 BCE); three accent tones — coral, lemon and light maroon — feature on both the Trefoil logo and the three adidas stripes in a tricolour treatment. Matching black shorts with coordinated striping and black socks with accent stripes complete the kit."
+colors:
+- Schwarz
+- Koralle
+- Zitronengelb
+- Bordeaux
+competitions:
+- International
+skus:
+  replica: JL8660
+  authentic: KB7502
+release_date: '2026-03-20'
+gtins: []
+aliases: []
+source: community
+notes: "Quelle: Footy Headlines (\"Peru 2026 Away Kit Released\", 2025-01) + Football Shirt Culture (\"Peru 2026 Adidas Away Kit\") + adidas.com Produktbeschreibung (Style JL8660/KB7502). Peru hat sich NICHT für die WM 2026 qualifiziert (Quelle: FIFA/Wikipedia), daher Wettbewerb nur \"International\", kein \"World Cup\"."
