@@ -6571,7 +6571,8 @@
       "club atlético de madrid, sad",
       "el atleti",
       "madrid",
-      "the atletico"
+      "the atletico",
+      "atleti"
     ],
     "founded": 1903,
     "city": "Madrid",
@@ -6682,6 +6683,19 @@
     "wikidata": "Q223620"
   },
   {
+    "slug": "deportivo-la-coruna",
+    "name": "Deportivo La Coruña",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "deportivo la corogne",
+      "deportivo la coruna",
+      "deportivo la coruña"
+    ]
+  },
+  {
     "slug": "espanyol-barcelona",
     "name": "Espanyol Barcelona",
     "sport": "football",
@@ -6747,25 +6761,6 @@
     "city": "Getafe",
     "stadium": "Coliseum Alfonso Pérez",
     "wikidata": "Q8806"
-  },
-  {
-    "slug": "fc-girona",
-    "name": "FC Girona",
-    "sport": "football",
-    "type": "club",
-    "league": "la-liga",
-    "country": "ES",
-    "aliases": [
-      "girona",
-      "girona fc club",
-      "girona futbol club",
-      "girona futbol club, s.a.d.",
-      "girona soccer team"
-    ],
-    "founded": 1930,
-    "city": "Girona",
-    "stadium": "Estadi Municipal de Montilivi",
-    "wikidata": "Q11945"
   },
   {
     "slug": "fc-sevilla",
@@ -6983,6 +6978,32 @@
     "wikidata": "Q8823"
   },
   {
+    "slug": "malaga",
+    "name": "Málaga",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "malaga",
+      "málaga",
+      "malaga cf"
+    ]
+  },
+  {
+    "slug": "racing-santander",
+    "name": "Racing Santander",
+    "sport": "football",
+    "type": "club",
+    "league": "la-liga",
+    "country": "ES",
+    "aliases": [
+      "racing santander",
+      "santander",
+      "real racing club"
+    ]
+  },
+  {
     "slug": "rayo-vallecano",
     "name": "Rayo Vallecano",
     "sport": "football",
@@ -7001,24 +7022,6 @@
     "city": "Madrid",
     "stadium": "Campo de Fútbol de Vallecas",
     "wikidata": "Q10300"
-  },
-  {
-    "slug": "rcd-mallorca",
-    "name": "RCD Mallorca",
-    "sport": "football",
-    "type": "club",
-    "league": "la-liga",
-    "country": "ES",
-    "aliases": [
-      "mallorca",
-      "r.c.d. mallorca",
-      "real club deportivo mallorca",
-      "real mallorca",
-      "reial club deportiu mallorca"
-    ],
-    "founded": 1916,
-    "city": "Palma",
-    "wikidata": "Q8835"
   },
   {
     "slug": "real-madrid",
@@ -7067,22 +7070,6 @@
       }
     ],
     "wikidata": "Q8682"
-  },
-  {
-    "slug": "real-oviedo",
-    "name": "Real Oviedo",
-    "sport": "football",
-    "type": "club",
-    "league": "la-liga",
-    "country": "ES",
-    "aliases": [
-      "oviedo",
-      "real oviedo s.a.d."
-    ],
-    "founded": 1926,
-    "city": "Oviedo",
-    "stadium": "Estadio Nuevo Carlos Tartiere",
-    "wikidata": "Q271574"
   },
   {
     "slug": "real-sociedad",
@@ -10821,19 +10808,6 @@
     ]
   },
   {
-    "slug": "deportivo-la-coruna",
-    "name": "Deportivo La Coruña",
-    "sport": "football",
-    "type": "club",
-    "league": "segunda-division",
-    "country": "ES",
-    "aliases": [
-      "deportivo la corogne",
-      "deportivo la coruna",
-      "deportivo la coruña"
-    ]
-  },
-  {
     "slug": "eibar",
     "name": "Eibar",
     "sport": "football",
@@ -10843,6 +10817,25 @@
     "aliases": [
       "eibar"
     ]
+  },
+  {
+    "slug": "fc-girona",
+    "name": "FC Girona",
+    "sport": "football",
+    "type": "club",
+    "league": "segunda-division",
+    "country": "ES",
+    "aliases": [
+      "girona",
+      "girona fc club",
+      "girona futbol club",
+      "girona futbol club, s.a.d.",
+      "girona soccer team"
+    ],
+    "founded": 1930,
+    "city": "Girona",
+    "stadium": "Estadi Municipal de Montilivi",
+    "wikidata": "Q11945"
   },
   {
     "slug": "granada",
@@ -10890,18 +10883,6 @@
     ]
   },
   {
-    "slug": "malaga",
-    "name": "Málaga",
-    "sport": "football",
-    "type": "club",
-    "league": "segunda-division",
-    "country": "ES",
-    "aliases": [
-      "malaga",
-      "málaga"
-    ]
-  },
-  {
     "slug": "mirandes",
     "name": "Mirandés",
     "sport": "football",
@@ -10914,15 +10895,38 @@
     ]
   },
   {
-    "slug": "racing-santander",
-    "name": "Racing Santander",
+    "slug": "rcd-mallorca",
+    "name": "RCD Mallorca",
     "sport": "football",
     "type": "club",
     "league": "segunda-division",
     "country": "ES",
     "aliases": [
-      "racing santander"
-    ]
+      "mallorca",
+      "r.c.d. mallorca",
+      "real club deportivo mallorca",
+      "real mallorca",
+      "reial club deportiu mallorca"
+    ],
+    "founded": 1916,
+    "city": "Palma",
+    "wikidata": "Q8835"
+  },
+  {
+    "slug": "real-oviedo",
+    "name": "Real Oviedo",
+    "sport": "football",
+    "type": "club",
+    "league": "segunda-division",
+    "country": "ES",
+    "aliases": [
+      "oviedo",
+      "real oviedo s.a.d."
+    ],
+    "founded": 1926,
+    "city": "Oviedo",
+    "stadium": "Estadio Nuevo Carlos Tartiere",
+    "wikidata": "Q271574"
   },
   {
     "slug": "real-valladolid",
