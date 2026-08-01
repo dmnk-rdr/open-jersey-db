@@ -1901,7 +1901,9 @@
   ],
   "FC Viktoria Köln": [
     "fc viktoria koln",
-    "fc viktoria köln"
+    "fc viktoria köln",
+    "viktoria koln",
+    "viktoria köln"
   ],
   "FC Viktoria Plzeň": [
     "fc viktoria plzen",
@@ -3924,6 +3926,8 @@
     "sc dhfk leipzig"
   ],
   "SC Fortuna Köln": [
+    "fortuna koln",
+    "fortuna köln",
     "sc fortuna koln",
     "sc fortuna köln"
   ],
@@ -4063,6 +4067,7 @@
     "sscn"
   ],
   "SSV Jahn Regensburg": [
+    "jahn regensburg",
     "ssv jahn regensburg"
   ],
   "SSV Ulm 1846": [
@@ -4558,6 +4563,11 @@
     "tsg 1899 hoffenheim",
     "tsg hoffenheim"
   ],
+  "TSG 1899 Hoffenheim II": [
+    "hoffenheim ii",
+    "tsg 1899 hoffenheim ii",
+    "tsg hoffenheim ii"
+  ],
   "TSG Balingen": [
     "balingen",
     "tsg balingen"
@@ -4996,6 +5006,11 @@
     "stuttgart",
     "vfb",
     "vfb stuttgart"
+  ],
+  "VfB Stuttgart II": [
+    "stuttgart ii",
+    "vfb ii",
+    "vfb stuttgart ii"
   ],
   "VfL Bochum": [
     "bochum",

@@ -3998,7 +3998,9 @@
     "country": "DE",
     "aliases": [
       "fc viktoria koln",
-      "fc viktoria köln"
+      "fc viktoria köln",
+      "viktoria koln",
+      "viktoria köln"
     ]
   },
   {
@@ -4078,7 +4080,9 @@
     "country": "DE",
     "aliases": [
       "sc fortuna koln",
-      "sc fortuna köln"
+      "sc fortuna köln",
+      "fortuna koln",
+      "fortuna köln"
     ]
   },
   {
@@ -4112,36 +4116,8 @@
     "league": "3-liga",
     "country": "DE",
     "aliases": [
-      "ssv jahn regensburg"
-    ]
-  },
-  {
-    "slug": "ssv-ulm-1846",
-    "name": "SSV Ulm 1846",
-    "sport": "football",
-    "type": "club",
-    "league": "3-liga",
-    "country": "DE",
-    "aliases": [
-      "spatzen",
-      "ssv ulm",
-      "ssv ulm 1846",
-      "ssv ulm 1846 fussball",
-      "ulm"
-    ],
-    "founded": 1846,
-    "city": "Ulm",
-    "stadium": "Donaustadion",
-    "kit_suppliers": [
-      {
-        "manufacturer": "uhlsport"
-      }
-    ],
-    "achievements": [
-      {
-        "year": "1999/2000",
-        "text": "Einzige Bundesliga-Saison der Vereinsgeschichte (Platz 16, Abstieg)"
-      }
+      "ssv jahn regensburg",
+      "jahn regensburg"
     ]
   },
   {
@@ -4201,6 +4177,20 @@
     ]
   },
   {
+    "slug": "tsg-1899-hoffenheim-ii",
+    "name": "TSG 1899 Hoffenheim II",
+    "sport": "football",
+    "type": "club",
+    "league": "3-liga",
+    "country": "DE",
+    "aliases": [
+      "tsg 1899 hoffenheim ii",
+      "tsg hoffenheim ii",
+      "hoffenheim ii"
+    ],
+    "city": "Sinsheim"
+  },
+  {
     "slug": "tsv-havelse",
     "name": "TSV Havelse",
     "sport": "football",
@@ -4210,6 +4200,20 @@
     "aliases": [
       "tsv havelse"
     ]
+  },
+  {
+    "slug": "vfb-stuttgart-ii",
+    "name": "VfB Stuttgart II",
+    "sport": "football",
+    "type": "club",
+    "league": "3-liga",
+    "country": "DE",
+    "aliases": [
+      "vfb stuttgart ii",
+      "stuttgart ii",
+      "vfb ii"
+    ],
+    "city": "Stuttgart"
   },
   {
     "slug": "wurzburger-kickers",
@@ -10210,6 +10214,35 @@
     "founded": 2010,
     "city": "Freiberg am Neckar",
     "stadium": "Frankenstadion Heilbronn"
+  },
+  {
+    "slug": "ssv-ulm-1846",
+    "name": "SSV Ulm 1846",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "spatzen",
+      "ssv ulm",
+      "ssv ulm 1846",
+      "ssv ulm 1846 fussball",
+      "ulm"
+    ],
+    "founded": 1846,
+    "city": "Ulm",
+    "stadium": "Donaustadion",
+    "kit_suppliers": [
+      {
+        "manufacturer": "uhlsport"
+      }
+    ],
+    "achievements": [
+      {
+        "year": "1999/2000",
+        "text": "Einzige Bundesliga-Saison der Vereinsgeschichte (Platz 16, Abstieg)"
+      }
+    ]
   },
   {
     "slug": "stuttgarter-kickers",
