@@ -7427,6 +7427,18 @@
     "wikidata": "Q180305"
   },
   {
+    "slug": "estac-troyes",
+    "name": "ESTAC Troyes",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "estac troyes",
+      "troyes"
+    ]
+  },
+  {
     "slug": "fc-lorient",
     "name": "FC Lorient",
     "sport": "football",
@@ -7442,47 +7454,6 @@
     "city": "Lorient",
     "stadium": "Stade du Moustoir",
     "wikidata": "Q48911"
-  },
-  {
-    "slug": "fc-metz",
-    "name": "FC Metz",
-    "sport": "football",
-    "type": "club",
-    "league": "ligue-1",
-    "country": "FR",
-    "aliases": [
-      "f.c. metz",
-      "fcm",
-      "fcmetz",
-      "football club de metz",
-      "football club of metz",
-      "fv metz",
-      "metz",
-      "metz football club"
-    ],
-    "founded": 1932,
-    "city": "Metz",
-    "stadium": "Stade Saint-Symphorien",
-    "wikidata": "Q221525"
-  },
-  {
-    "slug": "fc-nantes",
-    "name": "FC Nantes",
-    "sport": "football",
-    "type": "club",
-    "league": "ligue-1",
-    "country": "FR",
-    "aliases": [
-      "f.c.nantes",
-      "fc nantes atlantique",
-      "fcnantes",
-      "football club of nantes",
-      "nantes"
-    ],
-    "founded": 1943,
-    "city": "Nantes",
-    "stadium": "Stade Louis-Fonteneau",
-    "wikidata": "Q192071"
   },
   {
     "slug": "fc-toulouse",
@@ -7524,6 +7495,17 @@
     "wikidata": "Q328658"
   },
   {
+    "slug": "le-mans-fc",
+    "name": "Le Mans FC",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-1",
+    "country": "FR",
+    "aliases": [
+      "le mans fc"
+    ]
+  },
+  {
     "slug": "ogc-nizza",
     "name": "OGC Nizza",
     "sport": "football",
@@ -7535,7 +7517,8 @@
       "ogc nice",
       "ogc nice côte d'azur",
       "olympique gymnaste club de nice côte d'azur",
-      "olympique gymnaste club nice côte d'azur"
+      "olympique gymnaste club nice côte d'azur",
+      "nice"
     ],
     "founded": 1904,
     "city": "Nizza",
@@ -7838,17 +7821,6 @@
     ]
   },
   {
-    "slug": "estac-troyes",
-    "name": "ESTAC Troyes",
-    "sport": "football",
-    "type": "club",
-    "league": "ligue-2",
-    "country": "FR",
-    "aliases": [
-      "estac troyes"
-    ]
-  },
-  {
     "slug": "fc-annecy",
     "name": "FC Annecy",
     "sport": "football",
@@ -7860,15 +7832,45 @@
     ]
   },
   {
-    "slug": "le-mans-fc",
-    "name": "Le Mans FC",
+    "slug": "fc-metz",
+    "name": "FC Metz",
     "sport": "football",
     "type": "club",
     "league": "ligue-2",
     "country": "FR",
     "aliases": [
-      "le mans fc"
-    ]
+      "f.c. metz",
+      "fcm",
+      "fcmetz",
+      "football club de metz",
+      "football club of metz",
+      "fv metz",
+      "metz",
+      "metz football club"
+    ],
+    "founded": 1932,
+    "city": "Metz",
+    "stadium": "Stade Saint-Symphorien",
+    "wikidata": "Q221525"
+  },
+  {
+    "slug": "fc-nantes",
+    "name": "FC Nantes",
+    "sport": "football",
+    "type": "club",
+    "league": "ligue-2",
+    "country": "FR",
+    "aliases": [
+      "f.c.nantes",
+      "fc nantes atlantique",
+      "fcnantes",
+      "football club of nantes",
+      "nantes"
+    ],
+    "founded": 1943,
+    "city": "Nantes",
+    "stadium": "Stade Louis-Fonteneau",
+    "wikidata": "Q192071"
   },
   {
     "slug": "montpellier-hsc",
@@ -11307,6 +11309,20 @@
     "wikidata": "Q1886"
   },
   {
+    "slug": "cagliari-calcio",
+    "name": "Cagliari Calcio",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "cagliari",
+      "cagliari calcio"
+    ],
+    "founded": 1920,
+    "city": "Cagliari"
+  },
+  {
     "slug": "como-1907",
     "name": "Como 1907",
     "sport": "football",
@@ -11314,7 +11330,8 @@
     "league": "serie-a",
     "country": "IT",
     "aliases": [
-      "como 1907"
+      "como 1907",
+      "como"
     ],
     "founded": 1907
   },
@@ -11338,26 +11355,6 @@
     "city": "Bologna",
     "stadium": "Stadio Renato Dall’Ara",
     "wikidata": "Q1893"
-  },
-  {
-    "slug": "fc-empoli",
-    "name": "FC Empoli",
-    "sport": "football",
-    "type": "club",
-    "league": "serie-a",
-    "country": "IT",
-    "aliases": [
-      "e.f.c.",
-      "efc",
-      "empoli",
-      "empoli f.c.",
-      "empoli football club",
-      "empolifc"
-    ],
-    "founded": 1920,
-    "city": "Empoli",
-    "stadium": "Stadio Carlo Castellani",
-    "wikidata": "Q6703"
   },
   {
     "slug": "fc-turin",
@@ -11387,6 +11384,17 @@
     "wikidata": "Q2768"
   },
   {
+    "slug": "frosinone",
+    "name": "Frosinone",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "frosinone"
+    ]
+  },
+  {
     "slug": "genoa-cfc",
     "name": "Genoa CFC",
     "sport": "football",
@@ -11398,27 +11406,6 @@
       "genoa cfc",
       "genua"
     ]
-  },
-  {
-    "slug": "hellas-verona",
-    "name": "Hellas Verona",
-    "sport": "football",
-    "type": "club",
-    "league": "serie-a",
-    "country": "IT",
-    "aliases": [
-      "h.v.f.c.",
-      "hellas",
-      "hellas verona f.c.",
-      "hellas verona football club",
-      "hellasverona",
-      "hvfc",
-      "verona"
-    ],
-    "founded": 1903,
-    "city": "Verona",
-    "stadium": "Stadio Marcantonio Bentegodi",
-    "wikidata": "Q8639"
   },
   {
     "slug": "inter-mailand",
@@ -11504,62 +11491,19 @@
     "wikidata": "Q1422"
   },
   {
-    "slug": "pisa-sc",
-    "name": "Pisa SC",
+    "slug": "parma-calcio-1913",
+    "name": "Parma Calcio 1913",
     "sport": "football",
     "type": "club",
     "league": "serie-a",
     "country": "IT",
     "aliases": [
-      "ac pisa",
-      "pisa",
-      "pisa sc"
-    ]
-  },
-  {
-    "slug": "sampdoria-genua",
-    "name": "Sampdoria Genua",
-    "sport": "football",
-    "type": "club",
-    "league": "serie-a",
-    "country": "IT",
-    "aliases": [
-      "genua",
-      "samp",
-      "sampdoria",
-      "sampdoria football union",
-      "sampdoria of genoa",
-      "sampdoria uc",
-      "sampdoria unione calcio",
-      "u.c. sampdoria",
-      "uc sampdoria",
-      "uc sampdoria genua",
-      "ucs",
-      "ucs 1946"
+      "parma",
+      "parma calcio",
+      "parma calcio 1913"
     ],
-    "founded": 1946,
-    "city": "Genua",
-    "stadium": "Stadio Luigi Ferraris",
-    "wikidata": "Q1457"
-  },
-  {
-    "slug": "spezia-calcio",
-    "name": "Spezia Calcio",
-    "sport": "football",
-    "type": "club",
-    "league": "serie-a",
-    "country": "IT",
-    "aliases": [
-      "a.c. spezia",
-      "ac spezia",
-      "foot-ball club spezia",
-      "spezia",
-      "spezia calcio 1906"
-    ],
-    "founded": 1906,
-    "city": "La Spezia",
-    "stadium": "Stadio Alberto Picco",
-    "wikidata": "Q8615"
+    "founded": 1913,
+    "city": "Parma"
   },
   {
     "slug": "ss-lazio-multisports-club",
@@ -11663,27 +11607,6 @@
     "wikidata": "Q13391"
   },
   {
-    "slug": "u-s-salernitana-1919",
-    "name": "U.S. Salernitana 1919",
-    "sport": "football",
-    "type": "club",
-    "league": "serie-a",
-    "country": "IT",
-    "aliases": [
-      "salernitana",
-      "salernitana fc",
-      "salernitana football club",
-      "salernitana sport",
-      "salernitana sports union 1919",
-      "unione sportiva salernitana 1919 s.r.l.",
-      "uss1919"
-    ],
-    "founded": 1919,
-    "city": "Salerno",
-    "stadium": "Stadio Arechi",
-    "wikidata": "Q847587"
-  },
-  {
     "slug": "udinese-calcio",
     "name": "Udinese Calcio",
     "sport": "football",
@@ -11703,22 +11626,6 @@
     "wikidata": "Q2798"
   },
   {
-    "slug": "us-cremonese",
-    "name": "US Cremonese",
-    "sport": "football",
-    "type": "club",
-    "league": "serie-a",
-    "country": "IT",
-    "aliases": [
-      "cremonese",
-      "unione sportiva cremonese"
-    ],
-    "founded": 1903,
-    "city": "Cremona",
-    "stadium": "Stadio Giovanni Zini",
-    "wikidata": "Q759482"
-  },
-  {
     "slug": "us-sassuolo-calcio",
     "name": "US Sassuolo Calcio",
     "sport": "football",
@@ -11735,6 +11642,17 @@
     "city": "Sassuolo",
     "stadium": "Mapei Stadium – Città del Tricolore",
     "wikidata": "Q8603"
+  },
+  {
+    "slug": "venezia",
+    "name": "Venezia",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-a",
+    "country": "IT",
+    "aliases": [
+      "venezia"
+    ]
   },
   {
     "slug": "avellino",
@@ -11792,15 +11710,45 @@
     ]
   },
   {
-    "slug": "frosinone",
-    "name": "Frosinone",
+    "slug": "fc-empoli",
+    "name": "FC Empoli",
     "sport": "football",
     "type": "club",
     "league": "serie-b",
     "country": "IT",
     "aliases": [
-      "frosinone"
-    ]
+      "e.f.c.",
+      "efc",
+      "empoli",
+      "empoli f.c.",
+      "empoli football club",
+      "empolifc"
+    ],
+    "founded": 1920,
+    "city": "Empoli",
+    "stadium": "Stadio Carlo Castellani",
+    "wikidata": "Q6703"
+  },
+  {
+    "slug": "hellas-verona",
+    "name": "Hellas Verona",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-b",
+    "country": "IT",
+    "aliases": [
+      "h.v.f.c.",
+      "hellas",
+      "hellas verona f.c.",
+      "hellas verona football club",
+      "hellasverona",
+      "hvfc",
+      "verona"
+    ],
+    "founded": 1903,
+    "city": "Verona",
+    "stadium": "Stadio Marcantonio Bentegodi",
+    "wikidata": "Q8639"
   },
   {
     "slug": "juve-stabia",
@@ -11871,6 +11819,19 @@
     ]
   },
   {
+    "slug": "pisa-sc",
+    "name": "Pisa SC",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-b",
+    "country": "IT",
+    "aliases": [
+      "ac pisa",
+      "pisa",
+      "pisa sc"
+    ]
+  },
+  {
     "slug": "reggiana",
     "name": "Reggiana",
     "sport": "football",
@@ -11891,6 +11852,32 @@
     "aliases": []
   },
   {
+    "slug": "sampdoria-genua",
+    "name": "Sampdoria Genua",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-b",
+    "country": "IT",
+    "aliases": [
+      "genua",
+      "samp",
+      "sampdoria",
+      "sampdoria football union",
+      "sampdoria of genoa",
+      "sampdoria uc",
+      "sampdoria unione calcio",
+      "u.c. sampdoria",
+      "uc sampdoria",
+      "uc sampdoria genua",
+      "ucs",
+      "ucs 1946"
+    ],
+    "founded": 1946,
+    "city": "Genua",
+    "stadium": "Stadio Luigi Ferraris",
+    "wikidata": "Q1457"
+  },
+  {
     "slug": "sudtirol",
     "name": "Südtirol",
     "sport": "football",
@@ -11903,15 +11890,20 @@
     ]
   },
   {
-    "slug": "venezia",
-    "name": "Venezia",
+    "slug": "us-cremonese",
+    "name": "US Cremonese",
     "sport": "football",
     "type": "club",
     "league": "serie-b",
     "country": "IT",
     "aliases": [
-      "venezia"
-    ]
+      "cremonese",
+      "unione sportiva cremonese"
+    ],
+    "founded": 1903,
+    "city": "Cremona",
+    "stadium": "Stadio Giovanni Zini",
+    "wikidata": "Q759482"
   },
   {
     "slug": "virtus-entella",
@@ -11923,6 +11915,46 @@
     "aliases": [
       "virtus entella"
     ]
+  },
+  {
+    "slug": "spezia-calcio",
+    "name": "Spezia Calcio",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-c",
+    "country": "IT",
+    "aliases": [
+      "a.c. spezia",
+      "ac spezia",
+      "foot-ball club spezia",
+      "spezia",
+      "spezia calcio 1906"
+    ],
+    "founded": 1906,
+    "city": "La Spezia",
+    "stadium": "Stadio Alberto Picco",
+    "wikidata": "Q8615"
+  },
+  {
+    "slug": "u-s-salernitana-1919",
+    "name": "U.S. Salernitana 1919",
+    "sport": "football",
+    "type": "club",
+    "league": "serie-c",
+    "country": "IT",
+    "aliases": [
+      "salernitana",
+      "salernitana fc",
+      "salernitana football club",
+      "salernitana sport",
+      "salernitana sports union 1919",
+      "unione sportiva salernitana 1919 s.r.l.",
+      "uss1919"
+    ],
+    "founded": 1919,
+    "city": "Salerno",
+    "stadium": "Stadio Arechi",
+    "wikidata": "Q847587"
   },
   {
     "slug": "ae-kifisia",

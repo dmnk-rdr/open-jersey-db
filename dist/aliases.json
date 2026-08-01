@@ -938,6 +938,10 @@
   "CS Sfaxien": [
     "cs sfaxien"
   ],
+  "Cagliari Calcio": [
+    "cagliari",
+    "cagliari calcio"
+  ],
   "Calgary Flames": [
     "calgary flames"
   ],
@@ -1152,6 +1156,7 @@
     "columbus crew"
   ],
   "Como 1907": [
+    "como",
     "como 1907"
   ],
   "Connacht Rugby": [
@@ -1442,7 +1447,8 @@
     "es zarzis"
   ],
   "ESTAC Troyes": [
-    "estac troyes"
+    "estac troyes",
+    "troyes"
   ],
   "EV Zug": [
     "ev zug",
@@ -3389,6 +3395,7 @@
     "ofk beograd"
   ],
   "OGC Nizza": [
+    "nice",
     "nizza",
     "ogc nice",
     "ogc nice côte d'azur",
@@ -3592,6 +3599,11 @@
   "Paris Saint-Germain Handball": [
     "paris saint-germain handball",
     "psg handball"
+  ],
+  "Parma Calcio 1913": [
+    "parma",
+    "parma calcio",
+    "parma calcio 1913"
   ],
   "Pau FC": [
     "pau fc"
