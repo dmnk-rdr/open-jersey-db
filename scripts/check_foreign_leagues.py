@@ -19,13 +19,27 @@ nicht verwertbar gelesen wurde.
 import json
 import re
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
+from collections import deque
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DB = ROOT / 'data' / 'teams' / 'football'
 KEY_FILE = ROOT.parent / '.football-data.key'
+
+# football-data.org Free-Tier: 10 Anfragen je 60 Sekunden. Bei vier Ligen wird das im
+# Normalbetrieb nicht knapp — aber zwei Laeufe kurz hintereinander (oder eine fuenfte Liga)
+# reissen es sofort, und das aeussert sich als HTTP 429. Ohne Drosselung faellt das Skript
+# dann still auf den Wikipedia-Scraper zurueck: es liefert weiter ein Ergebnis, nur aus der
+# schwaecheren Quelle. Genau diese Sorte stiller Degradierung soll hier nicht passieren.
+RATE_LIMIT_CALLS = 10
+RATE_LIMIT_WINDOW = 60.0
+# Obergrenze fuer eine einzelne Wartezeit — verhindert, dass ein kaputter Reset-Header das
+# Skript minutenlang blockiert.
+MAX_SLEEP = 75.0
 
 # Slug -> (football-data-Code, Wikipedia-Artikel, erwartete Vereinszahl)
 LEAGUES = {
@@ -54,15 +68,53 @@ def _get(url, headers):
     return urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=30)
 
 
+_api_calls: deque = deque()
+
+
+def _throttle():
+    """Gleitendes Fenster: nie mehr als RATE_LIMIT_CALLS Anfragen je RATE_LIMIT_WINDOW.
+
+    Kein Poll-Loop — es wird hoechstens einmal je Anfrage geschlafen, und nur so lange, bis
+    die aelteste Anfrage aus dem Fenster faellt.
+    """
+    now = time.monotonic()
+    while _api_calls and now - _api_calls[0] >= RATE_LIMIT_WINDOW:
+        _api_calls.popleft()
+    if len(_api_calls) >= RATE_LIMIT_CALLS:
+        wait = min(RATE_LIMIT_WINDOW - (now - _api_calls[0]) + 0.5, MAX_SLEEP)
+        if wait > 0:
+            print(f'   (Free-Tier-Limit erreicht — warte {wait:.0f}s)')
+            time.sleep(wait)
+        _api_calls.clear()
+    _api_calls.append(time.monotonic())
+
+
 def clubs_from_api(code, key):
     url = f'https://api.football-data.org/v4/competitions/{code}/teams?season={SEASON}'
-    try:
-        with _get(url, {'X-Auth-Token': key}) as r:
-            data = json.load(r)
-    except Exception as exc:                        # noqa: BLE001
-        # Nur den Fehlertyp zeigen: eine ausfuehrliche Exception koennte die URL samt
-        # mitgeschicktem Header in den Output tragen.
-        print(f'   (football-data {code} nicht erreichbar: {type(exc).__name__})')
+    for attempt in (1, 2):
+        _throttle()
+        try:
+            with _get(url, {'X-Auth-Token': key}) as r:
+                data = json.load(r)
+            break
+        except urllib.error.HTTPError as exc:
+            if exc.code == 429 and attempt == 1:
+                # Die API sagt selbst, wie lange sie schmollt — das schlaegt jedes Raten.
+                reset = exc.headers.get('X-RequestCounter-Reset')
+                wait = min(float(reset) + 1 if reset and reset.isdigit() else RATE_LIMIT_WINDOW,
+                           MAX_SLEEP)
+                print(f'   (football-data {code}: Rate-Limit, warte {wait:.0f}s und versuche erneut)')
+                time.sleep(wait)
+                _api_calls.clear()
+                continue
+            # 403 = Wettbewerb nicht im Free-Tier. Kein Retry, das wird auch beim zweiten Mal
+            # nichts. Nur den Code zeigen, nie die Exception: die traegt die URL samt Header.
+            print(f'   (football-data {code} nicht abrufbar: HTTP {exc.code})')
+            return []
+        except Exception as exc:                    # noqa: BLE001
+            print(f'   (football-data {code} nicht erreichbar: {type(exc).__name__})')
+            return []
+    else:
         return []
     # BEIDE Schreibweisen zurueckgeben. Der Kurzname allein reicht nicht: football-data nennt
     # RC Deportivo La Coruña schlicht "Deportivo" — ein Wort, das sich Deportivo Alavés,
