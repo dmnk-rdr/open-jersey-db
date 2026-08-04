@@ -17692,6 +17692,29 @@
     "stadium": "Palau Blaugrana"
   },
   {
+    "slug": "metz-handball",
+    "name": "Metz Handball",
+    "sport": "handball",
+    "type": "club",
+    "league": "ligue-butagaz-energie",
+    "country": "FR",
+    "aliases": [
+      "hb metz",
+      "metz handball",
+      "metz hb"
+    ],
+    "founded": 1965,
+    "city": "Metz",
+    "stadium": "Les Arènes",
+    "kit_suppliers": [
+      {
+        "manufacturer": "Kempa",
+        "from": 2011
+      }
+    ],
+    "wikidata": "Q3100740"
+  },
+  {
     "slug": "c-chartres-metropole-handball",
     "name": "C' Chartres Métropole Handball",
     "sport": "handball",
@@ -20629,6 +20652,20 @@
     ]
   },
   {
+    "slug": "italy-rugby",
+    "name": "Italy",
+    "sport": "rugby",
+    "type": "national",
+    "league": null,
+    "country": "IT",
+    "aliases": [
+      "italie",
+      "italien",
+      "italia",
+      "italy rugby"
+    ]
+  },
+  {
     "slug": "new-zealand-rugby",
     "name": "New Zealand",
     "sport": "rugby",
@@ -20650,6 +20687,8 @@
     "league": null,
     "country": "GB",
     "aliases": [
+      "écosse",
+      "schottland",
       "scotland rugby"
     ]
   },

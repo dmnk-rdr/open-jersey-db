@@ -2632,6 +2632,12 @@
     "italy",
     "italy basketball"
   ],
+  "Italy": [
+    "italia",
+    "italie",
+    "italien",
+    "italy rugby"
+  ],
   "JDA Dijon Basket": [
     "jda dijon",
     "jeanne d'arc dijon basket"
@@ -3132,6 +3138,11 @@
   ],
   "Memphis Grizzlies": [
     "memphis grizzlies"
+  ],
+  "Metz Handball": [
+    "hb metz",
+    "metz handball",
+    "metz hb"
   ],
   "Mexiko": [
     "el tri",
@@ -4270,7 +4281,9 @@
     "scj basketball"
   ],
   "Scotland": [
-    "scotland rugby"
+    "schottland",
+    "scotland rugby",
+    "écosse"
   ],
   "Seattle Kraken": [
     "seattle kraken"
