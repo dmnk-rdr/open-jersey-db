@@ -20396,7 +20396,9 @@
     "country": "GB",
     "aliases": [
       "edinburgh",
-      "edinburgh rugby"
+      "edinburgh rugby",
+      "édimbourg",
+      "édimbourg rugby"
     ],
     "founded": 1872,
     "city": "Edinburgh",
@@ -20559,6 +20561,8 @@
     "aliases": [
       "los pumas",
       "pumas argentina",
+      "argentine",
+      "argentinien",
       "argentina rugby",
       "argentinisches"
     ]
@@ -20572,6 +20576,8 @@
     "country": "AU",
     "aliases": [
       "wallabies",
+      "australie",
+      "australien",
       "australia rugby"
     ]
   },
@@ -20583,6 +20589,8 @@
     "league": null,
     "country": "BR",
     "aliases": [
+      "brésil",
+      "brasilien",
       "brazil rugby"
     ]
   },
@@ -20620,6 +20628,7 @@
     "country": "FJ",
     "aliases": [
       "fiji rugby",
+      "fidji",
       "fidschi"
     ]
   },
@@ -20647,6 +20656,7 @@
     "country": "IE",
     "aliases": [
       "ireland",
+      "irlande",
       "irland",
       "irland rugby"
     ]
@@ -20676,6 +20686,7 @@
       "all blacks",
       "black ferns",
       "neuseeland",
+      "nouvelle-zélande",
       "new zealand"
     ]
   },
@@ -20700,6 +20711,8 @@
     "league": null,
     "country": "ES",
     "aliases": [
+      "espagne",
+      "spanien",
       "spain rugby"
     ]
   },
