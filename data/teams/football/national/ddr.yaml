@@ -20,6 +20,11 @@ aliases:
 - alemania del este
 - germania est
 - deutsche demokratische republik
+# ⚠️ NICHT blankes „demokratische republik": `dr-kongo` steht im Katalog, und ein Titel
+# „Demokratische Republik Kongo" würde sonst hier landen (der Alias-Index nimmt den
+# LÄNGSTEN Treffer zuerst). Gemessen: 3 Varianten tragen die Wortfolge, alle die DDR.
+- demokratische republik allemagne
+- republique democratique allemande
 # Ausrüster. Quelle: Wikipedia „Fußballnationalmannschaft der DDR" — adidas rüstete die
 # Auswahl ab 1974 aus (WM-Endrunde), davor Zeha bzw. verbandseigene Ausstattung.
 # Bewusst knapp gehalten: was die Quelle nicht hergibt, steht hier nicht.
