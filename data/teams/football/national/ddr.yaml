@@ -1,0 +1,27 @@
+slug: ddr
+name: DDR
+sport: football
+type: national
+league: null
+country: DE
+# Die Fußballnationalmannschaft der DDR (1952–1990), Verband DFV. Historisches Team —
+# steht hier, weil Händler Retro-Trikots davon führen (Fanatics/Foot-Store titeln
+# französisch „Allemagne de l'Est"). Ohne eigenen Eintrag landeten sie beim DFB, und
+# die Seite zeigte ein DDR-Trikot als Deutschland-Trikot (gemeldet 06.08.2026).
+aliases:
+- ddr
+- east germany
+# ⚠️ „allemagne de l'est" ist der Grund für diesen Eintrag — und die Abgrenzung ist das
+# LETZTE Wort: „allemagne de l'ouest" (Westdeutschland) gehört zum DFB. Gemessen am
+# Bestand: 3 Varianten „de l'Est" (falsch beim DFB) gegen 5 „de l'Ouest" (dort korrekt).
+# Eine Nadel auf „allemagne de l" hätte die fünf mitgerissen.
+- allemagne de l est
+- allemagne de l'est
+- alemania del este
+- germania est
+- deutsche demokratische republik
+# Ausrüster. Quelle: Wikipedia „Fußballnationalmannschaft der DDR" — adidas rüstete die
+# Auswahl ab 1974 aus (WM-Endrunde), davor Zeha bzw. verbandseigene Ausstattung.
+# Bewusst knapp gehalten: was die Quelle nicht hergibt, steht hier nicht.
+kit_suppliers:
+- { manufacturer: adidas, from: 1974, to: 1990 }

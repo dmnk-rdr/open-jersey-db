@@ -13689,6 +13689,30 @@
     ]
   },
   {
+    "slug": "ddr",
+    "name": "DDR",
+    "sport": "football",
+    "type": "national",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "ddr",
+      "east germany",
+      "allemagne de l est",
+      "allemagne de l'est",
+      "alemania del este",
+      "germania est",
+      "deutsche demokratische republik"
+    ],
+    "kit_suppliers": [
+      {
+        "manufacturer": "adidas",
+        "from": 1974,
+        "to": 1990
+      }
+    ]
+  },
+  {
     "slug": "deutschland",
     "name": "Deutschland",
     "sport": "football",
