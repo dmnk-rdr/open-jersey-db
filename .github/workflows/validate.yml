@@ -4,6 +4,12 @@ on:
   pull_request:
   push:
     branches: [main]
+  # Manuell ausloesbar. Am 06.08.2026 scheiterten zwei Laeufe im Schritt „Set up job"
+  # („Failed to resolve action download info. Error: Service Unavailable") — eine Stoerung
+  # auf GitHub-Seite, vor jedem Skript dieses Repos. Ohne diesen Trigger bleibt als einzige
+  # Wiederholung ein `gh run rerun`, das denselben Job-Setup neu abspielt, oder ein
+  # Leer-Commit auf ein oeffentliches Repo. Beides ist schlechter als ein Knopf.
+  workflow_dispatch:
 
 jobs:
   validate:
