@@ -79,6 +79,31 @@ GENERIC_ALIASES = {
 }
 
 
+# YAML-Faltskalare (`>-`) verbinden Zeilen mit einem LEERZEICHEN. Steht ein
+# deutsches Bindestrich-Kompositum am Zeilenende, entsteht daraus stillschweigend
+# ein zerrissenes Wort: "Venezuelas Tepui-\n  Tafelbergen" wird zu
+# "Tepui- Tafelbergen". Vier solche Stellen standen unbemerkt im Katalog und
+# liefen bis in die gerenderte Produktseite durch. Der Fehler ist strukturell,
+# nicht ein Tippfehler — jedes Neuumbrechen einer Datei kann neue erzeugen.
+#
+# Ausgenommen ist die Ellipse, in der der Bindestrich am Wortende KORREKT ist:
+# "Heim- und Auswärtstrikot", "Vorder- und Rückseite". Ein Prüfer, der die drei
+# mitmeldet, wird abgeschaltet — und meldet dann auch die vier echten nicht mehr.
+TORN_WORD_RE = re.compile(r"\w+- (?!und\b|oder\b|bzw\b|sowie\b)\w+")
+
+TEXT_FIELDS = ("design", "design_en", "colorway", "notes")
+
+
+def check_torn_words(path: Path, doc: dict) -> None:
+    for field in TEXT_FIELDS:
+        value = doc.get(field)
+        if not isinstance(value, str):
+            continue
+        for hit in TORN_WORD_RE.findall(value):
+            err(path, f"{field}: zerrissenes Wort '{hit}' "
+                      f"(Zeilenumbruch im Faltskalar — Zeile neu umbrechen)")
+
+
 def main() -> int:
     team_validator = load_schema_validator("team.schema.json")
     kit_validator = load_schema_validator("kit.schema.json")
@@ -141,6 +166,7 @@ def main() -> int:
                 err(path, f"invalid GTIN '{gtin}' (format or check-digit)")
         if doc.get("source") == "manufacturer" and not doc.get("verified_by"):
             err(path, "source=manufacturer requires 'verified_by'")
+        check_torn_words(path, doc)
 
     if errors:
         print(f"\n✗ {len(errors)} validation error(s):\n", file=sys.stderr)
