@@ -157,6 +157,10 @@ def _clean_club(raw: str) -> str:
     text = re.sub(r"\[\[([^\]#|]+)(?:#[^\]|]*)?\]\]", r"\1", text)
     text = re.sub(r"<ref.*?</ref>|<ref[^>]*/>", "", text, flags=re.S)
     text = re.sub(r"\{\{[^{}]*\}\}", "", text)  # {{FN|…}}, {{gestiegen}}, …
+    # Restliche Inline-Auszeichnung. Aeltere Saisonartikel haengen Fussnotenzeichen als
+    # <sup>…</sup> an den Vereinsnamen ("FC Bayern München II <sup>/</sup>") — ohne das hier
+    # matcht der Verein nicht mehr und taucht faelschlich als FEHLT auf.
+    text = re.sub(r"<[^>]+>", "", text)
     text = text.replace("'''", "").replace("''", "")
     text = " ".join(text.split())
     return MARKER.sub("", text).strip()
