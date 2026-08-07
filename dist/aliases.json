@@ -11,6 +11,13 @@
     "fck",
     "kaiserslautern"
   ],
+  "1. FC Kaiserslautern II": [
+    "1 fc kaiserslautern ii",
+    "1. fc kaiserslautern ii",
+    "fc kaiserslautern ii",
+    "fck ii",
+    "kaiserslautern ii"
+  ],
   "1. FC Köln": [
     "1. fc cologne",
     "1. fc koeln",
@@ -53,6 +60,13 @@
   "1. FC Saarbrücken": [
     "1 fc saarbrucken",
     "1. fc saarbrücken"
+  ],
+  "1. FC Schweinfurt 05": [
+    "1 fc schweinfurt",
+    "1. fc schweinfurt 05",
+    "fc schweinfurt 05",
+    "schweinfurt",
+    "schweinfurt 05"
   ],
   "1. FC Slovácko": [
     "1. fc slovacko",
@@ -1512,6 +1526,10 @@
     "eintracht fránkfort",
     "frankfurt",
     "sge"
+  ],
+  "Eintracht Frankfurt II": [
+    "eintracht frankfurt ii",
+    "sg eintracht frankfurt ii"
   ],
   "Eisbären Berlin": [
     "eisbaren berlin",
@@ -3979,6 +3997,10 @@
     "dhfk leipzig",
     "sc dhfk leipzig"
   ],
+  "SC Eltersdorf": [
+    "eltersdorf",
+    "sc eltersdorf"
+  ],
   "SC Fortuna Köln": [
     "fortuna koln",
     "fortuna köln",
@@ -4663,6 +4685,11 @@
   "TSV Havelse": [
     "tsv havelse"
   ],
+  "TSV Landsberg": [
+    "landsberg",
+    "tsv landsberg",
+    "tsv landsberg am lech"
+  ],
   "TSV Schott Mainz": [
     "schott mainz",
     "tsv schott mainz"
@@ -5098,6 +5125,13 @@
   "VfL Wolfsburg": [
     "vfl wolfsburg",
     "wolfsburg"
+  ],
+  "VfR Aalen": [
+    "aalen",
+    "vfr aalen"
+  ],
+  "VfR Mannheim": [
+    "vfr mannheim"
   ],
   "Viborg FF": [
     "viborg ff"

@@ -1,0 +1,18 @@
+slug: viktoria-aschaffenburg
+name: Viktoria Aschaffenburg
+sport: football
+type: club
+# 2026/27 in die Bayernliga abgestiegen. Diese Spielklasse fuehren wir nicht als eigene
+# Liga (kein Menue-/Seiten-Eintrag), deshalb league: null statt einer falschen
+# Regionalliga-Zuordnung. Der Verein bleibt im Katalog, damit Feed-Treffer weiter
+# andocken koennen — der Import legt selbst nie Teams an.
+# Quelle: Wikipedia „Fußball-Bayernliga 2026/27".
+league: null
+country: DE
+city: Aschaffenburg
+stadium: Stadion am Schönbusch
+founded: 1901
+aliases:
+- viktoria aschaffenburg
+- sv viktoria aschaffenburg
+- aschaffenburg

@@ -3718,6 +3718,115 @@
     ]
   },
   {
+    "slug": "bahlinger-sc",
+    "name": "Bahlinger SC",
+    "sport": "football",
+    "type": "club",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "bahlinger sc",
+      "bahlingen"
+    ],
+    "founded": 1929,
+    "city": "Bahlingen am Kaiserstuhl",
+    "stadium": "Kaiserstuhlstadion"
+  },
+  {
+    "slug": "fc-bayern-alzenau",
+    "name": "FC Bayern Alzenau",
+    "sport": "football",
+    "type": "club",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "fc bayern alzenau",
+      "bayern alzenau",
+      "alzenau"
+    ],
+    "founded": 1920,
+    "city": "Alzenau",
+    "stadium": "Sportzentrum am Prischoß"
+  },
+  {
+    "slug": "spvgg-hankofen-hailing",
+    "name": "SpVgg Hankofen-Hailing",
+    "sport": "football",
+    "type": "club",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "spvgg hankofen-hailing",
+      "spvgg hankofen hailing",
+      "hankofen-hailing",
+      "hankofen hailing"
+    ],
+    "founded": 1968,
+    "city": "Leiblfing",
+    "stadium": "Maierhofer-Bau-Stadion"
+  },
+  {
+    "slug": "tsg-balingen",
+    "name": "TSG Balingen",
+    "sport": "football",
+    "type": "club",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "balingen",
+      "tsg balingen"
+    ],
+    "founded": 1848,
+    "city": "Balingen",
+    "stadium": "Bizerba-Arena",
+    "kit_suppliers": [
+      {
+        "manufacturer": "uhlsport"
+      }
+    ],
+    "achievements": [
+      {
+        "year": "2018",
+        "text": "Aufstieg in die Regionalliga Südwest nach dem Gewinn der Oberliga Baden-Württemberg – bislang höchste Spielklasse der Vereinsgeschichte"
+      },
+      {
+        "year": "2021/22",
+        "text": "Erfolgreichste Saison der Vereinsgeschichte: Platz 8 in der Regionalliga Südwest"
+      }
+    ]
+  },
+  {
+    "slug": "tsv-schott-mainz",
+    "name": "TSV Schott Mainz",
+    "sport": "football",
+    "type": "club",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "tsv schott mainz",
+      "schott mainz"
+    ],
+    "founded": 1953,
+    "city": "Mainz",
+    "stadium": "Otto-Schott-Sportzentrum"
+  },
+  {
+    "slug": "viktoria-aschaffenburg",
+    "name": "Viktoria Aschaffenburg",
+    "sport": "football",
+    "type": "club",
+    "league": null,
+    "country": "DE",
+    "aliases": [
+      "viktoria aschaffenburg",
+      "sv viktoria aschaffenburg",
+      "aschaffenburg"
+    ],
+    "founded": 1901,
+    "city": "Aschaffenburg",
+    "stadium": "Stadion am Schönbusch"
+  },
+  {
     "slug": "1-fc-heidenheim",
     "name": "1. FC Heidenheim",
     "sport": "football",
@@ -9751,6 +9860,25 @@
     "stadium": "Max-Morlock-Platz"
   },
   {
+    "slug": "1-fc-schweinfurt-05",
+    "name": "1. FC Schweinfurt 05",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "1. fc schweinfurt 05",
+      "fc schweinfurt 05",
+      "schweinfurt 05",
+      "1 fc schweinfurt",
+      "schweinfurt"
+    ],
+    "founded": 1905,
+    "city": "Schweinfurt",
+    "stadium": "Willy-Sachs-Stadion",
+    "wikidata": "Q162394"
+  },
+  {
     "slug": "djk-vilzing",
     "name": "DJK Vilzing",
     "sport": "football",
@@ -9828,6 +9956,22 @@
     "stadium": "Vöhlinstadion"
   },
   {
+    "slug": "sc-eltersdorf",
+    "name": "SC Eltersdorf",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "sc eltersdorf",
+      "eltersdorf"
+    ],
+    "founded": 1926,
+    "city": "Erlangen",
+    "stadium": "Sportanlage Langenau",
+    "wikidata": "Q821096"
+  },
+  {
     "slug": "spvgg-ansbach-09",
     "name": "SpVgg Ansbach 09",
     "sport": "football",
@@ -9873,23 +10017,6 @@
     ],
     "city": "Fürth",
     "stadium": "Konrad-Ammon-Platz"
-  },
-  {
-    "slug": "spvgg-hankofen-hailing",
-    "name": "SpVgg Hankofen-Hailing",
-    "sport": "football",
-    "type": "club",
-    "league": "regionalliga-bayern",
-    "country": "DE",
-    "aliases": [
-      "spvgg hankofen-hailing",
-      "spvgg hankofen hailing",
-      "hankofen-hailing",
-      "hankofen hailing"
-    ],
-    "founded": 1968,
-    "city": "Leiblfing",
-    "stadium": "Maierhofer-Bau-Stadion"
   },
   {
     "slug": "spvgg-unterhaching",
@@ -9966,6 +10093,22 @@
     "stadium": "SMR-Arena"
   },
   {
+    "slug": "tsv-landsberg",
+    "name": "TSV Landsberg",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-bayern",
+    "country": "DE",
+    "aliases": [
+      "tsv landsberg",
+      "landsberg",
+      "tsv landsberg am lech"
+    ],
+    "founded": 1882,
+    "city": "Landsberg am Lech",
+    "wikidata": "Q2802618"
+  },
+  {
     "slug": "tsv-schwaben-augsburg",
     "name": "TSV Schwaben Augsburg",
     "sport": "football",
@@ -9998,22 +10141,6 @@
     "stadium": "Hirsch-Sportpark"
   },
   {
-    "slug": "viktoria-aschaffenburg",
-    "name": "Viktoria Aschaffenburg",
-    "sport": "football",
-    "type": "club",
-    "league": "regionalliga-bayern",
-    "country": "DE",
-    "aliases": [
-      "viktoria aschaffenburg",
-      "sv viktoria aschaffenburg",
-      "aschaffenburg"
-    ],
-    "founded": 1901,
-    "city": "Aschaffenburg",
-    "stadium": "Stadion am Schönbusch"
-  },
-  {
     "slug": "wacker-burghausen",
     "name": "Wacker Burghausen",
     "sport": "football",
@@ -10028,6 +10155,21 @@
     "founded": 1930,
     "city": "Burghausen",
     "stadium": "Wacker-Arena"
+  },
+  {
+    "slug": "1-fc-kaiserslautern-ii",
+    "name": "1. FC Kaiserslautern II",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "1. fc kaiserslautern ii",
+      "fc kaiserslautern ii",
+      "kaiserslautern ii",
+      "1 fc kaiserslautern ii",
+      "fck ii"
+    ]
   },
   {
     "slug": "1-fsv-mainz-05-ii",
@@ -10045,19 +10187,16 @@
     "city": "Mainz"
   },
   {
-    "slug": "bahlinger-sc",
-    "name": "Bahlinger SC",
+    "slug": "eintracht-frankfurt-ii",
+    "name": "Eintracht Frankfurt II",
     "sport": "football",
     "type": "club",
     "league": "regionalliga-suedwest",
     "country": "DE",
     "aliases": [
-      "bahlinger sc",
-      "bahlingen"
-    ],
-    "founded": 1929,
-    "city": "Bahlingen am Kaiserstuhl",
-    "stadium": "Kaiserstuhlstadion"
+      "eintracht frankfurt ii",
+      "sg eintracht frankfurt ii"
+    ]
   },
   {
     "slug": "fc-08-homburg",
@@ -10090,22 +10229,6 @@
     ],
     "city": "Walldorf",
     "stadium": "Dietmar-Hopp-Sportpark"
-  },
-  {
-    "slug": "fc-bayern-alzenau",
-    "name": "FC Bayern Alzenau",
-    "sport": "football",
-    "type": "club",
-    "league": "regionalliga-suedwest",
-    "country": "DE",
-    "aliases": [
-      "fc bayern alzenau",
-      "bayern alzenau",
-      "alzenau"
-    ],
-    "founded": 1920,
-    "city": "Alzenau",
-    "stadium": "Sportzentrum am Prischoß"
   },
   {
     "slug": "fsv-frankfurt",
@@ -10293,51 +10416,6 @@
     "stadium": "Hardtwaldstadion"
   },
   {
-    "slug": "tsg-balingen",
-    "name": "TSG Balingen",
-    "sport": "football",
-    "type": "club",
-    "league": "regionalliga-suedwest",
-    "country": "DE",
-    "aliases": [
-      "balingen",
-      "tsg balingen"
-    ],
-    "founded": 1848,
-    "city": "Balingen",
-    "stadium": "Bizerba-Arena",
-    "kit_suppliers": [
-      {
-        "manufacturer": "uhlsport"
-      }
-    ],
-    "achievements": [
-      {
-        "year": "2018",
-        "text": "Aufstieg in die Regionalliga Südwest nach dem Gewinn der Oberliga Baden-Württemberg – bislang höchste Spielklasse der Vereinsgeschichte"
-      },
-      {
-        "year": "2021/22",
-        "text": "Erfolgreichste Saison der Vereinsgeschichte: Platz 8 in der Regionalliga Südwest"
-      }
-    ]
-  },
-  {
-    "slug": "tsv-schott-mainz",
-    "name": "TSV Schott Mainz",
-    "sport": "football",
-    "type": "club",
-    "league": "regionalliga-suedwest",
-    "country": "DE",
-    "aliases": [
-      "tsv schott mainz",
-      "schott mainz"
-    ],
-    "founded": 1953,
-    "city": "Mainz",
-    "stadium": "Otto-Schott-Sportzentrum"
-  },
-  {
     "slug": "tsv-steinbach-haiger",
     "name": "TSV Steinbach Haiger",
     "sport": "football",
@@ -10351,6 +10429,37 @@
     "founded": 1921,
     "city": "Haiger-Steinbach",
     "stadium": "Sportzentrum Haarwasen Haiger"
+  },
+  {
+    "slug": "vfr-aalen",
+    "name": "VfR Aalen",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "vfr aalen",
+      "aalen"
+    ],
+    "founded": 1921,
+    "city": "Aalen",
+    "stadium": "Centus Arena",
+    "wikidata": "Q692586"
+  },
+  {
+    "slug": "vfr-mannheim",
+    "name": "VfR Mannheim",
+    "sport": "football",
+    "type": "club",
+    "league": "regionalliga-suedwest",
+    "country": "DE",
+    "aliases": [
+      "vfr mannheim"
+    ],
+    "founded": 1896,
+    "city": "Mannheim",
+    "stadium": "Rhein-Neckar-Stadion",
+    "wikidata": "Q666179"
   },
   {
     "slug": "al-ahli",

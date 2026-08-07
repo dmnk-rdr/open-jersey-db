@@ -1,0 +1,17 @@
+slug: tsv-schott-mainz
+name: TSV Schott Mainz
+sport: football
+type: club
+# 2026/27 in die Oberliga Rheinland-Pfalz/Saar abgestiegen. Diese Spielklasse fuehren wir nicht als eigene
+# Liga (kein Menue-/Seiten-Eintrag), deshalb league: null statt einer falschen
+# Regionalliga-Zuordnung. Der Verein bleibt im Katalog, damit Feed-Treffer weiter
+# andocken koennen — der Import legt selbst nie Teams an.
+# Quelle: Wikipedia „Fußball-Oberliga Rheinland-Pfalz/Saar 2026/27".
+league: null
+country: DE
+city: Mainz
+stadium: Otto-Schott-Sportzentrum
+founded: 1953
+aliases:
+- tsv schott mainz
+- schott mainz

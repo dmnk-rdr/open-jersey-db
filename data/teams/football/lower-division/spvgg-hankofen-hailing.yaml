@@ -1,0 +1,19 @@
+slug: spvgg-hankofen-hailing
+name: SpVgg Hankofen-Hailing
+sport: football
+type: club
+# 2026/27 in die Bayernliga abgestiegen. Diese Spielklasse fuehren wir nicht als eigene
+# Liga (kein Menue-/Seiten-Eintrag), deshalb league: null statt einer falschen
+# Regionalliga-Zuordnung. Der Verein bleibt im Katalog, damit Feed-Treffer weiter
+# andocken koennen — der Import legt selbst nie Teams an.
+# Quelle: Wikipedia „Fußball-Bayernliga 2026/27".
+league: null
+country: DE
+city: Leiblfing
+stadium: Maierhofer-Bau-Stadion
+founded: 1968
+aliases:
+- spvgg hankofen-hailing
+- spvgg hankofen hailing
+- hankofen-hailing
+- hankofen hailing
