@@ -8,6 +8,7 @@ aliases:
 - frankreich
 - france
 - les bleus
+- francia
 # Ausrüster-Historie (jüngste zuerst). Quelle: Wikipedia „France national football team".
 kit_suppliers:
 - { manufacturer: Nike, from: 2011 }
